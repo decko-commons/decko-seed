@@ -29329,3 +29329,88 @@ card_changes_2552:
   card_action_id: 7839
   field: 1
   value: '1033'
+card_changes_2553:
+  id: 6686
+  card_action_id: 7883
+  field: 0
+  value: Session
+card_changes_2554:
+  id: 6687
+  card_action_id: 7883
+  field: 1
+  value: '5'
+card_changes_2555:
+  id: 6688
+  card_action_id: 7883
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+card_changes_2556:
+  id: 6689
+  card_action_id: 7883
+  field: 3
+  value: '0'
+card_changes_2557:
+  id: 6690
+  card_action_id: 7884
+  field: 0
+  value: Session+description
+card_changes_2558:
+  id: 6691
+  card_action_id: 7884
+  field: 1
+  value: '3'
+card_changes_2559:
+  id: 6692
+  card_action_id: 7884
+  field: 2
+  value: |-
+    Session cards are for non-permanent content.
+                      They are not stored in the database and can have different values for different users.
+                      You can use a Session card to keep track of certain state of a particular user like the content
+                      of shopping basket.
+card_changes_2560:
+  id: 6693
+  card_action_id: 7884
+  field: 3
+  value: '0'
+card_changes_2561:
+  id: 6694
+  card_action_id: 7885
+  field: 0
+  value: "*edit toolbar pinned"
+card_changes_2562:
+  id: 6695
+  card_action_id: 7885
+  field: 1
+  value: '1507'
+card_changes_2563:
+  id: 6696
+  card_action_id: 7885
+  field: 2
+  value: ''
+card_changes_2564:
+  id: 6697
+  card_action_id: 7885
+  field: 3
+  value: '0'
+card_changes_2565:
+  id: 6698
+  card_action_id: 7886
+  field: 0
+  value: "*toolbar pinned"
+card_changes_2566:
+  id: 6699
+  card_action_id: 7886
+  field: 1
+  value: '1507'
+card_changes_2567:
+  id: 6700
+  card_action_id: 7886
+  field: 2
+  value: ''
+card_changes_2568:
+  id: 6701
+  card_action_id: 7886
+  field: 3
+  value: '0'

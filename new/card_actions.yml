@@ -4465,3 +4465,31 @@ card_actions_638:
   super_action_id: 
   action_type: 1
   draft: false
+card_actions_639:
+  id: 7883
+  card_id: 1507
+  card_act_id: 1
+  super_action_id: 
+  action_type: 0
+  draft: false
+card_actions_640:
+  id: 7884
+  card_id: 1508
+  card_act_id: 1
+  super_action_id: 7883
+  action_type: 0
+  draft: false
+card_actions_641:
+  id: 7885
+  card_id: 1509
+  card_act_id: 1
+  super_action_id: 
+  action_type: 0
+  draft: false
+card_actions_642:
+  id: 7886
+  card_id: 1510
+  card_act_id: 1
+  super_action_id: 
+  action_type: 0
+  draft: false
