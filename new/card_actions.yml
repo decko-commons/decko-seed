@@ -4481,15 +4481,22 @@ card_actions_640:
   draft: false
 card_actions_641:
   id: 7885
-  card_id: 1509
+  card_id: 1511
   card_act_id: 1
   super_action_id: 
   action_type: 0
   draft: false
 card_actions_642:
   id: 7886
-  card_id: 1510
+  card_id: 1513
   card_act_id: 1
-  super_action_id: 
+  super_action_id: 7885
+  action_type: 0
+  draft: false
+card_actions_643:
+  id: 7887
+  card_id: 1512
+  card_act_id: 1
+  super_action_id: 7886
   action_type: 0
   draft: false

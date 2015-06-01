@@ -29378,12 +29378,12 @@ card_changes_2561:
   id: 6694
   card_action_id: 7885
   field: 0
-  value: "*edit toolbar pinned"
+  value: "*recent settings"
 card_changes_2562:
   id: 6695
   card_action_id: 7885
   field: 1
-  value: '1507'
+  value: '47'
 card_changes_2563:
   id: 6696
   card_action_id: 7885
@@ -29396,21 +29396,41 @@ card_changes_2564:
   value: '0'
 card_changes_2565:
   id: 6698
-  card_action_id: 7886
+  card_action_id: 7887
   field: 0
-  value: "*toolbar pinned"
+  value: "*recent settings+*self"
 card_changes_2566:
   id: 6699
-  card_action_id: 7886
+  card_action_id: 7887
   field: 1
-  value: '1507'
+  value: '259'
 card_changes_2567:
   id: 6700
-  card_action_id: 7886
+  card_action_id: 7887
   field: 2
-  value: ''
+  value: '{"name":"_self"}'
 card_changes_2568:
   id: 6701
+  card_action_id: 7887
+  field: 3
+  value: '0'
+card_changes_2569:
+  id: 6702
+  card_action_id: 7886
+  field: 0
+  value: "*recent settings+*self+*options"
+card_changes_2570:
+  id: 6703
+  card_action_id: 7886
+  field: 1
+  value: '30'
+card_changes_2571:
+  id: 6704
+  card_action_id: 7886
+  field: 2
+  value: '{"type":"setting"}'
+card_changes_2572:
+  id: 6705
   card_action_id: 7886
   field: 3
   value: '0'
