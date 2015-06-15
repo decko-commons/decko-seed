@@ -12610,7 +12610,7 @@ card_changes_2377:
     5462
     05_standard
 card_changes_2378:
-  id: 6320
+  id: 6321
   card_action_id: 7666
   field: 2
   value: |-
@@ -12619,25 +12619,25 @@ card_changes_2378:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
 card_changes_2379:
-  id: 6348
+  id: 6352
   card_action_id: 7694
   field: 0
   value: bootswatch shared
 card_changes_2380:
-  id: 6349
+  id: 6353
   card_action_id: 7694
   field: 1
   value: '943'
 card_changes_2381:
-  id: 6350
+  id: 6354
   card_action_id: 7694
   field: 2
   value: ''
 card_changes_2382:
-  id: 6351
+  id: 6355
   card_action_id: 7694
   field: 3
-  value: '0'
+  value: f
 card_changes_2383:
   id: 6356
   card_action_id: 7699
@@ -12657,7 +12657,7 @@ card_changes_2386:
   id: 6359
   card_action_id: 7699
   field: 3
-  value: '0'
+  value: f
 card_changes_2387:
   id: 6360
   card_action_id: 7698
@@ -12677,66 +12677,59 @@ card_changes_2390:
   id: 6363
   card_action_id: 7698
   field: 3
-  value: '0'
+  value: f
 card_changes_2391:
-  id: 6364
+  id: 6368
   card_action_id: 7697
   field: 0
   value: bootswatch theme+*right+*structure
 card_changes_2392:
-  id: 6365
+  id: 6369
   card_action_id: 7697
   field: 1
   value: '943'
 card_changes_2393:
-  id: 6366
+  id: 6370
   card_action_id: 7697
   field: 2
   value: "{{_left+variables}}{{bootswatch shared}}{{_left+style}}"
 card_changes_2394:
-  id: 6367
+  id: 6371
   card_action_id: 7697
   field: 3
-  value: '0'
+  value: f
 card_changes_2395:
   id: 6372
-  card_action_id: 7702
-  field: 2
-  value: |-
-    [[themeless bootstrap skin]]
-    [[+bootswatch theme]]
-card_changes_2396:
-  id: 6373
   card_action_id: 7704
   field: 0
   value: variables
-card_changes_2397:
-  id: 6374
+card_changes_2396:
+  id: 6373
   card_action_id: 7704
   field: 1
   value: '3'
-card_changes_2398:
-  id: 6375
+card_changes_2397:
+  id: 6374
   card_action_id: 7704
   field: 2
   value: ''
-card_changes_2399:
-  id: 6376
+card_changes_2398:
+  id: 6375
   card_action_id: 7704
   field: 3
-  value: '0'
-card_changes_2400:
-  id: 6377
+  value: f
+card_changes_2399:
+  id: 6380
   card_action_id: 7703
   field: 0
   value: bootstrap default skin+variables
-card_changes_2401:
-  id: 6378
+card_changes_2400:
+  id: 6381
   card_action_id: 7703
   field: 1
   value: '943'
-card_changes_2402:
-  id: 6379
+card_changes_2401:
+  id: 6382
   card_action_id: 7703
   field: 2
   value: |
@@ -13606,30 +13599,30 @@ card_changes_2402:
     $dl-horizontal-offset:        $component-offset-horizontal !default;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter !default;
-card_changes_2403:
-  id: 6380
+card_changes_2402:
+  id: 6383
   card_action_id: 7703
   field: 3
-  value: '0'
-card_changes_2404:
-  id: 6387
-  card_action_id: 7709
+  value: f
+card_changes_2403:
+  id: 6385
+  card_action_id: 7702
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2405:
-  id: 6388
+card_changes_2404:
+  id: 6391
   card_action_id: 7710
   field: 0
   value: cerulean skin+variables
-card_changes_2406:
-  id: 6389
+card_changes_2405:
+  id: 6392
   card_action_id: 7710
   field: 1
   value: '943'
-card_changes_2407:
-  id: 6390
+card_changes_2406:
+  id: 6393
   card_action_id: 7710
   field: 2
   value: |
@@ -14494,44 +14487,44 @@ card_changes_2407:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2408:
-  id: 6391
+card_changes_2407:
+  id: 6394
   card_action_id: 7710
   field: 3
-  value: '0'
-card_changes_2409:
-  id: 6396
+  value: f
+card_changes_2408:
+  id: 6395
   card_action_id: 7714
   field: 0
   value: style
-card_changes_2410:
-  id: 6397
+card_changes_2409:
+  id: 6396
   card_action_id: 7714
   field: 1
   value: '3'
-card_changes_2411:
-  id: 6398
+card_changes_2410:
+  id: 6397
   card_action_id: 7714
   field: 2
   value: ''
-card_changes_2412:
-  id: 6399
+card_changes_2411:
+  id: 6398
   card_action_id: 7714
   field: 3
-  value: '0'
-card_changes_2413:
-  id: 6400
-  card_action_id: 7713
+  value: f
+card_changes_2412:
+  id: 6403
+  card_action_id: 7711
   field: 0
   value: cerulean skin+style
-card_changes_2414:
-  id: 6401
-  card_action_id: 7713
+card_changes_2413:
+  id: 6404
+  card_action_id: 7711
   field: 1
   value: '943'
-card_changes_2415:
-  id: 6402
-  card_action_id: 7713
+card_changes_2414:
+  id: 6405
+  card_action_id: 7711
   field: 2
   value: "// Cerulean 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@mixin
     btn-shadow($color){\n  @include gradient-vertical-three-colors(lighten($color,
@@ -14561,30 +14554,30 @@ card_changes_2415:
     Progress bars ==============================================================\n\n//
     Containers =================================================================\n\n.panel-primary,\n.panel-success,\n.panel-warning,\n.panel-danger,\n.panel-info
     {\n\n  .panel-heading,\n  .panel-title {\n    color: #fff;\n  }\n}\n"
-card_changes_2416:
-  id: 6403
-  card_action_id: 7713
+card_changes_2415:
+  id: 6406
+  card_action_id: 7711
   field: 3
-  value: '0'
-card_changes_2417:
-  id: 6409
-  card_action_id: 7718
+  value: f
+card_changes_2416:
+  id: 6408
+  card_action_id: 7709
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2418:
-  id: 6410
+card_changes_2417:
+  id: 6413
   card_action_id: 7719
   field: 0
   value: cosmo skin+variables
-card_changes_2419:
-  id: 6411
+card_changes_2418:
+  id: 6414
   card_action_id: 7719
   field: 1
   value: '943'
-card_changes_2420:
-  id: 6412
+card_changes_2419:
+  id: 6415
   card_action_id: 7719
   field: 2
   value: |
@@ -15449,24 +15442,24 @@ card_changes_2420:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2421:
-  id: 6413
+card_changes_2420:
+  id: 6416
   card_action_id: 7719
   field: 3
-  value: '0'
-card_changes_2422:
-  id: 6418
-  card_action_id: 7722
+  value: f
+card_changes_2421:
+  id: 6421
+  card_action_id: 7720
   field: 0
   value: cosmo skin+style
-card_changes_2423:
-  id: 6419
-  card_action_id: 7722
+card_changes_2422:
+  id: 6422
+  card_action_id: 7720
   field: 1
   value: '943'
-card_changes_2424:
-  id: 6420
-  card_action_id: 7722
+card_changes_2423:
+  id: 6423
+  card_action_id: 7720
   field: 2
   value: "// Cosmo 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700\");\n\n//
@@ -15511,30 +15504,30 @@ card_changes_2424:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.modal {\n  .close {\n    color:
     $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_2425:
-  id: 6421
-  card_action_id: 7722
+card_changes_2424:
+  id: 6424
+  card_action_id: 7720
   field: 3
-  value: '0'
-card_changes_2426:
-  id: 6427
-  card_action_id: 7726
+  value: f
+card_changes_2425:
+  id: 6426
+  card_action_id: 7718
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2427:
-  id: 6428
+card_changes_2426:
+  id: 6431
   card_action_id: 7727
   field: 0
   value: cyborg skin+variables
-card_changes_2428:
-  id: 6429
+card_changes_2427:
+  id: 6432
   card_action_id: 7727
   field: 1
   value: '943'
-card_changes_2429:
-  id: 6430
+card_changes_2428:
+  id: 6433
   card_action_id: 7727
   field: 2
   value: |
@@ -16399,24 +16392,24 @@ card_changes_2429:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-dark;
-card_changes_2430:
-  id: 6431
+card_changes_2429:
+  id: 6434
   card_action_id: 7727
   field: 3
-  value: '0'
-card_changes_2431:
-  id: 6436
-  card_action_id: 7730
+  value: f
+card_changes_2430:
+  id: 6439
+  card_action_id: 7728
   field: 0
   value: cyborg skin+style
-card_changes_2432:
-  id: 6437
-  card_action_id: 7730
+card_changes_2431:
+  id: 6440
+  card_action_id: 7728
   field: 1
   value: '943'
-card_changes_2433:
-  id: 6438
-  card_action_id: 7730
+card_changes_2432:
+  id: 6441
+  card_action_id: 7728
   field: 2
   value: "// Cyborg 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Roboto:400,700\");\n\n// Navbar =====================================================================\n\n//
@@ -16455,30 +16448,30 @@ card_changes_2433:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.jumbotron {\n\n  h1, h2, h3,
     h4, h5, h6 {\n    color: #fff;\n  }\n}"
-card_changes_2434:
-  id: 6439
-  card_action_id: 7730
+card_changes_2433:
+  id: 6442
+  card_action_id: 7728
   field: 3
-  value: '0'
-card_changes_2435:
-  id: 6445
-  card_action_id: 7734
+  value: f
+card_changes_2434:
+  id: 6444
+  card_action_id: 7726
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2436:
-  id: 6446
+card_changes_2435:
+  id: 6449
   card_action_id: 7735
   field: 0
   value: darkly skin+variables
-card_changes_2437:
-  id: 6447
+card_changes_2436:
+  id: 6450
   card_action_id: 7735
   field: 1
   value: '943'
-card_changes_2438:
-  id: 6448
+card_changes_2437:
+  id: 6451
   card_action_id: 7735
   field: 2
   value: |
@@ -17343,24 +17336,24 @@ card_changes_2438:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray;
-card_changes_2439:
-  id: 6449
+card_changes_2438:
+  id: 6452
   card_action_id: 7735
   field: 3
-  value: '0'
-card_changes_2440:
-  id: 6454
-  card_action_id: 7738
+  value: f
+card_changes_2439:
+  id: 6457
+  card_action_id: 7736
   field: 0
   value: darkly skin+style
-card_changes_2441:
-  id: 6455
-  card_action_id: 7738
+card_changes_2440:
+  id: 6458
+  card_action_id: 7736
   field: 1
   value: '943'
-card_changes_2442:
-  id: 6456
-  card_action_id: 7738
+card_changes_2441:
+  id: 6459
+  card_action_id: 7736
   field: 2
   value: "// Darkly 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:400,700,400italic\");\n\n// Navbar
@@ -17421,30 +17414,30 @@ card_changes_2442:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n\n.panel-default
     > .panel-heading {\n  background-color: $panel-footer-bg;\n}\n"
-card_changes_2443:
-  id: 6457
-  card_action_id: 7738
+card_changes_2442:
+  id: 6460
+  card_action_id: 7736
   field: 3
-  value: '0'
-card_changes_2444:
-  id: 6463
-  card_action_id: 7742
+  value: f
+card_changes_2443:
+  id: 6462
+  card_action_id: 7734
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2445:
-  id: 6464
+card_changes_2444:
+  id: 6467
   card_action_id: 7743
   field: 0
   value: flatly skin+variables
-card_changes_2446:
-  id: 6465
+card_changes_2445:
+  id: 6468
   card_action_id: 7743
   field: 1
   value: '943'
-card_changes_2447:
-  id: 6466
+card_changes_2446:
+  id: 6469
   card_action_id: 7743
   field: 2
   value: |
@@ -18309,24 +18302,24 @@ card_changes_2447:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2448:
-  id: 6467
+card_changes_2447:
+  id: 6470
   card_action_id: 7743
   field: 3
-  value: '0'
-card_changes_2449:
-  id: 6472
-  card_action_id: 7746
+  value: f
+card_changes_2448:
+  id: 6475
+  card_action_id: 7744
   field: 0
   value: flatly skin+style
-card_changes_2450:
-  id: 6473
-  card_action_id: 7746
+card_changes_2449:
+  id: 6476
+  card_action_id: 7744
   field: 1
   value: '943'
-card_changes_2451:
-  id: 6474
-  card_action_id: 7746
+card_changes_2450:
+  id: 6477
+  card_action_id: 7744
   field: 2
   value: "// Flatly 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:400,700,400italic\");\n\n// Navbar
@@ -18385,30 +18378,30 @@ card_changes_2451:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.panel {\n  &-default {\n    .close
     {\n      color: $text-color;\n    }\n  }\n}\n\n.modal {\n  .close {\n    color:
     $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_2452:
-  id: 6475
-  card_action_id: 7746
+card_changes_2451:
+  id: 6478
+  card_action_id: 7744
   field: 3
-  value: '0'
-card_changes_2453:
-  id: 6481
-  card_action_id: 7750
+  value: f
+card_changes_2452:
+  id: 6480
+  card_action_id: 7742
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2454:
-  id: 6482
+card_changes_2453:
+  id: 6485
   card_action_id: 7751
   field: 0
   value: journal skin+variables
-card_changes_2455:
-  id: 6483
+card_changes_2454:
+  id: 6486
   card_action_id: 7751
   field: 1
   value: '943'
-card_changes_2456:
-  id: 6484
+card_changes_2455:
+  id: 6487
   card_action_id: 7751
   field: 2
   value: |
@@ -19273,24 +19266,24 @@ card_changes_2456:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2457:
-  id: 6485
+card_changes_2456:
+  id: 6488
   card_action_id: 7751
   field: 3
-  value: '0'
-card_changes_2458:
-  id: 6490
-  card_action_id: 7754
+  value: f
+card_changes_2457:
+  id: 6493
+  card_action_id: 7752
   field: 0
   value: journal skin+style
-card_changes_2459:
-  id: 6491
-  card_action_id: 7754
+card_changes_2458:
+  id: 6494
+  card_action_id: 7752
   field: 1
   value: '943'
-card_changes_2460:
-  id: 6492
-  card_action_id: 7754
+card_changes_2459:
+  id: 6495
+  card_action_id: 7752
   field: 2
   value: |
     // Journal 3.3.4
@@ -19413,30 +19406,30 @@ card_changes_2460:
 
 
     }
-card_changes_2461:
-  id: 6493
-  card_action_id: 7754
+card_changes_2460:
+  id: 6496
+  card_action_id: 7752
   field: 3
-  value: '0'
-card_changes_2462:
-  id: 6499
-  card_action_id: 7758
+  value: f
+card_changes_2461:
+  id: 6498
+  card_action_id: 7750
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2463:
-  id: 6500
+card_changes_2462:
+  id: 6503
   card_action_id: 7759
   field: 0
   value: lumen skin+variables
-card_changes_2464:
-  id: 6501
+card_changes_2463:
+  id: 6504
   card_action_id: 7759
   field: 1
   value: '943'
-card_changes_2465:
-  id: 6502
+card_changes_2464:
+  id: 6505
   card_action_id: 7759
   field: 2
   value: |
@@ -20301,24 +20294,24 @@ card_changes_2465:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2466:
-  id: 6503
+card_changes_2465:
+  id: 6506
   card_action_id: 7759
   field: 3
-  value: '0'
-card_changes_2467:
-  id: 6508
-  card_action_id: 7762
+  value: f
+card_changes_2466:
+  id: 6511
+  card_action_id: 7760
   field: 0
   value: lumen skin+style
-card_changes_2468:
-  id: 6509
-  card_action_id: 7762
+card_changes_2467:
+  id: 6512
+  card_action_id: 7760
   field: 1
   value: '943'
-card_changes_2469:
-  id: 6510
-  card_action_id: 7762
+card_changes_2468:
+  id: 6513
+  card_action_id: 7760
   field: 2
   value: "// Lumen 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic\");\n\n@mixin
@@ -20420,30 +20413,30 @@ card_changes_2469:
     {\n  border: 1px solid $navbar-default-border;\n  @include shadow();\n\n  &-default
     {\n    .close {\n      color: $text-color;\n    }\n  }\n}\n\n.modal {\n  .close
     {\n    color: $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_2470:
-  id: 6511
-  card_action_id: 7762
+card_changes_2469:
+  id: 6514
+  card_action_id: 7760
   field: 3
-  value: '0'
-card_changes_2471:
-  id: 6517
-  card_action_id: 7766
+  value: f
+card_changes_2470:
+  id: 6516
+  card_action_id: 7758
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2472:
-  id: 6518
+card_changes_2471:
+  id: 6521
   card_action_id: 7767
   field: 0
   value: paper skin+variables
-card_changes_2473:
-  id: 6519
+card_changes_2472:
+  id: 6522
   card_action_id: 7767
   field: 1
   value: '943'
-card_changes_2474:
-  id: 6520
+card_changes_2473:
+  id: 6523
   card_action_id: 7767
   field: 2
   value: |
@@ -21308,24 +21301,24 @@ card_changes_2474:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2475:
-  id: 6521
+card_changes_2474:
+  id: 6524
   card_action_id: 7767
   field: 3
-  value: '0'
-card_changes_2476:
-  id: 6526
-  card_action_id: 7770
+  value: f
+card_changes_2475:
+  id: 6529
+  card_action_id: 7768
   field: 0
   value: paper skin+style
-card_changes_2477:
-  id: 6527
-  card_action_id: 7770
+card_changes_2476:
+  id: 6530
+  card_action_id: 7768
   field: 1
   value: '943'
-card_changes_2478:
-  id: 6528
-  card_action_id: 7770
+card_changes_2477:
+  id: 6531
+  card_action_id: 7768
   field: 2
   value: "// Paper 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Roboto:300,400,500,700\");\n\n// Navbar
@@ -21454,30 +21447,30 @@ card_changes_2478:
     {\n      color: #fff;\n    }\n  }\n}\n\n.popover {\n  border: none;\n  @include
     box-shadow(0 1px 4px rgba(0,0,0,.3));\n}\n\n.carousel {\n  &-caption {\n    h1,
     h2, h3, h4, h5, h6 {\n      color: inherit;\n    }\n  }\n}\n\n"
-card_changes_2479:
-  id: 6529
-  card_action_id: 7770
+card_changes_2478:
+  id: 6532
+  card_action_id: 7768
   field: 3
-  value: '0'
-card_changes_2480:
-  id: 6535
-  card_action_id: 7774
+  value: f
+card_changes_2479:
+  id: 6534
+  card_action_id: 7766
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2481:
-  id: 6536
+card_changes_2480:
+  id: 6539
   card_action_id: 7775
   field: 0
   value: readable skin+variables
-card_changes_2482:
-  id: 6537
+card_changes_2481:
+  id: 6540
   card_action_id: 7775
   field: 1
   value: '943'
-card_changes_2483:
-  id: 6538
+card_changes_2482:
+  id: 6541
   card_action_id: 7775
   field: 2
   value: |
@@ -22342,24 +22335,24 @@ card_changes_2483:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2484:
-  id: 6539
+card_changes_2483:
+  id: 6542
   card_action_id: 7775
   field: 3
-  value: '0'
-card_changes_2485:
-  id: 6544
-  card_action_id: 7778
+  value: f
+card_changes_2484:
+  id: 6547
+  card_action_id: 7776
   field: 0
   value: readable skin+style
-card_changes_2486:
-  id: 6545
-  card_action_id: 7778
+card_changes_2485:
+  id: 6548
+  card_action_id: 7776
   field: 1
   value: '943'
-card_changes_2487:
-  id: 6546
-  card_action_id: 7778
+card_changes_2486:
+  id: 6549
+  card_action_id: 7776
   field: 2
   value: |
     // Readable 3.3.4
@@ -22536,30 +22529,30 @@ card_changes_2487:
         color: $text-color;
       }
     }
-card_changes_2488:
-  id: 6547
-  card_action_id: 7778
+card_changes_2487:
+  id: 6550
+  card_action_id: 7776
   field: 3
-  value: '0'
-card_changes_2489:
-  id: 6553
-  card_action_id: 7782
+  value: f
+card_changes_2488:
+  id: 6552
+  card_action_id: 7774
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2490:
-  id: 6554
+card_changes_2489:
+  id: 6557
   card_action_id: 7783
   field: 0
   value: sandstone skin+variables
-card_changes_2491:
-  id: 6555
+card_changes_2490:
+  id: 6558
   card_action_id: 7783
   field: 1
   value: '943'
-card_changes_2492:
-  id: 6556
+card_changes_2491:
+  id: 6559
   card_action_id: 7783
   field: 2
   value: |
@@ -23424,24 +23417,24 @@ card_changes_2492:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2493:
-  id: 6557
+card_changes_2492:
+  id: 6560
   card_action_id: 7783
   field: 3
-  value: '0'
-card_changes_2494:
-  id: 6562
-  card_action_id: 7786
+  value: f
+card_changes_2493:
+  id: 6565
+  card_action_id: 7784
   field: 0
   value: sandstone skin+style
-card_changes_2495:
-  id: 6563
-  card_action_id: 7786
+card_changes_2494:
+  id: 6566
+  card_action_id: 7784
   field: 1
   value: '943'
-card_changes_2496:
-  id: 6564
-  card_action_id: 7786
+card_changes_2495:
+  id: 6567
+  card_action_id: 7784
   field: 2
   value: |
     // Sandstone 3.3.4
@@ -23638,30 +23631,30 @@ card_changes_2496:
         }
       }
     }
-card_changes_2497:
-  id: 6565
-  card_action_id: 7786
+card_changes_2496:
+  id: 6568
+  card_action_id: 7784
   field: 3
-  value: '0'
-card_changes_2498:
-  id: 6571
-  card_action_id: 7790
+  value: f
+card_changes_2497:
+  id: 6570
+  card_action_id: 7782
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2499:
-  id: 6572
+card_changes_2498:
+  id: 6575
   card_action_id: 7791
   field: 0
   value: simplex skin+variables
-card_changes_2500:
-  id: 6573
+card_changes_2499:
+  id: 6576
   card_action_id: 7791
   field: 1
   value: '943'
-card_changes_2501:
-  id: 6574
+card_changes_2500:
+  id: 6577
   card_action_id: 7791
   field: 2
   value: |
@@ -24526,24 +24519,24 @@ card_changes_2501:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2502:
-  id: 6575
+card_changes_2501:
+  id: 6578
   card_action_id: 7791
   field: 3
-  value: '0'
-card_changes_2503:
-  id: 6580
-  card_action_id: 7794
+  value: f
+card_changes_2502:
+  id: 6583
+  card_action_id: 7792
   field: 0
   value: simplex skin+style
-card_changes_2504:
-  id: 6581
-  card_action_id: 7794
+card_changes_2503:
+  id: 6584
+  card_action_id: 7792
   field: 1
   value: '943'
-card_changes_2505:
-  id: 6582
-  card_action_id: 7794
+card_changes_2504:
+  id: 6585
+  card_action_id: 7792
   field: 2
   value: |-
     // Simplex 3.3.4
@@ -24688,30 +24681,30 @@ card_changes_2505:
     // Progress bars ==============================================================
 
     // Containers =================================================================
-card_changes_2506:
-  id: 6583
-  card_action_id: 7794
+card_changes_2505:
+  id: 6586
+  card_action_id: 7792
   field: 3
-  value: '0'
-card_changes_2507:
-  id: 6589
-  card_action_id: 7798
+  value: f
+card_changes_2506:
+  id: 6588
+  card_action_id: 7790
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2508:
-  id: 6590
+card_changes_2507:
+  id: 6593
   card_action_id: 7799
   field: 0
   value: slate skin+variables
-card_changes_2509:
-  id: 6591
+card_changes_2508:
+  id: 6594
   card_action_id: 7799
   field: 1
   value: '943'
-card_changes_2510:
-  id: 6592
+card_changes_2509:
+  id: 6595
   card_action_id: 7799
   field: 2
   value: |
@@ -25576,24 +25569,24 @@ card_changes_2510:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   darken($gray-darker, 5%);
-card_changes_2511:
-  id: 6593
+card_changes_2510:
+  id: 6596
   card_action_id: 7799
   field: 3
-  value: '0'
-card_changes_2512:
-  id: 6598
-  card_action_id: 7802
+  value: f
+card_changes_2511:
+  id: 6601
+  card_action_id: 7800
   field: 0
   value: slate skin+style
-card_changes_2513:
-  id: 6599
-  card_action_id: 7802
+card_changes_2512:
+  id: 6602
+  card_action_id: 7800
   field: 1
   value: '943'
-card_changes_2514:
-  id: 6600
-  card_action_id: 7802
+card_changes_2513:
+  id: 6603
+  card_action_id: 7800
   field: 2
   value: "// Slate 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@mixin
     btn-shadow($color){\n  @include gradient-vertical-three-colors(lighten($color,
@@ -25681,30 +25674,30 @@ card_changes_2514:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.jumbotron {\n  border: 1px solid
     rgba(0, 0, 0, 0.6);\n}\n\n.panel-primary,\n.panel-success,\n.panel-danger,\n.panel-warning,\n.panel-info
     {\n\n  .panel-heading {\n    border-color: #000;\n  }\n}"
-card_changes_2515:
-  id: 6601
-  card_action_id: 7802
+card_changes_2514:
+  id: 6604
+  card_action_id: 7800
   field: 3
-  value: '0'
-card_changes_2516:
-  id: 6607
-  card_action_id: 7806
+  value: f
+card_changes_2515:
+  id: 6606
+  card_action_id: 7798
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2517:
-  id: 6608
+card_changes_2516:
+  id: 6611
   card_action_id: 7807
   field: 0
   value: spacelab skin+variables
-card_changes_2518:
-  id: 6609
+card_changes_2517:
+  id: 6612
   card_action_id: 7807
   field: 1
   value: '943'
-card_changes_2519:
-  id: 6610
+card_changes_2518:
+  id: 6613
   card_action_id: 7807
   field: 2
   value: |
@@ -26569,24 +26562,24 @@ card_changes_2519:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2520:
-  id: 6611
+card_changes_2519:
+  id: 6614
   card_action_id: 7807
   field: 3
-  value: '0'
-card_changes_2521:
-  id: 6616
-  card_action_id: 7810
+  value: f
+card_changes_2520:
+  id: 6619
+  card_action_id: 7808
   field: 0
   value: spacelab skin+style
-card_changes_2522:
-  id: 6617
-  card_action_id: 7810
+card_changes_2521:
+  id: 6620
+  card_action_id: 7808
   field: 1
   value: '943'
-card_changes_2523:
-  id: 6618
-  card_action_id: 7810
+card_changes_2522:
+  id: 6621
+  card_action_id: 7808
   field: 2
   value: "// Spacelab 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700\");\n\n@mixin
@@ -26623,30 +26616,30 @@ card_changes_2523:
     Progress bars ==============================================================\n\n//
     Containers =================================================================\n\n.panel
     {\n\n  &-primary {\n    .panel-title {\n      color: #fff;\n    }\n  }\n}"
-card_changes_2524:
-  id: 6619
-  card_action_id: 7810
+card_changes_2523:
+  id: 6622
+  card_action_id: 7808
   field: 3
-  value: '0'
-card_changes_2525:
-  id: 6625
-  card_action_id: 7814
+  value: f
+card_changes_2524:
+  id: 6624
+  card_action_id: 7806
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2526:
-  id: 6626
+card_changes_2525:
+  id: 6629
   card_action_id: 7815
   field: 0
   value: superhero skin+variables
-card_changes_2527:
-  id: 6627
+card_changes_2526:
+  id: 6630
   card_action_id: 7815
   field: 1
   value: '943'
-card_changes_2528:
-  id: 6628
+card_changes_2527:
+  id: 6631
   card_action_id: 7815
   field: 2
   value: "// Superhero 3.3.4\n// Variables\n// --------------------------------------------------\n\n\n//==
@@ -26950,24 +26943,24 @@ card_changes_2528:
     color\n$page-header-border-color:    $gray-lighter;\n//** Width of horizontal
     description list titles\n$dl-horizontal-offset:        $component-offset-horizontal;\n//**
     Horizontal line color.\n$hr-border:                   lighten($gray-light, 5%);\n"
-card_changes_2529:
-  id: 6629
+card_changes_2528:
+  id: 6632
   card_action_id: 7815
   field: 3
-  value: '0'
-card_changes_2530:
-  id: 6634
-  card_action_id: 7818
+  value: f
+card_changes_2529:
+  id: 6637
+  card_action_id: 7816
   field: 0
   value: superhero skin+style
-card_changes_2531:
-  id: 6635
-  card_action_id: 7818
+card_changes_2530:
+  id: 6638
+  card_action_id: 7816
   field: 1
   value: '943'
-card_changes_2532:
-  id: 6636
-  card_action_id: 7818
+card_changes_2531:
+  id: 6639
+  card_action_id: 7816
   field: 2
   value: "// Superhero 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:300,400,700\");\n\n// Navbar =====================================================================\n\n.navbar
@@ -27024,30 +27017,30 @@ card_changes_2532:
     none;\n}\n\n.modal {\n  padding: 0;\n\n  &-header,\n  &-footer {\n    background-color:
     $table-bg-hover;\n    border: none;\n    border-radius: 0;\n  }\n}\n\n.popover
     {\n  &-title {\n    border: none;\n  }\n}\n"
-card_changes_2533:
-  id: 6637
-  card_action_id: 7818
+card_changes_2532:
+  id: 6640
+  card_action_id: 7816
   field: 3
-  value: '0'
-card_changes_2534:
-  id: 6643
-  card_action_id: 7822
+  value: f
+card_changes_2533:
+  id: 6642
+  card_action_id: 7814
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2535:
-  id: 6644
+card_changes_2534:
+  id: 6647
   card_action_id: 7823
   field: 0
   value: united skin+variables
-card_changes_2536:
-  id: 6645
+card_changes_2535:
+  id: 6648
   card_action_id: 7823
   field: 1
   value: '943'
-card_changes_2537:
-  id: 6646
+card_changes_2536:
+  id: 6649
   card_action_id: 7823
   field: 2
   value: |
@@ -27912,24 +27905,24 @@ card_changes_2537:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_2538:
-  id: 6647
+card_changes_2537:
+  id: 6650
   card_action_id: 7823
   field: 3
-  value: '0'
-card_changes_2539:
-  id: 6652
-  card_action_id: 7826
+  value: f
+card_changes_2538:
+  id: 6655
+  card_action_id: 7824
   field: 0
   value: united skin+style
-card_changes_2540:
-  id: 6653
-  card_action_id: 7826
+card_changes_2539:
+  id: 6656
+  card_action_id: 7824
   field: 1
   value: '943'
-card_changes_2541:
-  id: 6654
-  card_action_id: 7826
+card_changes_2540:
+  id: 6657
+  card_action_id: 7824
   field: 2
   value: |-
     // United 3.3.4
@@ -27974,30 +27967,30 @@ card_changes_2541:
     // Progress bars ==============================================================
 
     // Containers =================================================================
-card_changes_2542:
-  id: 6655
-  card_action_id: 7826
+card_changes_2541:
+  id: 6658
+  card_action_id: 7824
   field: 3
-  value: '0'
-card_changes_2543:
-  id: 6661
-  card_action_id: 7830
+  value: f
+card_changes_2542:
+  id: 6660
+  card_action_id: 7822
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_2544:
-  id: 6662
+card_changes_2543:
+  id: 6665
   card_action_id: 7831
   field: 0
   value: yeti skin+variables
-card_changes_2545:
-  id: 6663
+card_changes_2544:
+  id: 6666
   card_action_id: 7831
   field: 1
   value: '943'
-card_changes_2546:
-  id: 6664
+card_changes_2545:
+  id: 6667
   card_action_id: 7831
   field: 2
   value: |
@@ -28862,24 +28855,24 @@ card_changes_2546:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $table-border-color;
-card_changes_2547:
-  id: 6665
+card_changes_2546:
+  id: 6668
   card_action_id: 7831
   field: 3
-  value: '0'
-card_changes_2548:
-  id: 6670
-  card_action_id: 7834
+  value: f
+card_changes_2547:
+  id: 6673
+  card_action_id: 7832
   field: 0
   value: yeti skin+style
-card_changes_2549:
-  id: 6671
-  card_action_id: 7834
+card_changes_2548:
+  id: 6674
+  card_action_id: 7832
   field: 1
   value: '943'
-card_changes_2550:
-  id: 6672
-  card_action_id: 7834
+card_changes_2549:
+  id: 6675
+  card_action_id: 7832
   field: 2
   value: |
     // Yeti 3.3.4
@@ -29319,49 +29312,35 @@ card_changes_2550:
         color: $text-color;
       }
     }
-card_changes_2551:
-  id: 6673
-  card_action_id: 7834
+card_changes_2550:
+  id: 6676
+  card_action_id: 7832
   field: 3
-  value: '0'
+  value: f
+card_changes_2551:
+  id: 6678
+  card_action_id: 7830
+  field: 2
+  value: |-
+    [[themeless bootstrap skin]]
+    [[+bootswatch theme]]
 card_changes_2552:
-  id: 6680
+  id: 6684
   card_action_id: 7839
   field: 1
   value: '1033'
 card_changes_2553:
   id: 6686
-  card_action_id: 7883
-  field: 0
-  value: Session
-card_changes_2554:
-  id: 6687
-  card_action_id: 7883
-  field: 1
-  value: '5'
-card_changes_2555:
-  id: 6688
-  card_action_id: 7883
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_2556:
-  id: 6689
-  card_action_id: 7883
-  field: 3
-  value: '0'
-card_changes_2557:
-  id: 6690
   card_action_id: 7884
   field: 0
   value: Session+description
-card_changes_2558:
-  id: 6691
+card_changes_2554:
+  id: 6687
   card_action_id: 7884
   field: 1
   value: '3'
-card_changes_2559:
-  id: 6692
+card_changes_2555:
+  id: 6688
   card_action_id: 7884
   field: 2
   value: |-
@@ -29369,21 +29348,42 @@ card_changes_2559:
                       They are not stored in the database and can have different values for different users.
                       You can use a Session card to keep track of certain state of a particular user like the content
                       of shopping basket.
-card_changes_2560:
-  id: 6693
+card_changes_2556:
+  id: 6689
   card_action_id: 7884
   field: 3
-  value: '0'
+  value: f
+card_changes_2557:
+  id: 6690
+  card_action_id: 7883
+  field: 0
+  value: Session
+card_changes_2558:
+  id: 6691
+  card_action_id: 7883
+  field: 1
+  value: '5'
+card_changes_2559:
+  id: 6692
+  card_action_id: 7883
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+card_changes_2560:
+  id: 6693
+  card_action_id: 7883
+  field: 3
+  value: f
 card_changes_2561:
   id: 6694
   card_action_id: 7885
   field: 0
-  value: "*recaptcha public key"
+  value: "*performance log"
 card_changes_2562:
   id: 6695
   card_action_id: 7885
   field: 1
-  value: '52'
+  value: '47'
 card_changes_2563:
   id: 6696
   card_action_id: 7885
@@ -29393,347 +29393,4 @@ card_changes_2564:
   id: 6697
   card_action_id: 7885
   field: 3
-  value: '0'
-card_changes_2565:
-  id: 6698
-  card_action_id: 7887
-  field: 0
-  value: "*recaptcha public key+*self"
-card_changes_2566:
-  id: 6699
-  card_action_id: 7887
-  field: 1
-  value: '259'
-card_changes_2567:
-  id: 6700
-  card_action_id: 7887
-  field: 2
-  value: '{"name":"_self"}'
-card_changes_2568:
-  id: 6701
-  card_action_id: 7887
-  field: 3
-  value: '0'
-card_changes_2569:
-  id: 6702
-  card_action_id: 7886
-  field: 0
-  value: "*recaptcha public key+*self+*read"
-card_changes_2570:
-  id: 6703
-  card_action_id: 7886
-  field: 1
-  value: '47'
-card_changes_2571:
-  id: 6704
-  card_action_id: 7886
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2572:
-  id: 6705
-  card_action_id: 7886
-  field: 3
-  value: '0'
-card_changes_2573:
-  id: 6706
-  card_action_id: 7888
-  field: 0
-  value: "*recaptcha public key+*self+*update"
-card_changes_2574:
-  id: 6707
-  card_action_id: 7888
-  field: 1
-  value: '47'
-card_changes_2575:
-  id: 6708
-  card_action_id: 7888
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2576:
-  id: 6709
-  card_action_id: 7888
-  field: 3
-  value: '0'
-card_changes_2577:
-  id: 6710
-  card_action_id: 7889
-  field: 0
-  value: "*recaptcha public key+*self+*delete"
-card_changes_2578:
-  id: 6711
-  card_action_id: 7889
-  field: 1
-  value: '47'
-card_changes_2579:
-  id: 6712
-  card_action_id: 7889
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2580:
-  id: 6713
-  card_action_id: 7889
-  field: 3
-  value: '0'
-card_changes_2581:
-  id: 6714
-  card_action_id: 7890
-  field: 0
-  value: "*recaptcha private key"
-card_changes_2582:
-  id: 6715
-  card_action_id: 7890
-  field: 1
-  value: '52'
-card_changes_2583:
-  id: 6716
-  card_action_id: 7890
-  field: 2
-  value: ''
-card_changes_2584:
-  id: 6717
-  card_action_id: 7890
-  field: 3
-  value: '0'
-card_changes_2585:
-  id: 6718
-  card_action_id: 7892
-  field: 0
-  value: "*recaptcha private key+*self"
-card_changes_2586:
-  id: 6719
-  card_action_id: 7892
-  field: 1
-  value: '259'
-card_changes_2587:
-  id: 6720
-  card_action_id: 7892
-  field: 2
-  value: '{"name":"_self"}'
-card_changes_2588:
-  id: 6721
-  card_action_id: 7892
-  field: 3
-  value: '0'
-card_changes_2589:
-  id: 6722
-  card_action_id: 7891
-  field: 0
-  value: "*recaptcha private key+*self+*read"
-card_changes_2590:
-  id: 6723
-  card_action_id: 7891
-  field: 1
-  value: '47'
-card_changes_2591:
-  id: 6724
-  card_action_id: 7891
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2592:
-  id: 6725
-  card_action_id: 7891
-  field: 3
-  value: '0'
-card_changes_2593:
-  id: 6726
-  card_action_id: 7893
-  field: 0
-  value: "*recaptcha private key+*self+*update"
-card_changes_2594:
-  id: 6727
-  card_action_id: 7893
-  field: 1
-  value: '47'
-card_changes_2595:
-  id: 6728
-  card_action_id: 7893
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2596:
-  id: 6729
-  card_action_id: 7893
-  field: 3
-  value: '0'
-card_changes_2597:
-  id: 6730
-  card_action_id: 7894
-  field: 0
-  value: "*recaptcha private key+*self+*delete"
-card_changes_2598:
-  id: 6731
-  card_action_id: 7894
-  field: 1
-  value: '47'
-card_changes_2599:
-  id: 6732
-  card_action_id: 7894
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2600:
-  id: 6733
-  card_action_id: 7894
-  field: 3
-  value: '0'
-card_changes_2601:
-  id: 6734
-  card_action_id: 7895
-  field: 0
-  value: "*recaptcha proxy"
-card_changes_2602:
-  id: 6735
-  card_action_id: 7895
-  field: 1
-  value: '52'
-card_changes_2603:
-  id: 6736
-  card_action_id: 7895
-  field: 2
-  value: ''
-card_changes_2604:
-  id: 6737
-  card_action_id: 7895
-  field: 3
-  value: '0'
-card_changes_2605:
-  id: 6738
-  card_action_id: 7897
-  field: 0
-  value: "*recaptcha proxy+*self"
-card_changes_2606:
-  id: 6739
-  card_action_id: 7897
-  field: 1
-  value: '259'
-card_changes_2607:
-  id: 6740
-  card_action_id: 7897
-  field: 2
-  value: '{"name":"_self"}'
-card_changes_2608:
-  id: 6741
-  card_action_id: 7897
-  field: 3
-  value: '0'
-card_changes_2609:
-  id: 6742
-  card_action_id: 7896
-  field: 0
-  value: "*recaptcha proxy+*self+*read"
-card_changes_2610:
-  id: 6743
-  card_action_id: 7896
-  field: 1
-  value: '47'
-card_changes_2611:
-  id: 6744
-  card_action_id: 7896
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2612:
-  id: 6745
-  card_action_id: 7896
-  field: 3
-  value: '0'
-card_changes_2613:
-  id: 6746
-  card_action_id: 7898
-  field: 0
-  value: "*recaptcha proxy+*self+*update"
-card_changes_2614:
-  id: 6747
-  card_action_id: 7898
-  field: 1
-  value: '47'
-card_changes_2615:
-  id: 6748
-  card_action_id: 7898
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2616:
-  id: 6749
-  card_action_id: 7898
-  field: 3
-  value: '0'
-card_changes_2617:
-  id: 6750
-  card_action_id: 7899
-  field: 0
-  value: "*recaptcha proxy+*self+*delete"
-card_changes_2618:
-  id: 6751
-  card_action_id: 7899
-  field: 1
-  value: '47'
-card_changes_2619:
-  id: 6752
-  card_action_id: 7899
-  field: 2
-  value: "[[Administrator]]"
-card_changes_2620:
-  id: 6753
-  card_action_id: 7899
-  field: 3
-  value: '0'
-card_changes_2621:
-  id: 6754
-  card_action_id: 7900
-  field: 0
-  value: "*recaptcha settings"
-card_changes_2622:
-  id: 6755
-  card_action_id: 7900
-  field: 1
-  value: '3'
-card_changes_2623:
-  id: 6756
-  card_action_id: 7900
-  field: 2
-  value: ''
-card_changes_2624:
-  id: 6757
-  card_action_id: 7900
-  field: 3
-  value: '0'
-card_changes_2625:
-  id: 6758
-  card_action_id: 7902
-  field: 0
-  value: "*recaptcha settings+*self"
-card_changes_2626:
-  id: 6759
-  card_action_id: 7902
-  field: 1
-  value: '259'
-card_changes_2627:
-  id: 6760
-  card_action_id: 7902
-  field: 2
-  value: '{"name":"_self"}'
-card_changes_2628:
-  id: 6761
-  card_action_id: 7902
-  field: 3
-  value: '0'
-card_changes_2629:
-  id: 6762
-  card_action_id: 7901
-  field: 0
-  value: "*recaptcha settings+*self+*structure"
-card_changes_2630:
-  id: 6763
-  card_action_id: 7901
-  field: 1
-  value: '3'
-card_changes_2631:
-  id: 6764
-  card_action_id: 7901
-  field: 2
-  value: |-
-    {{*recaptcha public key|titled}}
-    {{*recaptcha private key|titled}}
-    {{*recaptcha proxy|titled}}
-card_changes_2632:
-  id: 6765
-  card_action_id: 7901
-  field: 3
-  value: '0'
+  value: f
