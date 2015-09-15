@@ -4,8 +4,8 @@ require 'timecop'
 class SharedData
   #attr_accessor :users
   USERS = [
-            'Joe User', 'Joe Admin', 'Joe Camel', 'Sample User', 'No count', 
-            'u1', 'u2', 'u3', 
+            'Joe User', 'Joe Admin', 'Joe Camel', 'Sample User', 'No count',
+            'u1', 'u2', 'u3',
             'Big Brother', 'Optic fan', 'Sunglasses fan', 'Narcissist'
            ]
 
@@ -14,7 +14,7 @@ class SharedData
   end
 
   def self.add_test_data
-    
+
     Card::Cache.reset_global
     Card::Env.reset
     Card::Auth.as_bot
@@ -23,6 +23,7 @@ class SharedData
     Card.create! :name=>"Joe Admin", :type_code=>'user', :content=>"I'm number one", :subcards=>account_args( '+*email'=>'joe@admin.com' )
     Card.create! :name=>"Joe Camel", :type_code=>'user', :content=>"Mr. Buttz",      :subcards=>account_args( '+*email'=>'joe@camel.com' )
 
+    Card.fetch("*all+*recaptcha", :new=>{}).update_attributes! :content=>"0"
     Card['Joe Admin'].fetch(:trait=>:roles, :new=>{:type_code=>'pointer'}).items = [ Card::AdministratorID ]
 
     Card.create! :name=>'signup alert email+*to', :content=>'signups@wagn.org'
@@ -35,7 +36,7 @@ class SharedData
 
     Card.create! :type_code=>'user', :name=>"No Count", :content=>"I got no account"
 
-    
+
     Card.create! :name=>"Sample User", :type_code=>'user', :subcards=>account_args('+*email'=>'sample@user.com', '+*password'=>'sample_pass')
 
     # CREATE A CARD OF EACH TYPE
@@ -128,21 +129,21 @@ class SharedData
     Timecop.freeze(Cardio.future_stamp - 1.day) do
       # fwiw Timecop is apparently limited by ruby Time object, which goes only to 2037 and back to 1900 or so.
       #  whereas DateTime can represent all dates.
- 
-      
+
+
       followers = {
         'John'           => ['John Following', 'All Eyes On Me'],
-        'Sara'           => ['Sara Following', 'All Eyes On Me', 'Optic+*type', 'Google Glass'], 
+        'Sara'           => ['Sara Following', 'All Eyes On Me', 'Optic+*type', 'Google Glass'],
         'Big Brother'    => ['All Eyes on Me', 'Look at me+*self', 'Optic+*type', 'lens+*right', 'Optic+tint+*type plus right', ['*all','*created'], ['*all','*edited']],
         'Optic fan'      => ['Optic+*type'],
         'Sunglasses fan' => ['Sunglasses'],
         'Narcissist'     => [['*all','*created'], ['*all','*edited']]
       }
-      
+
       followers.each do |name, follow|
         user = Card.create! :name=>name, :type_code=>'user', :subcards=>account_args('+*email'=>"#{name.parameterize}@user.com", '+*password'=>"#{name.parameterize}_pass")
       end
-      
+
       Card.create! :name => "All Eyes On Me"
       Card.create! :name => "No One Sees Me"
       Card.create! :name => "Look At Me"
@@ -155,22 +156,22 @@ class SharedData
       Card::Auth.current_id = Card['Narcissist'].id
       magnifier.update_attributes! :content=>"zoom in"
       Card.create! :name => "Sunglasses", :type=>"Optic", :content=>"{{+tint}}{{+lens}}"
-      
+
       Card::Auth.current_id = Card['Optic fan'].id
       Card.create! :name => "Google glass", :type=>"Optic", :content=>"{{+price}}"
-      
+
       Card::Auth.current_id = Card::WagnBotID
       Card.create! :name=>'Google glass+*self+*follow_fields', :content=>''
       Card.create! :name=>'Sunglasses+*self+*follow_fields', :content=>"[[#{Card[:includes].name}]]\n[[_self+price]]\n[[_self+producer]]"
       Card.create! :name => "Sunglasses+tint"
-      Card.create! :name => "Sunglasses+price" 
+      Card.create! :name => "Sunglasses+price"
 
       followers.each do |name, follow|
         user = Card[name]
         follow.each do |f|
           user.follow *f
         end
-      end     
+      end
     end
 
 
