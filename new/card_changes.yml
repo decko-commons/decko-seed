@@ -7148,7 +7148,7 @@ card_changes_1387:
   id: 3887
   card_action_id: 6419
   field: 2
-  value: ":credit_image/05_standard.png"
+  value: "~790/2020.png"
 card_changes_1388:
   id: 3888
   card_action_id: 6419
@@ -7389,7 +7389,7 @@ card_changes_1426:
   id: 4002
   card_action_id: 6556
   field: 2
-  value: ":logo/05_standard.png"
+  value: "~79/9063.png"
 card_changes_1427:
   id: 4012
   card_action_id: 6568
@@ -12521,7 +12521,7 @@ card_changes_2375:
   id: 6319
   card_action_id: 7665
   field: 2
-  value: ":favicon/05_standard.png"
+  value: "~103/5462.png"
 card_changes_2376:
   id: 6325
   card_action_id: 7669
@@ -29454,106 +29454,86 @@ card_changes_2591:
   field: 3
   value: f
 card_changes_2592:
-  id: 6765
-  card_action_id: 7917
-  field: 0
-  value: "*performance log"
-card_changes_2593:
-  id: 6766
-  card_action_id: 7917
-  field: 1
-  value: '47'
-card_changes_2594:
-  id: 6767
-  card_action_id: 7917
-  field: 2
-  value: ''
-card_changes_2595:
-  id: 6768
-  card_action_id: 7917
-  field: 3
-  value: f
-card_changes_2596:
   id: 6769
   card_action_id: 7921
   field: 0
   value: "*debugger+*self"
-card_changes_2597:
+card_changes_2593:
   id: 6770
   card_action_id: 7921
   field: 1
   value: '259'
-card_changes_2598:
+card_changes_2594:
   id: 6771
   card_action_id: 7921
   field: 2
   value: '{"name":"_left"}'
-card_changes_2599:
+card_changes_2595:
   id: 6772
   card_action_id: 7921
   field: 3
   value: f
-card_changes_2600:
+card_changes_2596:
   id: 6773
   card_action_id: 7918
   field: 0
   value: "*debugger+*self+*options"
-card_changes_2601:
+card_changes_2597:
   id: 6774
   card_action_id: 7918
   field: 1
   value: '47'
-card_changes_2602:
+card_changes_2598:
   id: 6775
   card_action_id: 7918
   field: 2
   value: "[[on]]"
-card_changes_2603:
+card_changes_2599:
   id: 6776
   card_action_id: 7918
   field: 3
   value: f
-card_changes_2604:
+card_changes_2600:
   id: 6778
   card_action_id: 7919
   field: 0
   value: "*debugger+*self+*input"
-card_changes_2605:
+card_changes_2601:
   id: 6779
   card_action_id: 7919
   field: 1
   value: '47'
-card_changes_2606:
+card_changes_2602:
   id: 6780
   card_action_id: 7919
   field: 2
   value: "[[checkbox]]"
-card_changes_2607:
+card_changes_2603:
   id: 6781
   card_action_id: 7919
   field: 3
   value: f
-card_changes_2608:
+card_changes_2604:
   id: 6783
   card_action_id: 7920
   field: 0
   value: "*debugger+*self+*help"
-card_changes_2609:
+card_changes_2605:
   id: 6784
   card_action_id: 7920
   field: 1
   value: '3'
-card_changes_2610:
+card_changes_2606:
   id: 6785
   card_action_id: 7920
   field: 2
   value: show more useful error pages
-card_changes_2611:
+card_changes_2607:
   id: 6786
   card_action_id: 7920
   field: 3
   value: f
-card_changes_2612:
+card_changes_2608:
   id: 6788
   card_action_id: 7928
   field: 2
@@ -29562,42 +29542,42 @@ card_changes_2612:
     [[*help]]
     [[*input]]
     [[*options]]
-card_changes_2613:
+card_changes_2609:
   id: 6807
   card_action_id: 8023
   field: 0
   value: "*new file"
-card_changes_2614:
+card_changes_2610:
   id: 6808
   card_action_id: 8023
   field: 1
   value: '18'
-card_changes_2615:
+card_changes_2611:
   id: 6809
   card_action_id: 8023
   field: 2
   value: "~1526/8023"
-card_changes_2616:
+card_changes_2612:
   id: 6810
   card_action_id: 8023
   field: 3
   value: f
-card_changes_2617:
+card_changes_2613:
   id: 6811
   card_action_id: 8024
   field: 0
   value: "*new image"
-card_changes_2618:
+card_changes_2614:
   id: 6812
   card_action_id: 8024
   field: 1
   value: '19'
-card_changes_2619:
+card_changes_2615:
   id: 6813
   card_action_id: 8024
   field: 2
   value: "~1527/8024"
-card_changes_2620:
+card_changes_2616:
   id: 6814
   card_action_id: 8024
   field: 3
