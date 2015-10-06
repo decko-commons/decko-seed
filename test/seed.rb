@@ -19,27 +19,35 @@ class SharedData
     Card::Env.reset
     Card::Auth.as_bot
 
-    Card.create! name: "Joe User",  type_code: 'user', content: "I'm number two", subcards: account_args( '+*email'=>'joe@user.com'  )
-    Card.create! name: "Joe Admin", type_code: 'user', content: "I'm number one", subcards: account_args( '+*email'=>'joe@admin.com' )
-    Card.create! name: "Joe Camel", type_code: 'user', content: "Mr. Buttz",      subcards: account_args( '+*email'=>'joe@camel.com' )
+    Card::Auth.instant_account_activation do
+      Card.create! name: "Joe User",  type_code: 'user',
+                   content: "I'm number two",
+                   subcards: account_args( '+*email'=>'joe@user.com'  )
+      Card.create! name: "Joe Admin", type_code: 'user',
+                   content: "I'm number one",
+                   subcards: account_args( '+*email'=>'joe@admin.com' )
+      Card.create! name: "Joe Camel", type_code: 'user',
+                   content: "Mr. Buttz",
+                   subcards: account_args( '+*email'=>'joe@camel.com' )
 
-    Card['Joe Admin'].fetch(trait: :roles, new: {type_code: 'pointer'}).items = [ Card::AdministratorID ]
+      # data for testing users and account requests
+      Card.create! type_code: 'user', name: "No Count",
+                   content: "I got no account"
+      Card.create! name: "Sample User", type_code: 'user',
+                   subcards: account_args(
+                     '+*email'=>'sample@user.com', '+*password'=>'sample_pass'
+                   )
+    end
 
+    Card['Joe Admin'].fetch(trait: :roles, new: {type_code: 'pointer'})
+      .items = [ Card::AdministratorID ]
     Card.create! name: 'signup alert email+*to', content: 'signups@wagn.org'
 
     # generic, shared attribute card
     color = Card.create! name: 'color'
     basic = Card.create! name: "Basic Card"
 
-    # data for testing users and account requests
-
-    Card.create! type_code: 'user', name: "No Count", content: "I got no account"
-
-
-    Card.create! name: "Sample User", type_code: 'user', subcards: account_args('+*email'=>'sample@user.com', '+*password'=>'sample_pass')
-
     # CREATE A CARD OF EACH TYPE
-
     Card.create! type_id: Card::SignupID, name: "Sample Signup" #, email: "invitation@request.com"
     #above still necessary?  try commenting out above and 'Sign up' below
     Card::Auth.current_id = Card::WagnBotID # need to reset after creating sign up, which changes current_id for extend phase
