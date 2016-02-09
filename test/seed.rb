@@ -97,6 +97,8 @@ class SharedData
     Card.create! type_code: 'cardtype', name: "Cardtype E", codename: 'cardtype_e'
     Card.create! type_code: 'cardtype', name: "Cardtype F", codename: 'cardtype_f'
 
+    Card::Codename.reset_cache
+
     Card.create! name: 'basicname', content: 'basiccontent'
     Card.create! type_code: 'cardtype_a', name: "type-a-card", content: 'type_a_content'
     Card.create! type_code: 'cardtype_b', name: "type-b-card", content: 'type_b_content'
