@@ -210,5 +210,8 @@ class SharedData
     first.update_attributes! content: 'chicken'
     first.update_attributes! content: 'chick'
 
+    Card['*all+*style' ].ensure_machine_output
+    Card['*all+*script'].ensure_machine_output
+    (ie9 = Card[:script_html5shiv_printshiv]) && ie9.ensure_machine_output
   end
 end
