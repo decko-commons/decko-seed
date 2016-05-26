@@ -991,17 +991,17 @@ card_changes_198:
   value: '52'
 card_changes_199:
   id: 245
-  card_action_id: 7934
+  card_action_id: 7929
   field: 0
   value: Home
 card_changes_200:
   id: 246
-  card_action_id: 7934
+  card_action_id: 7929
   field: 1
   value: '3'
 card_changes_201:
   id: 248
-  card_action_id: 7934
+  card_action_id: 7929
   field: 3
   value: '0'
 card_changes_202:
@@ -17827,17 +17827,17 @@ card_changes_3385:
   value: '0'
 card_changes_3386:
   id: 4555
-  card_action_id: 7837
+  card_action_id: 7834
   field: 0
   value: 'script: card menu'
 card_changes_3387:
   id: 4557
-  card_action_id: 7837
+  card_action_id: 7834
   field: 2
   value: ''
 card_changes_3388:
   id: 4558
-  card_action_id: 7837
+  card_action_id: 7834
   field: 3
   value: '0'
 card_changes_3389:
@@ -17882,47 +17882,47 @@ card_changes_3396:
   value: '0'
 card_changes_3397:
   id: 4567
-  card_action_id: 7400
+  card_action_id: 8005
   field: 0
   value: "*all+*script"
 card_changes_3398:
   id: 4568
-  card_action_id: 7400
+  card_action_id: 8005
   field: 1
   value: '47'
 card_changes_3399:
   id: 4570
-  card_action_id: 7400
+  card_action_id: 8005
   field: 3
   value: '0'
 card_changes_3400:
   id: 4571
-  card_action_id: 7836
+  card_action_id: 7833
   field: 0
   value: "*all+*style+*machine input"
 card_changes_3401:
   id: 4572
-  card_action_id: 7836
+  card_action_id: 7833
   field: 1
   value: '47'
 card_changes_3402:
   id: 4574
-  card_action_id: 7836
+  card_action_id: 7833
   field: 3
   value: '0'
 card_changes_3403:
   id: 4579
-  card_action_id: 7402
+  card_action_id: 8006
   field: 0
   value: "*all+*script+*machine input"
 card_changes_3404:
   id: 4580
-  card_action_id: 7402
+  card_action_id: 8006
   field: 1
   value: '47'
 card_changes_3405:
   id: 4582
-  card_action_id: 7402
+  card_action_id: 8006
   field: 3
   value: '0'
 card_changes_3406:
@@ -21685,17 +21685,17 @@ card_changes_4136:
   value: '1'
 card_changes_4137:
   id: 5373
-  card_action_id: 7935
+  card_action_id: 7930
   field: 0
   value: 'script: html5shiv printshiv+*machine output'
 card_changes_4138:
   id: 5374
-  card_action_id: 7935
+  card_action_id: 7930
   field: 1
   value: '18'
 card_changes_4139:
   id: 5375
-  card_action_id: 7935
+  card_action_id: 7930
   field: 2
   value: |-
     106220141111-9361-2qr4cq.js
@@ -22807,17 +22807,17 @@ card_changes_4280:
   value: '0'
 card_changes_4281:
   id: 5592
-  card_action_id: 7739
+  card_action_id: 7735
   field: 0
   value: classic bootstrap skin+*machine input
 card_changes_4282:
   id: 5593
-  card_action_id: 7739
+  card_action_id: 7735
   field: 1
   value: '47'
 card_changes_4283:
   id: 5595
-  card_action_id: 7739
+  card_action_id: 7735
   field: 3
   value: '0'
 card_changes_4284:
@@ -22829,32 +22829,32 @@ card_changes_4284:
     [[style: classic cards]]
 card_changes_4285:
   id: 5600
-  card_action_id: 7731
+  card_action_id: 7729
   field: 0
   value: bootstrap default skin
 card_changes_4286:
   id: 5601
-  card_action_id: 7731
+  card_action_id: 7729
   field: 1
   value: '944'
 card_changes_4287:
   id: 5603
-  card_action_id: 7731
+  card_action_id: 7729
   field: 3
   value: '0'
 card_changes_4288:
   id: 5604
-  card_action_id: 7738
+  card_action_id: 7734
   field: 0
   value: bootstrap default skin+*machine input
 card_changes_4289:
   id: 5605
-  card_action_id: 7738
+  card_action_id: 7734
   field: 1
   value: '47'
 card_changes_4290:
   id: 5607
-  card_action_id: 7738
+  card_action_id: 7734
   field: 3
   value: '0'
 card_changes_4291:
@@ -23232,54 +23232,30 @@ card_changes_4307:
   value: '0'
 card_changes_4308:
   id: 5637
-  card_action_id: 7841
+  card_action_id: 7838
   field: 0
   value: Default Layout
 card_changes_4309:
   id: 5638
-  card_action_id: 7841
+  card_action_id: 7838
   field: 1
   value: '569'
 card_changes_4310:
   id: 5640
-  card_action_id: 7841
+  card_action_id: 7838
   field: 3
   value: '0'
 card_changes_4311:
-  id: 5641
-  card_action_id: 7400
-  field: 2
-  value: |-
-    [[script: jquery]]
-    [[script: tinymce]]
-    [[script: slot]]
-    [[script: card menu]]
-    [[script: jquery helper]]
-    [[script: bootstrap]]
-    [[script: ace]]
-card_changes_4312:
-  id: 5643
-  card_action_id: 7402
-  field: 2
-  value: |-
-    [[script: jquery]]
-    [[script: tinymce]]
-    [[script: slot]]
-    [[script: card menu]]
-    [[script: jquery helper]]
-    [[script: bootstrap]]
-    [[script: ace]]
-card_changes_4313:
   id: 5644
   card_action_id: 7403
   field: 0
   value: "*header"
-card_changes_4314:
+card_changes_4312:
   id: 5645
   card_action_id: 7403
   field: 1
   value: '50'
-card_changes_4315:
+card_changes_4313:
   id: 5646
   card_action_id: 7403
   field: 2
@@ -23291,32 +23267,32 @@ card_changes_4315:
     \       </button>\r\n    </div>\r\n    <div class=\"collapse navbar-collapse\"
     id=\"navbar-collapse-1\">\r\n      {{*main menu|navbar_left}}  \r\n      {{*navbox|navbar_left}}\r\n
     \     {{*account links|navbar_right}}\r\n    </div>\r\n  </div>\r\n</div>"
-card_changes_4316:
+card_changes_4314:
   id: 5647
   card_action_id: 7403
   field: 3
   value: '0'
-card_changes_4317:
+card_changes_4315:
   id: 5648
   card_action_id: 7404
   field: 0
   value: "*footer"
-card_changes_4318:
+card_changes_4316:
   id: 5649
   card_action_id: 7404
   field: 1
   value: '50'
-card_changes_4319:
+card_changes_4317:
   id: 5650
   card_action_id: 7404
   field: 2
   value: ''
-card_changes_4320:
+card_changes_4318:
   id: 5651
   card_action_id: 7404
   field: 3
   value: '0'
-card_changes_4321:
+card_changes_4319:
   id: 5652
   card_action_id: 7405
   field: 2
@@ -23327,377 +23303,377 @@ card_changes_4321:
     print {\r\n  article,\r\n  #primary {\r\n    width: 100%;\r\n    float: none;\r\n
     \   margin: 0;\r\n  }\r\n\r\n  aside,\r\n  #secondary,\r\n  footer {\r\n    display:
     none;\r\n  }\r\n}\r\n"
-card_changes_4322:
+card_changes_4320:
   id: 5653
   card_action_id: 7406
   field: 0
   value: 'style: right sidebar+*machine input'
-card_changes_4323:
+card_changes_4321:
   id: 5654
   card_action_id: 7406
   field: 1
   value: '47'
-card_changes_4324:
+card_changes_4322:
   id: 5655
   card_action_id: 7406
   field: 2
   value: "[[style: right sidebar]]"
-card_changes_4325:
+card_changes_4323:
   id: 5656
   card_action_id: 7406
   field: 3
   value: '0'
-card_changes_4326:
+card_changes_4324:
   id: 5658
   card_action_id: 7412
   field: 0
   value: "*main menu"
-card_changes_4327:
+card_changes_4325:
   id: 5659
   card_action_id: 7412
   field: 1
   value: '50'
-card_changes_4328:
+card_changes_4326:
   id: 5660
   card_action_id: 7412
   field: 2
   value: "[[/|Home]]\r\n[[/:recent|Recent]]"
-card_changes_4329:
+card_changes_4327:
   id: 5661
   card_action_id: 7412
   field: 3
   value: '0'
-card_changes_4330:
+card_changes_4328:
   id: 5662
   card_action_id: 7413
   field: 0
   value: "*style+*right+*option label"
-card_changes_4331:
+card_changes_4329:
   id: 5663
   card_action_id: 7413
   field: 1
   value: '52'
-card_changes_4332:
+card_changes_4330:
   id: 5664
   card_action_id: 7413
   field: 2
   value: Image
-card_changes_4333:
+card_changes_4331:
   id: 5665
   card_action_id: 7413
   field: 3
   value: '0'
-card_changes_4334:
+card_changes_4332:
   id: 5667
   card_action_id: 7416
   field: 0
   value: "*header+*self"
-card_changes_4335:
+card_changes_4333:
   id: 5668
   card_action_id: 7416
   field: 1
   value: '259'
-card_changes_4336:
+card_changes_4334:
   id: 5669
   card_action_id: 7416
   field: 2
   value: '{"name":"_left"}'
-card_changes_4337:
+card_changes_4335:
   id: 5670
   card_action_id: 7416
   field: 3
   value: '0'
-card_changes_4338:
+card_changes_4336:
   id: 5671
   card_action_id: 7415
   field: 0
   value: "*header+*self+*read"
-card_changes_4339:
+card_changes_4337:
   id: 5672
   card_action_id: 7415
   field: 1
   value: '47'
-card_changes_4340:
+card_changes_4338:
   id: 5673
   card_action_id: 7415
   field: 2
   value: "[[Anyone]]"
-card_changes_4341:
+card_changes_4339:
   id: 5674
   card_action_id: 7415
   field: 3
   value: '0'
-card_changes_4342:
+card_changes_4340:
   id: 5675
   card_action_id: 7417
   field: 0
   value: 'style: cards'
-card_changes_4343:
+card_changes_4341:
   id: 5676
   card_action_id: 7418
   field: 0
   value: 'style: cards+*machine input'
-card_changes_4344:
+card_changes_4342:
   id: 5677
   card_action_id: 7418
   field: 1
   value: '47'
-card_changes_4345:
+card_changes_4343:
   id: 5678
   card_action_id: 7418
   field: 2
   value: "[[style: cards]]"
-card_changes_4346:
+card_changes_4344:
   id: 5679
   card_action_id: 7418
   field: 3
   value: '0'
-card_changes_4347:
+card_changes_4345:
   id: 5680
   card_action_id: 7423
   field: 3
   value: '1'
-card_changes_4348:
+card_changes_4346:
   id: 5681
   card_action_id: 7424
   field: 0
   value: 'theme: bootstrap_default'
-card_changes_4349:
+card_changes_4347:
   id: 5682
   card_action_id: 7424
   field: 1
   value: '942'
-card_changes_4350:
+card_changes_4348:
   id: 5683
   card_action_id: 7424
   field: 2
   value: ''
-card_changes_4351:
+card_changes_4349:
   id: 5684
   card_action_id: 7424
   field: 3
   value: '0'
-card_changes_4352:
+card_changes_4350:
   id: 5685
   card_action_id: 7425
   field: 0
   value: 'theme: bootstrap_default+*machine input'
-card_changes_4353:
+card_changes_4351:
   id: 5686
   card_action_id: 7425
   field: 1
   value: '47'
-card_changes_4354:
+card_changes_4352:
   id: 5687
   card_action_id: 7425
   field: 2
   value: "[[theme: bootstrap_default]]"
-card_changes_4355:
+card_changes_4353:
   id: 5688
   card_action_id: 7425
   field: 3
   value: '0'
-card_changes_4356:
+card_changes_4354:
   id: 5691
   card_action_id: 7721
   field: 0
   value: 'style: bootstrap'
-card_changes_4357:
+card_changes_4355:
   id: 5692
   card_action_id: 7721
   field: 1
   value: '942'
-card_changes_4358:
+card_changes_4356:
   id: 5693
   card_action_id: 7721
   field: 2
   value: ''
-card_changes_4359:
+card_changes_4357:
   id: 5695
   card_action_id: 7722
   field: 0
   value: 'style: bootstrap+*machine input'
-card_changes_4360:
+card_changes_4358:
   id: 5696
   card_action_id: 7722
   field: 1
   value: '47'
-card_changes_4361:
+card_changes_4359:
   id: 5697
   card_action_id: 7722
   field: 2
   value: "[[style: bootstrap]]"
-card_changes_4362:
+card_changes_4360:
   id: 5699
   card_action_id: 7432
   field: 0
   value: 'style: bootstrap cards'
-card_changes_4363:
+card_changes_4361:
   id: 5700
   card_action_id: 7432
   field: 1
   value: '942'
-card_changes_4364:
+card_changes_4362:
   id: 5701
   card_action_id: 7432
   field: 2
   value: ''
-card_changes_4365:
+card_changes_4363:
   id: 5702
   card_action_id: 7432
   field: 3
   value: '0'
-card_changes_4366:
+card_changes_4364:
   id: 5703
   card_action_id: 7433
   field: 0
   value: 'style: bootstrap cards+*machine input'
-card_changes_4367:
+card_changes_4365:
   id: 5704
   card_action_id: 7433
   field: 1
   value: '47'
-card_changes_4368:
+card_changes_4366:
   id: 5705
   card_action_id: 7433
   field: 2
   value: "[[style: bootstrap cards]]"
-card_changes_4369:
+card_changes_4367:
   id: 5706
   card_action_id: 7433
   field: 3
   value: '0'
-card_changes_4370:
+card_changes_4368:
   id: 5707
   card_action_id: 7435
   field: 0
   value: 'style: bootstrap compatible'
-card_changes_4371:
+card_changes_4369:
   id: 5708
   card_action_id: 7435
   field: 1
   value: '943'
-card_changes_4372:
+card_changes_4370:
   id: 5709
   card_action_id: 7435
   field: 2
   value: ''
-card_changes_4373:
+card_changes_4371:
   id: 5710
   card_action_id: 7435
   field: 3
   value: '0'
-card_changes_4374:
+card_changes_4372:
   id: 5711
   card_action_id: 7436
   field: 0
   value: 'style: bootstrap compatible+*machine input'
-card_changes_4375:
+card_changes_4373:
   id: 5712
   card_action_id: 7436
   field: 1
   value: '47'
-card_changes_4376:
+card_changes_4374:
   id: 5713
   card_action_id: 7436
   field: 2
   value: "[[style: bootstrap compatible]]"
-card_changes_4377:
+card_changes_4375:
   id: 5714
   card_action_id: 7436
   field: 3
   value: '0'
-card_changes_4378:
+card_changes_4376:
   id: 5715
-  card_action_id: 7936
+  card_action_id: 7931
   field: 0
   value: 'script: bootstrap'
-card_changes_4379:
+card_changes_4377:
   id: 5717
-  card_action_id: 7936
+  card_action_id: 7931
   field: 2
   value: ''
-card_changes_4380:
+card_changes_4378:
   id: 5718
-  card_action_id: 7936
+  card_action_id: 7931
   field: 3
   value: '0'
-card_changes_4381:
+card_changes_4379:
   id: 5719
   card_action_id: 7442
   field: 0
   value: "*default html view"
-card_changes_4382:
+card_changes_4380:
   id: 5720
   card_action_id: 7442
   field: 1
   value: '278'
-card_changes_4383:
+card_changes_4381:
   id: 5721
   card_action_id: 7442
   field: 2
   value: ''
-card_changes_4384:
+card_changes_4382:
   id: 5722
   card_action_id: 7442
   field: 3
   value: '0'
-card_changes_4385:
+card_changes_4383:
   id: 5723
   card_action_id: 7444
   field: 0
   value: "*default html view+*right"
-card_changes_4386:
+card_changes_4384:
   id: 5724
   card_action_id: 7444
   field: 1
   value: '259'
-card_changes_4387:
+card_changes_4385:
   id: 5725
   card_action_id: 7444
   field: 2
   value: '{"right":"_left"}'
-card_changes_4388:
+card_changes_4386:
   id: 5726
   card_action_id: 7444
   field: 3
   value: '0'
-card_changes_4389:
+card_changes_4387:
   id: 5727
   card_action_id: 7443
   field: 0
   value: "*default html view+*right+*default"
-card_changes_4390:
+card_changes_4388:
   id: 5728
   card_action_id: 7443
   field: 1
   value: '52'
-card_changes_4391:
+card_changes_4389:
   id: 5729
   card_action_id: 7443
   field: 2
   value: ''
-card_changes_4392:
+card_changes_4390:
   id: 5730
   card_action_id: 7443
   field: 3
   value: '0'
-card_changes_4393:
+card_changes_4391:
   id: 5731
   card_action_id: 7624
   field: 0
   value: "*all+*default html view"
-card_changes_4394:
+card_changes_4392:
   id: 5732
   card_action_id: 7624
   field: 1
   value: '52'
-card_changes_4395:
+card_changes_4393:
   id: 5734
   card_action_id: 7624
   field: 3
   value: '0'
-card_changes_4396:
+card_changes_4394:
   id: 5736
   card_action_id: 7636
   field: 2
@@ -23706,2368 +23682,2368 @@ card_changes_4396:
     \  {{*navbox|core}} {{*account links|core}}\r\n    </div>\r\n    \r\n    <div
     id=\"primary\">\r\n      {{_main|open}}\r\n    </div>\r\n    \r\n    <div id=\"secondary\">\r\n
     \     {{*sidebar|core}}\r\n    </div>\r\n  </body>\r\n</html>"
-card_changes_4397:
+card_changes_4395:
   id: 5737
   card_action_id: 7450
   field: 0
   value: Basic+*type
-card_changes_4398:
+card_changes_4396:
   id: 5738
   card_action_id: 7450
   field: 1
   value: '259'
-card_changes_4399:
+card_changes_4397:
   id: 5739
   card_action_id: 7450
   field: 2
   value: '{"type":"_left"}'
-card_changes_4400:
+card_changes_4398:
   id: 5740
   card_action_id: 7450
   field: 3
   value: '0'
-card_changes_4401:
+card_changes_4399:
   id: 5741
   card_action_id: 7449
   field: 0
   value: Basic+*type+Ethan McCutchen
-card_changes_4402:
+card_changes_4400:
   id: 5742
   card_action_id: 7449
   field: 1
   value: '3'
-card_changes_4403:
+card_changes_4401:
   id: 5743
   card_action_id: 7449
   field: 2
   value: ''
-card_changes_4404:
+card_changes_4402:
   id: 5744
   card_action_id: 7449
   field: 3
   value: '0'
-card_changes_4405:
+card_changes_4403:
   id: 5745
   card_action_id: 7448
   field: 0
   value: Basic+*type+Ethan McCutchen+*follow
-card_changes_4406:
+card_changes_4404:
   id: 5746
   card_action_id: 7448
   field: 1
   value: '47'
-card_changes_4407:
+card_changes_4405:
   id: 5747
   card_action_id: 7448
   field: 2
   value: "[[*always]]"
-card_changes_4408:
+card_changes_4406:
   id: 5748
   card_action_id: 7448
   field: 3
   value: '0'
-card_changes_4409:
+card_changes_4407:
   id: 5749
   card_action_id: 7452
   field: 0
   value: Basic+*type+John Abbe
-card_changes_4410:
+card_changes_4408:
   id: 5750
   card_action_id: 7452
   field: 1
   value: '3'
-card_changes_4411:
+card_changes_4409:
   id: 5751
   card_action_id: 7452
   field: 2
   value: ''
-card_changes_4412:
+card_changes_4410:
   id: 5752
   card_action_id: 7452
   field: 3
   value: '0'
-card_changes_4413:
+card_changes_4411:
   id: 5753
   card_action_id: 7451
   field: 0
   value: Basic+*type+John Abbe+*follow
-card_changes_4414:
+card_changes_4412:
   id: 5754
   card_action_id: 7451
   field: 1
   value: '47'
-card_changes_4415:
+card_changes_4413:
   id: 5755
   card_action_id: 7451
   field: 2
   value: "[[*always]]"
-card_changes_4416:
+card_changes_4414:
   id: 5756
   card_action_id: 7451
   field: 3
   value: '0'
-card_changes_4417:
+card_changes_4415:
   id: 5757
   card_action_id: 7455
   field: 0
   value: Pointer+*type
-card_changes_4418:
+card_changes_4416:
   id: 5758
   card_action_id: 7455
   field: 1
   value: '259'
-card_changes_4419:
+card_changes_4417:
   id: 5759
   card_action_id: 7455
   field: 2
   value: '{"type":"_left"}'
-card_changes_4420:
+card_changes_4418:
   id: 5760
   card_action_id: 7455
   field: 3
   value: '0'
-card_changes_4421:
+card_changes_4419:
   id: 5761
   card_action_id: 7454
   field: 0
   value: Pointer+*type+John Abbe
-card_changes_4422:
+card_changes_4420:
   id: 5762
   card_action_id: 7454
   field: 1
   value: '3'
-card_changes_4423:
+card_changes_4421:
   id: 5763
   card_action_id: 7454
   field: 2
   value: ''
-card_changes_4424:
+card_changes_4422:
   id: 5764
   card_action_id: 7454
   field: 3
   value: '0'
-card_changes_4425:
+card_changes_4423:
   id: 5765
   card_action_id: 7453
   field: 0
   value: Pointer+*type+John Abbe+*follow
-card_changes_4426:
+card_changes_4424:
   id: 5766
   card_action_id: 7453
   field: 1
   value: '47'
-card_changes_4427:
+card_changes_4425:
   id: 5767
   card_action_id: 7453
   field: 2
   value: "[[*always]]"
-card_changes_4428:
+card_changes_4426:
   id: 5768
   card_action_id: 7453
   field: 3
   value: '0'
-card_changes_4429:
+card_changes_4427:
   id: 5769
   card_action_id: 7458
   field: 0
   value: Phrase+*type
-card_changes_4430:
+card_changes_4428:
   id: 5770
   card_action_id: 7458
   field: 1
   value: '259'
-card_changes_4431:
+card_changes_4429:
   id: 5771
   card_action_id: 7458
   field: 2
   value: '{"type":"_left"}'
-card_changes_4432:
+card_changes_4430:
   id: 5772
   card_action_id: 7458
   field: 3
   value: '0'
-card_changes_4433:
+card_changes_4431:
   id: 5773
   card_action_id: 7457
   field: 0
   value: Phrase+*type+John Abbe
-card_changes_4434:
+card_changes_4432:
   id: 5774
   card_action_id: 7457
   field: 1
   value: '3'
-card_changes_4435:
+card_changes_4433:
   id: 5775
   card_action_id: 7457
   field: 2
   value: ''
-card_changes_4436:
+card_changes_4434:
   id: 5776
   card_action_id: 7457
   field: 3
   value: '0'
-card_changes_4437:
+card_changes_4435:
   id: 5777
   card_action_id: 7456
   field: 0
   value: Phrase+*type+John Abbe+*follow
-card_changes_4438:
+card_changes_4436:
   id: 5778
   card_action_id: 7456
   field: 1
   value: '47'
-card_changes_4439:
+card_changes_4437:
   id: 5779
   card_action_id: 7456
   field: 2
   value: "[[*always]]"
-card_changes_4440:
+card_changes_4438:
   id: 5780
   card_action_id: 7456
   field: 3
   value: '0'
-card_changes_4441:
+card_changes_4439:
   id: 5781
   card_action_id: 7461
   field: 0
   value: PlainText+*type
-card_changes_4442:
+card_changes_4440:
   id: 5782
   card_action_id: 7461
   field: 1
   value: '259'
-card_changes_4443:
+card_changes_4441:
   id: 5783
   card_action_id: 7461
   field: 2
   value: '{"type":"_left"}'
-card_changes_4444:
+card_changes_4442:
   id: 5784
   card_action_id: 7461
   field: 3
   value: '0'
-card_changes_4445:
+card_changes_4443:
   id: 5785
   card_action_id: 7460
   field: 0
   value: PlainText+*type+John Abbe
-card_changes_4446:
+card_changes_4444:
   id: 5786
   card_action_id: 7460
   field: 1
   value: '3'
-card_changes_4447:
+card_changes_4445:
   id: 5787
   card_action_id: 7460
   field: 2
   value: ''
-card_changes_4448:
+card_changes_4446:
   id: 5788
   card_action_id: 7460
   field: 3
   value: '0'
-card_changes_4449:
+card_changes_4447:
   id: 5789
   card_action_id: 7459
   field: 0
   value: PlainText+*type+John Abbe+*follow
-card_changes_4450:
+card_changes_4448:
   id: 5790
   card_action_id: 7459
   field: 1
   value: '47'
-card_changes_4451:
+card_changes_4449:
   id: 5791
   card_action_id: 7459
   field: 2
   value: "[[*always]]"
-card_changes_4452:
+card_changes_4450:
   id: 5792
   card_action_id: 7459
   field: 3
   value: '0'
-card_changes_4453:
+card_changes_4451:
   id: 5793
   card_action_id: 7464
   field: 0
   value: Search+*type
-card_changes_4454:
+card_changes_4452:
   id: 5794
   card_action_id: 7464
   field: 1
   value: '259'
-card_changes_4455:
+card_changes_4453:
   id: 5795
   card_action_id: 7464
   field: 2
   value: '{"type":"_left"}'
-card_changes_4456:
+card_changes_4454:
   id: 5796
   card_action_id: 7464
   field: 3
   value: '0'
-card_changes_4457:
+card_changes_4455:
   id: 5797
   card_action_id: 7463
   field: 0
   value: Search+*type+John Abbe
-card_changes_4458:
+card_changes_4456:
   id: 5798
   card_action_id: 7463
   field: 1
   value: '3'
-card_changes_4459:
+card_changes_4457:
   id: 5799
   card_action_id: 7463
   field: 2
   value: ''
-card_changes_4460:
+card_changes_4458:
   id: 5800
   card_action_id: 7463
   field: 3
   value: '0'
-card_changes_4461:
+card_changes_4459:
   id: 5801
   card_action_id: 7462
   field: 0
   value: Search+*type+John Abbe+*follow
-card_changes_4462:
+card_changes_4460:
   id: 5802
   card_action_id: 7462
   field: 1
   value: '47'
-card_changes_4463:
+card_changes_4461:
   id: 5803
   card_action_id: 7462
   field: 2
   value: "[[*always]]"
-card_changes_4464:
+card_changes_4462:
   id: 5804
   card_action_id: 7462
   field: 3
   value: '0'
-card_changes_4465:
+card_changes_4463:
   id: 5805
   card_action_id: 7467
   field: 0
   value: Image+*type
-card_changes_4466:
+card_changes_4464:
   id: 5806
   card_action_id: 7467
   field: 1
   value: '259'
-card_changes_4467:
+card_changes_4465:
   id: 5807
   card_action_id: 7467
   field: 2
   value: '{"type":"_left"}'
-card_changes_4468:
+card_changes_4466:
   id: 5808
   card_action_id: 7467
   field: 3
   value: '0'
-card_changes_4469:
+card_changes_4467:
   id: 5809
   card_action_id: 7466
   field: 0
   value: Image+*type+John Abbe
-card_changes_4470:
+card_changes_4468:
   id: 5810
   card_action_id: 7466
   field: 1
   value: '3'
-card_changes_4471:
+card_changes_4469:
   id: 5811
   card_action_id: 7466
   field: 2
   value: ''
-card_changes_4472:
+card_changes_4470:
   id: 5812
   card_action_id: 7466
   field: 3
   value: '0'
-card_changes_4473:
+card_changes_4471:
   id: 5813
   card_action_id: 7465
   field: 0
   value: Image+*type+John Abbe+*follow
-card_changes_4474:
+card_changes_4472:
   id: 5814
   card_action_id: 7465
   field: 1
   value: '47'
-card_changes_4475:
+card_changes_4473:
   id: 5815
   card_action_id: 7465
   field: 2
   value: "[[*always]]"
-card_changes_4476:
+card_changes_4474:
   id: 5816
   card_action_id: 7465
   field: 3
   value: '0'
-card_changes_4477:
+card_changes_4475:
   id: 5817
   card_action_id: 7469
   field: 0
   value: HTML+*type+John Abbe
-card_changes_4478:
+card_changes_4476:
   id: 5818
   card_action_id: 7469
   field: 1
   value: '3'
-card_changes_4479:
+card_changes_4477:
   id: 5819
   card_action_id: 7469
   field: 2
   value: ''
-card_changes_4480:
+card_changes_4478:
   id: 5820
   card_action_id: 7469
   field: 3
   value: '0'
-card_changes_4481:
+card_changes_4479:
   id: 5821
   card_action_id: 7468
   field: 0
   value: HTML+*type+John Abbe+*follow
-card_changes_4482:
+card_changes_4480:
   id: 5822
   card_action_id: 7468
   field: 1
   value: '47'
-card_changes_4483:
+card_changes_4481:
   id: 5823
   card_action_id: 7468
   field: 2
   value: "[[*always]]"
-card_changes_4484:
+card_changes_4482:
   id: 5824
   card_action_id: 7468
   field: 3
   value: '0'
-card_changes_4485:
+card_changes_4483:
   id: 5825
   card_action_id: 7471
   field: 0
   value: User+*type+John Abbe
-card_changes_4486:
+card_changes_4484:
   id: 5826
   card_action_id: 7471
   field: 1
   value: '3'
-card_changes_4487:
+card_changes_4485:
   id: 5827
   card_action_id: 7471
   field: 2
   value: ''
-card_changes_4488:
+card_changes_4486:
   id: 5828
   card_action_id: 7471
   field: 3
   value: '0'
-card_changes_4489:
+card_changes_4487:
   id: 5829
   card_action_id: 7470
   field: 0
   value: User+*type+John Abbe+*follow
-card_changes_4490:
+card_changes_4488:
   id: 5830
   card_action_id: 7470
   field: 1
   value: '47'
-card_changes_4491:
+card_changes_4489:
   id: 5831
   card_action_id: 7470
   field: 2
   value: "[[*always]]"
-card_changes_4492:
+card_changes_4490:
   id: 5832
   card_action_id: 7470
   field: 3
   value: '0'
-card_changes_4493:
+card_changes_4491:
   id: 5833
   card_action_id: 7473
   field: 0
   value: Cardtype+*type+John Abbe
-card_changes_4494:
+card_changes_4492:
   id: 5834
   card_action_id: 7473
   field: 1
   value: '3'
-card_changes_4495:
+card_changes_4493:
   id: 5835
   card_action_id: 7473
   field: 2
   value: ''
-card_changes_4496:
+card_changes_4494:
   id: 5836
   card_action_id: 7473
   field: 3
   value: '0'
-card_changes_4497:
+card_changes_4495:
   id: 5837
   card_action_id: 7472
   field: 0
   value: Cardtype+*type+John Abbe+*follow
-card_changes_4498:
+card_changes_4496:
   id: 5838
   card_action_id: 7472
   field: 1
   value: '47'
-card_changes_4499:
+card_changes_4497:
   id: 5839
   card_action_id: 7472
   field: 2
   value: "[[*always]]"
-card_changes_4500:
+card_changes_4498:
   id: 5840
   card_action_id: 7472
   field: 3
   value: '0'
-card_changes_4501:
+card_changes_4499:
   id: 5841
   card_action_id: 7476
   field: 0
   value: Date+*type
-card_changes_4502:
+card_changes_4500:
   id: 5842
   card_action_id: 7476
   field: 1
   value: '259'
-card_changes_4503:
+card_changes_4501:
   id: 5843
   card_action_id: 7476
   field: 2
   value: '{"type":"_left"}'
-card_changes_4504:
+card_changes_4502:
   id: 5844
   card_action_id: 7476
   field: 3
   value: '0'
-card_changes_4505:
+card_changes_4503:
   id: 5845
   card_action_id: 7475
   field: 0
   value: Date+*type+John Abbe
-card_changes_4506:
+card_changes_4504:
   id: 5846
   card_action_id: 7475
   field: 1
   value: '3'
-card_changes_4507:
+card_changes_4505:
   id: 5847
   card_action_id: 7475
   field: 2
   value: ''
-card_changes_4508:
+card_changes_4506:
   id: 5848
   card_action_id: 7475
   field: 3
   value: '0'
-card_changes_4509:
+card_changes_4507:
   id: 5849
   card_action_id: 7474
   field: 0
   value: Date+*type+John Abbe+*follow
-card_changes_4510:
+card_changes_4508:
   id: 5850
   card_action_id: 7474
   field: 1
   value: '47'
-card_changes_4511:
+card_changes_4509:
   id: 5851
   card_action_id: 7474
   field: 2
   value: "[[*always]]"
-card_changes_4512:
+card_changes_4510:
   id: 5852
   card_action_id: 7474
   field: 3
   value: '0'
-card_changes_4513:
+card_changes_4511:
   id: 5853
   card_action_id: 7479
   field: 0
   value: File+*type
-card_changes_4514:
+card_changes_4512:
   id: 5854
   card_action_id: 7479
   field: 1
   value: '259'
-card_changes_4515:
+card_changes_4513:
   id: 5855
   card_action_id: 7479
   field: 2
   value: '{"type":"_left"}'
-card_changes_4516:
+card_changes_4514:
   id: 5856
   card_action_id: 7479
   field: 3
   value: '0'
-card_changes_4517:
+card_changes_4515:
   id: 5857
   card_action_id: 7478
   field: 0
   value: File+*type+John Abbe
-card_changes_4518:
+card_changes_4516:
   id: 5858
   card_action_id: 7478
   field: 1
   value: '3'
-card_changes_4519:
+card_changes_4517:
   id: 5859
   card_action_id: 7478
   field: 2
   value: ''
-card_changes_4520:
+card_changes_4518:
   id: 5860
   card_action_id: 7478
   field: 3
   value: '0'
-card_changes_4521:
+card_changes_4519:
   id: 5861
   card_action_id: 7477
   field: 0
   value: File+*type+John Abbe+*follow
-card_changes_4522:
+card_changes_4520:
   id: 5862
   card_action_id: 7477
   field: 1
   value: '47'
-card_changes_4523:
+card_changes_4521:
   id: 5863
   card_action_id: 7477
   field: 2
   value: "[[*always]]"
-card_changes_4524:
+card_changes_4522:
   id: 5864
   card_action_id: 7477
   field: 3
   value: '0'
-card_changes_4525:
+card_changes_4523:
   id: 5865
   card_action_id: 7482
   field: 0
   value: Number+*type
-card_changes_4526:
+card_changes_4524:
   id: 5866
   card_action_id: 7482
   field: 1
   value: '259'
-card_changes_4527:
+card_changes_4525:
   id: 5867
   card_action_id: 7482
   field: 2
   value: '{"type":"_left"}'
-card_changes_4528:
+card_changes_4526:
   id: 5868
   card_action_id: 7482
   field: 3
   value: '0'
-card_changes_4529:
+card_changes_4527:
   id: 5869
   card_action_id: 7481
   field: 0
   value: Number+*type+John Abbe
-card_changes_4530:
+card_changes_4528:
   id: 5870
   card_action_id: 7481
   field: 1
   value: '3'
-card_changes_4531:
+card_changes_4529:
   id: 5871
   card_action_id: 7481
   field: 2
   value: ''
-card_changes_4532:
+card_changes_4530:
   id: 5872
   card_action_id: 7481
   field: 3
   value: '0'
-card_changes_4533:
+card_changes_4531:
   id: 5873
   card_action_id: 7480
   field: 0
   value: Number+*type+John Abbe+*follow
-card_changes_4534:
+card_changes_4532:
   id: 5874
   card_action_id: 7480
   field: 1
   value: '47'
-card_changes_4535:
+card_changes_4533:
   id: 5875
   card_action_id: 7480
   field: 2
   value: "[[*always]]"
-card_changes_4536:
+card_changes_4534:
   id: 5876
   card_action_id: 7480
   field: 3
   value: '0'
-card_changes_4537:
+card_changes_4535:
   id: 5877
   card_action_id: 7484
   field: 0
   value: Role+*type+John Abbe
-card_changes_4538:
+card_changes_4536:
   id: 5878
   card_action_id: 7484
   field: 1
   value: '3'
-card_changes_4539:
+card_changes_4537:
   id: 5879
   card_action_id: 7484
   field: 2
   value: ''
-card_changes_4540:
+card_changes_4538:
   id: 5880
   card_action_id: 7484
   field: 3
   value: '0'
-card_changes_4541:
+card_changes_4539:
   id: 5881
   card_action_id: 7483
   field: 0
   value: Role+*type+John Abbe+*follow
-card_changes_4542:
+card_changes_4540:
   id: 5882
   card_action_id: 7483
   field: 1
   value: '47'
-card_changes_4543:
+card_changes_4541:
   id: 5883
   card_action_id: 7483
   field: 2
   value: "[[*always]]"
-card_changes_4544:
+card_changes_4542:
   id: 5884
   card_action_id: 7483
   field: 3
   value: '0'
-card_changes_4545:
+card_changes_4543:
   id: 5885
   card_action_id: 7487
   field: 0
   value: Toggle+*type
-card_changes_4546:
+card_changes_4544:
   id: 5886
   card_action_id: 7487
   field: 1
   value: '259'
-card_changes_4547:
+card_changes_4545:
   id: 5887
   card_action_id: 7487
   field: 2
   value: '{"type":"_left"}'
-card_changes_4548:
+card_changes_4546:
   id: 5888
   card_action_id: 7487
   field: 3
   value: '0'
-card_changes_4549:
+card_changes_4547:
   id: 5889
   card_action_id: 7486
   field: 0
   value: Toggle+*type+John Abbe
-card_changes_4550:
+card_changes_4548:
   id: 5890
   card_action_id: 7486
   field: 1
   value: '3'
-card_changes_4551:
+card_changes_4549:
   id: 5891
   card_action_id: 7486
   field: 2
   value: ''
-card_changes_4552:
+card_changes_4550:
   id: 5892
   card_action_id: 7486
   field: 3
   value: '0'
-card_changes_4553:
+card_changes_4551:
   id: 5893
   card_action_id: 7485
   field: 0
   value: Toggle+*type+John Abbe+*follow
-card_changes_4554:
+card_changes_4552:
   id: 5894
   card_action_id: 7485
   field: 1
   value: '47'
-card_changes_4555:
+card_changes_4553:
   id: 5895
   card_action_id: 7485
   field: 2
   value: "[[*always]]"
-card_changes_4556:
+card_changes_4554:
   id: 5896
   card_action_id: 7485
   field: 3
   value: '0'
-card_changes_4557:
+card_changes_4555:
   id: 5897
   card_action_id: 7697
   field: 0
   value: themeless bootstrap skin
-card_changes_4558:
+card_changes_4556:
   id: 5898
   card_action_id: 7697
   field: 1
   value: '944'
-card_changes_4559:
+card_changes_4557:
   id: 5900
   card_action_id: 7697
   field: 3
   value: '0'
-card_changes_4560:
+card_changes_4558:
   id: 5901
   card_action_id: 7698
   field: 0
   value: themeless bootstrap skin+*machine input
-card_changes_4561:
+card_changes_4559:
   id: 5902
   card_action_id: 7698
   field: 1
   value: '47'
-card_changes_4562:
+card_changes_4560:
   id: 5904
   card_action_id: 7698
   field: 3
   value: '0'
-card_changes_4563:
+card_changes_4561:
   id: 5907
   card_action_id: 7492
   field: 0
   value: 'theme: cerulean'
-card_changes_4564:
+card_changes_4562:
   id: 5908
   card_action_id: 7492
   field: 1
   value: '942'
-card_changes_4565:
+card_changes_4563:
   id: 5909
   card_action_id: 7492
   field: 2
   value: ''
-card_changes_4566:
+card_changes_4564:
   id: 5910
   card_action_id: 7492
   field: 3
   value: '0'
-card_changes_4567:
+card_changes_4565:
   id: 5911
   card_action_id: 7493
   field: 0
   value: 'theme: cerulean+*machine input'
-card_changes_4568:
+card_changes_4566:
   id: 5912
   card_action_id: 7493
   field: 1
   value: '47'
-card_changes_4569:
+card_changes_4567:
   id: 5913
   card_action_id: 7493
   field: 2
   value: "[[theme: cerulean]]"
-card_changes_4570:
+card_changes_4568:
   id: 5914
   card_action_id: 7493
   field: 3
   value: '0'
-card_changes_4571:
+card_changes_4569:
   id: 5915
-  card_action_id: 7740
+  card_action_id: 7736
   field: 0
   value: cerulean skin
-card_changes_4572:
+card_changes_4570:
   id: 5916
-  card_action_id: 7740
+  card_action_id: 7736
   field: 1
   value: '944'
-card_changes_4573:
+card_changes_4571:
   id: 5918
-  card_action_id: 7740
+  card_action_id: 7736
   field: 3
   value: '0'
-card_changes_4574:
+card_changes_4572:
   id: 5919
-  card_action_id: 7745
+  card_action_id: 7742
   field: 0
   value: cerulean skin+*machine input
-card_changes_4575:
+card_changes_4573:
   id: 5920
-  card_action_id: 7745
+  card_action_id: 7742
   field: 1
   value: '47'
-card_changes_4576:
+card_changes_4574:
   id: 5922
-  card_action_id: 7745
+  card_action_id: 7742
   field: 3
   value: '0'
-card_changes_4577:
+card_changes_4575:
   id: 5923
   card_action_id: 7497
   field: 0
   value: 'theme: cosmo'
-card_changes_4578:
+card_changes_4576:
   id: 5924
   card_action_id: 7497
   field: 1
   value: '942'
-card_changes_4579:
+card_changes_4577:
   id: 5925
   card_action_id: 7497
   field: 2
   value: ''
-card_changes_4580:
+card_changes_4578:
   id: 5926
   card_action_id: 7497
   field: 3
   value: '0'
-card_changes_4581:
+card_changes_4579:
   id: 5927
   card_action_id: 7498
   field: 0
   value: 'theme: cosmo+*machine input'
-card_changes_4582:
+card_changes_4580:
   id: 5928
   card_action_id: 7498
   field: 1
   value: '47'
-card_changes_4583:
+card_changes_4581:
   id: 5929
   card_action_id: 7498
   field: 2
   value: "[[theme: cosmo]]"
-card_changes_4584:
+card_changes_4582:
   id: 5930
   card_action_id: 7498
   field: 3
   value: '0'
-card_changes_4585:
+card_changes_4583:
   id: 5931
-  card_action_id: 7746
+  card_action_id: 7743
   field: 0
   value: cosmo skin
-card_changes_4586:
+card_changes_4584:
   id: 5932
-  card_action_id: 7746
+  card_action_id: 7743
   field: 1
   value: '944'
-card_changes_4587:
+card_changes_4585:
   id: 5934
-  card_action_id: 7746
+  card_action_id: 7743
   field: 3
   value: '0'
-card_changes_4588:
+card_changes_4586:
   id: 5935
-  card_action_id: 7751
+  card_action_id: 7748
   field: 0
   value: cosmo skin+*machine input
-card_changes_4589:
+card_changes_4587:
   id: 5936
-  card_action_id: 7751
+  card_action_id: 7748
   field: 1
   value: '47'
-card_changes_4590:
+card_changes_4588:
   id: 5938
-  card_action_id: 7751
+  card_action_id: 7748
   field: 3
   value: '0'
-card_changes_4591:
+card_changes_4589:
   id: 5939
   card_action_id: 7502
   field: 0
   value: 'theme: cyborg'
-card_changes_4592:
+card_changes_4590:
   id: 5940
   card_action_id: 7502
   field: 1
   value: '942'
-card_changes_4593:
+card_changes_4591:
   id: 5941
   card_action_id: 7502
   field: 2
   value: ''
-card_changes_4594:
+card_changes_4592:
   id: 5942
   card_action_id: 7502
   field: 3
   value: '0'
-card_changes_4595:
+card_changes_4593:
   id: 5943
   card_action_id: 7503
   field: 0
   value: 'theme: cyborg+*machine input'
-card_changes_4596:
+card_changes_4594:
   id: 5944
   card_action_id: 7503
   field: 1
   value: '47'
-card_changes_4597:
+card_changes_4595:
   id: 5945
   card_action_id: 7503
   field: 2
   value: "[[theme: cyborg]]"
-card_changes_4598:
+card_changes_4596:
   id: 5946
   card_action_id: 7503
   field: 3
   value: '0'
-card_changes_4599:
+card_changes_4597:
   id: 5947
-  card_action_id: 7752
+  card_action_id: 7749
   field: 0
   value: cyborg skin
-card_changes_4600:
+card_changes_4598:
   id: 5948
-  card_action_id: 7752
+  card_action_id: 7749
   field: 1
   value: '944'
-card_changes_4601:
+card_changes_4599:
   id: 5950
-  card_action_id: 7752
+  card_action_id: 7749
   field: 3
   value: '0'
-card_changes_4602:
+card_changes_4600:
   id: 5951
-  card_action_id: 7757
+  card_action_id: 7754
   field: 0
   value: cyborg skin+*machine input
-card_changes_4603:
+card_changes_4601:
   id: 5952
-  card_action_id: 7757
+  card_action_id: 7754
   field: 1
   value: '47'
-card_changes_4604:
+card_changes_4602:
   id: 5954
-  card_action_id: 7757
+  card_action_id: 7754
   field: 3
   value: '0'
-card_changes_4605:
+card_changes_4603:
   id: 5955
   card_action_id: 7507
   field: 0
   value: 'theme: darkly'
-card_changes_4606:
+card_changes_4604:
   id: 5956
   card_action_id: 7507
   field: 1
   value: '942'
-card_changes_4607:
+card_changes_4605:
   id: 5957
   card_action_id: 7507
   field: 2
   value: ''
-card_changes_4608:
+card_changes_4606:
   id: 5958
   card_action_id: 7507
   field: 3
   value: '0'
-card_changes_4609:
+card_changes_4607:
   id: 5959
   card_action_id: 7508
   field: 0
   value: 'theme: darkly+*machine input'
-card_changes_4610:
+card_changes_4608:
   id: 5960
   card_action_id: 7508
   field: 1
   value: '47'
-card_changes_4611:
+card_changes_4609:
   id: 5961
   card_action_id: 7508
   field: 2
   value: "[[theme: darkly]]"
-card_changes_4612:
+card_changes_4610:
   id: 5962
   card_action_id: 7508
   field: 3
   value: '0'
-card_changes_4613:
+card_changes_4611:
   id: 5963
-  card_action_id: 7758
+  card_action_id: 7755
   field: 0
   value: darkly skin
-card_changes_4614:
+card_changes_4612:
   id: 5964
-  card_action_id: 7758
+  card_action_id: 7755
   field: 1
   value: '944'
-card_changes_4615:
+card_changes_4613:
   id: 5966
-  card_action_id: 7758
+  card_action_id: 7755
   field: 3
   value: '0'
-card_changes_4616:
+card_changes_4614:
   id: 5967
-  card_action_id: 7763
+  card_action_id: 7760
   field: 0
   value: darkly skin+*machine input
-card_changes_4617:
+card_changes_4615:
   id: 5968
-  card_action_id: 7763
+  card_action_id: 7760
   field: 1
   value: '47'
-card_changes_4618:
+card_changes_4616:
   id: 5970
-  card_action_id: 7763
+  card_action_id: 7760
   field: 3
   value: '0'
-card_changes_4619:
+card_changes_4617:
   id: 5971
   card_action_id: 7512
   field: 0
   value: 'theme: flatly'
-card_changes_4620:
+card_changes_4618:
   id: 5972
   card_action_id: 7512
   field: 1
   value: '942'
-card_changes_4621:
+card_changes_4619:
   id: 5973
   card_action_id: 7512
   field: 2
   value: ''
-card_changes_4622:
+card_changes_4620:
   id: 5974
   card_action_id: 7512
   field: 3
   value: '0'
-card_changes_4623:
+card_changes_4621:
   id: 5975
   card_action_id: 7513
   field: 0
   value: 'theme: flatly+*machine input'
-card_changes_4624:
+card_changes_4622:
   id: 5976
   card_action_id: 7513
   field: 1
   value: '47'
-card_changes_4625:
+card_changes_4623:
   id: 5977
   card_action_id: 7513
   field: 2
   value: "[[theme: flatly]]"
-card_changes_4626:
+card_changes_4624:
   id: 5978
   card_action_id: 7513
   field: 3
   value: '0'
-card_changes_4627:
+card_changes_4625:
   id: 5979
-  card_action_id: 7764
+  card_action_id: 7761
   field: 0
   value: flatly skin
-card_changes_4628:
+card_changes_4626:
   id: 5980
-  card_action_id: 7764
+  card_action_id: 7761
   field: 1
   value: '944'
-card_changes_4629:
+card_changes_4627:
   id: 5982
-  card_action_id: 7764
+  card_action_id: 7761
   field: 3
   value: '0'
-card_changes_4630:
+card_changes_4628:
   id: 5983
-  card_action_id: 7769
+  card_action_id: 7766
   field: 0
   value: flatly skin+*machine input
-card_changes_4631:
+card_changes_4629:
   id: 5984
-  card_action_id: 7769
+  card_action_id: 7766
   field: 1
   value: '47'
-card_changes_4632:
+card_changes_4630:
   id: 5986
-  card_action_id: 7769
+  card_action_id: 7766
   field: 3
   value: '0'
-card_changes_4633:
+card_changes_4631:
   id: 5987
   card_action_id: 7517
   field: 0
   value: 'theme: journal'
-card_changes_4634:
+card_changes_4632:
   id: 5988
   card_action_id: 7517
   field: 1
   value: '942'
-card_changes_4635:
+card_changes_4633:
   id: 5989
   card_action_id: 7517
   field: 2
   value: ''
-card_changes_4636:
+card_changes_4634:
   id: 5990
   card_action_id: 7517
   field: 3
   value: '0'
-card_changes_4637:
+card_changes_4635:
   id: 5991
   card_action_id: 7518
   field: 0
   value: 'theme: journal+*machine input'
-card_changes_4638:
+card_changes_4636:
   id: 5992
   card_action_id: 7518
   field: 1
   value: '47'
-card_changes_4639:
+card_changes_4637:
   id: 5993
   card_action_id: 7518
   field: 2
   value: "[[theme: journal]]"
-card_changes_4640:
+card_changes_4638:
   id: 5994
   card_action_id: 7518
   field: 3
   value: '0'
-card_changes_4641:
+card_changes_4639:
   id: 5995
-  card_action_id: 7770
+  card_action_id: 7767
   field: 0
   value: journal skin
-card_changes_4642:
+card_changes_4640:
   id: 5996
-  card_action_id: 7770
+  card_action_id: 7767
   field: 1
   value: '944'
-card_changes_4643:
+card_changes_4641:
   id: 5998
-  card_action_id: 7770
+  card_action_id: 7767
   field: 3
   value: '0'
-card_changes_4644:
+card_changes_4642:
   id: 5999
-  card_action_id: 7775
+  card_action_id: 7772
   field: 0
   value: journal skin+*machine input
-card_changes_4645:
+card_changes_4643:
   id: 6000
-  card_action_id: 7775
+  card_action_id: 7772
   field: 1
   value: '47'
-card_changes_4646:
+card_changes_4644:
   id: 6002
-  card_action_id: 7775
+  card_action_id: 7772
   field: 3
   value: '0'
-card_changes_4647:
+card_changes_4645:
   id: 6003
   card_action_id: 7522
   field: 0
   value: 'theme: lumen'
-card_changes_4648:
+card_changes_4646:
   id: 6004
   card_action_id: 7522
   field: 1
   value: '942'
-card_changes_4649:
+card_changes_4647:
   id: 6005
   card_action_id: 7522
   field: 2
   value: ''
-card_changes_4650:
+card_changes_4648:
   id: 6006
   card_action_id: 7522
   field: 3
   value: '0'
-card_changes_4651:
+card_changes_4649:
   id: 6007
   card_action_id: 7523
   field: 0
   value: 'theme: lumen+*machine input'
-card_changes_4652:
+card_changes_4650:
   id: 6008
   card_action_id: 7523
   field: 1
   value: '47'
-card_changes_4653:
+card_changes_4651:
   id: 6009
   card_action_id: 7523
   field: 2
   value: "[[theme: lumen]]"
-card_changes_4654:
+card_changes_4652:
   id: 6010
   card_action_id: 7523
   field: 3
   value: '0'
-card_changes_4655:
+card_changes_4653:
   id: 6011
-  card_action_id: 7776
+  card_action_id: 7773
   field: 0
   value: lumen skin
-card_changes_4656:
+card_changes_4654:
   id: 6012
-  card_action_id: 7776
+  card_action_id: 7773
   field: 1
   value: '944'
-card_changes_4657:
+card_changes_4655:
   id: 6014
-  card_action_id: 7776
+  card_action_id: 7773
   field: 3
   value: '0'
-card_changes_4658:
+card_changes_4656:
   id: 6015
-  card_action_id: 7781
+  card_action_id: 7778
   field: 0
   value: lumen skin+*machine input
-card_changes_4659:
+card_changes_4657:
   id: 6016
-  card_action_id: 7781
+  card_action_id: 7778
   field: 1
   value: '47'
-card_changes_4660:
+card_changes_4658:
   id: 6018
-  card_action_id: 7781
+  card_action_id: 7778
   field: 3
   value: '0'
-card_changes_4661:
+card_changes_4659:
   id: 6019
   card_action_id: 7527
   field: 0
   value: 'theme: paper'
-card_changes_4662:
+card_changes_4660:
   id: 6020
   card_action_id: 7527
   field: 1
   value: '942'
-card_changes_4663:
+card_changes_4661:
   id: 6021
   card_action_id: 7527
   field: 2
   value: ''
-card_changes_4664:
+card_changes_4662:
   id: 6022
   card_action_id: 7527
   field: 3
   value: '0'
-card_changes_4665:
+card_changes_4663:
   id: 6023
   card_action_id: 7528
   field: 0
   value: 'theme: paper+*machine input'
-card_changes_4666:
+card_changes_4664:
   id: 6024
   card_action_id: 7528
   field: 1
   value: '47'
-card_changes_4667:
+card_changes_4665:
   id: 6025
   card_action_id: 7528
   field: 2
   value: "[[theme: paper]]"
-card_changes_4668:
+card_changes_4666:
   id: 6026
   card_action_id: 7528
   field: 3
   value: '0'
-card_changes_4669:
+card_changes_4667:
   id: 6027
-  card_action_id: 7782
+  card_action_id: 7779
   field: 0
   value: paper skin
-card_changes_4670:
+card_changes_4668:
   id: 6028
-  card_action_id: 7782
+  card_action_id: 7779
   field: 1
   value: '944'
-card_changes_4671:
+card_changes_4669:
   id: 6030
-  card_action_id: 7782
+  card_action_id: 7779
   field: 3
   value: '0'
-card_changes_4672:
+card_changes_4670:
   id: 6031
-  card_action_id: 7787
+  card_action_id: 7784
   field: 0
   value: paper skin+*machine input
-card_changes_4673:
+card_changes_4671:
   id: 6032
-  card_action_id: 7787
+  card_action_id: 7784
   field: 1
   value: '47'
-card_changes_4674:
+card_changes_4672:
   id: 6034
-  card_action_id: 7787
+  card_action_id: 7784
   field: 3
   value: '0'
-card_changes_4675:
+card_changes_4673:
   id: 6035
   card_action_id: 7532
   field: 0
   value: 'theme: readable'
-card_changes_4676:
+card_changes_4674:
   id: 6036
   card_action_id: 7532
   field: 1
   value: '942'
-card_changes_4677:
+card_changes_4675:
   id: 6037
   card_action_id: 7532
   field: 2
   value: ''
-card_changes_4678:
+card_changes_4676:
   id: 6038
   card_action_id: 7532
   field: 3
   value: '0'
-card_changes_4679:
+card_changes_4677:
   id: 6039
   card_action_id: 7533
   field: 0
   value: 'theme: readable+*machine input'
-card_changes_4680:
+card_changes_4678:
   id: 6040
   card_action_id: 7533
   field: 1
   value: '47'
-card_changes_4681:
+card_changes_4679:
   id: 6041
   card_action_id: 7533
   field: 2
   value: "[[theme: readable]]"
-card_changes_4682:
+card_changes_4680:
   id: 6042
   card_action_id: 7533
   field: 3
   value: '0'
-card_changes_4683:
+card_changes_4681:
   id: 6043
-  card_action_id: 7788
+  card_action_id: 7785
   field: 0
   value: readable skin
-card_changes_4684:
+card_changes_4682:
   id: 6044
-  card_action_id: 7788
+  card_action_id: 7785
   field: 1
   value: '944'
-card_changes_4685:
+card_changes_4683:
   id: 6046
-  card_action_id: 7788
+  card_action_id: 7785
   field: 3
   value: '0'
-card_changes_4686:
+card_changes_4684:
   id: 6047
-  card_action_id: 7793
+  card_action_id: 7790
   field: 0
   value: readable skin+*machine input
-card_changes_4687:
+card_changes_4685:
   id: 6048
-  card_action_id: 7793
+  card_action_id: 7790
   field: 1
   value: '47'
-card_changes_4688:
+card_changes_4686:
   id: 6050
-  card_action_id: 7793
+  card_action_id: 7790
   field: 3
   value: '0'
-card_changes_4689:
+card_changes_4687:
   id: 6051
   card_action_id: 7537
   field: 0
   value: 'theme: sandstone'
-card_changes_4690:
+card_changes_4688:
   id: 6052
   card_action_id: 7537
   field: 1
   value: '942'
-card_changes_4691:
+card_changes_4689:
   id: 6053
   card_action_id: 7537
   field: 2
   value: ''
-card_changes_4692:
+card_changes_4690:
   id: 6054
   card_action_id: 7537
   field: 3
   value: '0'
-card_changes_4693:
+card_changes_4691:
   id: 6055
   card_action_id: 7538
   field: 0
   value: 'theme: sandstone+*machine input'
-card_changes_4694:
+card_changes_4692:
   id: 6056
   card_action_id: 7538
   field: 1
   value: '47'
-card_changes_4695:
+card_changes_4693:
   id: 6057
   card_action_id: 7538
   field: 2
   value: "[[theme: sandstone]]"
-card_changes_4696:
+card_changes_4694:
   id: 6058
   card_action_id: 7538
   field: 3
   value: '0'
-card_changes_4697:
+card_changes_4695:
   id: 6059
-  card_action_id: 7794
+  card_action_id: 7791
   field: 0
   value: sandstone skin
-card_changes_4698:
+card_changes_4696:
   id: 6060
-  card_action_id: 7794
+  card_action_id: 7791
   field: 1
   value: '944'
-card_changes_4699:
+card_changes_4697:
   id: 6062
-  card_action_id: 7794
+  card_action_id: 7791
   field: 3
   value: '0'
-card_changes_4700:
+card_changes_4698:
   id: 6063
-  card_action_id: 7799
+  card_action_id: 7796
   field: 0
   value: sandstone skin+*machine input
-card_changes_4701:
+card_changes_4699:
   id: 6064
-  card_action_id: 7799
+  card_action_id: 7796
   field: 1
   value: '47'
-card_changes_4702:
+card_changes_4700:
   id: 6066
-  card_action_id: 7799
+  card_action_id: 7796
   field: 3
   value: '0'
-card_changes_4703:
+card_changes_4701:
   id: 6067
   card_action_id: 7542
   field: 0
   value: 'theme: simplex'
-card_changes_4704:
+card_changes_4702:
   id: 6068
   card_action_id: 7542
   field: 1
   value: '942'
-card_changes_4705:
+card_changes_4703:
   id: 6069
   card_action_id: 7542
   field: 2
   value: ''
-card_changes_4706:
+card_changes_4704:
   id: 6070
   card_action_id: 7542
   field: 3
   value: '0'
-card_changes_4707:
+card_changes_4705:
   id: 6071
   card_action_id: 7543
   field: 0
   value: 'theme: simplex+*machine input'
-card_changes_4708:
+card_changes_4706:
   id: 6072
   card_action_id: 7543
   field: 1
   value: '47'
-card_changes_4709:
+card_changes_4707:
   id: 6073
   card_action_id: 7543
   field: 2
   value: "[[theme: simplex]]"
-card_changes_4710:
+card_changes_4708:
   id: 6074
   card_action_id: 7543
   field: 3
   value: '0'
-card_changes_4711:
+card_changes_4709:
   id: 6075
-  card_action_id: 7800
+  card_action_id: 7797
   field: 0
   value: simplex skin
-card_changes_4712:
+card_changes_4710:
   id: 6076
-  card_action_id: 7800
+  card_action_id: 7797
   field: 1
   value: '944'
-card_changes_4713:
+card_changes_4711:
   id: 6078
-  card_action_id: 7800
+  card_action_id: 7797
   field: 3
   value: '0'
-card_changes_4714:
+card_changes_4712:
   id: 6079
-  card_action_id: 7805
+  card_action_id: 7802
   field: 0
   value: simplex skin+*machine input
-card_changes_4715:
+card_changes_4713:
   id: 6080
-  card_action_id: 7805
+  card_action_id: 7802
   field: 1
   value: '47'
-card_changes_4716:
+card_changes_4714:
   id: 6082
-  card_action_id: 7805
+  card_action_id: 7802
   field: 3
   value: '0'
-card_changes_4717:
+card_changes_4715:
   id: 6083
   card_action_id: 7547
   field: 0
   value: 'theme: slate'
-card_changes_4718:
+card_changes_4716:
   id: 6084
   card_action_id: 7547
   field: 1
   value: '942'
-card_changes_4719:
+card_changes_4717:
   id: 6085
   card_action_id: 7547
   field: 2
   value: ''
-card_changes_4720:
+card_changes_4718:
   id: 6086
   card_action_id: 7547
   field: 3
   value: '0'
-card_changes_4721:
+card_changes_4719:
   id: 6087
   card_action_id: 7548
   field: 0
   value: 'theme: slate+*machine input'
-card_changes_4722:
+card_changes_4720:
   id: 6088
   card_action_id: 7548
   field: 1
   value: '47'
-card_changes_4723:
+card_changes_4721:
   id: 6089
   card_action_id: 7548
   field: 2
   value: "[[theme: slate]]"
-card_changes_4724:
+card_changes_4722:
   id: 6090
   card_action_id: 7548
   field: 3
   value: '0'
-card_changes_4725:
+card_changes_4723:
   id: 6091
-  card_action_id: 7806
+  card_action_id: 7803
   field: 0
   value: slate skin
-card_changes_4726:
+card_changes_4724:
   id: 6092
-  card_action_id: 7806
+  card_action_id: 7803
   field: 1
   value: '944'
-card_changes_4727:
+card_changes_4725:
   id: 6094
-  card_action_id: 7806
+  card_action_id: 7803
   field: 3
   value: '0'
-card_changes_4728:
+card_changes_4726:
   id: 6095
-  card_action_id: 7811
+  card_action_id: 7808
   field: 0
   value: slate skin+*machine input
-card_changes_4729:
+card_changes_4727:
   id: 6096
-  card_action_id: 7811
+  card_action_id: 7808
   field: 1
   value: '47'
-card_changes_4730:
+card_changes_4728:
   id: 6098
-  card_action_id: 7811
+  card_action_id: 7808
   field: 3
   value: '0'
-card_changes_4731:
+card_changes_4729:
   id: 6099
   card_action_id: 7552
   field: 0
   value: 'theme: spacelab'
-card_changes_4732:
+card_changes_4730:
   id: 6100
   card_action_id: 7552
   field: 1
   value: '942'
-card_changes_4733:
+card_changes_4731:
   id: 6101
   card_action_id: 7552
   field: 2
   value: ''
-card_changes_4734:
+card_changes_4732:
   id: 6102
   card_action_id: 7552
   field: 3
   value: '0'
-card_changes_4735:
+card_changes_4733:
   id: 6103
   card_action_id: 7553
   field: 0
   value: 'theme: spacelab+*machine input'
-card_changes_4736:
+card_changes_4734:
   id: 6104
   card_action_id: 7553
   field: 1
   value: '47'
-card_changes_4737:
+card_changes_4735:
   id: 6105
   card_action_id: 7553
   field: 2
   value: "[[theme: spacelab]]"
-card_changes_4738:
+card_changes_4736:
   id: 6106
   card_action_id: 7553
   field: 3
   value: '0'
-card_changes_4739:
+card_changes_4737:
   id: 6107
-  card_action_id: 7812
+  card_action_id: 7809
   field: 0
   value: spacelab skin
-card_changes_4740:
+card_changes_4738:
   id: 6108
-  card_action_id: 7812
+  card_action_id: 7809
   field: 1
   value: '944'
-card_changes_4741:
+card_changes_4739:
   id: 6110
-  card_action_id: 7812
+  card_action_id: 7809
   field: 3
   value: '0'
-card_changes_4742:
+card_changes_4740:
   id: 6111
-  card_action_id: 7817
+  card_action_id: 7814
   field: 0
   value: spacelab skin+*machine input
-card_changes_4743:
+card_changes_4741:
   id: 6112
-  card_action_id: 7817
+  card_action_id: 7814
   field: 1
   value: '47'
-card_changes_4744:
+card_changes_4742:
   id: 6114
-  card_action_id: 7817
+  card_action_id: 7814
   field: 3
   value: '0'
-card_changes_4745:
+card_changes_4743:
   id: 6115
   card_action_id: 7557
   field: 0
   value: 'theme: superhero'
-card_changes_4746:
+card_changes_4744:
   id: 6116
   card_action_id: 7557
   field: 1
   value: '942'
-card_changes_4747:
+card_changes_4745:
   id: 6117
   card_action_id: 7557
   field: 2
   value: ''
-card_changes_4748:
+card_changes_4746:
   id: 6118
   card_action_id: 7557
   field: 3
   value: '0'
-card_changes_4749:
+card_changes_4747:
   id: 6119
   card_action_id: 7558
   field: 0
   value: 'theme: superhero+*machine input'
-card_changes_4750:
+card_changes_4748:
   id: 6120
   card_action_id: 7558
   field: 1
   value: '47'
-card_changes_4751:
+card_changes_4749:
   id: 6121
   card_action_id: 7558
   field: 2
   value: "[[theme: superhero]]"
-card_changes_4752:
+card_changes_4750:
   id: 6122
   card_action_id: 7558
   field: 3
   value: '0'
-card_changes_4753:
+card_changes_4751:
   id: 6123
-  card_action_id: 7818
+  card_action_id: 7815
   field: 0
   value: superhero skin
-card_changes_4754:
+card_changes_4752:
   id: 6124
-  card_action_id: 7818
+  card_action_id: 7815
   field: 1
   value: '944'
-card_changes_4755:
+card_changes_4753:
   id: 6126
-  card_action_id: 7818
+  card_action_id: 7815
   field: 3
   value: '0'
-card_changes_4756:
+card_changes_4754:
   id: 6127
-  card_action_id: 7823
+  card_action_id: 7820
   field: 0
   value: superhero skin+*machine input
-card_changes_4757:
+card_changes_4755:
   id: 6128
-  card_action_id: 7823
+  card_action_id: 7820
   field: 1
   value: '47'
-card_changes_4758:
+card_changes_4756:
   id: 6130
-  card_action_id: 7823
+  card_action_id: 7820
   field: 3
   value: '0'
-card_changes_4759:
+card_changes_4757:
   id: 6131
   card_action_id: 7562
   field: 0
   value: 'theme: united'
-card_changes_4760:
+card_changes_4758:
   id: 6132
   card_action_id: 7562
   field: 1
   value: '942'
-card_changes_4761:
+card_changes_4759:
   id: 6133
   card_action_id: 7562
   field: 2
   value: ''
-card_changes_4762:
+card_changes_4760:
   id: 6134
   card_action_id: 7562
   field: 3
   value: '0'
-card_changes_4763:
+card_changes_4761:
   id: 6135
   card_action_id: 7563
   field: 0
   value: 'theme: united+*machine input'
-card_changes_4764:
+card_changes_4762:
   id: 6136
   card_action_id: 7563
   field: 1
   value: '47'
-card_changes_4765:
+card_changes_4763:
   id: 6137
   card_action_id: 7563
   field: 2
   value: "[[theme: united]]"
-card_changes_4766:
+card_changes_4764:
   id: 6138
   card_action_id: 7563
   field: 3
   value: '0'
-card_changes_4767:
+card_changes_4765:
   id: 6139
-  card_action_id: 7824
+  card_action_id: 7821
   field: 0
   value: united skin
-card_changes_4768:
+card_changes_4766:
   id: 6140
-  card_action_id: 7824
+  card_action_id: 7821
   field: 1
   value: '944'
-card_changes_4769:
+card_changes_4767:
   id: 6142
-  card_action_id: 7824
+  card_action_id: 7821
   field: 3
   value: '0'
-card_changes_4770:
+card_changes_4768:
   id: 6143
-  card_action_id: 7829
+  card_action_id: 7826
   field: 0
   value: united skin+*machine input
-card_changes_4771:
+card_changes_4769:
   id: 6144
-  card_action_id: 7829
+  card_action_id: 7826
   field: 1
   value: '47'
-card_changes_4772:
+card_changes_4770:
   id: 6146
-  card_action_id: 7829
+  card_action_id: 7826
   field: 3
   value: '0'
-card_changes_4773:
+card_changes_4771:
   id: 6147
   card_action_id: 7567
   field: 0
   value: 'theme: yeti'
-card_changes_4774:
+card_changes_4772:
   id: 6148
   card_action_id: 7567
   field: 1
   value: '942'
-card_changes_4775:
+card_changes_4773:
   id: 6149
   card_action_id: 7567
   field: 2
   value: ''
-card_changes_4776:
+card_changes_4774:
   id: 6150
   card_action_id: 7567
   field: 3
   value: '0'
-card_changes_4777:
+card_changes_4775:
   id: 6151
   card_action_id: 7568
   field: 0
   value: 'theme: yeti+*machine input'
-card_changes_4778:
+card_changes_4776:
   id: 6152
   card_action_id: 7568
   field: 1
   value: '47'
-card_changes_4779:
+card_changes_4777:
   id: 6153
   card_action_id: 7568
   field: 2
   value: "[[theme: yeti]]"
-card_changes_4780:
+card_changes_4778:
   id: 6154
   card_action_id: 7568
   field: 3
   value: '0'
-card_changes_4781:
+card_changes_4779:
   id: 6155
-  card_action_id: 7830
+  card_action_id: 7827
   field: 0
   value: yeti skin
-card_changes_4782:
+card_changes_4780:
   id: 6156
-  card_action_id: 7830
+  card_action_id: 7827
   field: 1
   value: '944'
-card_changes_4783:
+card_changes_4781:
   id: 6158
-  card_action_id: 7830
+  card_action_id: 7827
   field: 3
   value: '0'
-card_changes_4784:
+card_changes_4782:
   id: 6159
-  card_action_id: 7835
+  card_action_id: 7832
   field: 0
   value: yeti skin+*machine input
-card_changes_4785:
+card_changes_4783:
   id: 6160
-  card_action_id: 7835
+  card_action_id: 7832
   field: 1
   value: '47'
-card_changes_4786:
+card_changes_4784:
   id: 6162
-  card_action_id: 7835
+  card_action_id: 7832
   field: 3
   value: '0'
-card_changes_4787:
+card_changes_4785:
   id: 6163
   card_action_id: 7573
   field: 2
   value: '{"type":"Skin","sort":"name"}'
-card_changes_4788:
+card_changes_4786:
   id: 6164
   card_action_id: 7574
   field: 2
   value: "[[radio]]"
-card_changes_4789:
+card_changes_4787:
   id: 6165
   card_action_id: 7576
   field: 0
   value: yeti skin+Image
-card_changes_4790:
+card_changes_4788:
   id: 6166
   card_action_id: 7576
   field: 1
   value: '19'
-card_changes_4791:
+card_changes_4789:
   id: 6167
   card_action_id: 7576
   field: 2
   value: ":yeti_skin_image/06_bootstrap.png"
-card_changes_4792:
+card_changes_4790:
   id: 6168
   card_action_id: 7576
   field: 3
   value: '0'
-card_changes_4793:
+card_changes_4791:
   id: 6169
   card_action_id: 7577
   field: 0
   value: united skin+Image
-card_changes_4794:
+card_changes_4792:
   id: 6170
   card_action_id: 7577
   field: 1
   value: '19'
-card_changes_4795:
+card_changes_4793:
   id: 6171
   card_action_id: 7577
   field: 2
   value: ":united_skin_image/06_bootstrap.png"
-card_changes_4796:
+card_changes_4794:
   id: 6172
   card_action_id: 7577
   field: 3
   value: '0'
-card_changes_4797:
+card_changes_4795:
   id: 6173
   card_action_id: 7578
   field: 0
   value: superhero skin+Image
-card_changes_4798:
+card_changes_4796:
   id: 6174
   card_action_id: 7578
   field: 1
   value: '19'
-card_changes_4799:
+card_changes_4797:
   id: 6175
   card_action_id: 7578
   field: 2
   value: ":superhero_skin_image/06_bootstrap.png"
-card_changes_4800:
+card_changes_4798:
   id: 6176
   card_action_id: 7578
   field: 3
   value: '0'
-card_changes_4801:
+card_changes_4799:
   id: 6177
   card_action_id: 7579
   field: 0
   value: spacelab skin+Image
-card_changes_4802:
+card_changes_4800:
   id: 6178
   card_action_id: 7579
   field: 1
   value: '19'
-card_changes_4803:
+card_changes_4801:
   id: 6179
   card_action_id: 7579
   field: 2
   value: ":spacelab_skin_image/06_bootstrap.png"
-card_changes_4804:
+card_changes_4802:
   id: 6180
   card_action_id: 7579
   field: 3
   value: '0'
-card_changes_4805:
+card_changes_4803:
   id: 6181
   card_action_id: 7580
   field: 0
   value: slate skin+Image
-card_changes_4806:
+card_changes_4804:
   id: 6182
   card_action_id: 7580
   field: 1
   value: '19'
-card_changes_4807:
+card_changes_4805:
   id: 6183
   card_action_id: 7580
   field: 2
   value: ":slate_skin_image/06_bootstrap.png"
-card_changes_4808:
+card_changes_4806:
   id: 6184
   card_action_id: 7580
   field: 3
   value: '0'
-card_changes_4809:
+card_changes_4807:
   id: 6185
   card_action_id: 7581
   field: 0
   value: lumen skin+Image
-card_changes_4810:
+card_changes_4808:
   id: 6186
   card_action_id: 7581
   field: 1
   value: '19'
-card_changes_4811:
+card_changes_4809:
   id: 6187
   card_action_id: 7581
   field: 2
   value: ":lumen_skin_image/06_bootstrap.png"
-card_changes_4812:
+card_changes_4810:
   id: 6188
   card_action_id: 7581
   field: 3
   value: '0'
-card_changes_4813:
+card_changes_4811:
   id: 6189
   card_action_id: 7582
   field: 0
   value: paper skin+Image
-card_changes_4814:
+card_changes_4812:
   id: 6190
   card_action_id: 7582
   field: 1
   value: '19'
-card_changes_4815:
+card_changes_4813:
   id: 6191
   card_action_id: 7582
   field: 2
   value: ":paper_skin_image/06_bootstrap.png"
-card_changes_4816:
+card_changes_4814:
   id: 6192
   card_action_id: 7582
   field: 3
   value: '0'
-card_changes_4817:
+card_changes_4815:
   id: 6193
   card_action_id: 7583
   field: 0
   value: readable skin+Image
-card_changes_4818:
+card_changes_4816:
   id: 6194
   card_action_id: 7583
   field: 1
   value: '19'
-card_changes_4819:
+card_changes_4817:
   id: 6195
   card_action_id: 7583
   field: 2
   value: ":readable_skin_image/06_bootstrap.png"
-card_changes_4820:
+card_changes_4818:
   id: 6196
   card_action_id: 7583
   field: 3
   value: '0'
-card_changes_4821:
+card_changes_4819:
   id: 6197
   card_action_id: 7584
   field: 0
   value: sandstone skin+Image
-card_changes_4822:
+card_changes_4820:
   id: 6198
   card_action_id: 7584
   field: 1
   value: '19'
-card_changes_4823:
+card_changes_4821:
   id: 6199
   card_action_id: 7584
   field: 2
   value: ":sandstone_skin_image/06_bootstrap.png"
-card_changes_4824:
+card_changes_4822:
   id: 6200
   card_action_id: 7584
   field: 3
   value: '0'
-card_changes_4825:
+card_changes_4823:
   id: 6201
   card_action_id: 7585
   field: 0
   value: simplex skin+Image
-card_changes_4826:
+card_changes_4824:
   id: 6202
   card_action_id: 7585
   field: 1
   value: '19'
-card_changes_4827:
+card_changes_4825:
   id: 6203
   card_action_id: 7585
   field: 2
   value: ":simplex_skin_image/06_bootstrap.png"
-card_changes_4828:
+card_changes_4826:
   id: 6204
   card_action_id: 7585
   field: 3
   value: '0'
-card_changes_4829:
+card_changes_4827:
   id: 6205
   card_action_id: 7586
   field: 0
   value: journal skin+Image
-card_changes_4830:
+card_changes_4828:
   id: 6206
   card_action_id: 7586
   field: 1
   value: '19'
-card_changes_4831:
+card_changes_4829:
   id: 6207
   card_action_id: 7586
   field: 2
   value: ":journal_skin_image/06_bootstrap.png"
-card_changes_4832:
+card_changes_4830:
   id: 6208
   card_action_id: 7586
   field: 3
   value: '0'
-card_changes_4833:
+card_changes_4831:
   id: 6209
   card_action_id: 7587
   field: 0
   value: flatly skin+Image
-card_changes_4834:
+card_changes_4832:
   id: 6210
   card_action_id: 7587
   field: 1
   value: '19'
-card_changes_4835:
+card_changes_4833:
   id: 6211
   card_action_id: 7587
   field: 2
   value: ":flatly_skin_image/06_bootstrap.png"
-card_changes_4836:
+card_changes_4834:
   id: 6212
   card_action_id: 7587
   field: 3
   value: '0'
-card_changes_4837:
+card_changes_4835:
   id: 6213
   card_action_id: 7588
   field: 0
   value: darkly skin+Image
-card_changes_4838:
+card_changes_4836:
   id: 6214
   card_action_id: 7588
   field: 1
   value: '19'
-card_changes_4839:
+card_changes_4837:
   id: 6215
   card_action_id: 7588
   field: 2
   value: ":darkly_skin_image/06_bootstrap.png"
-card_changes_4840:
+card_changes_4838:
   id: 6216
   card_action_id: 7588
   field: 3
   value: '0'
-card_changes_4841:
+card_changes_4839:
   id: 6217
   card_action_id: 7589
   field: 0
   value: cyborg skin+Image
-card_changes_4842:
+card_changes_4840:
   id: 6218
   card_action_id: 7589
   field: 1
   value: '19'
-card_changes_4843:
+card_changes_4841:
   id: 6219
   card_action_id: 7589
   field: 2
   value: ":cyborg_skin_image/06_bootstrap.png"
-card_changes_4844:
+card_changes_4842:
   id: 6220
   card_action_id: 7589
   field: 3
   value: '0'
-card_changes_4845:
+card_changes_4843:
   id: 6221
   card_action_id: 7590
   field: 0
   value: cerulean skin+Image
-card_changes_4846:
+card_changes_4844:
   id: 6222
   card_action_id: 7590
   field: 1
   value: '19'
-card_changes_4847:
+card_changes_4845:
   id: 6223
   card_action_id: 7590
   field: 2
   value: ":cerulean_skin_image/06_bootstrap.png"
-card_changes_4848:
+card_changes_4846:
   id: 6224
   card_action_id: 7590
   field: 3
   value: '0'
-card_changes_4849:
+card_changes_4847:
   id: 6225
   card_action_id: 7591
   field: 0
   value: cosmo skin+Image
-card_changes_4850:
+card_changes_4848:
   id: 6226
   card_action_id: 7591
   field: 1
   value: '19'
-card_changes_4851:
+card_changes_4849:
   id: 6227
   card_action_id: 7591
   field: 2
   value: ":cosmo_skin_image/06_bootstrap.png"
-card_changes_4852:
+card_changes_4850:
   id: 6228
   card_action_id: 7591
   field: 3
   value: '0'
-card_changes_4853:
+card_changes_4851:
   id: 6229
   card_action_id: 7592
   field: 2
   value: "<div>[[/ | {{*logo|content_panel}}]]</div>\r\n<div> </div>\r\n<div>{{Menu|open}}</div>\r\n<div> </div>\r\n<div>\r\n<div>{{Wagneer
     Menu|open}}</div>\r\n<div> </div>\r\n</div>\r\n<div>{{Administrator Menu|open}}</div>\r\n<div> </div>\r\n<div>{{*credit|content_panel}}</div>"
-card_changes_4854:
+card_changes_4852:
   id: 6238
   card_action_id: 7597
   field: 2
   value: "[[Default Layout]]"
-card_changes_4855:
+card_changes_4853:
   id: 6239
   card_action_id: 7598
   field: 2
   value: "[[yeti skin]]"
-card_changes_4856:
+card_changes_4854:
   id: 6249
   card_action_id: 7654
   field: 0
   value: name
-card_changes_4857:
+card_changes_4855:
   id: 6250
   card_action_id: 7654
   field: 1
   value: '3'
-card_changes_4858:
+card_changes_4856:
   id: 6251
   card_action_id: 7654
   field: 2
   value: Config
-card_changes_4859:
+card_changes_4857:
   id: 6253
   card_action_id: 7656
   field: 0
   value: type_id
-card_changes_4860:
+card_changes_4858:
   id: 6254
   card_action_id: 7656
   field: 1
   value: '3'
-card_changes_4861:
+card_changes_4859:
   id: 6255
   card_action_id: 7656
   field: 2
   value: '3'
-card_changes_4862:
+card_changes_4860:
   id: 6257
   card_action_id: 7653
   field: 0
   value: db_content
-card_changes_4863:
+card_changes_4861:
   id: 6258
   card_action_id: 7653
   field: 1
   value: '3'
-card_changes_4864:
+card_changes_4862:
   id: 6261
   card_action_id: 7655
   field: 0
   value: trash
-card_changes_4865:
+card_changes_4863:
   id: 6262
   card_action_id: 7655
   field: 1
   value: '3'
-card_changes_4866:
+card_changes_4864:
   id: 6263
   card_action_id: 7655
   field: 2
   value: '0'
-card_changes_4867:
+card_changes_4865:
   id: 6268
   card_action_id: 7624
   field: 2
   value: titled
-card_changes_4868:
+card_changes_4866:
   id: 6270
   card_action_id: 7626
   field: 2
   value: "<div>{{+image|content}}</div>\r\n<div><a href=\"http://wagn.org\">Wagn v{{*version|core}}</a></div>"
-card_changes_4869:
+card_changes_4867:
   id: 6272
   card_action_id: 7628
   field: 2
@@ -26078,19 +26054,19 @@ card_changes_4869:
     | More about rules.]]</em></div>\r\n<div> </div>\r\n<h1>Accounts</h1>\r\n<div>{{*accounts|content}}</div>\r\n<div> </div>\r\n<h1>Emails </h1>\r\n<div>Here
     are the current [[Email Templates]] for your site.</div>\r\n<blockquote>\r\n<div>{{Email
     Templates+*type+by update|content}} </div>\r\n</blockquote>"
-card_changes_4870:
+card_changes_4868:
   id: 6273
   card_action_id: 7629
   field: 2
   value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<h2>{{_self|name}} Cards</h2>\r\n<blockquote>\r\n<p>{{+*type+by
     name|content}}</p>\r\n</blockquote>"
-card_changes_4871:
+card_changes_4869:
   id: 6274
   card_action_id: 7630
   field: 2
   value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_4872:
+card_changes_4870:
   id: 6275
   card_action_id: 7653
   field: 2
@@ -26103,17 +26079,17 @@ card_changes_4872:
     with a verification email.</li>\r\n<li>If permission to [[*create|create]] a [[User]] is
     restricted, someone with that permission must approve each [[Sign up]] by hand.</li>\r\n</ul>\r\n</div>\r\n<div><em>[[http://wagn.org/account
     | More about accounts.]]</em></div>"
-card_changes_4873:
+card_changes_4871:
   id: 6278
   card_action_id: 7699
   field: 0
   value: "*all+*style+*machine output"
-card_changes_4874:
+card_changes_4872:
   id: 6279
   card_action_id: 7699
   field: 1
   value: '18'
-card_changes_4875:
+card_changes_4873:
   id: 6280
   card_action_id: 7699
   field: 2
@@ -26121,67 +26097,67 @@ card_changes_4875:
     96920150326-1183-1vydy6o.css
     text/css
     263653
-card_changes_4876:
+card_changes_4874:
   id: 6282
   card_action_id: 7636
   field: 3
   value: '1'
-card_changes_4877:
+card_changes_4875:
   id: 6283
   card_action_id: 7637
   field: 3
   value: '1'
-card_changes_4878:
+card_changes_4876:
   id: 6284
   card_action_id: 7638
   field: 3
   value: '1'
-card_changes_4879:
+card_changes_4877:
   id: 6286
   card_action_id: 7640
   field: 0
   value: 'style: traditional+*machine input'
-card_changes_4880:
+card_changes_4878:
   id: 6287
   card_action_id: 7640
   field: 1
   value: '47'
-card_changes_4881:
+card_changes_4879:
   id: 6288
   card_action_id: 7640
   field: 2
   value: ''
-card_changes_4882:
+card_changes_4880:
   id: 6289
   card_action_id: 7640
   field: 3
   value: '0'
-card_changes_4883:
+card_changes_4881:
   id: 6292
   card_action_id: 7643
   field: 3
   value: '1'
-card_changes_4884:
+card_changes_4882:
   id: 6294
   card_action_id: 7645
   field: 0
   value: 'style: common+*machine input'
-card_changes_4885:
+card_changes_4883:
   id: 6295
   card_action_id: 7645
   field: 1
   value: '47'
-card_changes_4886:
+card_changes_4884:
   id: 6296
   card_action_id: 7645
   field: 2
   value: ''
-card_changes_4887:
+card_changes_4885:
   id: 6297
   card_action_id: 7645
   field: 3
   value: '0'
-card_changes_4888:
+card_changes_4886:
   id: 6298
   card_action_id: 7649
   field: 2
@@ -26192,75 +26168,75 @@ card_changes_4888:
     [[style: traditional]]
     [[style: glyphicons]]
     [[style: bootstrap compatible]]
-card_changes_4889:
+card_changes_4887:
   id: 6300
   card_action_id: 7648
   field: 3
   value: '1'
-card_changes_4890:
+card_changes_4888:
   id: 6301
   card_action_id: 7649
   field: 3
   value: '1'
-card_changes_4891:
+card_changes_4889:
   id: 6302
   card_action_id: 7652
   field: 2
   value: "[[style: classic cards]]"
-card_changes_4892:
+card_changes_4890:
   id: 6303
   card_action_id: 7651
   field: 3
   value: '1'
-card_changes_4893:
+card_changes_4891:
   id: 6304
   card_action_id: 7652
   field: 3
   value: '1'
-card_changes_4894:
+card_changes_4892:
   id: 6305
   card_action_id: 7653
   field: 3
   value: '1'
-card_changes_4895:
+card_changes_4893:
   id: 6306
   card_action_id: 7654
   field: 3
   value: '1'
-card_changes_4896:
+card_changes_4894:
   id: 6307
   card_action_id: 7655
   field: 3
   value: '1'
-card_changes_4897:
+card_changes_4895:
   id: 6308
   card_action_id: 7656
   field: 3
   value: '1'
-card_changes_4898:
+card_changes_4896:
   id: 6310
-  card_action_id: 7839
+  card_action_id: 7836
   field: 0
   value: "*all+*script+*machine output"
-card_changes_4899:
+card_changes_4897:
   id: 6311
-  card_action_id: 7839
+  card_action_id: 7836
   field: 1
   value: '18'
-card_changes_4900:
+card_changes_4898:
   id: 6312
-  card_action_id: 7839
+  card_action_id: 7836
   field: 2
   value: |-
     106320150327-26870-zr2w68.js
     application/javascript
     1006359
-card_changes_4901:
+card_changes_4899:
   id: 6319
   card_action_id: 7665
   field: 2
   value: ":favicon/05_standard.png"
-card_changes_4902:
+card_changes_4900:
   id: 6320
   card_action_id: 7698
   field: 2
@@ -26269,7 +26245,7 @@ card_changes_4902:
     [[style: cards]]
     [[style: right sidebar]]
     [[style: bootstrap cards]]
-card_changes_4903:
+card_changes_4901:
   id: 6321
   card_action_id: 7697
   field: 2
@@ -26278,194 +26254,194 @@ card_changes_4903:
     [[style: cards]]
     [[style: right sidebar]]
     [[style: bootstrap cards]]
-card_changes_4904:
+card_changes_4902:
   id: 6322
   card_action_id: 7699
   field: 3
   value: t
-card_changes_4905:
+card_changes_4903:
   id: 6342
   card_action_id: 7722
   field: 3
   value: t
-card_changes_4906:
+card_changes_4904:
   id: 6343
   card_action_id: 7721
   field: 3
   value: t
-card_changes_4907:
+card_changes_4905:
   id: 6344
   card_action_id: 7724
   field: 0
   value: bootswatch shared+*machine input
-card_changes_4908:
+card_changes_4906:
   id: 6345
   card_action_id: 7724
   field: 1
   value: '47'
-card_changes_4909:
+card_changes_4907:
   id: 6346
   card_action_id: 7724
   field: 2
   value: "[[bootswatch shared]]"
-card_changes_4910:
+card_changes_4908:
   id: 6347
   card_action_id: 7724
   field: 3
   value: f
-card_changes_4911:
+card_changes_4909:
   id: 6348
   card_action_id: 7723
   field: 0
   value: bootswatch shared
-card_changes_4912:
+card_changes_4910:
   id: 6349
   card_action_id: 7723
   field: 1
   value: '943'
-card_changes_4913:
+card_changes_4911:
   id: 6350
   card_action_id: 7723
   field: 2
   value: ''
-card_changes_4914:
+card_changes_4912:
   id: 6351
   card_action_id: 7723
   field: 3
   value: f
-card_changes_4915:
+card_changes_4913:
   id: 6352
-  card_action_id: 7728
+  card_action_id: 7727
   field: 0
   value: bootswatch theme
-card_changes_4916:
+card_changes_4914:
   id: 6353
-  card_action_id: 7728
+  card_action_id: 7727
   field: 1
   value: '3'
-card_changes_4917:
+card_changes_4915:
   id: 6354
-  card_action_id: 7728
+  card_action_id: 7727
   field: 2
   value: ''
-card_changes_4918:
+card_changes_4916:
   id: 6355
-  card_action_id: 7728
+  card_action_id: 7727
   field: 3
   value: f
-card_changes_4919:
+card_changes_4917:
   id: 6356
-  card_action_id: 7727
+  card_action_id: 7726
   field: 0
   value: bootswatch theme+*right
-card_changes_4920:
+card_changes_4918:
   id: 6357
-  card_action_id: 7727
+  card_action_id: 7726
   field: 1
   value: '259'
-card_changes_4921:
+card_changes_4919:
   id: 6358
-  card_action_id: 7727
+  card_action_id: 7726
   field: 2
   value: '{"right":"_left"}'
-card_changes_4922:
+card_changes_4920:
   id: 6359
-  card_action_id: 7727
+  card_action_id: 7726
   field: 3
   value: f
-card_changes_4923:
+card_changes_4921:
   id: 6360
-  card_action_id: 7729
+  card_action_id: 7728
   field: 0
   value: bootswatch theme+*right+*structure+*machine input
-card_changes_4924:
+card_changes_4922:
   id: 6361
-  card_action_id: 7729
+  card_action_id: 7728
   field: 1
   value: '47'
-card_changes_4925:
+card_changes_4923:
   id: 6362
-  card_action_id: 7729
+  card_action_id: 7728
   field: 2
   value: "[[bootswatch theme+*right+*structure]]"
-card_changes_4926:
+card_changes_4924:
   id: 6363
-  card_action_id: 7729
+  card_action_id: 7728
   field: 3
   value: f
-card_changes_4927:
+card_changes_4925:
   id: 6364
-  card_action_id: 7726
+  card_action_id: 7725
   field: 0
   value: bootswatch theme+*right+*structure
-card_changes_4928:
+card_changes_4926:
   id: 6365
-  card_action_id: 7726
+  card_action_id: 7725
   field: 1
   value: '943'
-card_changes_4929:
+card_changes_4927:
   id: 6366
-  card_action_id: 7726
+  card_action_id: 7725
   field: 2
   value: "{{_left+variables}}{{bootswatch shared}}{{_left+style}}"
-card_changes_4930:
+card_changes_4928:
   id: 6367
-  card_action_id: 7726
+  card_action_id: 7725
   field: 3
   value: f
-card_changes_4931:
+card_changes_4929:
   id: 6368
-  card_action_id: 7734
+  card_action_id: 7732
   field: 0
   value: variables
-card_changes_4932:
+card_changes_4930:
   id: 6369
-  card_action_id: 7734
+  card_action_id: 7732
   field: 1
   value: '3'
-card_changes_4933:
+card_changes_4931:
   id: 6370
-  card_action_id: 7734
+  card_action_id: 7732
   field: 2
   value: ''
-card_changes_4934:
+card_changes_4932:
   id: 6371
-  card_action_id: 7734
+  card_action_id: 7732
   field: 3
   value: f
-card_changes_4935:
+card_changes_4933:
   id: 6372
-  card_action_id: 7735
+  card_action_id: 7733
   field: 0
   value: bootstrap default skin+variables+*machine input
-card_changes_4936:
+card_changes_4934:
   id: 6373
-  card_action_id: 7735
+  card_action_id: 7733
   field: 1
   value: '47'
-card_changes_4937:
+card_changes_4935:
   id: 6374
-  card_action_id: 7735
+  card_action_id: 7733
   field: 2
   value: "[[bootstrap default skin+variables]]"
-card_changes_4938:
+card_changes_4936:
   id: 6375
-  card_action_id: 7735
+  card_action_id: 7733
   field: 3
   value: f
-card_changes_4939:
+card_changes_4937:
   id: 6376
-  card_action_id: 7732
+  card_action_id: 7730
   field: 0
   value: bootstrap default skin+variables
-card_changes_4940:
+card_changes_4938:
   id: 6377
-  card_action_id: 7732
+  card_action_id: 7730
   field: 1
   value: '943'
-card_changes_4941:
+card_changes_4939:
   id: 6378
-  card_action_id: 7732
+  card_action_id: 7730
   field: 2
   value: |
     $bootstrap-sass-asset-helper: false !default;
@@ -27334,74 +27310,14 @@ card_changes_4941:
     $dl-horizontal-offset:        $component-offset-horizontal !default;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter !default;
-card_changes_4942:
+card_changes_4940:
   id: 6379
-  card_action_id: 7732
+  card_action_id: 7730
   field: 3
   value: f
-card_changes_4943:
+card_changes_4941:
   id: 6380
-  card_action_id: 7736
-  field: 0
-  value: style
-card_changes_4944:
-  id: 6381
-  card_action_id: 7736
-  field: 1
-  value: '3'
-card_changes_4945:
-  id: 6382
-  card_action_id: 7736
-  field: 2
-  value: ''
-card_changes_4946:
-  id: 6383
-  card_action_id: 7736
-  field: 3
-  value: f
-card_changes_4947:
-  id: 6384
-  card_action_id: 7737
-  field: 0
-  value: bootstrap default skin+style+*machine input
-card_changes_4948:
-  id: 6385
-  card_action_id: 7737
-  field: 1
-  value: '47'
-card_changes_4949:
-  id: 6386
-  card_action_id: 7737
-  field: 2
-  value: "[[bootstrap default skin+style]]"
-card_changes_4950:
-  id: 6387
-  card_action_id: 7737
-  field: 3
-  value: f
-card_changes_4951:
-  id: 6388
-  card_action_id: 7733
-  field: 0
-  value: bootstrap default skin+style
-card_changes_4952:
-  id: 6389
-  card_action_id: 7733
-  field: 1
-  value: '943'
-card_changes_4953:
-  id: 6390
-  card_action_id: 7733
-  field: 2
-  value: ''
-card_changes_4954:
-  id: 6391
-  card_action_id: 7733
-  field: 3
-  value: f
-card_changes_4955:
-  id: 6392
-  card_action_id: 7738
+  card_action_id: 7734
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -27410,16 +27326,16 @@ card_changes_4955:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[bootstrap default skin+bootswatch theme]]
-card_changes_4956:
-  id: 6393
-  card_action_id: 7731
+card_changes_4942:
+  id: 6381
+  card_action_id: 7729
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_4957:
-  id: 6394
-  card_action_id: 7739
+card_changes_4943:
+  id: 6382
+  card_action_id: 7735
   field: 2
   value: |-
     [[bootstrap default skin]]
@@ -27430,39 +27346,39 @@ card_changes_4957:
     [[style: bootstrap cards]]
     [[bootstrap default skin+bootswatch theme]]
     [[style: classic cards]]
-card_changes_4958:
-  id: 6395
-  card_action_id: 7743
+card_changes_4944:
+  id: 6383
+  card_action_id: 7739
   field: 0
   value: cerulean skin+variables+*machine input
-card_changes_4959:
-  id: 6396
-  card_action_id: 7743
+card_changes_4945:
+  id: 6384
+  card_action_id: 7739
   field: 1
   value: '47'
-card_changes_4960:
-  id: 6397
-  card_action_id: 7743
+card_changes_4946:
+  id: 6385
+  card_action_id: 7739
   field: 2
   value: "[[cerulean skin+variables]]"
-card_changes_4961:
-  id: 6398
-  card_action_id: 7743
+card_changes_4947:
+  id: 6386
+  card_action_id: 7739
   field: 3
   value: f
-card_changes_4962:
-  id: 6399
-  card_action_id: 7741
+card_changes_4948:
+  id: 6387
+  card_action_id: 7737
   field: 0
   value: cerulean skin+variables
-card_changes_4963:
-  id: 6400
-  card_action_id: 7741
+card_changes_4949:
+  id: 6388
+  card_action_id: 7737
   field: 1
   value: '943'
-card_changes_4964:
-  id: 6401
-  card_action_id: 7741
+card_changes_4950:
+  id: 6389
+  card_action_id: 7737
   field: 2
   value: |
     // Cerulean 3.3.4
@@ -28326,44 +28242,64 @@ card_changes_4964:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_4965:
-  id: 6402
+card_changes_4951:
+  id: 6390
+  card_action_id: 7737
+  field: 3
+  value: f
+card_changes_4952:
+  id: 6391
+  card_action_id: 7740
+  field: 0
+  value: style
+card_changes_4953:
+  id: 6392
+  card_action_id: 7740
+  field: 1
+  value: '3'
+card_changes_4954:
+  id: 6393
+  card_action_id: 7740
+  field: 2
+  value: ''
+card_changes_4955:
+  id: 6394
+  card_action_id: 7740
+  field: 3
+  value: f
+card_changes_4956:
+  id: 6395
+  card_action_id: 7741
+  field: 0
+  value: cerulean skin+style+*machine input
+card_changes_4957:
+  id: 6396
+  card_action_id: 7741
+  field: 1
+  value: '47'
+card_changes_4958:
+  id: 6397
+  card_action_id: 7741
+  field: 2
+  value: "[[cerulean skin+style]]"
+card_changes_4959:
+  id: 6398
   card_action_id: 7741
   field: 3
   value: f
-card_changes_4966:
-  id: 6403
-  card_action_id: 7744
-  field: 0
-  value: cerulean skin+style+*machine input
-card_changes_4967:
-  id: 6404
-  card_action_id: 7744
-  field: 1
-  value: '47'
-card_changes_4968:
-  id: 6405
-  card_action_id: 7744
-  field: 2
-  value: "[[cerulean skin+style]]"
-card_changes_4969:
-  id: 6406
-  card_action_id: 7744
-  field: 3
-  value: f
-card_changes_4970:
-  id: 6407
-  card_action_id: 7742
+card_changes_4960:
+  id: 6399
+  card_action_id: 7738
   field: 0
   value: cerulean skin+style
-card_changes_4971:
-  id: 6408
-  card_action_id: 7742
+card_changes_4961:
+  id: 6400
+  card_action_id: 7738
   field: 1
   value: '943'
-card_changes_4972:
-  id: 6409
-  card_action_id: 7742
+card_changes_4962:
+  id: 6401
+  card_action_id: 7738
   field: 2
   value: "// Cerulean 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@mixin
     btn-shadow($color){\n  @include gradient-vertical-three-colors(lighten($color,
@@ -28393,14 +28329,14 @@ card_changes_4972:
     Progress bars ==============================================================\n\n//
     Containers =================================================================\n\n.panel-primary,\n.panel-success,\n.panel-warning,\n.panel-danger,\n.panel-info
     {\n\n  .panel-heading,\n  .panel-title {\n    color: #fff;\n  }\n}\n"
-card_changes_4973:
-  id: 6410
-  card_action_id: 7742
+card_changes_4963:
+  id: 6402
+  card_action_id: 7738
   field: 3
   value: f
-card_changes_4974:
-  id: 6411
-  card_action_id: 7745
+card_changes_4964:
+  id: 6403
+  card_action_id: 7742
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -28409,46 +28345,46 @@ card_changes_4974:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[cerulean skin+bootswatch theme]]
-card_changes_4975:
-  id: 6412
-  card_action_id: 7740
+card_changes_4965:
+  id: 6404
+  card_action_id: 7736
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_4976:
-  id: 6413
-  card_action_id: 7749
+card_changes_4966:
+  id: 6405
+  card_action_id: 7746
   field: 0
   value: cosmo skin+variables+*machine input
-card_changes_4977:
-  id: 6414
-  card_action_id: 7749
+card_changes_4967:
+  id: 6406
+  card_action_id: 7746
   field: 1
   value: '47'
-card_changes_4978:
-  id: 6415
-  card_action_id: 7749
+card_changes_4968:
+  id: 6407
+  card_action_id: 7746
   field: 2
   value: "[[cosmo skin+variables]]"
-card_changes_4979:
-  id: 6416
-  card_action_id: 7749
+card_changes_4969:
+  id: 6408
+  card_action_id: 7746
   field: 3
   value: f
-card_changes_4980:
-  id: 6417
-  card_action_id: 7747
+card_changes_4970:
+  id: 6409
+  card_action_id: 7744
   field: 0
   value: cosmo skin+variables
-card_changes_4981:
-  id: 6418
-  card_action_id: 7747
+card_changes_4971:
+  id: 6410
+  card_action_id: 7744
   field: 1
   value: '943'
-card_changes_4982:
-  id: 6419
-  card_action_id: 7747
+card_changes_4972:
+  id: 6411
+  card_action_id: 7744
   field: 2
   value: |
     // Cosmo 3.3.4
@@ -29312,44 +29248,44 @@ card_changes_4982:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_4983:
-  id: 6420
+card_changes_4973:
+  id: 6412
+  card_action_id: 7744
+  field: 3
+  value: f
+card_changes_4974:
+  id: 6413
+  card_action_id: 7747
+  field: 0
+  value: cosmo skin+style+*machine input
+card_changes_4975:
+  id: 6414
+  card_action_id: 7747
+  field: 1
+  value: '47'
+card_changes_4976:
+  id: 6415
+  card_action_id: 7747
+  field: 2
+  value: "[[cosmo skin+style]]"
+card_changes_4977:
+  id: 6416
   card_action_id: 7747
   field: 3
   value: f
-card_changes_4984:
-  id: 6421
-  card_action_id: 7750
-  field: 0
-  value: cosmo skin+style+*machine input
-card_changes_4985:
-  id: 6422
-  card_action_id: 7750
-  field: 1
-  value: '47'
-card_changes_4986:
-  id: 6423
-  card_action_id: 7750
-  field: 2
-  value: "[[cosmo skin+style]]"
-card_changes_4987:
-  id: 6424
-  card_action_id: 7750
-  field: 3
-  value: f
-card_changes_4988:
-  id: 6425
-  card_action_id: 7748
+card_changes_4978:
+  id: 6417
+  card_action_id: 7745
   field: 0
   value: cosmo skin+style
-card_changes_4989:
-  id: 6426
-  card_action_id: 7748
+card_changes_4979:
+  id: 6418
+  card_action_id: 7745
   field: 1
   value: '943'
-card_changes_4990:
-  id: 6427
-  card_action_id: 7748
+card_changes_4980:
+  id: 6419
+  card_action_id: 7745
   field: 2
   value: "// Cosmo 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700\");\n\n//
@@ -29394,14 +29330,14 @@ card_changes_4990:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.modal {\n  .close {\n    color:
     $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_4991:
-  id: 6428
-  card_action_id: 7748
+card_changes_4981:
+  id: 6420
+  card_action_id: 7745
   field: 3
   value: f
-card_changes_4992:
-  id: 6429
-  card_action_id: 7751
+card_changes_4982:
+  id: 6421
+  card_action_id: 7748
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -29410,46 +29346,46 @@ card_changes_4992:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[cosmo skin+bootswatch theme]]
-card_changes_4993:
-  id: 6430
-  card_action_id: 7746
+card_changes_4983:
+  id: 6422
+  card_action_id: 7743
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_4994:
-  id: 6431
-  card_action_id: 7755
+card_changes_4984:
+  id: 6423
+  card_action_id: 7752
   field: 0
   value: cyborg skin+variables+*machine input
-card_changes_4995:
-  id: 6432
-  card_action_id: 7755
+card_changes_4985:
+  id: 6424
+  card_action_id: 7752
   field: 1
   value: '47'
-card_changes_4996:
-  id: 6433
-  card_action_id: 7755
+card_changes_4986:
+  id: 6425
+  card_action_id: 7752
   field: 2
   value: "[[cyborg skin+variables]]"
-card_changes_4997:
-  id: 6434
-  card_action_id: 7755
+card_changes_4987:
+  id: 6426
+  card_action_id: 7752
   field: 3
   value: f
-card_changes_4998:
-  id: 6435
-  card_action_id: 7753
+card_changes_4988:
+  id: 6427
+  card_action_id: 7750
   field: 0
   value: cyborg skin+variables
-card_changes_4999:
-  id: 6436
-  card_action_id: 7753
+card_changes_4989:
+  id: 6428
+  card_action_id: 7750
   field: 1
   value: '943'
-card_changes_5000:
-  id: 6437
-  card_action_id: 7753
+card_changes_4990:
+  id: 6429
+  card_action_id: 7750
   field: 2
   value: |
     // Cyborg 3.3.4
@@ -30313,44 +30249,44 @@ card_changes_5000:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-dark;
-card_changes_5001:
-  id: 6438
+card_changes_4991:
+  id: 6430
+  card_action_id: 7750
+  field: 3
+  value: f
+card_changes_4992:
+  id: 6431
+  card_action_id: 7753
+  field: 0
+  value: cyborg skin+style+*machine input
+card_changes_4993:
+  id: 6432
+  card_action_id: 7753
+  field: 1
+  value: '47'
+card_changes_4994:
+  id: 6433
+  card_action_id: 7753
+  field: 2
+  value: "[[cyborg skin+style]]"
+card_changes_4995:
+  id: 6434
   card_action_id: 7753
   field: 3
   value: f
-card_changes_5002:
-  id: 6439
-  card_action_id: 7756
-  field: 0
-  value: cyborg skin+style+*machine input
-card_changes_5003:
-  id: 6440
-  card_action_id: 7756
-  field: 1
-  value: '47'
-card_changes_5004:
-  id: 6441
-  card_action_id: 7756
-  field: 2
-  value: "[[cyborg skin+style]]"
-card_changes_5005:
-  id: 6442
-  card_action_id: 7756
-  field: 3
-  value: f
-card_changes_5006:
-  id: 6443
-  card_action_id: 7754
+card_changes_4996:
+  id: 6435
+  card_action_id: 7751
   field: 0
   value: cyborg skin+style
-card_changes_5007:
-  id: 6444
-  card_action_id: 7754
+card_changes_4997:
+  id: 6436
+  card_action_id: 7751
   field: 1
   value: '943'
-card_changes_5008:
-  id: 6445
-  card_action_id: 7754
+card_changes_4998:
+  id: 6437
+  card_action_id: 7751
   field: 2
   value: "// Cyborg 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Roboto:400,700\");\n\n// Navbar =====================================================================\n\n//
@@ -30389,14 +30325,14 @@ card_changes_5008:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.jumbotron {\n\n  h1, h2, h3,
     h4, h5, h6 {\n    color: #fff;\n  }\n}"
-card_changes_5009:
-  id: 6446
-  card_action_id: 7754
+card_changes_4999:
+  id: 6438
+  card_action_id: 7751
   field: 3
   value: f
-card_changes_5010:
-  id: 6447
-  card_action_id: 7757
+card_changes_5000:
+  id: 6439
+  card_action_id: 7754
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -30405,46 +30341,46 @@ card_changes_5010:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[cyborg skin+bootswatch theme]]
-card_changes_5011:
-  id: 6448
-  card_action_id: 7752
+card_changes_5001:
+  id: 6440
+  card_action_id: 7749
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5012:
-  id: 6449
-  card_action_id: 7761
+card_changes_5002:
+  id: 6441
+  card_action_id: 7758
   field: 0
   value: darkly skin+variables+*machine input
-card_changes_5013:
-  id: 6450
-  card_action_id: 7761
+card_changes_5003:
+  id: 6442
+  card_action_id: 7758
   field: 1
   value: '47'
-card_changes_5014:
-  id: 6451
-  card_action_id: 7761
+card_changes_5004:
+  id: 6443
+  card_action_id: 7758
   field: 2
   value: "[[darkly skin+variables]]"
-card_changes_5015:
-  id: 6452
-  card_action_id: 7761
+card_changes_5005:
+  id: 6444
+  card_action_id: 7758
   field: 3
   value: f
-card_changes_5016:
-  id: 6453
-  card_action_id: 7759
+card_changes_5006:
+  id: 6445
+  card_action_id: 7756
   field: 0
   value: darkly skin+variables
-card_changes_5017:
-  id: 6454
-  card_action_id: 7759
+card_changes_5007:
+  id: 6446
+  card_action_id: 7756
   field: 1
   value: '943'
-card_changes_5018:
-  id: 6455
-  card_action_id: 7759
+card_changes_5008:
+  id: 6447
+  card_action_id: 7756
   field: 2
   value: |
     // Darkly 3.3.4
@@ -31308,44 +31244,44 @@ card_changes_5018:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray;
-card_changes_5019:
-  id: 6456
+card_changes_5009:
+  id: 6448
+  card_action_id: 7756
+  field: 3
+  value: f
+card_changes_5010:
+  id: 6449
+  card_action_id: 7759
+  field: 0
+  value: darkly skin+style+*machine input
+card_changes_5011:
+  id: 6450
+  card_action_id: 7759
+  field: 1
+  value: '47'
+card_changes_5012:
+  id: 6451
+  card_action_id: 7759
+  field: 2
+  value: "[[darkly skin+style]]"
+card_changes_5013:
+  id: 6452
   card_action_id: 7759
   field: 3
   value: f
-card_changes_5020:
-  id: 6457
-  card_action_id: 7762
-  field: 0
-  value: darkly skin+style+*machine input
-card_changes_5021:
-  id: 6458
-  card_action_id: 7762
-  field: 1
-  value: '47'
-card_changes_5022:
-  id: 6459
-  card_action_id: 7762
-  field: 2
-  value: "[[darkly skin+style]]"
-card_changes_5023:
-  id: 6460
-  card_action_id: 7762
-  field: 3
-  value: f
-card_changes_5024:
-  id: 6461
-  card_action_id: 7760
+card_changes_5014:
+  id: 6453
+  card_action_id: 7757
   field: 0
   value: darkly skin+style
-card_changes_5025:
-  id: 6462
-  card_action_id: 7760
+card_changes_5015:
+  id: 6454
+  card_action_id: 7757
   field: 1
   value: '943'
-card_changes_5026:
-  id: 6463
-  card_action_id: 7760
+card_changes_5016:
+  id: 6455
+  card_action_id: 7757
   field: 2
   value: "// Darkly 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:400,700,400italic\");\n\n// Navbar
@@ -31406,14 +31342,14 @@ card_changes_5026:
     $state-danger-bg;\n    }\n    \n    &.active:hover,\n    &.active:focus {\n      background-color:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n\n.panel-default
     > .panel-heading {\n  background-color: $panel-footer-bg;\n}\n"
-card_changes_5027:
-  id: 6464
-  card_action_id: 7760
+card_changes_5017:
+  id: 6456
+  card_action_id: 7757
   field: 3
   value: f
-card_changes_5028:
-  id: 6465
-  card_action_id: 7763
+card_changes_5018:
+  id: 6457
+  card_action_id: 7760
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -31422,46 +31358,46 @@ card_changes_5028:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[darkly skin+bootswatch theme]]
-card_changes_5029:
-  id: 6466
-  card_action_id: 7758
+card_changes_5019:
+  id: 6458
+  card_action_id: 7755
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5030:
-  id: 6467
-  card_action_id: 7767
+card_changes_5020:
+  id: 6459
+  card_action_id: 7764
   field: 0
   value: flatly skin+variables+*machine input
-card_changes_5031:
-  id: 6468
-  card_action_id: 7767
+card_changes_5021:
+  id: 6460
+  card_action_id: 7764
   field: 1
   value: '47'
-card_changes_5032:
-  id: 6469
-  card_action_id: 7767
+card_changes_5022:
+  id: 6461
+  card_action_id: 7764
   field: 2
   value: "[[flatly skin+variables]]"
-card_changes_5033:
-  id: 6470
-  card_action_id: 7767
+card_changes_5023:
+  id: 6462
+  card_action_id: 7764
   field: 3
   value: f
-card_changes_5034:
-  id: 6471
-  card_action_id: 7765
+card_changes_5024:
+  id: 6463
+  card_action_id: 7762
   field: 0
   value: flatly skin+variables
-card_changes_5035:
-  id: 6472
-  card_action_id: 7765
+card_changes_5025:
+  id: 6464
+  card_action_id: 7762
   field: 1
   value: '943'
-card_changes_5036:
-  id: 6473
-  card_action_id: 7765
+card_changes_5026:
+  id: 6465
+  card_action_id: 7762
   field: 2
   value: |
     // Flatly 3.3.4
@@ -32325,44 +32261,44 @@ card_changes_5036:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5037:
-  id: 6474
+card_changes_5027:
+  id: 6466
+  card_action_id: 7762
+  field: 3
+  value: f
+card_changes_5028:
+  id: 6467
+  card_action_id: 7765
+  field: 0
+  value: flatly skin+style+*machine input
+card_changes_5029:
+  id: 6468
+  card_action_id: 7765
+  field: 1
+  value: '47'
+card_changes_5030:
+  id: 6469
+  card_action_id: 7765
+  field: 2
+  value: "[[flatly skin+style]]"
+card_changes_5031:
+  id: 6470
   card_action_id: 7765
   field: 3
   value: f
-card_changes_5038:
-  id: 6475
-  card_action_id: 7768
-  field: 0
-  value: flatly skin+style+*machine input
-card_changes_5039:
-  id: 6476
-  card_action_id: 7768
-  field: 1
-  value: '47'
-card_changes_5040:
-  id: 6477
-  card_action_id: 7768
-  field: 2
-  value: "[[flatly skin+style]]"
-card_changes_5041:
-  id: 6478
-  card_action_id: 7768
-  field: 3
-  value: f
-card_changes_5042:
-  id: 6479
-  card_action_id: 7766
+card_changes_5032:
+  id: 6471
+  card_action_id: 7763
   field: 0
   value: flatly skin+style
-card_changes_5043:
-  id: 6480
-  card_action_id: 7766
+card_changes_5033:
+  id: 6472
+  card_action_id: 7763
   field: 1
   value: '943'
-card_changes_5044:
-  id: 6481
-  card_action_id: 7766
+card_changes_5034:
+  id: 6473
+  card_action_id: 7763
   field: 2
   value: "// Flatly 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:400,700,400italic\");\n\n// Navbar
@@ -32421,14 +32357,14 @@ card_changes_5044:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.panel {\n  &-default {\n    .close
     {\n      color: $text-color;\n    }\n  }\n}\n\n.modal {\n  .close {\n    color:
     $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_5045:
-  id: 6482
-  card_action_id: 7766
+card_changes_5035:
+  id: 6474
+  card_action_id: 7763
   field: 3
   value: f
-card_changes_5046:
-  id: 6483
-  card_action_id: 7769
+card_changes_5036:
+  id: 6475
+  card_action_id: 7766
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -32437,46 +32373,46 @@ card_changes_5046:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[flatly skin+bootswatch theme]]
-card_changes_5047:
-  id: 6484
-  card_action_id: 7764
+card_changes_5037:
+  id: 6476
+  card_action_id: 7761
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5048:
-  id: 6485
-  card_action_id: 7773
+card_changes_5038:
+  id: 6477
+  card_action_id: 7770
   field: 0
   value: journal skin+variables+*machine input
-card_changes_5049:
-  id: 6486
-  card_action_id: 7773
+card_changes_5039:
+  id: 6478
+  card_action_id: 7770
   field: 1
   value: '47'
-card_changes_5050:
-  id: 6487
-  card_action_id: 7773
+card_changes_5040:
+  id: 6479
+  card_action_id: 7770
   field: 2
   value: "[[journal skin+variables]]"
-card_changes_5051:
-  id: 6488
-  card_action_id: 7773
+card_changes_5041:
+  id: 6480
+  card_action_id: 7770
   field: 3
   value: f
-card_changes_5052:
-  id: 6489
-  card_action_id: 7771
+card_changes_5042:
+  id: 6481
+  card_action_id: 7768
   field: 0
   value: journal skin+variables
-card_changes_5053:
-  id: 6490
-  card_action_id: 7771
+card_changes_5043:
+  id: 6482
+  card_action_id: 7768
   field: 1
   value: '943'
-card_changes_5054:
-  id: 6491
-  card_action_id: 7771
+card_changes_5044:
+  id: 6483
+  card_action_id: 7768
   field: 2
   value: |
     // Journal 3.3.4
@@ -33340,44 +33276,44 @@ card_changes_5054:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5055:
-  id: 6492
+card_changes_5045:
+  id: 6484
+  card_action_id: 7768
+  field: 3
+  value: f
+card_changes_5046:
+  id: 6485
+  card_action_id: 7771
+  field: 0
+  value: journal skin+style+*machine input
+card_changes_5047:
+  id: 6486
+  card_action_id: 7771
+  field: 1
+  value: '47'
+card_changes_5048:
+  id: 6487
+  card_action_id: 7771
+  field: 2
+  value: "[[journal skin+style]]"
+card_changes_5049:
+  id: 6488
   card_action_id: 7771
   field: 3
   value: f
-card_changes_5056:
-  id: 6493
-  card_action_id: 7774
-  field: 0
-  value: journal skin+style+*machine input
-card_changes_5057:
-  id: 6494
-  card_action_id: 7774
-  field: 1
-  value: '47'
-card_changes_5058:
-  id: 6495
-  card_action_id: 7774
-  field: 2
-  value: "[[journal skin+style]]"
-card_changes_5059:
-  id: 6496
-  card_action_id: 7774
-  field: 3
-  value: f
-card_changes_5060:
-  id: 6497
-  card_action_id: 7772
+card_changes_5050:
+  id: 6489
+  card_action_id: 7769
   field: 0
   value: journal skin+style
-card_changes_5061:
-  id: 6498
-  card_action_id: 7772
+card_changes_5051:
+  id: 6490
+  card_action_id: 7769
   field: 1
   value: '943'
-card_changes_5062:
-  id: 6499
-  card_action_id: 7772
+card_changes_5052:
+  id: 6491
+  card_action_id: 7769
   field: 2
   value: |
     // Journal 3.3.4
@@ -33500,14 +33436,14 @@ card_changes_5062:
 
 
     }
-card_changes_5063:
-  id: 6500
-  card_action_id: 7772
+card_changes_5053:
+  id: 6492
+  card_action_id: 7769
   field: 3
   value: f
-card_changes_5064:
-  id: 6501
-  card_action_id: 7775
+card_changes_5054:
+  id: 6493
+  card_action_id: 7772
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -33516,46 +33452,46 @@ card_changes_5064:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[journal skin+bootswatch theme]]
-card_changes_5065:
-  id: 6502
-  card_action_id: 7770
+card_changes_5055:
+  id: 6494
+  card_action_id: 7767
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5066:
-  id: 6503
-  card_action_id: 7779
+card_changes_5056:
+  id: 6495
+  card_action_id: 7776
   field: 0
   value: lumen skin+variables+*machine input
-card_changes_5067:
-  id: 6504
-  card_action_id: 7779
+card_changes_5057:
+  id: 6496
+  card_action_id: 7776
   field: 1
   value: '47'
-card_changes_5068:
-  id: 6505
-  card_action_id: 7779
+card_changes_5058:
+  id: 6497
+  card_action_id: 7776
   field: 2
   value: "[[lumen skin+variables]]"
-card_changes_5069:
-  id: 6506
-  card_action_id: 7779
+card_changes_5059:
+  id: 6498
+  card_action_id: 7776
   field: 3
   value: f
-card_changes_5070:
-  id: 6507
-  card_action_id: 7777
+card_changes_5060:
+  id: 6499
+  card_action_id: 7774
   field: 0
   value: lumen skin+variables
-card_changes_5071:
-  id: 6508
-  card_action_id: 7777
+card_changes_5061:
+  id: 6500
+  card_action_id: 7774
   field: 1
   value: '943'
-card_changes_5072:
-  id: 6509
-  card_action_id: 7777
+card_changes_5062:
+  id: 6501
+  card_action_id: 7774
   field: 2
   value: |
     // Lumen 3.3.4
@@ -34419,44 +34355,44 @@ card_changes_5072:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5073:
-  id: 6510
+card_changes_5063:
+  id: 6502
+  card_action_id: 7774
+  field: 3
+  value: f
+card_changes_5064:
+  id: 6503
+  card_action_id: 7777
+  field: 0
+  value: lumen skin+style+*machine input
+card_changes_5065:
+  id: 6504
+  card_action_id: 7777
+  field: 1
+  value: '47'
+card_changes_5066:
+  id: 6505
+  card_action_id: 7777
+  field: 2
+  value: "[[lumen skin+style]]"
+card_changes_5067:
+  id: 6506
   card_action_id: 7777
   field: 3
   value: f
-card_changes_5074:
-  id: 6511
-  card_action_id: 7780
-  field: 0
-  value: lumen skin+style+*machine input
-card_changes_5075:
-  id: 6512
-  card_action_id: 7780
-  field: 1
-  value: '47'
-card_changes_5076:
-  id: 6513
-  card_action_id: 7780
-  field: 2
-  value: "[[lumen skin+style]]"
-card_changes_5077:
-  id: 6514
-  card_action_id: 7780
-  field: 3
-  value: f
-card_changes_5078:
-  id: 6515
-  card_action_id: 7778
+card_changes_5068:
+  id: 6507
+  card_action_id: 7775
   field: 0
   value: lumen skin+style
-card_changes_5079:
-  id: 6516
-  card_action_id: 7778
+card_changes_5069:
+  id: 6508
+  card_action_id: 7775
   field: 1
   value: '943'
-card_changes_5080:
-  id: 6517
-  card_action_id: 7778
+card_changes_5070:
+  id: 6509
+  card_action_id: 7775
   field: 2
   value: "// Lumen 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic\");\n\n@mixin
@@ -34558,14 +34494,14 @@ card_changes_5080:
     {\n  border: 1px solid $navbar-default-border;\n  @include shadow();\n\n  &-default
     {\n    .close {\n      color: $text-color;\n    }\n  }\n}\n\n.modal {\n  .close
     {\n    color: $text-color;\n  }\n}\n\n.popover {\n  color: $text-color;\n}\n"
-card_changes_5081:
-  id: 6518
-  card_action_id: 7778
+card_changes_5071:
+  id: 6510
+  card_action_id: 7775
   field: 3
   value: f
-card_changes_5082:
-  id: 6519
-  card_action_id: 7781
+card_changes_5072:
+  id: 6511
+  card_action_id: 7778
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -34574,46 +34510,46 @@ card_changes_5082:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[lumen skin+bootswatch theme]]
-card_changes_5083:
-  id: 6520
-  card_action_id: 7776
+card_changes_5073:
+  id: 6512
+  card_action_id: 7773
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5084:
-  id: 6521
-  card_action_id: 7785
+card_changes_5074:
+  id: 6513
+  card_action_id: 7782
   field: 0
   value: paper skin+variables+*machine input
-card_changes_5085:
-  id: 6522
-  card_action_id: 7785
+card_changes_5075:
+  id: 6514
+  card_action_id: 7782
   field: 1
   value: '47'
-card_changes_5086:
-  id: 6523
-  card_action_id: 7785
+card_changes_5076:
+  id: 6515
+  card_action_id: 7782
   field: 2
   value: "[[paper skin+variables]]"
-card_changes_5087:
-  id: 6524
-  card_action_id: 7785
+card_changes_5077:
+  id: 6516
+  card_action_id: 7782
   field: 3
   value: f
-card_changes_5088:
-  id: 6525
-  card_action_id: 7783
+card_changes_5078:
+  id: 6517
+  card_action_id: 7780
   field: 0
   value: paper skin+variables
-card_changes_5089:
-  id: 6526
-  card_action_id: 7783
+card_changes_5079:
+  id: 6518
+  card_action_id: 7780
   field: 1
   value: '943'
-card_changes_5090:
-  id: 6527
-  card_action_id: 7783
+card_changes_5080:
+  id: 6519
+  card_action_id: 7780
   field: 2
   value: |
     // Paper 3.3.4
@@ -35477,44 +35413,44 @@ card_changes_5090:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5091:
-  id: 6528
+card_changes_5081:
+  id: 6520
+  card_action_id: 7780
+  field: 3
+  value: f
+card_changes_5082:
+  id: 6521
+  card_action_id: 7783
+  field: 0
+  value: paper skin+style+*machine input
+card_changes_5083:
+  id: 6522
+  card_action_id: 7783
+  field: 1
+  value: '47'
+card_changes_5084:
+  id: 6523
+  card_action_id: 7783
+  field: 2
+  value: "[[paper skin+style]]"
+card_changes_5085:
+  id: 6524
   card_action_id: 7783
   field: 3
   value: f
-card_changes_5092:
-  id: 6529
-  card_action_id: 7786
-  field: 0
-  value: paper skin+style+*machine input
-card_changes_5093:
-  id: 6530
-  card_action_id: 7786
-  field: 1
-  value: '47'
-card_changes_5094:
-  id: 6531
-  card_action_id: 7786
-  field: 2
-  value: "[[paper skin+style]]"
-card_changes_5095:
-  id: 6532
-  card_action_id: 7786
-  field: 3
-  value: f
-card_changes_5096:
-  id: 6533
-  card_action_id: 7784
+card_changes_5086:
+  id: 6525
+  card_action_id: 7781
   field: 0
   value: paper skin+style
-card_changes_5097:
-  id: 6534
-  card_action_id: 7784
+card_changes_5087:
+  id: 6526
+  card_action_id: 7781
   field: 1
   value: '943'
-card_changes_5098:
-  id: 6535
-  card_action_id: 7784
+card_changes_5088:
+  id: 6527
+  card_action_id: 7781
   field: 2
   value: "// Paper 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Roboto:300,400,500,700\");\n\n// Navbar
@@ -35643,14 +35579,14 @@ card_changes_5098:
     {\n      color: #fff;\n    }\n  }\n}\n\n.popover {\n  border: none;\n  @include
     box-shadow(0 1px 4px rgba(0,0,0,.3));\n}\n\n.carousel {\n  &-caption {\n    h1,
     h2, h3, h4, h5, h6 {\n      color: inherit;\n    }\n  }\n}\n\n"
-card_changes_5099:
-  id: 6536
-  card_action_id: 7784
+card_changes_5089:
+  id: 6528
+  card_action_id: 7781
   field: 3
   value: f
-card_changes_5100:
-  id: 6537
-  card_action_id: 7787
+card_changes_5090:
+  id: 6529
+  card_action_id: 7784
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -35659,46 +35595,46 @@ card_changes_5100:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[paper skin+bootswatch theme]]
-card_changes_5101:
-  id: 6538
-  card_action_id: 7782
+card_changes_5091:
+  id: 6530
+  card_action_id: 7779
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5102:
-  id: 6539
-  card_action_id: 7791
+card_changes_5092:
+  id: 6531
+  card_action_id: 7788
   field: 0
   value: readable skin+variables+*machine input
-card_changes_5103:
-  id: 6540
-  card_action_id: 7791
+card_changes_5093:
+  id: 6532
+  card_action_id: 7788
   field: 1
   value: '47'
-card_changes_5104:
-  id: 6541
-  card_action_id: 7791
+card_changes_5094:
+  id: 6533
+  card_action_id: 7788
   field: 2
   value: "[[readable skin+variables]]"
-card_changes_5105:
-  id: 6542
-  card_action_id: 7791
+card_changes_5095:
+  id: 6534
+  card_action_id: 7788
   field: 3
   value: f
-card_changes_5106:
-  id: 6543
-  card_action_id: 7789
+card_changes_5096:
+  id: 6535
+  card_action_id: 7786
   field: 0
   value: readable skin+variables
-card_changes_5107:
-  id: 6544
-  card_action_id: 7789
+card_changes_5097:
+  id: 6536
+  card_action_id: 7786
   field: 1
   value: '943'
-card_changes_5108:
-  id: 6545
-  card_action_id: 7789
+card_changes_5098:
+  id: 6537
+  card_action_id: 7786
   field: 2
   value: |
     // Readable 3.3.4
@@ -36562,44 +36498,44 @@ card_changes_5108:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5109:
-  id: 6546
+card_changes_5099:
+  id: 6538
+  card_action_id: 7786
+  field: 3
+  value: f
+card_changes_5100:
+  id: 6539
+  card_action_id: 7789
+  field: 0
+  value: readable skin+style+*machine input
+card_changes_5101:
+  id: 6540
+  card_action_id: 7789
+  field: 1
+  value: '47'
+card_changes_5102:
+  id: 6541
+  card_action_id: 7789
+  field: 2
+  value: "[[readable skin+style]]"
+card_changes_5103:
+  id: 6542
   card_action_id: 7789
   field: 3
   value: f
-card_changes_5110:
-  id: 6547
-  card_action_id: 7792
-  field: 0
-  value: readable skin+style+*machine input
-card_changes_5111:
-  id: 6548
-  card_action_id: 7792
-  field: 1
-  value: '47'
-card_changes_5112:
-  id: 6549
-  card_action_id: 7792
-  field: 2
-  value: "[[readable skin+style]]"
-card_changes_5113:
-  id: 6550
-  card_action_id: 7792
-  field: 3
-  value: f
-card_changes_5114:
-  id: 6551
-  card_action_id: 7790
+card_changes_5104:
+  id: 6543
+  card_action_id: 7787
   field: 0
   value: readable skin+style
-card_changes_5115:
-  id: 6552
-  card_action_id: 7790
+card_changes_5105:
+  id: 6544
+  card_action_id: 7787
   field: 1
   value: '943'
-card_changes_5116:
-  id: 6553
-  card_action_id: 7790
+card_changes_5106:
+  id: 6545
+  card_action_id: 7787
   field: 2
   value: |
     // Readable 3.3.4
@@ -36776,14 +36712,14 @@ card_changes_5116:
         color: $text-color;
       }
     }
-card_changes_5117:
-  id: 6554
-  card_action_id: 7790
+card_changes_5107:
+  id: 6546
+  card_action_id: 7787
   field: 3
   value: f
-card_changes_5118:
-  id: 6555
-  card_action_id: 7793
+card_changes_5108:
+  id: 6547
+  card_action_id: 7790
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -36792,46 +36728,46 @@ card_changes_5118:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[readable skin+bootswatch theme]]
-card_changes_5119:
-  id: 6556
-  card_action_id: 7788
+card_changes_5109:
+  id: 6548
+  card_action_id: 7785
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5120:
-  id: 6557
-  card_action_id: 7797
+card_changes_5110:
+  id: 6549
+  card_action_id: 7794
   field: 0
   value: sandstone skin+variables+*machine input
-card_changes_5121:
-  id: 6558
-  card_action_id: 7797
+card_changes_5111:
+  id: 6550
+  card_action_id: 7794
   field: 1
   value: '47'
-card_changes_5122:
-  id: 6559
-  card_action_id: 7797
+card_changes_5112:
+  id: 6551
+  card_action_id: 7794
   field: 2
   value: "[[sandstone skin+variables]]"
-card_changes_5123:
-  id: 6560
-  card_action_id: 7797
+card_changes_5113:
+  id: 6552
+  card_action_id: 7794
   field: 3
   value: f
-card_changes_5124:
-  id: 6561
-  card_action_id: 7795
+card_changes_5114:
+  id: 6553
+  card_action_id: 7792
   field: 0
   value: sandstone skin+variables
-card_changes_5125:
-  id: 6562
-  card_action_id: 7795
+card_changes_5115:
+  id: 6554
+  card_action_id: 7792
   field: 1
   value: '943'
-card_changes_5126:
-  id: 6563
-  card_action_id: 7795
+card_changes_5116:
+  id: 6555
+  card_action_id: 7792
   field: 2
   value: |
     // Sandstone 3.3.4
@@ -37695,44 +37631,44 @@ card_changes_5126:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5127:
-  id: 6564
+card_changes_5117:
+  id: 6556
+  card_action_id: 7792
+  field: 3
+  value: f
+card_changes_5118:
+  id: 6557
+  card_action_id: 7795
+  field: 0
+  value: sandstone skin+style+*machine input
+card_changes_5119:
+  id: 6558
+  card_action_id: 7795
+  field: 1
+  value: '47'
+card_changes_5120:
+  id: 6559
+  card_action_id: 7795
+  field: 2
+  value: "[[sandstone skin+style]]"
+card_changes_5121:
+  id: 6560
   card_action_id: 7795
   field: 3
   value: f
-card_changes_5128:
-  id: 6565
-  card_action_id: 7798
-  field: 0
-  value: sandstone skin+style+*machine input
-card_changes_5129:
-  id: 6566
-  card_action_id: 7798
-  field: 1
-  value: '47'
-card_changes_5130:
-  id: 6567
-  card_action_id: 7798
-  field: 2
-  value: "[[sandstone skin+style]]"
-card_changes_5131:
-  id: 6568
-  card_action_id: 7798
-  field: 3
-  value: f
-card_changes_5132:
-  id: 6569
-  card_action_id: 7796
+card_changes_5122:
+  id: 6561
+  card_action_id: 7793
   field: 0
   value: sandstone skin+style
-card_changes_5133:
-  id: 6570
-  card_action_id: 7796
+card_changes_5123:
+  id: 6562
+  card_action_id: 7793
   field: 1
   value: '943'
-card_changes_5134:
-  id: 6571
-  card_action_id: 7796
+card_changes_5124:
+  id: 6563
+  card_action_id: 7793
   field: 2
   value: |
     // Sandstone 3.3.4
@@ -37929,14 +37865,14 @@ card_changes_5134:
         }
       }
     }
-card_changes_5135:
-  id: 6572
-  card_action_id: 7796
+card_changes_5125:
+  id: 6564
+  card_action_id: 7793
   field: 3
   value: f
-card_changes_5136:
-  id: 6573
-  card_action_id: 7799
+card_changes_5126:
+  id: 6565
+  card_action_id: 7796
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -37945,46 +37881,46 @@ card_changes_5136:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[sandstone skin+bootswatch theme]]
-card_changes_5137:
-  id: 6574
-  card_action_id: 7794
+card_changes_5127:
+  id: 6566
+  card_action_id: 7791
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5138:
-  id: 6575
-  card_action_id: 7803
+card_changes_5128:
+  id: 6567
+  card_action_id: 7800
   field: 0
   value: simplex skin+variables+*machine input
-card_changes_5139:
-  id: 6576
-  card_action_id: 7803
+card_changes_5129:
+  id: 6568
+  card_action_id: 7800
   field: 1
   value: '47'
-card_changes_5140:
-  id: 6577
-  card_action_id: 7803
+card_changes_5130:
+  id: 6569
+  card_action_id: 7800
   field: 2
   value: "[[simplex skin+variables]]"
-card_changes_5141:
-  id: 6578
-  card_action_id: 7803
+card_changes_5131:
+  id: 6570
+  card_action_id: 7800
   field: 3
   value: f
-card_changes_5142:
-  id: 6579
-  card_action_id: 7801
+card_changes_5132:
+  id: 6571
+  card_action_id: 7798
   field: 0
   value: simplex skin+variables
-card_changes_5143:
-  id: 6580
-  card_action_id: 7801
+card_changes_5133:
+  id: 6572
+  card_action_id: 7798
   field: 1
   value: '943'
-card_changes_5144:
-  id: 6581
-  card_action_id: 7801
+card_changes_5134:
+  id: 6573
+  card_action_id: 7798
   field: 2
   value: |
     // Simplex 3.3.4
@@ -38848,44 +38784,44 @@ card_changes_5144:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5145:
-  id: 6582
+card_changes_5135:
+  id: 6574
+  card_action_id: 7798
+  field: 3
+  value: f
+card_changes_5136:
+  id: 6575
+  card_action_id: 7801
+  field: 0
+  value: simplex skin+style+*machine input
+card_changes_5137:
+  id: 6576
+  card_action_id: 7801
+  field: 1
+  value: '47'
+card_changes_5138:
+  id: 6577
+  card_action_id: 7801
+  field: 2
+  value: "[[simplex skin+style]]"
+card_changes_5139:
+  id: 6578
   card_action_id: 7801
   field: 3
   value: f
-card_changes_5146:
-  id: 6583
-  card_action_id: 7804
-  field: 0
-  value: simplex skin+style+*machine input
-card_changes_5147:
-  id: 6584
-  card_action_id: 7804
-  field: 1
-  value: '47'
-card_changes_5148:
-  id: 6585
-  card_action_id: 7804
-  field: 2
-  value: "[[simplex skin+style]]"
-card_changes_5149:
-  id: 6586
-  card_action_id: 7804
-  field: 3
-  value: f
-card_changes_5150:
-  id: 6587
-  card_action_id: 7802
+card_changes_5140:
+  id: 6579
+  card_action_id: 7799
   field: 0
   value: simplex skin+style
-card_changes_5151:
-  id: 6588
-  card_action_id: 7802
+card_changes_5141:
+  id: 6580
+  card_action_id: 7799
   field: 1
   value: '943'
-card_changes_5152:
-  id: 6589
-  card_action_id: 7802
+card_changes_5142:
+  id: 6581
+  card_action_id: 7799
   field: 2
   value: |-
     // Simplex 3.3.4
@@ -39030,14 +38966,14 @@ card_changes_5152:
     // Progress bars ==============================================================
 
     // Containers =================================================================
-card_changes_5153:
-  id: 6590
-  card_action_id: 7802
+card_changes_5143:
+  id: 6582
+  card_action_id: 7799
   field: 3
   value: f
-card_changes_5154:
-  id: 6591
-  card_action_id: 7805
+card_changes_5144:
+  id: 6583
+  card_action_id: 7802
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -39046,46 +38982,46 @@ card_changes_5154:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[simplex skin+bootswatch theme]]
-card_changes_5155:
-  id: 6592
-  card_action_id: 7800
+card_changes_5145:
+  id: 6584
+  card_action_id: 7797
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5156:
-  id: 6593
-  card_action_id: 7809
+card_changes_5146:
+  id: 6585
+  card_action_id: 7806
   field: 0
   value: slate skin+variables+*machine input
-card_changes_5157:
-  id: 6594
-  card_action_id: 7809
+card_changes_5147:
+  id: 6586
+  card_action_id: 7806
   field: 1
   value: '47'
-card_changes_5158:
-  id: 6595
-  card_action_id: 7809
+card_changes_5148:
+  id: 6587
+  card_action_id: 7806
   field: 2
   value: "[[slate skin+variables]]"
-card_changes_5159:
-  id: 6596
-  card_action_id: 7809
+card_changes_5149:
+  id: 6588
+  card_action_id: 7806
   field: 3
   value: f
-card_changes_5160:
-  id: 6597
-  card_action_id: 7807
+card_changes_5150:
+  id: 6589
+  card_action_id: 7804
   field: 0
   value: slate skin+variables
-card_changes_5161:
-  id: 6598
-  card_action_id: 7807
+card_changes_5151:
+  id: 6590
+  card_action_id: 7804
   field: 1
   value: '943'
-card_changes_5162:
-  id: 6599
-  card_action_id: 7807
+card_changes_5152:
+  id: 6591
+  card_action_id: 7804
   field: 2
   value: |
     // Slate 3.3.4
@@ -39949,44 +39885,44 @@ card_changes_5162:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   darken($gray-darker, 5%);
-card_changes_5163:
-  id: 6600
+card_changes_5153:
+  id: 6592
+  card_action_id: 7804
+  field: 3
+  value: f
+card_changes_5154:
+  id: 6593
+  card_action_id: 7807
+  field: 0
+  value: slate skin+style+*machine input
+card_changes_5155:
+  id: 6594
+  card_action_id: 7807
+  field: 1
+  value: '47'
+card_changes_5156:
+  id: 6595
+  card_action_id: 7807
+  field: 2
+  value: "[[slate skin+style]]"
+card_changes_5157:
+  id: 6596
   card_action_id: 7807
   field: 3
   value: f
-card_changes_5164:
-  id: 6601
-  card_action_id: 7810
-  field: 0
-  value: slate skin+style+*machine input
-card_changes_5165:
-  id: 6602
-  card_action_id: 7810
-  field: 1
-  value: '47'
-card_changes_5166:
-  id: 6603
-  card_action_id: 7810
-  field: 2
-  value: "[[slate skin+style]]"
-card_changes_5167:
-  id: 6604
-  card_action_id: 7810
-  field: 3
-  value: f
-card_changes_5168:
-  id: 6605
-  card_action_id: 7808
+card_changes_5158:
+  id: 6597
+  card_action_id: 7805
   field: 0
   value: slate skin+style
-card_changes_5169:
-  id: 6606
-  card_action_id: 7808
+card_changes_5159:
+  id: 6598
+  card_action_id: 7805
   field: 1
   value: '943'
-card_changes_5170:
-  id: 6607
-  card_action_id: 7808
+card_changes_5160:
+  id: 6599
+  card_action_id: 7805
   field: 2
   value: "// Slate 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@mixin
     btn-shadow($color){\n  @include gradient-vertical-three-colors(lighten($color,
@@ -40074,14 +40010,14 @@ card_changes_5170:
     darken($state-danger-bg, 5%);\n    }\n  }\n}\n\n.jumbotron {\n  border: 1px solid
     rgba(0, 0, 0, 0.6);\n}\n\n.panel-primary,\n.panel-success,\n.panel-danger,\n.panel-warning,\n.panel-info
     {\n\n  .panel-heading {\n    border-color: #000;\n  }\n}"
-card_changes_5171:
-  id: 6608
-  card_action_id: 7808
+card_changes_5161:
+  id: 6600
+  card_action_id: 7805
   field: 3
   value: f
-card_changes_5172:
-  id: 6609
-  card_action_id: 7811
+card_changes_5162:
+  id: 6601
+  card_action_id: 7808
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -40090,46 +40026,46 @@ card_changes_5172:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[slate skin+bootswatch theme]]
-card_changes_5173:
-  id: 6610
-  card_action_id: 7806
+card_changes_5163:
+  id: 6602
+  card_action_id: 7803
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5174:
-  id: 6611
-  card_action_id: 7815
+card_changes_5164:
+  id: 6603
+  card_action_id: 7812
   field: 0
   value: spacelab skin+variables+*machine input
-card_changes_5175:
-  id: 6612
-  card_action_id: 7815
+card_changes_5165:
+  id: 6604
+  card_action_id: 7812
   field: 1
   value: '47'
-card_changes_5176:
-  id: 6613
-  card_action_id: 7815
+card_changes_5166:
+  id: 6605
+  card_action_id: 7812
   field: 2
   value: "[[spacelab skin+variables]]"
-card_changes_5177:
-  id: 6614
-  card_action_id: 7815
+card_changes_5167:
+  id: 6606
+  card_action_id: 7812
   field: 3
   value: f
-card_changes_5178:
-  id: 6615
-  card_action_id: 7813
+card_changes_5168:
+  id: 6607
+  card_action_id: 7810
   field: 0
   value: spacelab skin+variables
-card_changes_5179:
-  id: 6616
-  card_action_id: 7813
+card_changes_5169:
+  id: 6608
+  card_action_id: 7810
   field: 1
   value: '943'
-card_changes_5180:
-  id: 6617
-  card_action_id: 7813
+card_changes_5170:
+  id: 6609
+  card_action_id: 7810
   field: 2
   value: |
     // Spacelab 3.3.4
@@ -40993,44 +40929,44 @@ card_changes_5180:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5181:
-  id: 6618
+card_changes_5171:
+  id: 6610
+  card_action_id: 7810
+  field: 3
+  value: f
+card_changes_5172:
+  id: 6611
+  card_action_id: 7813
+  field: 0
+  value: spacelab skin+style+*machine input
+card_changes_5173:
+  id: 6612
+  card_action_id: 7813
+  field: 1
+  value: '47'
+card_changes_5174:
+  id: 6613
+  card_action_id: 7813
+  field: 2
+  value: "[[spacelab skin+style]]"
+card_changes_5175:
+  id: 6614
   card_action_id: 7813
   field: 3
   value: f
-card_changes_5182:
-  id: 6619
-  card_action_id: 7816
-  field: 0
-  value: spacelab skin+style+*machine input
-card_changes_5183:
-  id: 6620
-  card_action_id: 7816
-  field: 1
-  value: '47'
-card_changes_5184:
-  id: 6621
-  card_action_id: 7816
-  field: 2
-  value: "[[spacelab skin+style]]"
-card_changes_5185:
-  id: 6622
-  card_action_id: 7816
-  field: 3
-  value: f
-card_changes_5186:
-  id: 6623
-  card_action_id: 7814
+card_changes_5176:
+  id: 6615
+  card_action_id: 7811
   field: 0
   value: spacelab skin+style
-card_changes_5187:
-  id: 6624
-  card_action_id: 7814
+card_changes_5177:
+  id: 6616
+  card_action_id: 7811
   field: 1
   value: '943'
-card_changes_5188:
-  id: 6625
-  card_action_id: 7814
+card_changes_5178:
+  id: 6617
+  card_action_id: 7811
   field: 2
   value: "// Spacelab 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700\");\n\n@mixin
@@ -41067,14 +41003,14 @@ card_changes_5188:
     Progress bars ==============================================================\n\n//
     Containers =================================================================\n\n.panel
     {\n\n  &-primary {\n    .panel-title {\n      color: #fff;\n    }\n  }\n}"
-card_changes_5189:
-  id: 6626
-  card_action_id: 7814
+card_changes_5179:
+  id: 6618
+  card_action_id: 7811
   field: 3
   value: f
-card_changes_5190:
-  id: 6627
-  card_action_id: 7817
+card_changes_5180:
+  id: 6619
+  card_action_id: 7814
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -41083,46 +41019,46 @@ card_changes_5190:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[spacelab skin+bootswatch theme]]
-card_changes_5191:
-  id: 6628
-  card_action_id: 7812
+card_changes_5181:
+  id: 6620
+  card_action_id: 7809
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5192:
-  id: 6629
-  card_action_id: 7821
+card_changes_5182:
+  id: 6621
+  card_action_id: 7818
   field: 0
   value: superhero skin+variables+*machine input
-card_changes_5193:
-  id: 6630
-  card_action_id: 7821
+card_changes_5183:
+  id: 6622
+  card_action_id: 7818
   field: 1
   value: '47'
-card_changes_5194:
-  id: 6631
-  card_action_id: 7821
+card_changes_5184:
+  id: 6623
+  card_action_id: 7818
   field: 2
   value: "[[superhero skin+variables]]"
-card_changes_5195:
-  id: 6632
-  card_action_id: 7821
+card_changes_5185:
+  id: 6624
+  card_action_id: 7818
   field: 3
   value: f
-card_changes_5196:
-  id: 6633
-  card_action_id: 7819
+card_changes_5186:
+  id: 6625
+  card_action_id: 7816
   field: 0
   value: superhero skin+variables
-card_changes_5197:
-  id: 6634
-  card_action_id: 7819
+card_changes_5187:
+  id: 6626
+  card_action_id: 7816
   field: 1
   value: '943'
-card_changes_5198:
-  id: 6635
-  card_action_id: 7819
+card_changes_5188:
+  id: 6627
+  card_action_id: 7816
   field: 2
   value: "// Superhero 3.3.4\n// Variables\n// --------------------------------------------------\n\n\n//==
     Colors\n//\n//## Gray and brand colors for use across Bootstrap.\n\n$gray-base:
@@ -41425,44 +41361,44 @@ card_changes_5198:
     color\n$page-header-border-color:    $gray-lighter;\n//** Width of horizontal
     description list titles\n$dl-horizontal-offset:        $component-offset-horizontal;\n//**
     Horizontal line color.\n$hr-border:                   lighten($gray-light, 5%);\n"
-card_changes_5199:
-  id: 6636
+card_changes_5189:
+  id: 6628
+  card_action_id: 7816
+  field: 3
+  value: f
+card_changes_5190:
+  id: 6629
+  card_action_id: 7819
+  field: 0
+  value: superhero skin+style+*machine input
+card_changes_5191:
+  id: 6630
+  card_action_id: 7819
+  field: 1
+  value: '47'
+card_changes_5192:
+  id: 6631
+  card_action_id: 7819
+  field: 2
+  value: "[[superhero skin+style]]"
+card_changes_5193:
+  id: 6632
   card_action_id: 7819
   field: 3
   value: f
-card_changes_5200:
-  id: 6637
-  card_action_id: 7822
-  field: 0
-  value: superhero skin+style+*machine input
-card_changes_5201:
-  id: 6638
-  card_action_id: 7822
-  field: 1
-  value: '47'
-card_changes_5202:
-  id: 6639
-  card_action_id: 7822
-  field: 2
-  value: "[[superhero skin+style]]"
-card_changes_5203:
-  id: 6640
-  card_action_id: 7822
-  field: 3
-  value: f
-card_changes_5204:
-  id: 6641
-  card_action_id: 7820
+card_changes_5194:
+  id: 6633
+  card_action_id: 7817
   field: 0
   value: superhero skin+style
-card_changes_5205:
-  id: 6642
-  card_action_id: 7820
+card_changes_5195:
+  id: 6634
+  card_action_id: 7817
   field: 1
   value: '943'
-card_changes_5206:
-  id: 6643
-  card_action_id: 7820
+card_changes_5196:
+  id: 6635
+  card_action_id: 7817
   field: 2
   value: "// Superhero 3.3.4\n// Bootswatch\n// -----------------------------------------------------\n\n@import
     url(\"//fonts.googleapis.com/css?family=Lato:300,400,700\");\n\n// Navbar =====================================================================\n\n.navbar
@@ -41519,14 +41455,14 @@ card_changes_5206:
     none;\n}\n\n.modal {\n  padding: 0;\n\n  &-header,\n  &-footer {\n    background-color:
     $table-bg-hover;\n    border: none;\n    border-radius: 0;\n  }\n}\n\n.popover
     {\n  &-title {\n    border: none;\n  }\n}\n"
-card_changes_5207:
-  id: 6644
-  card_action_id: 7820
+card_changes_5197:
+  id: 6636
+  card_action_id: 7817
   field: 3
   value: f
-card_changes_5208:
-  id: 6645
-  card_action_id: 7823
+card_changes_5198:
+  id: 6637
+  card_action_id: 7820
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -41535,46 +41471,46 @@ card_changes_5208:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[superhero skin+bootswatch theme]]
-card_changes_5209:
-  id: 6646
-  card_action_id: 7818
+card_changes_5199:
+  id: 6638
+  card_action_id: 7815
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5210:
-  id: 6647
-  card_action_id: 7827
+card_changes_5200:
+  id: 6639
+  card_action_id: 7824
   field: 0
   value: united skin+variables+*machine input
-card_changes_5211:
-  id: 6648
-  card_action_id: 7827
+card_changes_5201:
+  id: 6640
+  card_action_id: 7824
   field: 1
   value: '47'
-card_changes_5212:
-  id: 6649
-  card_action_id: 7827
+card_changes_5202:
+  id: 6641
+  card_action_id: 7824
   field: 2
   value: "[[united skin+variables]]"
-card_changes_5213:
-  id: 6650
-  card_action_id: 7827
+card_changes_5203:
+  id: 6642
+  card_action_id: 7824
   field: 3
   value: f
-card_changes_5214:
-  id: 6651
-  card_action_id: 7825
+card_changes_5204:
+  id: 6643
+  card_action_id: 7822
   field: 0
   value: united skin+variables
-card_changes_5215:
-  id: 6652
-  card_action_id: 7825
+card_changes_5205:
+  id: 6644
+  card_action_id: 7822
   field: 1
   value: '943'
-card_changes_5216:
-  id: 6653
-  card_action_id: 7825
+card_changes_5206:
+  id: 6645
+  card_action_id: 7822
   field: 2
   value: |
     // United 3.3.4
@@ -42438,44 +42374,44 @@ card_changes_5216:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $gray-lighter;
-card_changes_5217:
-  id: 6654
+card_changes_5207:
+  id: 6646
+  card_action_id: 7822
+  field: 3
+  value: f
+card_changes_5208:
+  id: 6647
+  card_action_id: 7825
+  field: 0
+  value: united skin+style+*machine input
+card_changes_5209:
+  id: 6648
+  card_action_id: 7825
+  field: 1
+  value: '47'
+card_changes_5210:
+  id: 6649
+  card_action_id: 7825
+  field: 2
+  value: "[[united skin+style]]"
+card_changes_5211:
+  id: 6650
   card_action_id: 7825
   field: 3
   value: f
-card_changes_5218:
-  id: 6655
-  card_action_id: 7828
-  field: 0
-  value: united skin+style+*machine input
-card_changes_5219:
-  id: 6656
-  card_action_id: 7828
-  field: 1
-  value: '47'
-card_changes_5220:
-  id: 6657
-  card_action_id: 7828
-  field: 2
-  value: "[[united skin+style]]"
-card_changes_5221:
-  id: 6658
-  card_action_id: 7828
-  field: 3
-  value: f
-card_changes_5222:
-  id: 6659
-  card_action_id: 7826
+card_changes_5212:
+  id: 6651
+  card_action_id: 7823
   field: 0
   value: united skin+style
-card_changes_5223:
-  id: 6660
-  card_action_id: 7826
+card_changes_5213:
+  id: 6652
+  card_action_id: 7823
   field: 1
   value: '943'
-card_changes_5224:
-  id: 6661
-  card_action_id: 7826
+card_changes_5214:
+  id: 6653
+  card_action_id: 7823
   field: 2
   value: |-
     // United 3.3.4
@@ -42520,14 +42456,14 @@ card_changes_5224:
     // Progress bars ==============================================================
 
     // Containers =================================================================
-card_changes_5225:
-  id: 6662
-  card_action_id: 7826
+card_changes_5215:
+  id: 6654
+  card_action_id: 7823
   field: 3
   value: f
-card_changes_5226:
-  id: 6663
-  card_action_id: 7829
+card_changes_5216:
+  id: 6655
+  card_action_id: 7826
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -42536,46 +42472,46 @@ card_changes_5226:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[united skin+bootswatch theme]]
-card_changes_5227:
-  id: 6664
-  card_action_id: 7824
+card_changes_5217:
+  id: 6656
+  card_action_id: 7821
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5228:
-  id: 6665
-  card_action_id: 7833
+card_changes_5218:
+  id: 6657
+  card_action_id: 7830
   field: 0
   value: yeti skin+variables+*machine input
-card_changes_5229:
-  id: 6666
-  card_action_id: 7833
+card_changes_5219:
+  id: 6658
+  card_action_id: 7830
   field: 1
   value: '47'
-card_changes_5230:
-  id: 6667
-  card_action_id: 7833
+card_changes_5220:
+  id: 6659
+  card_action_id: 7830
   field: 2
   value: "[[yeti skin+variables]]"
-card_changes_5231:
-  id: 6668
-  card_action_id: 7833
+card_changes_5221:
+  id: 6660
+  card_action_id: 7830
   field: 3
   value: f
-card_changes_5232:
-  id: 6669
-  card_action_id: 7831
+card_changes_5222:
+  id: 6661
+  card_action_id: 7828
   field: 0
   value: yeti skin+variables
-card_changes_5233:
-  id: 6670
-  card_action_id: 7831
+card_changes_5223:
+  id: 6662
+  card_action_id: 7828
   field: 1
   value: '943'
-card_changes_5234:
-  id: 6671
-  card_action_id: 7831
+card_changes_5224:
+  id: 6663
+  card_action_id: 7828
   field: 2
   value: |
     // Yeti 3.3.4
@@ -43439,44 +43375,44 @@ card_changes_5234:
     $dl-horizontal-offset:        $component-offset-horizontal;
     //** Horizontal line color.
     $hr-border:                   $table-border-color;
-card_changes_5235:
-  id: 6672
+card_changes_5225:
+  id: 6664
+  card_action_id: 7828
+  field: 3
+  value: f
+card_changes_5226:
+  id: 6665
+  card_action_id: 7831
+  field: 0
+  value: yeti skin+style+*machine input
+card_changes_5227:
+  id: 6666
+  card_action_id: 7831
+  field: 1
+  value: '47'
+card_changes_5228:
+  id: 6667
+  card_action_id: 7831
+  field: 2
+  value: "[[yeti skin+style]]"
+card_changes_5229:
+  id: 6668
   card_action_id: 7831
   field: 3
   value: f
-card_changes_5236:
-  id: 6673
-  card_action_id: 7834
-  field: 0
-  value: yeti skin+style+*machine input
-card_changes_5237:
-  id: 6674
-  card_action_id: 7834
-  field: 1
-  value: '47'
-card_changes_5238:
-  id: 6675
-  card_action_id: 7834
-  field: 2
-  value: "[[yeti skin+style]]"
-card_changes_5239:
-  id: 6676
-  card_action_id: 7834
-  field: 3
-  value: f
-card_changes_5240:
-  id: 6677
-  card_action_id: 7832
+card_changes_5230:
+  id: 6669
+  card_action_id: 7829
   field: 0
   value: yeti skin+style
-card_changes_5241:
-  id: 6678
-  card_action_id: 7832
+card_changes_5231:
+  id: 6670
+  card_action_id: 7829
   field: 1
   value: '943'
-card_changes_5242:
-  id: 6679
-  card_action_id: 7832
+card_changes_5232:
+  id: 6671
+  card_action_id: 7829
   field: 2
   value: |
     // Yeti 3.3.4
@@ -43916,14 +43852,14 @@ card_changes_5242:
         color: $text-color;
       }
     }
-card_changes_5243:
-  id: 6680
-  card_action_id: 7832
+card_changes_5233:
+  id: 6672
+  card_action_id: 7829
   field: 3
   value: f
-card_changes_5244:
-  id: 6681
-  card_action_id: 7835
+card_changes_5234:
+  id: 6673
+  card_action_id: 7832
   field: 2
   value: |-
     [[themeless bootstrap skin]]
@@ -43932,16 +43868,16 @@ card_changes_5244:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[yeti skin+bootswatch theme]]
-card_changes_5245:
-  id: 6682
-  card_action_id: 7830
+card_changes_5235:
+  id: 6674
+  card_action_id: 7827
   field: 2
   value: |-
     [[themeless bootstrap skin]]
     [[+bootswatch theme]]
-card_changes_5246:
-  id: 6683
-  card_action_id: 7836
+card_changes_5236:
+  id: 6675
+  card_action_id: 7833
   field: 2
   value: |-
     [[yeti skin]]
@@ -43951,1147 +43887,1279 @@ card_changes_5246:
     [[style: right sidebar]]
     [[style: bootstrap cards]]
     [[yeti skin+bootswatch theme]]
-card_changes_5247:
-  id: 6684
-  card_action_id: 7838
+card_changes_5237:
+  id: 6676
+  card_action_id: 7835
   field: 0
   value: 'script: card menu+*machine input'
-card_changes_5248:
-  id: 6685
-  card_action_id: 7838
+card_changes_5238:
+  id: 6677
+  card_action_id: 7835
   field: 1
   value: '47'
-card_changes_5249:
-  id: 6686
-  card_action_id: 7838
+card_changes_5239:
+  id: 6678
+  card_action_id: 7835
   field: 2
   value: "[[script: card menu]]"
-card_changes_5250:
-  id: 6687
-  card_action_id: 7838
+card_changes_5240:
+  id: 6679
+  card_action_id: 7835
   field: 3
   value: f
-card_changes_5251:
-  id: 6688
-  card_action_id: 7837
+card_changes_5241:
+  id: 6680
+  card_action_id: 7834
   field: 1
   value: '1033'
-card_changes_5252:
-  id: 6689
-  card_action_id: 7839
+card_changes_5242:
+  id: 6681
+  card_action_id: 7836
   field: 3
   value: t
-card_changes_5253:
-  id: 6690
-  card_action_id: 7841
+card_changes_5243:
+  id: 6682
+  card_action_id: 7838
   field: 2
   value: "<!DOCTYPE HTML>\r\n<html>\r\n  <head>{{*head|core}}</head>\r\n  <body class=\"right-sidebar\">\r\n
     \   <header>{{*header|core}}</header>\r\n    <article>{{_main|open}}</article>\r\n
     \   <aside>{{*sidebar|core}}</aside>\r\n    <footer>{{*footer|core}}</footer>\r\n
     \ </body>\r\n</html>"
-card_changes_5254:
-  id: 6691
-  card_action_id: 7879
+card_changes_5244:
+  id: 6683
+  card_action_id: 7876
   field: 0
   value: Session+description
-card_changes_5255:
-  id: 6692
-  card_action_id: 7879
+card_changes_5245:
+  id: 6684
+  card_action_id: 7876
   field: 1
   value: '3'
-card_changes_5256:
-  id: 6693
-  card_action_id: 7879
+card_changes_5246:
+  id: 6685
+  card_action_id: 7876
   field: 2
   value: |-
     Session cards are for non-permanent content.
                       They are not stored in the database and can have different values for different users.
                       You can use a Session card to keep track of certain state of a particular user like the content
                       of shopping basket.
-card_changes_5257:
-  id: 6694
-  card_action_id: 7879
+card_changes_5247:
+  id: 6686
+  card_action_id: 7876
   field: 3
   value: f
-card_changes_5258:
-  id: 6695
-  card_action_id: 7878
+card_changes_5248:
+  id: 6687
+  card_action_id: 7875
   field: 0
   value: Session
-card_changes_5259:
-  id: 6696
-  card_action_id: 7878
+card_changes_5249:
+  id: 6688
+  card_action_id: 7875
   field: 1
   value: '5'
-card_changes_5260:
-  id: 6697
-  card_action_id: 7878
+card_changes_5250:
+  id: 6689
+  card_action_id: 7875
   field: 2
   value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_5261:
+card_changes_5251:
+  id: 6690
+  card_action_id: 7875
+  field: 3
+  value: f
+card_changes_5252:
+  id: 6691
+  card_action_id: 7882
+  field: 0
+  value: "*recent settings+*self"
+card_changes_5253:
+  id: 6692
+  card_action_id: 7882
+  field: 1
+  value: '259'
+card_changes_5254:
+  id: 6693
+  card_action_id: 7882
+  field: 2
+  value: '{"name":"_left"}'
+card_changes_5255:
+  id: 6694
+  card_action_id: 7882
+  field: 3
+  value: f
+card_changes_5256:
+  id: 6695
+  card_action_id: 7878
+  field: 0
+  value: "*recent settings+*self+*options"
+card_changes_5257:
+  id: 6696
+  card_action_id: 7878
+  field: 1
+  value: '30'
+card_changes_5258:
+  id: 6697
+  card_action_id: 7878
+  field: 2
+  value: '{"type":"setting"}'
+card_changes_5259:
   id: 6698
   card_action_id: 7878
   field: 3
   value: f
-card_changes_5262:
+card_changes_5260:
   id: 6699
-  card_action_id: 7885
-  field: 0
-  value: "*recent settings+*self"
-card_changes_5263:
-  id: 6700
-  card_action_id: 7885
-  field: 1
-  value: '259'
-card_changes_5264:
-  id: 6701
-  card_action_id: 7885
-  field: 2
-  value: '{"name":"_left"}'
-card_changes_5265:
-  id: 6702
-  card_action_id: 7885
-  field: 3
-  value: f
-card_changes_5266:
-  id: 6703
-  card_action_id: 7881
-  field: 0
-  value: "*recent settings+*self+*options"
-card_changes_5267:
-  id: 6704
-  card_action_id: 7881
-  field: 1
-  value: '30'
-card_changes_5268:
-  id: 6705
-  card_action_id: 7881
-  field: 2
-  value: '{"type":"setting"}'
-card_changes_5269:
-  id: 6706
-  card_action_id: 7881
-  field: 3
-  value: f
-card_changes_5270:
-  id: 6707
-  card_action_id: 7882
+  card_action_id: 7879
   field: 0
   value: "*recent settings+*self+*update"
-card_changes_5271:
-  id: 6708
-  card_action_id: 7882
+card_changes_5261:
+  id: 6700
+  card_action_id: 7879
   field: 1
   value: '47'
-card_changes_5272:
-  id: 6709
-  card_action_id: 7882
+card_changes_5262:
+  id: 6701
+  card_action_id: 7879
   field: 2
   value: "[[Anyone]]"
-card_changes_5273:
-  id: 6710
-  card_action_id: 7882
+card_changes_5263:
+  id: 6702
+  card_action_id: 7879
   field: 3
   value: f
-card_changes_5274:
-  id: 6711
-  card_action_id: 7886
+card_changes_5264:
+  id: 6703
+  card_action_id: 7883
   field: 0
   value: "*self**create"
-card_changes_5275:
-  id: 6712
-  card_action_id: 7886
+card_changes_5265:
+  id: 6704
+  card_action_id: 7883
   field: 1
   value: '3'
-card_changes_5276:
-  id: 6713
-  card_action_id: 7886
+card_changes_5266:
+  id: 6705
+  card_action_id: 7883
   field: 2
   value: ''
-card_changes_5277:
-  id: 6714
-  card_action_id: 7886
+card_changes_5267:
+  id: 6706
+  card_action_id: 7883
   field: 3
   value: f
-card_changes_5278:
-  id: 6715
-  card_action_id: 7883
+card_changes_5268:
+  id: 6707
+  card_action_id: 7880
   field: 0
   value: "*recent settings+*self**create"
-card_changes_5279:
-  id: 6716
-  card_action_id: 7883
+card_changes_5269:
+  id: 6708
+  card_action_id: 7880
   field: 1
   value: '3'
-card_changes_5280:
-  id: 6717
-  card_action_id: 7883
+card_changes_5270:
+  id: 6709
+  card_action_id: 7880
   field: 2
   value: "[[Anyone]]"
-card_changes_5281:
-  id: 6718
-  card_action_id: 7883
+card_changes_5271:
+  id: 6710
+  card_action_id: 7880
   field: 3
   value: f
-card_changes_5282:
-  id: 6719
-  card_action_id: 7887
+card_changes_5272:
+  id: 6711
+  card_action_id: 7884
   field: 0
   value: "*self**read"
-card_changes_5283:
-  id: 6720
-  card_action_id: 7887
+card_changes_5273:
+  id: 6712
+  card_action_id: 7884
   field: 1
   value: '3'
-card_changes_5284:
-  id: 6721
-  card_action_id: 7887
+card_changes_5274:
+  id: 6713
+  card_action_id: 7884
   field: 2
   value: ''
-card_changes_5285:
-  id: 6722
-  card_action_id: 7887
+card_changes_5275:
+  id: 6714
+  card_action_id: 7884
   field: 3
   value: f
-card_changes_5286:
-  id: 6723
-  card_action_id: 7884
+card_changes_5276:
+  id: 6715
+  card_action_id: 7881
   field: 0
   value: "*recent settings+*self**read"
-card_changes_5287:
-  id: 6724
-  card_action_id: 7884
+card_changes_5277:
+  id: 6716
+  card_action_id: 7881
   field: 1
   value: '3'
-card_changes_5288:
-  id: 6725
-  card_action_id: 7884
+card_changes_5278:
+  id: 6717
+  card_action_id: 7881
   field: 2
   value: "[[Anyone]]"
+card_changes_5279:
+  id: 6718
+  card_action_id: 7881
+  field: 3
+  value: f
+card_changes_5280:
+  id: 6719
+  card_action_id: 8007
+  field: 0
+  value: "*recent settings"
+card_changes_5281:
+  id: 6720
+  card_action_id: 8007
+  field: 1
+  value: '47'
+card_changes_5282:
+  id: 6722
+  card_action_id: 8007
+  field: 3
+  value: f
+card_changes_5283:
+  id: 6723
+  card_action_id: 8001
+  field: 0
+  value: "*performance log"
+card_changes_5284:
+  id: 6724
+  card_action_id: 8001
+  field: 1
+  value: '47'
+card_changes_5285:
+  id: 6725
+  card_action_id: 8001
+  field: 2
+  value: ''
+card_changes_5286:
+  id: 6727
+  card_action_id: 7889
+  field: 0
+  value: "*debugger+*self"
+card_changes_5287:
+  id: 6728
+  card_action_id: 7889
+  field: 1
+  value: '259'
+card_changes_5288:
+  id: 6729
+  card_action_id: 7889
+  field: 2
+  value: '{"name":"_left"}'
 card_changes_5289:
-  id: 6726
-  card_action_id: 7884
+  id: 6730
+  card_action_id: 7889
   field: 3
   value: f
 card_changes_5290:
-  id: 6727
-  card_action_id: 7956
+  id: 6731
+  card_action_id: 7886
   field: 0
-  value: "*recent settings"
+  value: "*debugger+*self+*options"
 card_changes_5291:
-  id: 6728
-  card_action_id: 7956
+  id: 6732
+  card_action_id: 7886
   field: 1
   value: '47'
 card_changes_5292:
-  id: 6730
-  card_action_id: 7956
-  field: 3
-  value: f
-card_changes_5293:
-  id: 6731
-  card_action_id: 8010
-  field: 0
-  value: "*performance log"
-card_changes_5294:
-  id: 6732
-  card_action_id: 8010
-  field: 1
-  value: '47'
-card_changes_5295:
   id: 6733
-  card_action_id: 8010
-  field: 2
-  value: ''
-card_changes_5296:
-  id: 6735
-  card_action_id: 7892
-  field: 0
-  value: "*debugger+*self"
-card_changes_5297:
-  id: 6736
-  card_action_id: 7892
-  field: 1
-  value: '259'
-card_changes_5298:
-  id: 6737
-  card_action_id: 7892
-  field: 2
-  value: '{"name":"_left"}'
-card_changes_5299:
-  id: 6738
-  card_action_id: 7892
-  field: 3
-  value: f
-card_changes_5300:
-  id: 6739
-  card_action_id: 7889
-  field: 0
-  value: "*debugger+*self+*options"
-card_changes_5301:
-  id: 6740
-  card_action_id: 7889
-  field: 1
-  value: '47'
-card_changes_5302:
-  id: 6741
-  card_action_id: 7889
+  card_action_id: 7886
   field: 2
   value: "[[on]]"
-card_changes_5303:
-  id: 6742
-  card_action_id: 7889
+card_changes_5293:
+  id: 6734
+  card_action_id: 7886
   field: 3
   value: f
-card_changes_5304:
-  id: 6743
-  card_action_id: 7890
+card_changes_5294:
+  id: 6735
+  card_action_id: 7887
   field: 0
   value: "*debugger+*self+*input"
-card_changes_5305:
-  id: 6744
-  card_action_id: 7890
+card_changes_5295:
+  id: 6736
+  card_action_id: 7887
   field: 1
   value: '47'
-card_changes_5306:
-  id: 6745
-  card_action_id: 7890
+card_changes_5296:
+  id: 6737
+  card_action_id: 7887
   field: 2
   value: "[[checkbox]]"
-card_changes_5307:
-  id: 6746
-  card_action_id: 7890
+card_changes_5297:
+  id: 6738
+  card_action_id: 7887
   field: 3
   value: f
-card_changes_5308:
-  id: 6747
-  card_action_id: 7891
+card_changes_5298:
+  id: 6739
+  card_action_id: 7888
   field: 0
   value: "*debugger+*self+*help"
-card_changes_5309:
-  id: 6748
-  card_action_id: 7891
+card_changes_5299:
+  id: 6740
+  card_action_id: 7888
   field: 1
   value: '3'
-card_changes_5310:
-  id: 6749
-  card_action_id: 7891
+card_changes_5300:
+  id: 6741
+  card_action_id: 7888
   field: 2
   value: show more useful error pages
-card_changes_5311:
-  id: 6750
-  card_action_id: 7891
+card_changes_5301:
+  id: 6742
+  card_action_id: 7888
   field: 3
   value: f
-card_changes_5312:
-  id: 6754
-  card_action_id: 7896
+card_changes_5302:
+  id: 6744
+  card_action_id: 7891
   field: 0
   value: "*recaptcha settings"
-card_changes_5313:
-  id: 6755
-  card_action_id: 7896
+card_changes_5303:
+  id: 6745
+  card_action_id: 7891
   field: 1
   value: '47'
-card_changes_5314:
-  id: 6756
-  card_action_id: 7896
+card_changes_5304:
+  id: 6746
+  card_action_id: 7891
   field: 2
   value: |-
     [[+public key]]
     [[+private key]]
     [[+proxy]]
-card_changes_5315:
-  id: 6757
-  card_action_id: 7896
+card_changes_5305:
+  id: 6747
+  card_action_id: 7891
   field: 3
   value: f
-card_changes_5316:
-  id: 6758
-  card_action_id: 7898
+card_changes_5306:
+  id: 6748
+  card_action_id: 7893
   field: 0
   value: "*recaptcha settings+*self"
-card_changes_5317:
-  id: 6759
-  card_action_id: 7898
+card_changes_5307:
+  id: 6749
+  card_action_id: 7893
   field: 1
   value: '259'
-card_changes_5318:
-  id: 6760
-  card_action_id: 7898
+card_changes_5308:
+  id: 6750
+  card_action_id: 7893
   field: 2
   value: '{"name":"_left"}'
-card_changes_5319:
-  id: 6761
-  card_action_id: 7898
+card_changes_5309:
+  id: 6751
+  card_action_id: 7893
   field: 3
   value: f
-card_changes_5320:
+card_changes_5310:
+  id: 6752
+  card_action_id: 7892
+  field: 0
+  value: "*recaptcha settings+*self+*read"
+card_changes_5311:
+  id: 6753
+  card_action_id: 7892
+  field: 1
+  value: '47'
+card_changes_5312:
+  id: 6754
+  card_action_id: 7892
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5313:
+  id: 6755
+  card_action_id: 7892
+  field: 3
+  value: f
+card_changes_5314:
+  id: 6757
+  card_action_id: 7895
+  field: 0
+  value: "*recaptcha settings+*self+*update"
+card_changes_5315:
+  id: 6758
+  card_action_id: 7895
+  field: 1
+  value: '47'
+card_changes_5316:
+  id: 6759
+  card_action_id: 7895
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5317:
+  id: 6760
+  card_action_id: 7895
+  field: 3
+  value: f
+card_changes_5318:
   id: 6762
   card_action_id: 7897
   field: 0
-  value: "*recaptcha settings+*self+*read"
-card_changes_5321:
+  value: "*recaptcha settings+*self+*delete"
+card_changes_5319:
   id: 6763
   card_action_id: 7897
   field: 1
   value: '47'
-card_changes_5322:
+card_changes_5320:
   id: 6764
   card_action_id: 7897
   field: 2
   value: "[[Administrator]]"
-card_changes_5323:
+card_changes_5321:
   id: 6765
   card_action_id: 7897
   field: 3
   value: f
-card_changes_5324:
+card_changes_5322:
   id: 6767
   card_action_id: 7900
   field: 0
-  value: "*recaptcha settings+*self+*update"
-card_changes_5325:
+  value: public key
+card_changes_5323:
   id: 6768
   card_action_id: 7900
   field: 1
-  value: '47'
-card_changes_5326:
+  value: '3'
+card_changes_5324:
   id: 6769
   card_action_id: 7900
   field: 2
-  value: "[[Administrator]]"
-card_changes_5327:
+  value: ''
+card_changes_5325:
   id: 6770
   card_action_id: 7900
   field: 3
   value: f
-card_changes_5328:
-  id: 6772
-  card_action_id: 7902
-  field: 0
-  value: "*recaptcha settings+*self+*delete"
-card_changes_5329:
-  id: 6773
-  card_action_id: 7902
-  field: 1
-  value: '47'
-card_changes_5330:
-  id: 6774
-  card_action_id: 7902
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5331:
-  id: 6775
-  card_action_id: 7902
-  field: 3
-  value: f
-card_changes_5332:
-  id: 6777
-  card_action_id: 7905
-  field: 0
-  value: public key
-card_changes_5333:
-  id: 6778
-  card_action_id: 7905
-  field: 1
-  value: '3'
-card_changes_5334:
-  id: 6779
-  card_action_id: 7905
-  field: 2
-  value: ''
-card_changes_5335:
-  id: 6780
-  card_action_id: 7905
-  field: 3
-  value: f
-card_changes_5336:
-  id: 6781
-  card_action_id: 7904
+card_changes_5326:
+  id: 6771
+  card_action_id: 7899
   field: 0
   value: "*recaptcha settings+public key"
-card_changes_5337:
-  id: 6782
-  card_action_id: 7904
+card_changes_5327:
+  id: 6772
+  card_action_id: 7899
   field: 1
   value: '3'
+card_changes_5328:
+  id: 6773
+  card_action_id: 7899
+  field: 2
+  value: ''
+card_changes_5329:
+  id: 6774
+  card_action_id: 7899
+  field: 3
+  value: f
+card_changes_5330:
+  id: 6775
+  card_action_id: 7902
+  field: 0
+  value: private key
+card_changes_5331:
+  id: 6776
+  card_action_id: 7902
+  field: 1
+  value: '3'
+card_changes_5332:
+  id: 6777
+  card_action_id: 7902
+  field: 2
+  value: ''
+card_changes_5333:
+  id: 6778
+  card_action_id: 7902
+  field: 3
+  value: f
+card_changes_5334:
+  id: 6779
+  card_action_id: 7901
+  field: 0
+  value: "*recaptcha settings+private key"
+card_changes_5335:
+  id: 6780
+  card_action_id: 7901
+  field: 1
+  value: '3'
+card_changes_5336:
+  id: 6781
+  card_action_id: 7901
+  field: 2
+  value: ''
+card_changes_5337:
+  id: 6782
+  card_action_id: 7901
+  field: 3
+  value: f
 card_changes_5338:
   id: 6783
   card_action_id: 7904
-  field: 2
-  value: ''
+  field: 0
+  value: proxy
 card_changes_5339:
   id: 6784
   card_action_id: 7904
-  field: 3
-  value: f
+  field: 1
+  value: '3'
 card_changes_5340:
   id: 6785
-  card_action_id: 7907
-  field: 0
-  value: private key
+  card_action_id: 7904
+  field: 2
+  value: ''
 card_changes_5341:
   id: 6786
-  card_action_id: 7907
-  field: 1
-  value: '3'
+  card_action_id: 7904
+  field: 3
+  value: f
 card_changes_5342:
   id: 6787
-  card_action_id: 7907
-  field: 2
-  value: ''
-card_changes_5343:
-  id: 6788
-  card_action_id: 7907
-  field: 3
-  value: f
-card_changes_5344:
-  id: 6789
-  card_action_id: 7906
-  field: 0
-  value: "*recaptcha settings+private key"
-card_changes_5345:
-  id: 6790
-  card_action_id: 7906
-  field: 1
-  value: '3'
-card_changes_5346:
-  id: 6791
-  card_action_id: 7906
-  field: 2
-  value: ''
-card_changes_5347:
-  id: 6792
-  card_action_id: 7906
-  field: 3
-  value: f
-card_changes_5348:
-  id: 6793
-  card_action_id: 7909
-  field: 0
-  value: proxy
-card_changes_5349:
-  id: 6794
-  card_action_id: 7909
-  field: 1
-  value: '3'
-card_changes_5350:
-  id: 6795
-  card_action_id: 7909
-  field: 2
-  value: ''
-card_changes_5351:
-  id: 6796
-  card_action_id: 7909
-  field: 3
-  value: f
-card_changes_5352:
-  id: 6797
-  card_action_id: 7908
+  card_action_id: 7903
   field: 0
   value: "*recaptcha settings+proxy"
-card_changes_5353:
-  id: 6798
-  card_action_id: 7908
+card_changes_5343:
+  id: 6788
+  card_action_id: 7903
   field: 1
   value: '3'
-card_changes_5354:
-  id: 6799
-  card_action_id: 7908
+card_changes_5344:
+  id: 6789
+  card_action_id: 7903
   field: 2
   value: ''
-card_changes_5355:
-  id: 6800
-  card_action_id: 7908
+card_changes_5345:
+  id: 6790
+  card_action_id: 7903
   field: 3
   value: f
-card_changes_5356:
-  id: 6801
-  card_action_id: 7910
+card_changes_5346:
+  id: 6791
+  card_action_id: 7905
   field: 0
   value: "*admin info"
-card_changes_5357:
-  id: 6802
-  card_action_id: 7910
+card_changes_5347:
+  id: 6792
+  card_action_id: 7905
   field: 1
   value: '52'
-card_changes_5358:
-  id: 6803
-  card_action_id: 7910
+card_changes_5348:
+  id: 6793
+  card_action_id: 7905
   field: 2
   value: ''
-card_changes_5359:
-  id: 6804
-  card_action_id: 7910
+card_changes_5349:
+  id: 6794
+  card_action_id: 7905
   field: 3
   value: f
-card_changes_5360:
-  id: 6805
-  card_action_id: 7912
+card_changes_5350:
+  id: 6795
+  card_action_id: 7907
   field: 0
   value: "*admin info+*self"
-card_changes_5361:
-  id: 6806
-  card_action_id: 7912
+card_changes_5351:
+  id: 6796
+  card_action_id: 7907
   field: 1
   value: '259'
-card_changes_5362:
-  id: 6807
-  card_action_id: 7912
+card_changes_5352:
+  id: 6797
+  card_action_id: 7907
   field: 2
   value: '{"name":"_left"}'
-card_changes_5363:
-  id: 6808
-  card_action_id: 7912
+card_changes_5353:
+  id: 6798
+  card_action_id: 7907
   field: 3
   value: f
-card_changes_5364:
+card_changes_5354:
+  id: 6799
+  card_action_id: 7906
+  field: 0
+  value: "*admin info+*self+*read"
+card_changes_5355:
+  id: 6800
+  card_action_id: 7906
+  field: 1
+  value: '47'
+card_changes_5356:
+  id: 6801
+  card_action_id: 7906
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5357:
+  id: 6802
+  card_action_id: 7906
+  field: 3
+  value: f
+card_changes_5358:
+  id: 6804
+  card_action_id: 7909
+  field: 0
+  value: "*admin info+*self+*update"
+card_changes_5359:
+  id: 6805
+  card_action_id: 7909
+  field: 1
+  value: '47'
+card_changes_5360:
+  id: 6806
+  card_action_id: 7909
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5361:
+  id: 6807
+  card_action_id: 7909
+  field: 3
+  value: f
+card_changes_5362:
   id: 6809
   card_action_id: 7911
   field: 0
-  value: "*admin info+*self+*read"
-card_changes_5365:
+  value: "*admin info+*self+*delete"
+card_changes_5363:
   id: 6810
   card_action_id: 7911
   field: 1
   value: '47'
-card_changes_5366:
+card_changes_5364:
   id: 6811
   card_action_id: 7911
   field: 2
   value: "[[Administrator]]"
-card_changes_5367:
+card_changes_5365:
   id: 6812
   card_action_id: 7911
   field: 3
   value: f
-card_changes_5368:
+card_changes_5366:
   id: 6814
-  card_action_id: 7914
-  field: 0
-  value: "*admin info+*self+*update"
-card_changes_5369:
-  id: 6815
-  card_action_id: 7914
-  field: 1
-  value: '47'
-card_changes_5370:
-  id: 6816
-  card_action_id: 7914
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5371:
-  id: 6817
-  card_action_id: 7914
-  field: 3
-  value: f
-card_changes_5372:
-  id: 6819
-  card_action_id: 7916
-  field: 0
-  value: "*admin info+*self+*delete"
-card_changes_5373:
-  id: 6820
-  card_action_id: 7916
-  field: 1
-  value: '47'
-card_changes_5374:
-  id: 6821
-  card_action_id: 7916
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5375:
-  id: 6822
-  card_action_id: 7916
-  field: 3
-  value: f
-card_changes_5376:
-  id: 6824
-  card_action_id: 7918
+  card_action_id: 7913
   field: 0
   value: "*google_analytics_key"
-card_changes_5377:
-  id: 6825
-  card_action_id: 7918
+card_changes_5367:
+  id: 6815
+  card_action_id: 7913
   field: 1
   value: '52'
-card_changes_5378:
-  id: 6826
-  card_action_id: 7918
+card_changes_5368:
+  id: 6816
+  card_action_id: 7913
   field: 2
   value: ''
-card_changes_5379:
-  id: 6827
-  card_action_id: 7918
+card_changes_5369:
+  id: 6817
+  card_action_id: 7913
   field: 3
   value: f
-card_changes_5380:
-  id: 6828
-  card_action_id: 7920
+card_changes_5370:
+  id: 6818
+  card_action_id: 7915
   field: 0
   value: "*google_analytics_key+*self"
-card_changes_5381:
-  id: 6829
-  card_action_id: 7920
+card_changes_5371:
+  id: 6819
+  card_action_id: 7915
   field: 1
   value: '259'
-card_changes_5382:
-  id: 6830
-  card_action_id: 7920
+card_changes_5372:
+  id: 6820
+  card_action_id: 7915
   field: 2
   value: '{"name":"_left"}'
-card_changes_5383:
-  id: 6831
-  card_action_id: 7920
+card_changes_5373:
+  id: 6821
+  card_action_id: 7915
   field: 3
   value: f
-card_changes_5384:
+card_changes_5374:
+  id: 6822
+  card_action_id: 7914
+  field: 0
+  value: "*google_analytics_key+*self+*read"
+card_changes_5375:
+  id: 6823
+  card_action_id: 7914
+  field: 1
+  value: '47'
+card_changes_5376:
+  id: 6824
+  card_action_id: 7914
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5377:
+  id: 6825
+  card_action_id: 7914
+  field: 3
+  value: f
+card_changes_5378:
+  id: 6827
+  card_action_id: 7917
+  field: 0
+  value: "*google_analytics_key+*self+*update"
+card_changes_5379:
+  id: 6828
+  card_action_id: 7917
+  field: 1
+  value: '47'
+card_changes_5380:
+  id: 6829
+  card_action_id: 7917
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5381:
+  id: 6830
+  card_action_id: 7917
+  field: 3
+  value: f
+card_changes_5382:
   id: 6832
   card_action_id: 7919
   field: 0
-  value: "*google_analytics_key+*self+*read"
-card_changes_5385:
+  value: "*google_analytics_key+*self+*delete"
+card_changes_5383:
   id: 6833
   card_action_id: 7919
   field: 1
   value: '47'
-card_changes_5386:
+card_changes_5384:
   id: 6834
   card_action_id: 7919
   field: 2
   value: "[[Administrator]]"
-card_changes_5387:
+card_changes_5385:
   id: 6835
   card_action_id: 7919
   field: 3
   value: f
-card_changes_5388:
+card_changes_5386:
   id: 6837
-  card_action_id: 7922
-  field: 0
-  value: "*google_analytics_key+*self+*update"
-card_changes_5389:
-  id: 6838
-  card_action_id: 7922
-  field: 1
-  value: '47'
-card_changes_5390:
-  id: 6839
-  card_action_id: 7922
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5391:
-  id: 6840
-  card_action_id: 7922
-  field: 3
-  value: f
-card_changes_5392:
-  id: 6842
-  card_action_id: 7924
-  field: 0
-  value: "*google_analytics_key+*self+*delete"
-card_changes_5393:
-  id: 6843
-  card_action_id: 7924
-  field: 1
-  value: '47'
-card_changes_5394:
-  id: 6844
-  card_action_id: 7924
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5395:
-  id: 6845
-  card_action_id: 7924
-  field: 3
-  value: f
-card_changes_5396:
-  id: 6847
-  card_action_id: 7926
+  card_action_id: 7921
   field: 0
   value: "*admin settings"
-card_changes_5397:
-  id: 6848
-  card_action_id: 7926
+card_changes_5387:
+  id: 6838
+  card_action_id: 7921
   field: 1
   value: '47'
-card_changes_5398:
-  id: 6849
-  card_action_id: 7926
+card_changes_5388:
+  id: 6839
+  card_action_id: 7921
   field: 2
   value: |-
     [[*debugger]]
     [[*recaptcha settings]]
-card_changes_5399:
-  id: 6850
-  card_action_id: 7926
+card_changes_5389:
+  id: 6840
+  card_action_id: 7921
   field: 3
   value: f
-card_changes_5400:
-  id: 6851
-  card_action_id: 7928
+card_changes_5390:
+  id: 6841
+  card_action_id: 7923
   field: 0
   value: "*admin settings+*self"
-card_changes_5401:
-  id: 6852
-  card_action_id: 7928
+card_changes_5391:
+  id: 6842
+  card_action_id: 7923
   field: 1
   value: '259'
-card_changes_5402:
-  id: 6853
-  card_action_id: 7928
+card_changes_5392:
+  id: 6843
+  card_action_id: 7923
   field: 2
   value: '{"name":"_left"}'
-card_changes_5403:
-  id: 6854
-  card_action_id: 7928
+card_changes_5393:
+  id: 6844
+  card_action_id: 7923
   field: 3
   value: f
-card_changes_5404:
+card_changes_5394:
+  id: 6845
+  card_action_id: 7922
+  field: 0
+  value: "*admin settings+*self+*read"
+card_changes_5395:
+  id: 6846
+  card_action_id: 7922
+  field: 1
+  value: '47'
+card_changes_5396:
+  id: 6847
+  card_action_id: 7922
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5397:
+  id: 6848
+  card_action_id: 7922
+  field: 3
+  value: f
+card_changes_5398:
+  id: 6850
+  card_action_id: 7925
+  field: 0
+  value: "*admin settings+*self+*update"
+card_changes_5399:
+  id: 6851
+  card_action_id: 7925
+  field: 1
+  value: '47'
+card_changes_5400:
+  id: 6852
+  card_action_id: 7925
+  field: 2
+  value: "[[Administrator]]"
+card_changes_5401:
+  id: 6853
+  card_action_id: 7925
+  field: 3
+  value: f
+card_changes_5402:
   id: 6855
   card_action_id: 7927
   field: 0
-  value: "*admin settings+*self+*read"
-card_changes_5405:
+  value: "*admin settings+*self+*delete"
+card_changes_5403:
   id: 6856
   card_action_id: 7927
   field: 1
   value: '47'
-card_changes_5406:
+card_changes_5404:
   id: 6857
   card_action_id: 7927
   field: 2
   value: "[[Administrator]]"
-card_changes_5407:
+card_changes_5405:
   id: 6858
   card_action_id: 7927
   field: 3
   value: f
-card_changes_5408:
+card_changes_5406:
   id: 6860
-  card_action_id: 7930
-  field: 0
-  value: "*admin settings+*self+*update"
-card_changes_5409:
-  id: 6861
-  card_action_id: 7930
-  field: 1
-  value: '47'
-card_changes_5410:
-  id: 6862
-  card_action_id: 7930
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5411:
-  id: 6863
-  card_action_id: 7930
-  field: 3
-  value: f
-card_changes_5412:
-  id: 6865
-  card_action_id: 7932
-  field: 0
-  value: "*admin settings+*self+*delete"
-card_changes_5413:
-  id: 6866
-  card_action_id: 7932
-  field: 1
-  value: '47'
-card_changes_5414:
-  id: 6867
-  card_action_id: 7932
-  field: 2
-  value: "[[Administrator]]"
-card_changes_5415:
-  id: 6868
-  card_action_id: 7932
-  field: 3
-  value: f
-card_changes_5416:
-  id: 6870
-  card_action_id: 7934
+  card_action_id: 7929
   field: 2
   value: "{{*admin info|content}}\n<div>{{+original|content}}</div>\r\n<div><span>{{##
     Feel free to get rid of this and start fresh! }}</span></div>"
+card_changes_5407:
+  id: 6861
+  card_action_id: 7930
+  field: 3
+  value: t
+card_changes_5408:
+  id: 6862
+  card_action_id: 7932
+  field: 0
+  value: 'script: bootstrap+*machine input'
+card_changes_5409:
+  id: 6863
+  card_action_id: 7932
+  field: 1
+  value: '47'
+card_changes_5410:
+  id: 6864
+  card_action_id: 7932
+  field: 2
+  value: "[[script: bootstrap]]"
+card_changes_5411:
+  id: 6865
+  card_action_id: 7932
+  field: 3
+  value: f
+card_changes_5412:
+  id: 6866
+  card_action_id: 7931
+  field: 1
+  value: '1034'
+card_changes_5413:
+  id: 6867
+  card_action_id: 7934
+  field: 0
+  value: List
+card_changes_5414:
+  id: 6868
+  card_action_id: 7934
+  field: 1
+  value: '5'
+card_changes_5415:
+  id: 6869
+  card_action_id: 7934
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+card_changes_5416:
+  id: 6870
+  card_action_id: 7934
+  field: 3
+  value: f
 card_changes_5417:
   id: 6871
   card_action_id: 7935
-  field: 3
-  value: t
-card_changes_5418:
-  id: 6872
-  card_action_id: 7937
-  field: 0
-  value: 'script: bootstrap+*machine input'
-card_changes_5419:
-  id: 6873
-  card_action_id: 7937
-  field: 1
-  value: '47'
-card_changes_5420:
-  id: 6874
-  card_action_id: 7937
-  field: 2
-  value: "[[script: bootstrap]]"
-card_changes_5421:
-  id: 6875
-  card_action_id: 7937
-  field: 3
-  value: f
-card_changes_5422:
-  id: 6876
-  card_action_id: 7936
-  field: 1
-  value: '1034'
-card_changes_5423:
-  id: 6877
-  card_action_id: 7939
-  field: 0
-  value: List
-card_changes_5424:
-  id: 6878
-  card_action_id: 7939
-  field: 1
-  value: '5'
-card_changes_5425:
-  id: 6879
-  card_action_id: 7939
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_5426:
-  id: 6880
-  card_action_id: 7939
-  field: 3
-  value: f
-card_changes_5427:
-  id: 6881
-  card_action_id: 7940
   field: 0
   value: Listed by
-card_changes_5428:
-  id: 6882
-  card_action_id: 7940
+card_changes_5418:
+  id: 6872
+  card_action_id: 7935
   field: 1
   value: '5'
-card_changes_5429:
-  id: 6883
-  card_action_id: 7940
+card_changes_5419:
+  id: 6873
+  card_action_id: 7935
   field: 2
   value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_5430:
-  id: 6884
+card_changes_5420:
+  id: 6874
+  card_action_id: 7935
+  field: 3
+  value: f
+card_changes_5421:
+  id: 6875
+  card_action_id: 7940
+  field: 0
+  value: "*cached count+*right"
+card_changes_5422:
+  id: 6876
+  card_action_id: 7940
+  field: 1
+  value: '259'
+card_changes_5423:
+  id: 6877
+  card_action_id: 7940
+  field: 2
+  value: '{"right":"_left"}'
+card_changes_5424:
+  id: 6878
   card_action_id: 7940
   field: 3
   value: f
-card_changes_5431:
-  id: 6885
-  card_action_id: 7945
-  field: 0
-  value: "*cached count+*right"
-card_changes_5432:
-  id: 6886
-  card_action_id: 7945
-  field: 1
-  value: '259'
-card_changes_5433:
-  id: 6887
-  card_action_id: 7945
-  field: 2
-  value: '{"right":"_left"}'
-card_changes_5434:
-  id: 6888
-  card_action_id: 7945
-  field: 3
-  value: f
-card_changes_5435:
-  id: 6889
-  card_action_id: 7942
+card_changes_5425:
+  id: 6879
+  card_action_id: 7937
   field: 0
   value: "*cached count+*right+*update"
-card_changes_5436:
-  id: 6890
-  card_action_id: 7942
+card_changes_5426:
+  id: 6880
+  card_action_id: 7937
   field: 1
   value: '47'
-card_changes_5437:
-  id: 6891
-  card_action_id: 7942
+card_changes_5427:
+  id: 6881
+  card_action_id: 7937
   field: 2
   value: "[[Administrator]]"
-card_changes_5438:
-  id: 6892
-  card_action_id: 7942
+card_changes_5428:
+  id: 6882
+  card_action_id: 7937
   field: 3
   value: f
-card_changes_5439:
-  id: 6893
-  card_action_id: 7943
+card_changes_5429:
+  id: 6883
+  card_action_id: 7938
   field: 0
   value: "*cached count+*right+*create"
-card_changes_5440:
-  id: 6894
-  card_action_id: 7943
+card_changes_5430:
+  id: 6884
+  card_action_id: 7938
   field: 1
   value: '47'
-card_changes_5441:
-  id: 6895
-  card_action_id: 7943
+card_changes_5431:
+  id: 6885
+  card_action_id: 7938
   field: 2
   value: "[[Administrator]]"
-card_changes_5442:
-  id: 6896
-  card_action_id: 7943
+card_changes_5432:
+  id: 6886
+  card_action_id: 7938
   field: 3
   value: f
-card_changes_5443:
-  id: 6897
-  card_action_id: 7944
+card_changes_5433:
+  id: 6887
+  card_action_id: 7939
   field: 0
   value: "*cached count+*right+*delete"
-card_changes_5444:
-  id: 6898
-  card_action_id: 7944
+card_changes_5434:
+  id: 6888
+  card_action_id: 7939
   field: 1
   value: '47'
-card_changes_5445:
-  id: 6899
-  card_action_id: 7944
+card_changes_5435:
+  id: 6889
+  card_action_id: 7939
   field: 2
   value: "[[Administrator]]"
-card_changes_5446:
-  id: 6900
-  card_action_id: 7944
+card_changes_5436:
+  id: 6890
+  card_action_id: 7939
   field: 3
   value: f
-card_changes_5447:
-  id: 6901
-  card_action_id: 7941
+card_changes_5437:
+  id: 6891
+  card_action_id: 7936
   field: 0
   value: "*cached count"
-card_changes_5448:
-  id: 6902
-  card_action_id: 7941
+card_changes_5438:
+  id: 6892
+  card_action_id: 7936
   field: 1
   value: '3'
-card_changes_5449:
-  id: 6903
-  card_action_id: 7941
+card_changes_5439:
+  id: 6893
+  card_action_id: 7936
   field: 2
   value: ''
-card_changes_5450:
-  id: 6904
-  card_action_id: 7941
+card_changes_5440:
+  id: 6894
+  card_action_id: 7936
   field: 3
   value: f
-card_changes_5451:
-  id: 6908
-  card_action_id: 7953
+card_changes_5441:
+  id: 6896
+  card_action_id: 7946
   field: 0
   value: "*cached content+*right"
-card_changes_5452:
-  id: 6909
-  card_action_id: 7953
+card_changes_5442:
+  id: 6897
+  card_action_id: 7946
   field: 1
   value: '259'
-card_changes_5453:
-  id: 6910
-  card_action_id: 7953
+card_changes_5443:
+  id: 6898
+  card_action_id: 7946
   field: 2
   value: '{"right":"_left"}'
-card_changes_5454:
-  id: 6911
-  card_action_id: 7953
+card_changes_5444:
+  id: 6899
+  card_action_id: 7946
   field: 3
   value: f
-card_changes_5455:
-  id: 6912
-  card_action_id: 7950
+card_changes_5445:
+  id: 6900
+  card_action_id: 7943
   field: 0
   value: "*cached content+*right+*update"
-card_changes_5456:
-  id: 6913
-  card_action_id: 7950
+card_changes_5446:
+  id: 6901
+  card_action_id: 7943
   field: 1
   value: '47'
-card_changes_5457:
-  id: 6914
-  card_action_id: 7950
+card_changes_5447:
+  id: 6902
+  card_action_id: 7943
   field: 2
   value: "[[Administrator]]"
-card_changes_5458:
-  id: 6915
-  card_action_id: 7950
+card_changes_5448:
+  id: 6903
+  card_action_id: 7943
   field: 3
   value: f
-card_changes_5459:
-  id: 6916
-  card_action_id: 7951
+card_changes_5449:
+  id: 6904
+  card_action_id: 7944
   field: 0
   value: "*cached content+*right+*create"
-card_changes_5460:
-  id: 6917
-  card_action_id: 7951
+card_changes_5450:
+  id: 6905
+  card_action_id: 7944
   field: 1
   value: '47'
-card_changes_5461:
-  id: 6918
-  card_action_id: 7951
+card_changes_5451:
+  id: 6906
+  card_action_id: 7944
   field: 2
   value: "[[Administrator]]"
-card_changes_5462:
-  id: 6919
-  card_action_id: 7951
+card_changes_5452:
+  id: 6907
+  card_action_id: 7944
   field: 3
   value: f
-card_changes_5463:
-  id: 6920
-  card_action_id: 7952
+card_changes_5453:
+  id: 6908
+  card_action_id: 7945
   field: 0
   value: "*cached content+*right+*delete"
-card_changes_5464:
-  id: 6921
-  card_action_id: 7952
+card_changes_5454:
+  id: 6909
+  card_action_id: 7945
   field: 1
   value: '47'
-card_changes_5465:
-  id: 6922
-  card_action_id: 7952
+card_changes_5455:
+  id: 6910
+  card_action_id: 7945
   field: 2
   value: "[[Administrator]]"
-card_changes_5466:
-  id: 6923
-  card_action_id: 7952
+card_changes_5456:
+  id: 6911
+  card_action_id: 7945
   field: 3
   value: f
-card_changes_5467:
-  id: 6924
-  card_action_id: 7949
+card_changes_5457:
+  id: 6912
+  card_action_id: 7942
   field: 0
   value: "*cached content"
-card_changes_5468:
-  id: 6925
-  card_action_id: 7949
+card_changes_5458:
+  id: 6913
+  card_action_id: 7942
   field: 1
   value: '3'
-card_changes_5469:
-  id: 6926
-  card_action_id: 7949
+card_changes_5459:
+  id: 6914
+  card_action_id: 7942
   field: 2
   value: ''
-card_changes_5470:
-  id: 6927
-  card_action_id: 7949
+card_changes_5460:
+  id: 6915
+  card_action_id: 7942
   field: 3
   value: f
+card_changes_5461:
+  id: 6917
+  card_action_id: 7998
+  field: 0
+  value: "*new file"
+card_changes_5462:
+  id: 6918
+  card_action_id: 7998
+  field: 1
+  value: '18'
+card_changes_5463:
+  id: 6919
+  card_action_id: 7998
+  field: 2
+  value: ''
+card_changes_5464:
+  id: 6920
+  card_action_id: 7998
+  field: 3
+  value: f
+card_changes_5465:
+  id: 6921
+  card_action_id: 7999
+  field: 0
+  value: "*new image"
+card_changes_5466:
+  id: 6922
+  card_action_id: 7999
+  field: 1
+  value: '19'
+card_changes_5467:
+  id: 6923
+  card_action_id: 7999
+  field: 2
+  value: ''
+card_changes_5468:
+  id: 6924
+  card_action_id: 7999
+  field: 3
+  value: f
+card_changes_5469:
+  id: 6925
+  card_action_id: 8001
+  field: 3
+  value: t
+card_changes_5470:
+  id: 6926
+  card_action_id: 8002
+  field: 0
+  value: "*expiration"
 card_changes_5471:
+  id: 6927
+  card_action_id: 8002
+  field: 1
+  value: '3'
+card_changes_5472:
+  id: 6928
+  card_action_id: 8002
+  field: 2
+  value: ''
+card_changes_5473:
+  id: 6929
+  card_action_id: 8002
+  field: 3
+  value: f
+card_changes_5474:
   id: 6930
-  card_action_id: 7956
+  card_action_id: 8004
+  field: 0
+  value: 'script: prosemirror+*machine input'
+card_changes_5475:
+  id: 6931
+  card_action_id: 8004
+  field: 1
+  value: '47'
+card_changes_5476:
+  id: 6932
+  card_action_id: 8004
+  field: 2
+  value: "[[script: prosemirror]]"
+card_changes_5477:
+  id: 6933
+  card_action_id: 8004
+  field: 3
+  value: f
+card_changes_5478:
+  id: 6934
+  card_action_id: 8003
+  field: 0
+  value: 'script: prosemirror'
+card_changes_5479:
+  id: 6935
+  card_action_id: 8003
+  field: 1
+  value: '1034'
+card_changes_5480:
+  id: 6936
+  card_action_id: 8003
+  field: 2
+  value: ''
+card_changes_5481:
+  id: 6937
+  card_action_id: 8003
+  field: 3
+  value: f
+card_changes_5482:
+  id: 6938
+  card_action_id: 8006
   field: 2
   value: |-
+    [[script: jquery]]
+    [[script: tinymce]]
+    [[script: slot]]
+    [[script: card menu]]
+    [[script: jquery helper]]
+    [[script: bootstrap]]
+    [[script: ace]]
+    [[script: prosemirror]]
+card_changes_5483:
+  id: 6939
+  card_action_id: 8005
+  field: 2
+  value: |-
+    [[script: jquery]]
+    [[script: tinymce]]
+    [[script: slot]]
+    [[script: card menu]]
+    [[script: jquery helper]]
+    [[script: bootstrap]]
+    [[script: ace]]
+    [[script: prosemirror]]
+card_changes_5484:
+  id: 6940
+  card_action_id: 8007
+  field: 2
+  value: |-
+    [[*script]]
     [[*delete]]
     [[*create]]
     [[*update]]
@@ -45099,858 +45167,793 @@ card_changes_5471:
     [[*help]]
     [[*input]]
     [[*options]]
-card_changes_5472:
-  id: 6931
-  card_action_id: 8007
-  field: 0
-  value: "*new file"
-card_changes_5473:
-  id: 6932
-  card_action_id: 8007
-  field: 1
-  value: '18'
-card_changes_5474:
-  id: 6933
-  card_action_id: 8007
-  field: 2
-  value: ''
-card_changes_5475:
-  id: 6934
-  card_action_id: 8007
-  field: 3
-  value: f
-card_changes_5476:
-  id: 6935
-  card_action_id: 8008
-  field: 0
-  value: "*new image"
-card_changes_5477:
-  id: 6936
-  card_action_id: 8008
-  field: 1
-  value: '19'
-card_changes_5478:
-  id: 6937
-  card_action_id: 8008
-  field: 2
-  value: ''
-card_changes_5479:
-  id: 6938
-  card_action_id: 8008
-  field: 3
-  value: f
-card_changes_5480:
-  id: 6939
+card_changes_5485:
+  id: 6941
   card_action_id: 8010
   field: 3
   value: t
-card_changes_5481:
-  id: 6940
-  card_action_id: 8011
-  field: 0
-  value: "*expiration"
-card_changes_5482:
-  id: 6941
-  card_action_id: 8011
-  field: 1
-  value: '3'
-card_changes_5483:
-  id: 6942
-  card_action_id: 8011
-  field: 2
-  value: ''
-card_changes_5484:
-  id: 6943
-  card_action_id: 8011
-  field: 3
-  value: f
-card_changes_5485:
-  id: 6944
-  card_action_id: 8014
-  field: 3
-  value: t
 card_changes_5486:
-  id: 6945
-  card_action_id: 8013
+  id: 6942
+  card_action_id: 8009
   field: 3
   value: t
 card_changes_5487:
+  id: 6943
+  card_action_id: 8011
+  field: 3
+  value: t
+card_changes_5488:
+  id: 6944
+  card_action_id: 8013
+  field: 3
+  value: t
+card_changes_5489:
+  id: 6945
+  card_action_id: 8014
+  field: 3
+  value: t
+card_changes_5490:
   id: 6946
   card_action_id: 8015
   field: 3
   value: t
-card_changes_5488:
-  id: 6947
-  card_action_id: 8017
-  field: 3
-  value: t
-card_changes_5489:
-  id: 6948
-  card_action_id: 8018
-  field: 3
-  value: t
-card_changes_5490:
-  id: 6949
-  card_action_id: 8019
-  field: 3
-  value: t
 card_changes_5491:
-  id: 6950
-  card_action_id: 8020
-  field: 3
-  value: t
-card_changes_5492:
-  id: 6951
+  id: 6947
   card_action_id: 8016
   field: 3
   value: t
-card_changes_5493:
-  id: 6952
-  card_action_id: 8021
-  field: 3
-  value: t
-card_changes_5494:
-  id: 6953
+card_changes_5492:
+  id: 6948
   card_action_id: 8012
   field: 3
   value: t
+card_changes_5493:
+  id: 6949
+  card_action_id: 8017
+  field: 3
+  value: t
+card_changes_5494:
+  id: 6950
+  card_action_id: 8008
+  field: 3
+  value: t
 card_changes_5495:
-  id: 6954
-  card_action_id: 8024
+  id: 6951
+  card_action_id: 8020
   field: 3
   value: t
 card_changes_5496:
-  id: 6955
-  card_action_id: 8023
+  id: 6952
+  card_action_id: 8019
   field: 3
   value: t
 card_changes_5497:
-  id: 6956
-  card_action_id: 8026
+  id: 6953
+  card_action_id: 8022
   field: 3
   value: t
 card_changes_5498:
-  id: 6957
-  card_action_id: 8025
+  id: 6954
+  card_action_id: 8021
   field: 3
   value: t
 card_changes_5499:
-  id: 6958
-  card_action_id: 8028
+  id: 6955
+  card_action_id: 8024
   field: 3
   value: t
 card_changes_5500:
-  id: 6959
-  card_action_id: 8027
+  id: 6956
+  card_action_id: 8023
   field: 3
   value: t
 card_changes_5501:
-  id: 6960
-  card_action_id: 8030
+  id: 6957
+  card_action_id: 8026
   field: 3
   value: t
 card_changes_5502:
-  id: 6961
-  card_action_id: 8029
+  id: 6958
+  card_action_id: 8025
   field: 3
   value: t
 card_changes_5503:
-  id: 6962
-  card_action_id: 8032
+  id: 6959
+  card_action_id: 8028
   field: 3
   value: t
 card_changes_5504:
-  id: 6963
-  card_action_id: 8031
+  id: 6960
+  card_action_id: 8027
   field: 3
   value: t
 card_changes_5505:
-  id: 6964
-  card_action_id: 8034
+  id: 6961
+  card_action_id: 8030
   field: 3
   value: t
 card_changes_5506:
-  id: 6965
-  card_action_id: 8033
+  id: 6962
+  card_action_id: 8029
   field: 3
   value: t
 card_changes_5507:
-  id: 6966
-  card_action_id: 8036
+  id: 6963
+  card_action_id: 8032
   field: 3
   value: t
 card_changes_5508:
-  id: 6967
-  card_action_id: 8035
+  id: 6964
+  card_action_id: 8031
   field: 3
   value: t
 card_changes_5509:
-  id: 6968
-  card_action_id: 8038
+  id: 6965
+  card_action_id: 8034
   field: 3
   value: t
 card_changes_5510:
-  id: 6969
-  card_action_id: 8037
+  id: 6966
+  card_action_id: 8033
   field: 3
   value: t
 card_changes_5511:
-  id: 6970
-  card_action_id: 8040
+  id: 6967
+  card_action_id: 8036
   field: 3
   value: t
 card_changes_5512:
-  id: 6971
-  card_action_id: 8039
+  id: 6968
+  card_action_id: 8035
   field: 3
   value: t
 card_changes_5513:
-  id: 6972
-  card_action_id: 8042
+  id: 6969
+  card_action_id: 8038
   field: 3
   value: t
 card_changes_5514:
-  id: 6973
-  card_action_id: 8041
+  id: 6970
+  card_action_id: 8037
   field: 3
   value: t
 card_changes_5515:
-  id: 6974
-  card_action_id: 8044
+  id: 6971
+  card_action_id: 8040
   field: 3
   value: t
 card_changes_5516:
-  id: 6975
-  card_action_id: 8043
+  id: 6972
+  card_action_id: 8039
   field: 3
   value: t
 card_changes_5517:
-  id: 6976
-  card_action_id: 8046
+  id: 6973
+  card_action_id: 8042
   field: 3
   value: t
 card_changes_5518:
-  id: 6977
-  card_action_id: 8045
+  id: 6974
+  card_action_id: 8041
   field: 3
   value: t
 card_changes_5519:
-  id: 6978
-  card_action_id: 8048
+  id: 6975
+  card_action_id: 8044
   field: 3
   value: t
 card_changes_5520:
+  id: 6976
+  card_action_id: 8043
+  field: 3
+  value: t
+card_changes_5521:
+  id: 6977
+  card_action_id: 8046
+  field: 3
+  value: t
+card_changes_5522:
+  id: 6978
+  card_action_id: 8045
+  field: 3
+  value: t
+card_changes_5523:
   id: 6979
   card_action_id: 8047
   field: 3
   value: t
-card_changes_5521:
+card_changes_5524:
   id: 6980
-  card_action_id: 8050
-  field: 3
-  value: t
-card_changes_5522:
-  id: 6981
   card_action_id: 8049
   field: 3
   value: t
-card_changes_5523:
+card_changes_5525:
+  id: 6981
+  card_action_id: 8050
+  field: 3
+  value: t
+card_changes_5526:
   id: 6982
   card_action_id: 8051
   field: 3
   value: t
-card_changes_5524:
-  id: 6983
-  card_action_id: 8053
-  field: 3
-  value: t
-card_changes_5525:
-  id: 6984
-  card_action_id: 8054
-  field: 3
-  value: t
-card_changes_5526:
-  id: 6985
-  card_action_id: 8055
-  field: 3
-  value: t
 card_changes_5527:
-  id: 6986
-  card_action_id: 8056
-  field: 3
-  value: t
-card_changes_5528:
-  id: 6987
+  id: 6983
   card_action_id: 8052
   field: 3
   value: t
+card_changes_5528:
+  id: 6984
+  card_action_id: 8048
+  field: 3
+  value: t
 card_changes_5529:
+  id: 6985
+  card_action_id: 8053
+  field: 3
+  value: t
+card_changes_5530:
+  id: 6986
+  card_action_id: 8018
+  field: 3
+  value: t
+card_changes_5531:
+  id: 6987
+  card_action_id: 8056
+  field: 3
+  value: t
+card_changes_5532:
   id: 6988
   card_action_id: 8057
   field: 3
   value: t
-card_changes_5530:
-  id: 6989
-  card_action_id: 8022
-  field: 3
-  value: t
-card_changes_5531:
-  id: 6990
-  card_action_id: 8060
-  field: 3
-  value: t
-card_changes_5532:
-  id: 6991
-  card_action_id: 8061
-  field: 3
-  value: t
 card_changes_5533:
-  id: 6992
-  card_action_id: 8062
+  id: 6989
+  card_action_id: 8058
   field: 3
   value: t
 card_changes_5534:
-  id: 6993
-  card_action_id: 8063
-  field: 3
-  value: t
-card_changes_5535:
-  id: 6994
+  id: 6990
   card_action_id: 8059
   field: 3
   value: t
+card_changes_5535:
+  id: 6991
+  card_action_id: 8055
+  field: 3
+  value: t
 card_changes_5536:
+  id: 6992
+  card_action_id: 8060
+  field: 3
+  value: t
+card_changes_5537:
+  id: 6993
+  card_action_id: 8054
+  field: 3
+  value: t
+card_changes_5538:
+  id: 6994
+  card_action_id: 8063
+  field: 3
+  value: t
+card_changes_5539:
   id: 6995
   card_action_id: 8064
   field: 3
   value: t
-card_changes_5537:
-  id: 6996
-  card_action_id: 8058
-  field: 3
-  value: t
-card_changes_5538:
-  id: 6997
-  card_action_id: 8067
-  field: 3
-  value: t
-card_changes_5539:
-  id: 6998
-  card_action_id: 8068
-  field: 3
-  value: t
 card_changes_5540:
-  id: 6999
-  card_action_id: 8069
-  field: 3
-  value: t
-card_changes_5541:
-  id: 7000
-  card_action_id: 8066
-  field: 3
-  value: t
-card_changes_5542:
-  id: 7001
+  id: 6996
   card_action_id: 8065
   field: 3
   value: t
+card_changes_5541:
+  id: 6997
+  card_action_id: 8062
+  field: 3
+  value: t
+card_changes_5542:
+  id: 6998
+  card_action_id: 8061
+  field: 3
+  value: t
 card_changes_5543:
-  id: 7002
-  card_action_id: 8072
+  id: 6999
+  card_action_id: 8068
   field: 3
   value: t
 card_changes_5544:
-  id: 7003
-  card_action_id: 8073
+  id: 7000
+  card_action_id: 8069
   field: 3
   value: t
 card_changes_5545:
-  id: 7004
-  card_action_id: 8074
-  field: 3
-  value: t
-card_changes_5546:
-  id: 7005
-  card_action_id: 8075
-  field: 3
-  value: t
-card_changes_5547:
-  id: 7006
-  card_action_id: 8071
-  field: 3
-  value: t
-card_changes_5548:
-  id: 7007
+  id: 7001
   card_action_id: 8070
   field: 3
   value: t
+card_changes_5546:
+  id: 7002
+  card_action_id: 8071
+  field: 3
+  value: t
+card_changes_5547:
+  id: 7003
+  card_action_id: 8067
+  field: 3
+  value: t
+card_changes_5548:
+  id: 7004
+  card_action_id: 8066
+  field: 3
+  value: t
 card_changes_5549:
-  id: 7008
-  card_action_id: 8076
+  id: 7005
+  card_action_id: 8072
   field: 3
   value: t
 card_changes_5550:
-  id: 7009
-  card_action_id: 8077
+  id: 7006
+  card_action_id: 8073
   field: 3
   value: t
 card_changes_5551:
-  id: 7010
-  card_action_id: 8078
+  id: 7007
+  card_action_id: 8074
   field: 3
   value: t
 card_changes_5552:
-  id: 7011
-  card_action_id: 8079
+  id: 7008
+  card_action_id: 8075
   field: 3
   value: t
 card_changes_5553:
-  id: 7012
-  card_action_id: 8080
+  id: 7009
+  card_action_id: 8076
   field: 3
   value: t
 card_changes_5554:
-  id: 7013
-  card_action_id: 8081
+  id: 7010
+  card_action_id: 8077
   field: 3
   value: t
 card_changes_5555:
-  id: 7014
-  card_action_id: 8082
+  id: 7011
+  card_action_id: 8078
   field: 3
   value: t
 card_changes_5556:
-  id: 7015
-  card_action_id: 8083
+  id: 7012
+  card_action_id: 8079
   field: 3
   value: t
 card_changes_5557:
-  id: 7016
-  card_action_id: 8084
+  id: 7013
+  card_action_id: 8080
   field: 3
   value: t
 card_changes_5558:
-  id: 7017
-  card_action_id: 8085
+  id: 7014
+  card_action_id: 8081
   field: 3
   value: t
 card_changes_5559:
-  id: 7018
-  card_action_id: 8086
+  id: 7015
+  card_action_id: 8082
   field: 3
   value: t
 card_changes_5560:
-  id: 7019
-  card_action_id: 8087
+  id: 7016
+  card_action_id: 8083
   field: 3
   value: t
 card_changes_5561:
-  id: 7020
-  card_action_id: 8088
+  id: 7017
+  card_action_id: 8084
   field: 3
   value: t
 card_changes_5562:
-  id: 7021
-  card_action_id: 8089
+  id: 7018
+  card_action_id: 8085
   field: 3
   value: t
 card_changes_5563:
-  id: 7022
-  card_action_id: 8090
+  id: 7019
+  card_action_id: 8086
   field: 3
   value: t
 card_changes_5564:
-  id: 7023
-  card_action_id: 8091
+  id: 7020
+  card_action_id: 8087
   field: 3
   value: t
 card_changes_5565:
-  id: 7024
-  card_action_id: 8092
+  id: 7021
+  card_action_id: 8088
   field: 3
   value: t
 card_changes_5566:
-  id: 7025
-  card_action_id: 8093
+  id: 7022
+  card_action_id: 8089
   field: 3
   value: t
 card_changes_5567:
-  id: 7026
-  card_action_id: 8094
+  id: 7023
+  card_action_id: 8090
   field: 3
   value: t
 card_changes_5568:
-  id: 7027
-  card_action_id: 8095
+  id: 7024
+  card_action_id: 8091
   field: 3
   value: t
 card_changes_5569:
-  id: 7028
-  card_action_id: 8096
+  id: 7025
+  card_action_id: 8092
   field: 3
   value: t
 card_changes_5570:
-  id: 7029
-  card_action_id: 8097
+  id: 7026
+  card_action_id: 8093
   field: 3
   value: t
 card_changes_5571:
-  id: 7030
-  card_action_id: 8098
+  id: 7027
+  card_action_id: 8094
   field: 3
   value: t
 card_changes_5572:
-  id: 7031
-  card_action_id: 8099
+  id: 7028
+  card_action_id: 8095
   field: 3
   value: t
 card_changes_5573:
-  id: 7032
-  card_action_id: 8100
+  id: 7029
+  card_action_id: 8096
   field: 3
   value: t
 card_changes_5574:
-  id: 7033
-  card_action_id: 8101
+  id: 7030
+  card_action_id: 8097
   field: 3
   value: t
 card_changes_5575:
-  id: 7034
-  card_action_id: 8102
+  id: 7031
+  card_action_id: 8098
   field: 3
   value: t
 card_changes_5576:
-  id: 7035
-  card_action_id: 8103
+  id: 7032
+  card_action_id: 8099
   field: 3
   value: t
 card_changes_5577:
-  id: 7036
-  card_action_id: 8104
+  id: 7033
+  card_action_id: 8100
   field: 3
   value: t
 card_changes_5578:
-  id: 7037
-  card_action_id: 8105
+  id: 7034
+  card_action_id: 8101
   field: 3
   value: t
 card_changes_5579:
-  id: 7038
-  card_action_id: 8106
+  id: 7035
+  card_action_id: 8102
   field: 3
   value: t
 card_changes_5580:
-  id: 7039
-  card_action_id: 8107
+  id: 7036
+  card_action_id: 8103
   field: 3
   value: t
 card_changes_5581:
-  id: 7040
-  card_action_id: 8108
+  id: 7037
+  card_action_id: 8104
   field: 3
   value: t
 card_changes_5582:
-  id: 7041
-  card_action_id: 8109
+  id: 7038
+  card_action_id: 8105
   field: 3
   value: t
 card_changes_5583:
-  id: 7042
-  card_action_id: 8110
+  id: 7039
+  card_action_id: 8106
   field: 3
   value: t
 card_changes_5584:
-  id: 7043
-  card_action_id: 8111
+  id: 7040
+  card_action_id: 8107
   field: 3
   value: t
 card_changes_5585:
-  id: 7044
-  card_action_id: 8112
+  id: 7041
+  card_action_id: 8108
   field: 3
   value: t
 card_changes_5586:
-  id: 7045
-  card_action_id: 8113
+  id: 7042
+  card_action_id: 8109
   field: 3
   value: t
 card_changes_5587:
-  id: 7046
-  card_action_id: 8114
+  id: 7043
+  card_action_id: 8110
   field: 3
   value: t
 card_changes_5588:
-  id: 7047
-  card_action_id: 8115
+  id: 7044
+  card_action_id: 8111
   field: 3
   value: t
 card_changes_5589:
-  id: 7048
-  card_action_id: 8116
+  id: 7045
+  card_action_id: 8112
   field: 3
   value: t
 card_changes_5590:
-  id: 7049
-  card_action_id: 8117
+  id: 7046
+  card_action_id: 8113
   field: 3
   value: t
 card_changes_5591:
-  id: 7050
-  card_action_id: 8118
+  id: 7047
+  card_action_id: 8114
   field: 3
   value: t
 card_changes_5592:
-  id: 7051
-  card_action_id: 8119
+  id: 7048
+  card_action_id: 8115
   field: 3
   value: t
 card_changes_5593:
-  id: 7052
-  card_action_id: 8120
+  id: 7049
+  card_action_id: 8116
   field: 3
   value: t
 card_changes_5594:
-  id: 7053
-  card_action_id: 8121
+  id: 7050
+  card_action_id: 8117
   field: 3
   value: t
 card_changes_5595:
-  id: 7054
-  card_action_id: 8122
+  id: 7051
+  card_action_id: 8118
   field: 3
   value: t
 card_changes_5596:
-  id: 7055
-  card_action_id: 8123
+  id: 7052
+  card_action_id: 8119
   field: 3
   value: t
 card_changes_5597:
-  id: 7056
-  card_action_id: 8124
+  id: 7053
+  card_action_id: 8120
   field: 3
   value: t
 card_changes_5598:
-  id: 7057
-  card_action_id: 8125
+  id: 7054
+  card_action_id: 8121
   field: 3
   value: t
 card_changes_5599:
-  id: 7058
-  card_action_id: 8126
+  id: 7055
+  card_action_id: 8122
   field: 3
   value: t
 card_changes_5600:
-  id: 7059
-  card_action_id: 8127
+  id: 7056
+  card_action_id: 8123
   field: 3
   value: t
 card_changes_5601:
-  id: 7060
-  card_action_id: 8128
+  id: 7057
+  card_action_id: 8124
   field: 3
   value: t
 card_changes_5602:
-  id: 7061
-  card_action_id: 8129
+  id: 7058
+  card_action_id: 8125
   field: 3
   value: t
 card_changes_5603:
-  id: 7062
-  card_action_id: 8130
+  id: 7059
+  card_action_id: 8126
   field: 3
   value: t
 card_changes_5604:
-  id: 7063
-  card_action_id: 8131
+  id: 7060
+  card_action_id: 8127
   field: 3
   value: t
 card_changes_5605:
-  id: 7064
-  card_action_id: 8132
+  id: 7061
+  card_action_id: 8128
   field: 3
   value: t
 card_changes_5606:
-  id: 7065
-  card_action_id: 8133
+  id: 7062
+  card_action_id: 8129
   field: 3
   value: t
 card_changes_5607:
-  id: 7066
-  card_action_id: 8134
+  id: 7063
+  card_action_id: 8130
   field: 3
   value: t
 card_changes_5608:
-  id: 7067
-  card_action_id: 8135
+  id: 7064
+  card_action_id: 8131
   field: 3
   value: t
 card_changes_5609:
-  id: 7068
-  card_action_id: 8136
+  id: 7065
+  card_action_id: 8132
   field: 3
   value: t
 card_changes_5610:
-  id: 7069
-  card_action_id: 8137
+  id: 7066
+  card_action_id: 8133
   field: 3
   value: t
 card_changes_5611:
-  id: 7070
-  card_action_id: 8138
+  id: 7067
+  card_action_id: 8134
   field: 3
   value: t
 card_changes_5612:
-  id: 7071
-  card_action_id: 8139
+  id: 7068
+  card_action_id: 8135
   field: 3
   value: t
 card_changes_5613:
-  id: 7072
-  card_action_id: 8140
+  id: 7069
+  card_action_id: 8136
   field: 3
   value: t
 card_changes_5614:
-  id: 7073
-  card_action_id: 8141
+  id: 7070
+  card_action_id: 8137
   field: 3
   value: t
 card_changes_5615:
-  id: 7074
-  card_action_id: 8142
+  id: 7071
+  card_action_id: 8138
   field: 3
   value: t
 card_changes_5616:
-  id: 7075
-  card_action_id: 8143
+  id: 7072
+  card_action_id: 8139
   field: 3
   value: t
 card_changes_5617:
-  id: 7076
-  card_action_id: 8144
+  id: 7073
+  card_action_id: 8140
   field: 3
   value: t
 card_changes_5618:
-  id: 7077
-  card_action_id: 8145
+  id: 7074
+  card_action_id: 8141
   field: 3
   value: t
 card_changes_5619:
-  id: 7078
-  card_action_id: 8146
+  id: 7075
+  card_action_id: 8142
   field: 3
   value: t
 card_changes_5620:
-  id: 7079
-  card_action_id: 8147
+  id: 7076
+  card_action_id: 8143
   field: 3
   value: t
 card_changes_5621:
-  id: 7080
-  card_action_id: 8148
+  id: 7077
+  card_action_id: 8144
   field: 3
   value: t
 card_changes_5622:
-  id: 7081
-  card_action_id: 8149
+  id: 7078
+  card_action_id: 8145
   field: 3
   value: t
 card_changes_5623:
-  id: 7082
-  card_action_id: 8150
+  id: 7079
+  card_action_id: 8146
   field: 3
   value: t
 card_changes_5624:
-  id: 7083
-  card_action_id: 8151
+  id: 7080
+  card_action_id: 8147
   field: 3
   value: t
 card_changes_5625:
-  id: 7084
-  card_action_id: 8152
+  id: 7081
+  card_action_id: 8148
   field: 3
   value: t
 card_changes_5626:
-  id: 7085
-  card_action_id: 8153
+  id: 7082
+  card_action_id: 8149
   field: 3
   value: t
 card_changes_5627:
-  id: 7086
-  card_action_id: 8154
+  id: 7083
+  card_action_id: 8150
   field: 3
   value: t
 card_changes_5628:
-  id: 7087
-  card_action_id: 8155
+  id: 7084
+  card_action_id: 8151
   field: 3
   value: t
 card_changes_5629:
-  id: 7088
-  card_action_id: 8156
+  id: 7085
+  card_action_id: 8152
   field: 3
   value: t
 card_changes_5630:
-  id: 7089
-  card_action_id: 8157
+  id: 7086
+  card_action_id: 8153
   field: 3
   value: t
 card_changes_5631:
-  id: 7090
-  card_action_id: 8158
+  id: 7087
+  card_action_id: 8154
   field: 3
   value: t
 card_changes_5632:
-  id: 7091
-  card_action_id: 8159
+  id: 7088
+  card_action_id: 8155
   field: 3
   value: t
 card_changes_5633:
-  id: 7092
-  card_action_id: 8160
+  id: 7089
+  card_action_id: 8156
   field: 3
   value: t
 card_changes_5634:
-  id: 7093
-  card_action_id: 8161
+  id: 7090
+  card_action_id: 8157
   field: 3
   value: t
 card_changes_5635:
-  id: 7094
-  card_action_id: 8162
+  id: 7091
+  card_action_id: 8158
   field: 3
   value: t
 card_changes_5636:
-  id: 7095
-  card_action_id: 8163
+  id: 7092
+  card_action_id: 8159
   field: 3
   value: t
 card_changes_5637:
-  id: 7096
-  card_action_id: 8164
+  id: 7093
+  card_action_id: 8160
   field: 3
   value: t
 card_changes_5638:
-  id: 7097
-  card_action_id: 8165
+  id: 7094
+  card_action_id: 8161
   field: 3
   value: t
 card_changes_5639:
-  id: 7098
-  card_action_id: 8166
+  id: 7095
+  card_action_id: 8162
   field: 3
   value: t
 card_changes_5640:
-  id: 7099
-  card_action_id: 8167
+  id: 7096
+  card_action_id: 8163
   field: 3
   value: t
 card_changes_5641:
-  id: 7100
-  card_action_id: 8168
+  id: 7097
+  card_action_id: 8164
   field: 3
   value: t
 card_changes_5642:
-  id: 7101
-  card_action_id: 8169
+  id: 7098
+  card_action_id: 8165
   field: 3
   value: t
