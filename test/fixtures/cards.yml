@@ -1639,8 +1639,9 @@ cards_082:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: |
-    {"found_by": "_left", "sort": "name"}
+  db_content: '{"found_by": "_left", "sort": "name"}
+
+'
 cards_083:
   id: 190
   name: by create
@@ -5874,8 +5875,7 @@ cards_314:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_315:
   id: 550
   name: "*foot+*self"
@@ -5911,8 +5911,7 @@ cards_316:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_317:
   id: 553
   name: "*version+*self"
@@ -5948,8 +5947,7 @@ cards_318:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_319:
   id: 555
   name: "*logo+*self"
@@ -5985,8 +5983,7 @@ cards_320:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_321:
   id: 557
   name: "*account links+*self"
@@ -6022,8 +6019,7 @@ cards_322:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_323:
   id: 559
   name: "*sidebar+*self+*read"
@@ -6041,8 +6037,7 @@ cards_323:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_324:
   id: 560
   name: "*recent+*self"
@@ -6078,8 +6073,7 @@ cards_325:
   references_expired: 
   trash: false
   type_id: 47
-  db_content: |
-    [[Anyone]]
+  db_content: "[[Anyone]]\n"
 cards_326:
   id: 565
   name: "*email"
@@ -28066,7 +28060,7 @@ cards_643:
   right_id: 
   current_revision_id: 
   created_at: 2016-06-05 21:17:06.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29074,8 +29068,8 @@ cards_698:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:25.000000000 Z
-  updated_at: 2016-06-05 21:17:25.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29092,8 +29086,8 @@ cards_699:
   left_id: 1568
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:25.000000000 Z
-  updated_at: 2016-06-05 21:17:25.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29110,8 +29104,8 @@ cards_700:
   left_id: 1569
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:25.000000000 Z
-  updated_at: 2016-06-05 21:17:25.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29119,7 +29113,7 @@ cards_700:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: a7b140f93ebd95cf4f867a45514075f3f6be834b
+  db_content: 0b9c88d5f5801ac4667e1e5a44488fffca718c31
 cards_701:
   id: 1571
   name: Joe User+*account+*email
@@ -29128,8 +29122,8 @@ cards_701:
   left_id: 1569
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:25.000000000 Z
-  updated_at: 2016-06-05 21:17:25.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29146,8 +29140,8 @@ cards_702:
   left_id: 1569
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:25.000000000 Z
-  updated_at: 2016-06-05 21:17:25.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29155,7 +29149,7 @@ cards_702:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 07193cfa1e8822a432a45222090cd2da41fa1095
+  db_content: eed1557d45277a1d8bf1e0db5c2f07e5c31f5c6a
 cards_703:
   id: 1573
   name: Joe User+*account+*status
@@ -29164,8 +29158,8 @@ cards_703:
   left_id: 1569
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29182,8 +29176,8 @@ cards_704:
   left_id: 1569
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29191,7 +29185,7 @@ cards_704:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 1011576b2bed562d3fc142ffe55d663dcbc2cf35
+  db_content: 6f19bd655c3297847d19312ebb843b084b941125
 cards_705:
   id: 1575
   name: Joe Admin
@@ -29200,8 +29194,8 @@ cards_705:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29218,8 +29212,8 @@ cards_706:
   left_id: 1575
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29236,8 +29230,8 @@ cards_707:
   left_id: 1576
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:25.000000000 Z
+  updated_at: 2016-08-02 17:26:25.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29245,7 +29239,7 @@ cards_707:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: 5c847c6a1ad6249f0a378b0d4990c241ca9ddd5c
+  db_content: 0b9c88d5f5801ac4667e1e5a44488fffca718c31
 cards_708:
   id: 1578
   name: Joe Admin+*account+*email
@@ -29254,8 +29248,8 @@ cards_708:
   left_id: 1576
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29272,8 +29266,8 @@ cards_709:
   left_id: 1576
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29281,7 +29275,7 @@ cards_709:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: fa6a05caa246e61efd79cf4f46b2c2f23136a8fe
+  db_content: eed1557d45277a1d8bf1e0db5c2f07e5c31f5c6a
 cards_710:
   id: 1580
   name: Joe Admin+*account+*status
@@ -29290,8 +29284,8 @@ cards_710:
   left_id: 1576
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29308,8 +29302,8 @@ cards_711:
   left_id: 1576
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29317,7 +29311,7 @@ cards_711:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: ac9b2a21f859579e5cbd40bc624331e13caa4f83
+  db_content: 4e80d805a5b6abc94ae277637ab0b1bfa29c50fe
 cards_712:
   id: 1582
   name: Joe Camel
@@ -29326,8 +29320,8 @@ cards_712:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29344,8 +29338,8 @@ cards_713:
   left_id: 1582
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29362,8 +29356,8 @@ cards_714:
   left_id: 1583
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29371,7 +29365,7 @@ cards_714:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: 5c847c6a1ad6249f0a378b0d4990c241ca9ddd5c
+  db_content: 8745472110a8751fdebcbfda5b3b69a7f7cd3299
 cards_715:
   id: 1585
   name: Joe Camel+*account+*email
@@ -29380,8 +29374,8 @@ cards_715:
   left_id: 1583
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29398,8 +29392,8 @@ cards_716:
   left_id: 1583
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29407,7 +29401,7 @@ cards_716:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: fa6a05caa246e61efd79cf4f46b2c2f23136a8fe
+  db_content: c07ab5a63e5edda45d83937367a4e618a1439ba4
 cards_717:
   id: 1587
   name: Joe Camel+*account+*status
@@ -29416,8 +29410,8 @@ cards_717:
   left_id: 1583
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29434,8 +29428,8 @@ cards_718:
   left_id: 1583
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29443,7 +29437,7 @@ cards_718:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 61ec52edaf368aaa5fb2c8e99392bd528e1ca58e
+  db_content: f3d30ce2558d0032faf40df23f6684ea80f9ed47
 cards_719:
   id: 1589
   name: No Count
@@ -29452,8 +29446,8 @@ cards_719:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:26.000000000 Z
-  updated_at: 2016-06-05 21:17:26.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29470,8 +29464,8 @@ cards_720:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29488,8 +29482,8 @@ cards_721:
   left_id: 1590
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29506,8 +29500,8 @@ cards_722:
   left_id: 1591
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29515,7 +29509,7 @@ cards_722:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: 74290483160da9a4f46ab7bf9bbd64b94300784a
+  db_content: 98f9142da1fcc9aebf5ffff1fc53c350bd09d114
 cards_723:
   id: 1593
   name: Sample User+*account+*email
@@ -29524,8 +29518,8 @@ cards_723:
   left_id: 1591
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29542,8 +29536,8 @@ cards_724:
   left_id: 1591
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29551,7 +29545,7 @@ cards_724:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: fa6a05caa246e61efd79cf4f46b2c2f23136a8fe
+  db_content: c07ab5a63e5edda45d83937367a4e618a1439ba4
 cards_725:
   id: 1595
   name: Sample User+*account+*status
@@ -29560,8 +29554,8 @@ cards_725:
   left_id: 1591
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29578,8 +29572,8 @@ cards_726:
   left_id: 1591
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -29587,7 +29581,7 @@ cards_726:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: d3ee4e9e04cb16224f6e6f02fac412625c49de92
+  db_content: 054691e0529345f1030c2a0a57d6d3a4180c85cb
 cards_727:
   id: 1597
   name: Joe Admin+*roles
@@ -29596,8 +29590,8 @@ cards_727:
   left_id: 1575
   right_id: 96
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -29614,8 +29608,8 @@ cards_728:
   left_id: 1230
   right_id: 64
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -29632,8 +29626,8 @@ cards_729:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29650,8 +29644,8 @@ cards_730:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29668,8 +29662,8 @@ cards_731:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29686,8 +29680,8 @@ cards_732:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29704,8 +29698,8 @@ cards_733:
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29716,32 +29710,14 @@ cards_733:
   db_content: ''
 cards_734:
   id: 1604
-  name: Sample CSS+*machine input
-  key: sample_css+*machine_input
-  codename: 
-  left_id: 1603
-  right_id: 1054
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[Sample CSS]]"
-cards_735:
-  id: 1605
   name: Sample Cardtype
   key: sample_cardtype
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29751,16 +29727,16 @@ cards_735:
   type_id: 5
   db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_736:
-  id: 1606
+cards_735:
+  id: 1605
   name: Sample CoffeeScript
   key: sample_coffee_script
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29769,16 +29745,16 @@ cards_736:
   trash: false
   type_id: 1033
   db_content: ''
-cards_737:
-  id: 1607
+cards_736:
+  id: 1606
   name: Sample CoffeeScript+*machine input
   key: sample_coffee_script+*machine_input
   codename: 
-  left_id: 1606
+  left_id: 1605
   right_id: 1054
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -29787,16 +29763,16 @@ cards_737:
   trash: false
   type_id: 47
   db_content: "[[Sample CoffeeScript]]"
-cards_738:
-  id: 1608
+cards_737:
+  id: 1607
   name: Sample Date
   key: sample_date
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29805,16 +29781,16 @@ cards_738:
   trash: false
   type_id: 17
   db_content: ''
-cards_739:
-  id: 1609
+cards_738:
+  id: 1608
   name: Sample Email template
   key: sample_email_template
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29825,16 +29801,16 @@ cards_739:
   db_content: "<p>{{+*from | labeled | link}} {{+*to | labeled | link}} {{+*cc | labeled
     | link}} {{+*bcc | labeled | link}} {{+*subject | titled}} {{+*html message |
     titled}} {{+*text message | titled}} {{+*attach | titled}}</p>"
-cards_740:
-  id: 1610
+cards_739:
+  id: 1609
   name: Sample HTML
   key: sample_html
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29843,16 +29819,16 @@ cards_740:
   trash: false
   type_id: 50
   db_content: ''
-cards_741:
-  id: 1611
+cards_740:
+  id: 1610
   name: Sample JavaScript
   key: sample_java_script
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29861,16 +29837,16 @@ cards_741:
   trash: false
   type_id: 1034
   db_content: ''
-cards_742:
-  id: 1612
+cards_741:
+  id: 1611
   name: Sample JavaScript+*machine input
   key: sample_java_script+*machine_input
   codename: 
-  left_id: 1611
+  left_id: 1610
   right_id: 1054
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -29879,16 +29855,16 @@ cards_742:
   trash: false
   type_id: 47
   db_content: "[[Sample JavaScript]]"
-cards_743:
-  id: 1613
+cards_742:
+  id: 1612
   name: Sample Layout
   key: sample_layout
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29897,16 +29873,16 @@ cards_743:
   trash: false
   type_id: 569
   db_content: ''
-cards_744:
-  id: 1614
+cards_743:
+  id: 1613
   name: Sample Phrase
   key: sample_phrase
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29915,16 +29891,16 @@ cards_744:
   trash: false
   type_id: 52
   db_content: ''
-cards_745:
-  id: 1615
+cards_744:
+  id: 1614
   name: Sample PlainText
   key: sample_plain_text
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29933,16 +29909,16 @@ cards_745:
   trash: false
   type_id: 22
   db_content: ''
-cards_746:
-  id: 1616
+cards_745:
+  id: 1615
   name: Sample Pointer
   key: sample_pointer
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29951,16 +29927,16 @@ cards_746:
   trash: false
   type_id: 47
   db_content: ''
-cards_747:
-  id: 1617
+cards_746:
+  id: 1616
   name: Sample Role
   key: sample_role
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29975,16 +29951,16 @@ cards_747:
     <blockquote>
     <p>{{+*members}}</p>
     </blockquote>
-cards_748:
-  id: 1618
+cards_747:
+  id: 1617
   name: Sample SCSS
   key: sample_scss
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -29993,34 +29969,16 @@ cards_748:
   trash: false
   type_id: 943
   db_content: ''
-cards_749:
-  id: 1619
-  name: Sample SCSS+*machine input
-  key: sample_scss+*machine_input
-  codename: 
-  left_id: 1618
-  right_id: 1054
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[Sample SCSS]]"
-cards_750:
-  id: 1620
+cards_748:
+  id: 1618
   name: Sample Search
   key: sample_search
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:27.000000000 Z
-  updated_at: 2016-06-05 21:17:27.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30029,16 +29987,16 @@ cards_750:
   trash: false
   type_id: 30
   db_content: ''
-cards_751:
-  id: 1621
+cards_749:
+  id: 1619
   name: Sample Session
   key: sample_session
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:26.000000000 Z
+  updated_at: 2016-08-02 17:26:26.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30047,16 +30005,16 @@ cards_751:
   trash: false
   type_id: 1507
   db_content: ''
-cards_752:
-  id: 1622
+cards_750:
+  id: 1620
   name: Sample Skin
   key: sample_skin
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30065,34 +30023,16 @@ cards_752:
   trash: false
   type_id: 944
   db_content: ''
-cards_753:
-  id: 1623
-  name: Sample Skin+*machine input
-  key: sample_skin+*machine_input
-  codename: 
-  left_id: 1622
-  right_id: 1054
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: ''
-cards_754:
-  id: 1624
+cards_751:
+  id: 1621
   name: Sample Toggle
   key: sample_toggle
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30101,16 +30041,16 @@ cards_754:
   trash: false
   type_id: 51
   db_content: ''
-cards_755:
-  id: 1625
+cards_752:
+  id: 1622
   name: Sample URI
   key: sample_uri
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30119,16 +30059,16 @@ cards_755:
   trash: false
   type_id: 1259
   db_content: ''
-cards_756:
-  id: 1626
+cards_753:
+  id: 1623
   name: u1
   key: u1
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30137,16 +30077,16 @@ cards_756:
   trash: false
   type_id: 4
   db_content: ''
-cards_757:
-  id: 1627
+cards_754:
+  id: 1624
   name: u1+*account
   key: u1+*account
   codename: 
-  left_id: 1626
+  left_id: 1623
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30155,16 +30095,16 @@ cards_757:
   trash: false
   type_id: 3
   db_content: ''
-cards_758:
-  id: 1628
+cards_755:
+  id: 1625
   name: u1+*account+*password
   key: u1+*account+*password
   codename: 
-  left_id: 1627
+  left_id: 1624
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30172,17 +30112,17 @@ cards_758:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: d634216d49253c2a022b9da284c07571e7273531
-cards_759:
-  id: 1629
+  db_content: 32b22599bc069dea9737c5463987686f624655fe
+cards_756:
+  id: 1626
   name: u1+*account+*email
   key: u1+*account+*email
   codename: 
-  left_id: 1627
+  left_id: 1624
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30191,16 +30131,16 @@ cards_759:
   trash: false
   type_id: 52
   db_content: u1@user.com
-cards_760:
-  id: 1630
+cards_757:
+  id: 1627
   name: u1+*account+*salt
   key: u1+*account+*salt
   codename: 
-  left_id: 1627
+  left_id: 1624
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30208,17 +30148,17 @@ cards_760:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 41b17b432bf99a8ba25dc45b3324e63968b49c2c
-cards_761:
-  id: 1631
+  db_content: 482782fa14725d5eb7d13ba1db75d27dbacef1e0
+cards_758:
+  id: 1628
   name: u1+*account+*status
   key: u1+*account+*status
   codename: 
-  left_id: 1627
+  left_id: 1624
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30227,16 +30167,16 @@ cards_761:
   trash: false
   type_id: 3
   db_content: pending
-cards_762:
-  id: 1632
+cards_759:
+  id: 1629
   name: u1+*account+*token
   key: u1+*account+*token
   codename: 
-  left_id: 1627
+  left_id: 1624
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30244,17 +30184,17 @@ cards_762:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: eaf4404aed2f020e4e2eb284d7d0677b8e393660
-cards_763:
-  id: 1633
+  db_content: 50baaae935abf64c9098e21e87d87fef27823417
+cards_760:
+  id: 1630
   name: u2
   key: u2
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30263,16 +30203,16 @@ cards_763:
   trash: false
   type_id: 4
   db_content: ''
-cards_764:
-  id: 1634
+cards_761:
+  id: 1631
   name: u2+*account
   key: u2+*account
   codename: 
-  left_id: 1633
+  left_id: 1630
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30281,16 +30221,16 @@ cards_764:
   trash: false
   type_id: 3
   db_content: ''
-cards_765:
-  id: 1635
+cards_762:
+  id: 1632
   name: u2+*account+*password
   key: u2+*account+*password
   codename: 
-  left_id: 1634
+  left_id: 1631
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30298,17 +30238,17 @@ cards_765:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: e2d5487eb0afd8ba646b4e9b25a9dbcbf372461c
-cards_766:
-  id: 1636
+  db_content: 53c99eb0c7e4fdc96babee7b0609b5eada9ec3cb
+cards_763:
+  id: 1633
   name: u2+*account+*email
   key: u2+*account+*email
   codename: 
-  left_id: 1634
+  left_id: 1631
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30317,16 +30257,16 @@ cards_766:
   trash: false
   type_id: 52
   db_content: u2@user.com
-cards_767:
-  id: 1637
+cards_764:
+  id: 1634
   name: u2+*account+*salt
   key: u2+*account+*salt
   codename: 
-  left_id: 1634
+  left_id: 1631
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30334,17 +30274,17 @@ cards_767:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 41b17b432bf99a8ba25dc45b3324e63968b49c2c
-cards_768:
-  id: 1638
+  db_content: 482782fa14725d5eb7d13ba1db75d27dbacef1e0
+cards_765:
+  id: 1635
   name: u2+*account+*status
   key: u2+*account+*status
   codename: 
-  left_id: 1634
+  left_id: 1631
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30353,16 +30293,16 @@ cards_768:
   trash: false
   type_id: 3
   db_content: pending
-cards_769:
-  id: 1639
+cards_766:
+  id: 1636
   name: u2+*account+*token
   key: u2+*account+*token
   codename: 
-  left_id: 1634
+  left_id: 1631
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30370,17 +30310,17 @@ cards_769:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 1879e674de45b785fc60955f2606a6da19a7d200
-cards_770:
-  id: 1640
+  db_content: ef3aacd70c7dc4701907a1e29b71dd62f59fcb74
+cards_767:
+  id: 1637
   name: u3
   key: u3
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30389,16 +30329,16 @@ cards_770:
   trash: false
   type_id: 4
   db_content: ''
-cards_771:
-  id: 1641
+cards_768:
+  id: 1638
   name: u3+*account
   key: u3+*account
   codename: 
-  left_id: 1640
+  left_id: 1637
   right_id: 100
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30407,16 +30347,16 @@ cards_771:
   trash: false
   type_id: 3
   db_content: ''
-cards_772:
-  id: 1642
+cards_769:
+  id: 1639
   name: u3+*account+*password
   key: u3+*account+*password
   codename: 
-  left_id: 1641
+  left_id: 1638
   right_id: 988
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30424,17 +30364,17 @@ cards_772:
   references_expired: 
   trash: false
   type_id: 52
-  db_content: 789588b422ecadab5d5838a93f9aa9dc0228596e
-cards_773:
-  id: 1643
+  db_content: 02fe087baa2b0720d9885ee5142cf6ccecad8b6f
+cards_770:
+  id: 1640
   name: u3+*account+*email
   key: u3+*account+*email
   codename: 
-  left_id: 1641
+  left_id: 1638
   right_id: 565
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30443,16 +30383,16 @@ cards_773:
   trash: false
   type_id: 52
   db_content: u3@user.com
-cards_774:
-  id: 1644
+cards_771:
+  id: 1641
   name: u3+*account+*salt
   key: u3+*account+*salt
   codename: 
-  left_id: 1641
+  left_id: 1638
   right_id: 990
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30460,17 +30400,17 @@ cards_774:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 41b17b432bf99a8ba25dc45b3324e63968b49c2c
-cards_775:
-  id: 1645
+  db_content: 482782fa14725d5eb7d13ba1db75d27dbacef1e0
+cards_772:
+  id: 1642
   name: u3+*account+*status
   key: u3+*account+*status
   codename: 
-  left_id: 1641
+  left_id: 1638
   right_id: 991
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30479,16 +30419,16 @@ cards_775:
   trash: false
   type_id: 3
   db_content: pending
-cards_776:
-  id: 1646
+cards_773:
+  id: 1643
   name: u3+*account+*token
   key: u3+*account+*token
   codename: 
-  left_id: 1641
+  left_id: 1638
   right_id: 989
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*right"
@@ -30496,17 +30436,89 @@ cards_776:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 9ba4bb4216fa8ed1c35e9ec00109ea33f2950d4b
-cards_777:
-  id: 1647
+  db_content: e1591bb263989b17a3a626745b7b9f96fd51127a
+cards_774:
+  id: 1644
   name: r1
   key: r1
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 7
+  db_content: |-
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
+cards_775:
+  id: 1645
+  name: r2
+  key: r2
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 7
+  db_content: |-
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
+cards_776:
+  id: 1646
+  name: r3
+  key: r3
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 7
+  db_content: |-
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
+cards_777:
+  id: 1647
+  name: r4
+  key: r4
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30523,86 +30535,14 @@ cards_777:
     </blockquote>
 cards_778:
   id: 1648
-  name: r2
-  key: r2
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 7
-  db_content: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
-cards_779:
-  id: 1649
-  name: r3
-  key: r3
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 7
-  db_content: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
-cards_780:
-  id: 1650
-  name: r4
-  key: r4
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 7
-  db_content: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
-cards_781:
-  id: 1651
   name: u1+*roles
   key: u1+*role
   codename: 
-  left_id: 1626
+  left_id: 1623
   right_id: 96
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -30614,16 +30554,16 @@ cards_781:
     [[r1]]
     [[r2]]
     [[r3]]
-cards_782:
-  id: 1652
+cards_779:
+  id: 1649
   name: u2+*roles
   key: u2+*role
   codename: 
-  left_id: 1633
+  left_id: 1630
   right_id: 96
   current_revision_id: 
-  created_at: 2016-06-05 21:17:28.000000000 Z
-  updated_at: 2016-06-05 21:17:28.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -30635,16 +30575,16 @@ cards_782:
     [[r1]]
     [[r2]]
     [[r4]]
-cards_783:
-  id: 1653
+cards_780:
+  id: 1650
   name: u3+*roles
   key: u3+*role
   codename: 
-  left_id: 1640
+  left_id: 1637
   right_id: 96
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -30656,16 +30596,16 @@ cards_783:
     [[r1]]
     [[r4]]
     [[Administrator]]
-cards_784:
-  id: 1654
+cards_781:
+  id: 1651
   name: c1
   key: c1
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30674,16 +30614,16 @@ cards_784:
   trash: false
   type_id: 3
   db_content: ''
-cards_785:
-  id: 1655
+cards_782:
+  id: 1652
   name: c2
   key: c2
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30692,16 +30632,16 @@ cards_785:
   trash: false
   type_id: 3
   db_content: ''
-cards_786:
-  id: 1656
+cards_783:
+  id: 1653
   name: c3
   key: c3
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30710,16 +30650,16 @@ cards_786:
   trash: false
   type_id: 3
   db_content: ''
-cards_787:
-  id: 1657
+cards_784:
+  id: 1654
   name: Z
   key: z
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30728,16 +30668,16 @@ cards_787:
   trash: false
   type_id: 3
   db_content: I'm here to be referenced to
-cards_788:
-  id: 1658
+cards_785:
+  id: 1655
   name: A
   key: a
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:27.000000000 Z
+  updated_at: 2016-08-02 17:26:27.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30746,16 +30686,16 @@ cards_788:
   trash: false
   type_id: 3
   db_content: Alpha [[Z]]
-cards_789:
-  id: 1659
+cards_786:
+  id: 1656
   name: B
   key: b
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30764,16 +30704,16 @@ cards_789:
   trash: false
   type_id: 3
   db_content: Beta {{Z}}
-cards_790:
-  id: 1660
+cards_787:
+  id: 1657
   name: T
   key: t
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30782,16 +30722,16 @@ cards_790:
   trash: false
   type_id: 3
   db_content: Theta
-cards_791:
-  id: 1661
+cards_788:
+  id: 1658
   name: X
   key: x
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30800,16 +30740,16 @@ cards_791:
   trash: false
   type_id: 3
   db_content: "[[A]] [[A+B]] [[T]]"
-cards_792:
-  id: 1662
+cards_789:
+  id: 1659
   name: Y
   key: y
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30818,16 +30758,16 @@ cards_792:
   trash: false
   type_id: 3
   db_content: "{{B}} {{A+B}} {{A}} {{T}}"
-cards_793:
-  id: 1663
+cards_790:
+  id: 1660
   name: A+B
   key: a+b
   codename: 
-  left_id: 1658
-  right_id: 1659
+  left_id: 1655
+  right_id: 1656
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -30836,16 +30776,70 @@ cards_793:
   trash: false
   type_id: 3
   db_content: AlphaBeta
-cards_794:
-  id: 1664
+cards_791:
+  id: 1661
   name: One
   key: one
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_792:
+  id: 1662
+  name: Two
+  key: two
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_793:
+  id: 1663
+  name: One+Two
+  key: one+two
+  codename: 
+  left_id: 1661
+  right_id: 1662
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_794:
+  id: 1664
+  name: Three
+  key: three
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -30856,17 +30850,17 @@ cards_794:
   db_content: ''
 cards_795:
   id: 1665
-  name: Two
-  key: two
+  name: One+Two+Three
+  key: one+two+three
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1663
+  right_id: 1664
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all"
+  read_rule_class: "*all plus"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30874,17 +30868,17 @@ cards_795:
   db_content: ''
 cards_796:
   id: 1666
-  name: One+Two
-  key: one+two
+  name: Four
+  key: four
   codename: 
-  left_id: 1664
-  right_id: 1665
+  left_id: 
+  right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30892,17 +30886,17 @@ cards_796:
   db_content: ''
 cards_797:
   id: 1667
-  name: Three
-  key: three
+  name: Four+One
+  key: four+one
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1666
+  right_id: 1661
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all"
+  read_rule_class: "*all plus"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30910,17 +30904,17 @@ cards_797:
   db_content: ''
 cards_798:
   id: 1668
-  name: One+Two+Three
-  key: one+two+three
+  name: Five
+  key: five
   codename: 
-  left_id: 1666
-  right_id: 1667
+  left_id: 
+  right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30928,17 +30922,17 @@ cards_798:
   db_content: ''
 cards_799:
   id: 1669
-  name: Four
-  key: four
+  name: Four+One+Five
+  key: four+one+five
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1667
+  right_id: 1668
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all"
+  read_rule_class: "*all plus"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30946,17 +30940,17 @@ cards_799:
   db_content: ''
 cards_800:
   id: 1670
-  name: Four+One
-  key: four+one
+  name: C
+  key: c
   codename: 
-  left_id: 1669
-  right_id: 1664
+  left_id: 
+  right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30964,17 +30958,17 @@ cards_800:
   db_content: ''
 cards_801:
   id: 1671
-  name: Five
-  key: five
+  name: A+C
+  key: a+c
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1655
+  right_id: 1670
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all"
+  read_rule_class: "*all plus"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -30982,17 +30976,17 @@ cards_801:
   db_content: ''
 cards_802:
   id: 1672
-  name: Four+One+Five
-  key: four+one+five
+  name: D
+  key: d
   codename: 
-  left_id: 1670
-  right_id: 1671
+  left_id: 
+  right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
@@ -31000,32 +30994,14 @@ cards_802:
   db_content: ''
 cards_803:
   id: 1673
-  name: C
-  key: c
+  name: A+D
+  key: a+d
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1655
+  right_id: 1672
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_804:
-  id: 1674
-  name: A+C
-  key: a+c
-  codename: 
-  left_id: 1658
-  right_id: 1673
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31034,16 +31010,16 @@ cards_804:
   trash: false
   type_id: 3
   db_content: ''
-cards_805:
-  id: 1675
-  name: D
-  key: d
+cards_804:
+  id: 1674
+  name: E
+  key: e
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31052,16 +31028,34 @@ cards_805:
   trash: false
   type_id: 3
   db_content: ''
+cards_805:
+  id: 1675
+  name: A+E
+  key: a+e
+  codename: 
+  left_id: 1655
+  right_id: 1674
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
 cards_806:
   id: 1676
-  name: A+D
-  key: a+d
+  name: C+A
+  key: c+a
   codename: 
-  left_id: 1658
-  right_id: 1675
+  left_id: 1670
+  right_id: 1655
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31072,32 +31066,14 @@ cards_806:
   db_content: ''
 cards_807:
   id: 1677
-  name: E
-  key: e
+  name: D+A
+  key: d+a
   codename: 
-  left_id: 
-  right_id: 
+  left_id: 1672
+  right_id: 1655
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_808:
-  id: 1678
-  name: A+E
-  key: a+e
-  codename: 
-  left_id: 1658
-  right_id: 1677
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31106,16 +31082,34 @@ cards_808:
   trash: false
   type_id: 3
   db_content: ''
+cards_808:
+  id: 1678
+  name: F
+  key: f
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
 cards_809:
   id: 1679
-  name: C+A
-  key: c+a
+  name: F+A
+  key: f+a
   codename: 
-  left_id: 1673
-  right_id: 1658
+  left_id: 1678
+  right_id: 1655
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31126,14 +31120,14 @@ cards_809:
   db_content: ''
 cards_810:
   id: 1680
-  name: D+A
-  key: d+a
+  name: A+B+C
+  key: a+b+c
   codename: 
-  left_id: 1675
-  right_id: 1658
+  left_id: 1660
+  right_id: 1670
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31144,68 +31138,71 @@ cards_810:
   db_content: ''
 cards_811:
   id: 1681
-  name: F
-  key: f
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_812:
-  id: 1682
-  name: F+A
-  key: f+a
-  codename: 
-  left_id: 1681
-  right_id: 1658
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_813:
-  id: 1683
-  name: A+B+C
-  key: a+b+c
-  codename: 
-  left_id: 1663
-  right_id: 1673
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_814:
-  id: 1684
   name: Cardtype A
   key: cardtype_a
   codename: cardtype_a
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 5
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+cards_812:
+  id: 1682
+  name: Cardtype B
+  key: cardtype_b
+  codename: cardtype_b
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 5
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+cards_813:
+  id: 1683
+  name: Cardtype C
+  key: cardtype_c
+  codename: cardtype_c
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 5
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+cards_814:
+  id: 1684
+  name: Cardtype D
+  key: cardtype_d
+  codename: cardtype_d
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31217,14 +31214,14 @@ cards_814:
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_815:
   id: 1685
-  name: Cardtype B
-  key: cardtype_b
-  codename: cardtype_b
+  name: Cardtype E
+  key: cardtype_e
+  codename: cardtype_e
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:29.000000000 Z
-  updated_at: 2016-06-05 21:17:29.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31236,14 +31233,14 @@ cards_815:
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_816:
   id: 1686
-  name: Cardtype C
-  key: cardtype_c
-  codename: cardtype_c
+  name: Cardtype F
+  key: cardtype_f
+  codename: cardtype_f
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31255,71 +31252,14 @@ cards_816:
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_817:
   id: 1687
-  name: Cardtype D
-  key: cardtype_d
-  codename: cardtype_d
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_818:
-  id: 1688
-  name: Cardtype E
-  key: cardtype_e
-  codename: cardtype_e
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_819:
-  id: 1689
-  name: Cardtype F
-  key: cardtype_f
-  codename: cardtype_f
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_820:
-  id: 1690
   name: basicname
   key: basicname
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31328,16 +31268,70 @@ cards_820:
   trash: false
   type_id: 3
   db_content: basiccontent
-cards_821:
-  id: 1691
+cards_818:
+  id: 1688
   name: type-a-card
   key: type_a_card
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 1681
+  db_content: type_a_content
+cards_819:
+  id: 1689
+  name: type-b-card
+  key: type_b_card
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 1682
+  db_content: type_b_content
+cards_820:
+  id: 1690
+  name: type-c-card
+  key: type_c_card
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 1683
+  db_content: type_c_content
+cards_821:
+  id: 1691
+  name: type-d-card
+  key: type_d_card
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31345,17 +31339,17 @@ cards_821:
   references_expired: 
   trash: false
   type_id: 1684
-  db_content: type_a_content
+  db_content: type_d_content
 cards_822:
   id: 1692
-  name: type-b-card
-  key: type_b_card
+  name: type-e-card
+  key: type_e_card
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31363,17 +31357,17 @@ cards_822:
   references_expired: 
   trash: false
   type_id: 1685
-  db_content: type_b_content
+  db_content: type_e_content
 cards_823:
   id: 1693
-  name: type-c-card
-  key: type_c_card
+  name: type-f-card
+  key: type_f_card
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31381,71 +31375,17 @@ cards_823:
   references_expired: 
   trash: false
   type_id: 1686
-  db_content: type_c_content
+  db_content: type_f_content
 cards_824:
   id: 1694
-  name: type-d-card
-  key: type_d_card
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 1687
-  db_content: type_d_content
-cards_825:
-  id: 1695
-  name: type-e-card
-  key: type_e_card
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 1688
-  db_content: type_e_content
-cards_826:
-  id: 1696
-  name: type-f-card
-  key: type_f_card
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 1689
-  db_content: type_f_content
-cards_827:
-  id: 1697
   name: revtest
   key: revtest
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:28.000000000 Z
+  updated_at: 2016-08-02 17:26:28.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31454,16 +31394,16 @@ cards_827:
   trash: false
   type_id: 3
   db_content: third
-cards_828:
-  id: 1698
+cards_825:
+  id: 1695
   name: UserForm
   key: user_form
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31473,16 +31413,16 @@ cards_828:
   type_id: 5
   db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_829:
-  id: 1699
+cards_826:
+  id: 1696
   name: UserForm+*type
   key: user_form+*type
   codename: 
-  left_id: 1698
+  left_id: 1695
   right_id: 266
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31491,16 +31431,16 @@ cards_829:
   trash: false
   type_id: 259
   db_content: '{"type":"_left"}'
-cards_830:
-  id: 1700
+cards_827:
+  id: 1697
   name: UserForm+*type+*structure
   key: user_form+*type+*structure
   codename: 
-  left_id: 1699
+  left_id: 1696
   right_id: 317
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31509,16 +31449,16 @@ cards_830:
   trash: false
   type_id: 3
   db_content: "{{+name}} {{+age}} {{+description}}"
-cards_831:
-  id: 1701
+cards_828:
+  id: 1698
   name: JoeLater
   key: joe_later
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1568
   updater_id: 1568
   read_rule_class: "*all"
@@ -31527,16 +31467,16 @@ cards_831:
   trash: false
   type_id: 3
   db_content: test
-cards_832:
-  id: 1702
+cards_829:
+  id: 1699
   name: JoeNow
   key: joe_now
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1568
   updater_id: 1568
   read_rule_class: "*all"
@@ -31545,16 +31485,16 @@ cards_832:
   trash: false
   type_id: 3
   db_content: test
-cards_833:
-  id: 1703
+cards_830:
+  id: 1700
   name: AdminNow
   key: admin_now
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31563,16 +31503,71 @@ cards_833:
   trash: false
   type_id: 3
   db_content: test
-cards_834:
-  id: 1704
+cards_831:
+  id: 1701
   name: Cardtype B+*type
   key: cardtype_b+*type
   codename: 
-  left_id: 1685
+  left_id: 1682
   right_id: 266
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 259
+  db_content: '{"type":"_left"}'
+cards_832:
+  id: 1702
+  name: Cardtype B+*type+*create
+  key: cardtype_b+*type+*create
+  codename: 
+  left_id: 1701
+  right_id: 478
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 47
+  db_content: "[[r1]]"
+cards_833:
+  id: 1703
+  name: Book
+  key: book
+  codename: 
+  left_id: 
+  right_id: 
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 5
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+cards_834:
+  id: 1704
+  name: Book+*type
+  key: book+*type
+  codename: 
+  left_id: 1703
+  right_id: 266
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31583,69 +31578,14 @@ cards_834:
   db_content: '{"type":"_left"}'
 cards_835:
   id: 1705
-  name: Cardtype B+*type+*create
-  key: cardtype_b+*type+*create
-  codename: 
-  left_id: 1704
-  right_id: 478
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[r1]]"
-cards_836:
-  id: 1706
-  name: Book
-  key: book
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_837:
-  id: 1707
-  name: Book+*type
-  key: book+*type
-  codename: 
-  left_id: 1706
-  right_id: 266
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 259
-  db_content: '{"type":"_left"}'
-cards_838:
-  id: 1708
   name: Book+*type+*structure
   key: book+*type+*structure
   codename: 
-  left_id: 1707
+  left_id: 1704
   right_id: 317
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -31654,34 +31594,34 @@ cards_838:
   trash: false
   type_id: 3
   db_content: by {{+author}}, design by {{+illustrator}}
-cards_839:
-  id: 1709
+cards_836:
+  id: 1706
   name: Iliad
   key: iliad
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1706
+  type_id: 1703
   db_content: by {{+author}}, design by {{+illustrator}}
-cards_840:
-  id: 1710
+cards_837:
+  id: 1707
   name: Author
   key: author
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -31691,80 +31631,80 @@ cards_840:
   type_id: 5
   db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_841:
-  id: 1711
+cards_838:
+  id: 1708
   name: Darles Chickens
   key: darle_chicken
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:30.000000000 Z
-  updated_at: 2016-06-05 21:17:30.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1710
+  type_id: 1707
   db_content: ''
-cards_842:
-  id: 1712
+cards_839:
+  id: 1709
   name: Stam Broker
   key: stam_broker
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:31.000000000 Z
-  updated_at: 2016-06-05 21:17:31.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1710
+  type_id: 1707
   db_content: ''
-cards_843:
-  id: 1713
+cards_840:
+  id: 1710
   name: Parry Hotter
   key: parry_hotter
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:31.000000000 Z
-  updated_at: 2016-06-05 21:17:31.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1706
+  type_id: 1703
   db_content: by {{+author}}, design by {{+illustrator}}
-cards_844:
-  id: 1714
+cards_841:
+  id: 1711
   name: 50 grades of shy
   key: 50_grade_of_shy
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:31.000000000 Z
-  updated_at: 2016-06-05 21:17:31.000000000 Z
+  created_at: 2016-08-02 17:26:29.000000000 Z
+  updated_at: 2016-08-02 17:26:29.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1706
+  type_id: 1703
   db_content: by {{+author}}, design by {{+illustrator}}
-cards_845:
-  id: 1715
+cards_842:
+  id: 1712
   name: John
   key: john
   codename: 
@@ -31781,12 +31721,12 @@ cards_845:
   trash: false
   type_id: 4
   db_content: ''
-cards_846:
-  id: 1716
+cards_843:
+  id: 1713
   name: John+*account
   key: john+*account
   codename: 
-  left_id: 1715
+  left_id: 1712
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31799,12 +31739,12 @@ cards_846:
   trash: false
   type_id: 3
   db_content: ''
-cards_847:
-  id: 1717
+cards_844:
+  id: 1714
   name: John+*account+*password
   key: john+*account+*password
   codename: 
-  left_id: 1716
+  left_id: 1713
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31817,12 +31757,12 @@ cards_847:
   trash: false
   type_id: 52
   db_content: d7888fc9b39057af04c0e3ed1f0952eae8191955
-cards_848:
-  id: 1718
+cards_845:
+  id: 1715
   name: John+*account+*email
   key: john+*account+*email
   codename: 
-  left_id: 1716
+  left_id: 1713
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31835,12 +31775,12 @@ cards_848:
   trash: false
   type_id: 52
   db_content: john@user.com
-cards_849:
-  id: 1719
+cards_846:
+  id: 1716
   name: John+*account+*salt
   key: john+*account+*salt
   codename: 
-  left_id: 1716
+  left_id: 1713
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31853,12 +31793,12 @@ cards_849:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_850:
-  id: 1720
+cards_847:
+  id: 1717
   name: John+*account+*status
   key: john+*account+*status
   codename: 
-  left_id: 1716
+  left_id: 1713
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31871,12 +31811,12 @@ cards_850:
   trash: false
   type_id: 3
   db_content: pending
-cards_851:
-  id: 1721
+cards_848:
+  id: 1718
   name: John+*account+*token
   key: john+*account+*token
   codename: 
-  left_id: 1716
+  left_id: 1713
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31888,9 +31828,9 @@ cards_851:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: f2c419f597d56e0e263742e5269a1db822ac56e9
-cards_852:
-  id: 1722
+  db_content: 4c943539523802c23773ef5c2c1ec9b8873adae8
+cards_849:
+  id: 1719
   name: Sara
   key: sara
   codename: 
@@ -31907,12 +31847,12 @@ cards_852:
   trash: false
   type_id: 4
   db_content: ''
-cards_853:
-  id: 1723
+cards_850:
+  id: 1720
   name: Sara+*account
   key: sara+*account
   codename: 
-  left_id: 1722
+  left_id: 1719
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31925,12 +31865,12 @@ cards_853:
   trash: false
   type_id: 3
   db_content: ''
-cards_854:
-  id: 1724
+cards_851:
+  id: 1721
   name: Sara+*account+*password
   key: sara+*account+*password
   codename: 
-  left_id: 1723
+  left_id: 1720
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31943,12 +31883,12 @@ cards_854:
   trash: false
   type_id: 52
   db_content: 81cf267188a9018d2399bb53a06df85c99ef3d7a
-cards_855:
-  id: 1725
+cards_852:
+  id: 1722
   name: Sara+*account+*email
   key: sara+*account+*email
   codename: 
-  left_id: 1723
+  left_id: 1720
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31961,12 +31901,12 @@ cards_855:
   trash: false
   type_id: 52
   db_content: sara@user.com
-cards_856:
-  id: 1726
+cards_853:
+  id: 1723
   name: Sara+*account+*salt
   key: sara+*account+*salt
   codename: 
-  left_id: 1723
+  left_id: 1720
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31979,12 +31919,12 @@ cards_856:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_857:
-  id: 1727
+cards_854:
+  id: 1724
   name: Sara+*account+*status
   key: sara+*account+*status
   codename: 
-  left_id: 1723
+  left_id: 1720
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -31997,12 +31937,12 @@ cards_857:
   trash: false
   type_id: 3
   db_content: pending
-cards_858:
-  id: 1728
+cards_855:
+  id: 1725
   name: Sara+*account+*token
   key: sara+*account+*token
   codename: 
-  left_id: 1723
+  left_id: 1720
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32014,9 +31954,9 @@ cards_858:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 4f6a212530f993c5d4afb1ef9a648d35a7f6a742
-cards_859:
-  id: 1729
+  db_content: f2a9be07c40f898650f3e3754ee191f16409fc64
+cards_856:
+  id: 1726
   name: Big Brother
   key: big_brother
   codename: 
@@ -32033,12 +31973,12 @@ cards_859:
   trash: false
   type_id: 4
   db_content: ''
-cards_860:
-  id: 1730
+cards_857:
+  id: 1727
   name: Big Brother+*account
   key: big_brother+*account
   codename: 
-  left_id: 1729
+  left_id: 1726
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32051,12 +31991,12 @@ cards_860:
   trash: false
   type_id: 3
   db_content: ''
-cards_861:
-  id: 1731
+cards_858:
+  id: 1728
   name: Big Brother+*account+*password
   key: big_brother+*account+*password
   codename: 
-  left_id: 1730
+  left_id: 1727
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32069,12 +32009,12 @@ cards_861:
   trash: false
   type_id: 52
   db_content: 576607b86c8e39c12d62e9e791da1115972af2fd
-cards_862:
-  id: 1732
+cards_859:
+  id: 1729
   name: Big Brother+*account+*email
   key: big_brother+*account+*email
   codename: 
-  left_id: 1730
+  left_id: 1727
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32087,12 +32027,12 @@ cards_862:
   trash: false
   type_id: 52
   db_content: big-brother@user.com
-cards_863:
-  id: 1733
+cards_860:
+  id: 1730
   name: Big Brother+*account+*salt
   key: big_brother+*account+*salt
   codename: 
-  left_id: 1730
+  left_id: 1727
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32105,12 +32045,12 @@ cards_863:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_864:
-  id: 1734
+cards_861:
+  id: 1731
   name: Big Brother+*account+*status
   key: big_brother+*account+*status
   codename: 
-  left_id: 1730
+  left_id: 1727
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32123,12 +32063,12 @@ cards_864:
   trash: false
   type_id: 3
   db_content: pending
-cards_865:
-  id: 1735
+cards_862:
+  id: 1732
   name: Big Brother+*account+*token
   key: big_brother+*account+*token
   codename: 
-  left_id: 1730
+  left_id: 1727
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32140,9 +32080,9 @@ cards_865:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 4f6a212530f993c5d4afb1ef9a648d35a7f6a742
-cards_866:
-  id: 1736
+  db_content: 9761767e9fe67bf6cd0889af97932e411ee2cc3b
+cards_863:
+  id: 1733
   name: Optic fan
   key: optic_fan
   codename: 
@@ -32159,12 +32099,12 @@ cards_866:
   trash: false
   type_id: 4
   db_content: ''
-cards_867:
-  id: 1737
+cards_864:
+  id: 1734
   name: Optic fan+*account
   key: optic_fan+*account
   codename: 
-  left_id: 1736
+  left_id: 1733
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32177,12 +32117,12 @@ cards_867:
   trash: false
   type_id: 3
   db_content: ''
-cards_868:
-  id: 1738
+cards_865:
+  id: 1735
   name: Optic fan+*account+*password
   key: optic_fan+*account+*password
   codename: 
-  left_id: 1737
+  left_id: 1734
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32195,12 +32135,12 @@ cards_868:
   trash: false
   type_id: 52
   db_content: f749036a8ba957265353a2e742dbcd943613e2d4
-cards_869:
-  id: 1739
+cards_866:
+  id: 1736
   name: Optic fan+*account+*email
   key: optic_fan+*account+*email
   codename: 
-  left_id: 1737
+  left_id: 1734
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32213,12 +32153,12 @@ cards_869:
   trash: false
   type_id: 52
   db_content: optic-fan@user.com
-cards_870:
-  id: 1740
+cards_867:
+  id: 1737
   name: Optic fan+*account+*salt
   key: optic_fan+*account+*salt
   codename: 
-  left_id: 1737
+  left_id: 1734
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32231,12 +32171,12 @@ cards_870:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_871:
-  id: 1741
+cards_868:
+  id: 1738
   name: Optic fan+*account+*status
   key: optic_fan+*account+*status
   codename: 
-  left_id: 1737
+  left_id: 1734
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32249,12 +32189,12 @@ cards_871:
   trash: false
   type_id: 3
   db_content: pending
-cards_872:
-  id: 1742
+cards_869:
+  id: 1739
   name: Optic fan+*account+*token
   key: optic_fan+*account+*token
   codename: 
-  left_id: 1737
+  left_id: 1734
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32266,9 +32206,9 @@ cards_872:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 4c943539523802c23773ef5c2c1ec9b8873adae8
-cards_873:
-  id: 1743
+  db_content: d515ae2fd864f6147c95b06a3464c227abf5ac6e
+cards_870:
+  id: 1740
   name: Sunglasses fan
   key: sunglass_fan
   codename: 
@@ -32285,12 +32225,12 @@ cards_873:
   trash: false
   type_id: 4
   db_content: ''
-cards_874:
-  id: 1744
+cards_871:
+  id: 1741
   name: Sunglasses fan+*account
   key: sunglass_fan+*account
   codename: 
-  left_id: 1743
+  left_id: 1740
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32303,12 +32243,12 @@ cards_874:
   trash: false
   type_id: 3
   db_content: ''
-cards_875:
-  id: 1745
+cards_872:
+  id: 1742
   name: Sunglasses fan+*account+*password
   key: sunglass_fan+*account+*password
   codename: 
-  left_id: 1744
+  left_id: 1741
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32321,12 +32261,12 @@ cards_875:
   trash: false
   type_id: 52
   db_content: 6487196f0fdcd9348d16f2a1a4bb0edba94926cd
-cards_876:
-  id: 1746
+cards_873:
+  id: 1743
   name: Sunglasses fan+*account+*email
   key: sunglass_fan+*account+*email
   codename: 
-  left_id: 1744
+  left_id: 1741
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32339,12 +32279,12 @@ cards_876:
   trash: false
   type_id: 52
   db_content: sunglasses-fan@user.com
-cards_877:
-  id: 1747
+cards_874:
+  id: 1744
   name: Sunglasses fan+*account+*salt
   key: sunglass_fan+*account+*salt
   codename: 
-  left_id: 1744
+  left_id: 1741
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32357,12 +32297,12 @@ cards_877:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_878:
-  id: 1748
+cards_875:
+  id: 1745
   name: Sunglasses fan+*account+*status
   key: sunglass_fan+*account+*status
   codename: 
-  left_id: 1744
+  left_id: 1741
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32375,12 +32315,12 @@ cards_878:
   trash: false
   type_id: 3
   db_content: pending
-cards_879:
-  id: 1749
+cards_876:
+  id: 1746
   name: Sunglasses fan+*account+*token
   key: sunglass_fan+*account+*token
   codename: 
-  left_id: 1744
+  left_id: 1741
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32392,9 +32332,9 @@ cards_879:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 049110f01d2c14692699b9badc449225226ad288
-cards_880:
-  id: 1750
+  db_content: f2c419f597d56e0e263742e5269a1db822ac56e9
+cards_877:
+  id: 1747
   name: Narcissist
   key: narcissist
   codename: 
@@ -32411,12 +32351,12 @@ cards_880:
   trash: false
   type_id: 4
   db_content: ''
-cards_881:
-  id: 1751
+cards_878:
+  id: 1748
   name: Narcissist+*account
   key: narcissist+*account
   codename: 
-  left_id: 1750
+  left_id: 1747
   right_id: 100
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32429,12 +32369,12 @@ cards_881:
   trash: false
   type_id: 3
   db_content: ''
-cards_882:
-  id: 1752
+cards_879:
+  id: 1749
   name: Narcissist+*account+*password
   key: narcissist+*account+*password
   codename: 
-  left_id: 1751
+  left_id: 1748
   right_id: 988
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32447,12 +32387,12 @@ cards_882:
   trash: false
   type_id: 52
   db_content: a6fcb3a6c2695ffc438b9dceb1aab98a751490b5
-cards_883:
-  id: 1753
+cards_880:
+  id: 1750
   name: Narcissist+*account+*email
   key: narcissist+*account+*email
   codename: 
-  left_id: 1751
+  left_id: 1748
   right_id: 565
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32465,12 +32405,12 @@ cards_883:
   trash: false
   type_id: 52
   db_content: narcissist@user.com
-cards_884:
-  id: 1754
+cards_881:
+  id: 1751
   name: Narcissist+*account+*salt
   key: narcissist+*account+*salt
   codename: 
-  left_id: 1751
+  left_id: 1748
   right_id: 990
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32483,12 +32423,12 @@ cards_884:
   trash: false
   type_id: 3
   db_content: e283b45d277354270ba19faf2991f0b93ab84d3e
-cards_885:
-  id: 1755
+cards_882:
+  id: 1752
   name: Narcissist+*account+*status
   key: narcissist+*account+*status
   codename: 
-  left_id: 1751
+  left_id: 1748
   right_id: 991
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32501,12 +32441,12 @@ cards_885:
   trash: false
   type_id: 3
   db_content: pending
-cards_886:
-  id: 1756
+cards_883:
+  id: 1753
   name: Narcissist+*account+*token
   key: narcissist+*account+*token
   codename: 
-  left_id: 1751
+  left_id: 1748
   right_id: 989
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32519,8 +32459,8 @@ cards_886:
   trash: false
   type_id: 3
   db_content: f2a9be07c40f898650f3e3754ee191f16409fc64
-cards_887:
-  id: 1757
+cards_884:
+  id: 1754
   name: All Eyes On Me
   key: all_eye_on_me
   codename: 
@@ -32537,8 +32477,8 @@ cards_887:
   trash: false
   type_id: 3
   db_content: ''
-cards_888:
-  id: 1758
+cards_885:
+  id: 1755
   name: No One Sees Me
   key: no_one_see_me
   codename: 
@@ -32555,8 +32495,8 @@ cards_888:
   trash: false
   type_id: 3
   db_content: ''
-cards_889:
-  id: 1759
+cards_886:
+  id: 1756
   name: Look At Me
   key: look_at_me
   codename: 
@@ -32573,8 +32513,8 @@ cards_889:
   trash: false
   type_id: 3
   db_content: ''
-cards_890:
-  id: 1760
+cards_887:
+  id: 1757
   name: Optic
   key: optic
   codename: 
@@ -32592,8 +32532,8 @@ cards_890:
   type_id: 5
   db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
     {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_891:
-  id: 1761
+cards_888:
+  id: 1758
   name: Sara Following
   key: sara_following
   codename: 
@@ -32610,8 +32550,8 @@ cards_891:
   trash: false
   type_id: 3
   db_content: ''
-cards_892:
-  id: 1762
+cards_889:
+  id: 1759
   name: John Following
   key: john_following
   codename: 
@@ -32628,8 +32568,8 @@ cards_892:
   trash: false
   type_id: 3
   db_content: "{{+her}}"
-cards_893:
-  id: 1763
+cards_890:
+  id: 1760
   name: her
   key: her
   codename: 
@@ -32646,13 +32586,13 @@ cards_893:
   trash: false
   type_id: 3
   db_content: ''
-cards_894:
-  id: 1764
+cards_891:
+  id: 1761
   name: John Following+her
   key: john_following+her
   codename: 
-  left_id: 1762
-  right_id: 1763
+  left_id: 1759
+  right_id: 1760
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -32664,8 +32604,8 @@ cards_894:
   trash: false
   type_id: 3
   db_content: ''
-cards_895:
-  id: 1765
+cards_892:
+  id: 1762
   name: Magnifier
   key: magnifier
   codename: 
@@ -32675,15 +32615,15 @@ cards_895:
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
   creator_id: 1
-  updater_id: 1750
+  updater_id: 1747
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
   type_id: 3
   db_content: ''
-cards_896:
-  id: 1766
+cards_893:
+  id: 1763
   name: lens
   key: len
   codename: 
@@ -32693,33 +32633,33 @@ cards_896:
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
   creator_id: 1
-  updater_id: 1750
+  updater_id: 1747
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
   type_id: 3
   db_content: ''
-cards_897:
-  id: 1767
+cards_894:
+  id: 1764
   name: Magnifier+lens
   key: magnifier+len
   codename: 
-  left_id: 1765
-  right_id: 1766
+  left_id: 1762
+  right_id: 1763
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
   creator_id: 1
-  updater_id: 1750
+  updater_id: 1747
   read_rule_class: "*all plus"
   read_rule_id: 500
   references_expired: 
   trash: false
   type_id: 3
   db_content: zoom in
-cards_898:
-  id: 1768
+cards_895:
+  id: 1765
   name: Sunglasses
   key: sunglass
   codename: 
@@ -32728,16 +32668,16 @@ cards_898:
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1750
-  updater_id: 1750
+  creator_id: 1747
+  updater_id: 1747
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1760
+  type_id: 1757
   db_content: "{{+tint}}{{+lens}}"
-cards_899:
-  id: 1769
+cards_896:
+  id: 1766
   name: Google glass
   key: google_glass
   codename: 
@@ -32746,20 +32686,20 @@ cards_899:
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1736
-  updater_id: 1736
+  creator_id: 1733
+  updater_id: 1733
   read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1760
+  type_id: 1757
   db_content: "{{+price}}"
-cards_900:
-  id: 1770
+cards_897:
+  id: 1767
   name: Google glass+*self
   key: google_glass+*self
   codename: 
-  left_id: 1769
+  left_id: 1766
   right_id: 264
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32772,12 +32712,12 @@ cards_900:
   trash: false
   type_id: 259
   db_content: '{"name":"_left"}'
-cards_901:
-  id: 1771
+cards_898:
+  id: 1768
   name: Google glass+*self+*follow_fields
   key: google_glass+*self+*follow_field
   codename: 
-  left_id: 1770
+  left_id: 1767
   right_id: 1267
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32790,12 +32730,12 @@ cards_901:
   trash: false
   type_id: 47
   db_content: ''
-cards_902:
-  id: 1772
+cards_899:
+  id: 1769
   name: Sunglasses+*self
   key: sunglass+*self
   codename: 
-  left_id: 1768
+  left_id: 1765
   right_id: 264
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32808,12 +32748,12 @@ cards_902:
   trash: false
   type_id: 259
   db_content: '{"name":"_left"}'
-cards_903:
-  id: 1773
+cards_900:
+  id: 1770
   name: Sunglasses+*self+*follow_fields
   key: sunglass+*self+*follow_field
   codename: 
-  left_id: 1772
+  left_id: 1769
   right_id: 1267
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32829,8 +32769,8 @@ cards_903:
     [[*includes]]
     [[_self+price]]
     [[_self+producer]]
-cards_904:
-  id: 1774
+cards_901:
+  id: 1771
   name: tint
   key: tint
   codename: 
@@ -32847,13 +32787,13 @@ cards_904:
   trash: false
   type_id: 3
   db_content: ''
-cards_905:
-  id: 1775
+cards_902:
+  id: 1772
   name: Sunglasses+tint
   key: sunglass+tint
   codename: 
-  left_id: 1768
-  right_id: 1774
+  left_id: 1765
+  right_id: 1771
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -32865,8 +32805,8 @@ cards_905:
   trash: false
   type_id: 3
   db_content: ''
-cards_906:
-  id: 1776
+cards_903:
+  id: 1773
   name: price
   key: price
   codename: 
@@ -32883,13 +32823,13 @@ cards_906:
   trash: false
   type_id: 3
   db_content: ''
-cards_907:
-  id: 1777
+cards_904:
+  id: 1774
   name: Sunglasses+price
   key: sunglass+price
   codename: 
-  left_id: 1768
-  right_id: 1776
+  left_id: 1765
+  right_id: 1773
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -32901,12 +32841,66 @@ cards_907:
   trash: false
   type_id: 3
   db_content: ''
-cards_908:
-  id: 1778
+cards_905:
+  id: 1775
   name: John Following+*self
   key: john_following+*self
   codename: 
-  left_id: 1762
+  left_id: 1759
+  right_id: 264
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 259
+  db_content: '{"name":"_left"}'
+cards_906:
+  id: 1776
+  name: John Following+*self+John
+  key: john_following+*self+john
+  codename: 
+  left_id: 1775
+  right_id: 1712
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_907:
+  id: 1777
+  name: John Following+*self+John+*follow
+  key: john_following+*self+john+*follow
+  codename: 
+  left_id: 1776
+  right_id: 1261
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 47
+  db_content: "[[*always]]"
+cards_908:
+  id: 1778
+  name: All Eyes On Me+*self
+  key: all_eye_on_me+*self
+  codename: 
+  left_id: 1754
   right_id: 264
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32921,11 +32915,11 @@ cards_908:
   db_content: '{"name":"_left"}'
 cards_909:
   id: 1779
-  name: John Following+*self+John
-  key: john_following+*self+john
+  name: All Eyes On Me+*self+John
+  key: all_eye_on_me+*self+john
   codename: 
   left_id: 1778
-  right_id: 1715
+  right_id: 1712
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -32939,8 +32933,8 @@ cards_909:
   db_content: ''
 cards_910:
   id: 1780
-  name: John Following+*self+John+*follow
-  key: john_following+*self+john+*follow
+  name: All Eyes On Me+*self+John+*follow
+  key: all_eye_on_me+*self+john+*follow
   codename: 
   left_id: 1779
   right_id: 1261
@@ -32957,10 +32951,10 @@ cards_910:
   db_content: "[[*always]]"
 cards_911:
   id: 1781
-  name: All Eyes On Me+*self
-  key: all_eye_on_me+*self
+  name: Sara Following+*self
+  key: sara_following+*self
   codename: 
-  left_id: 1757
+  left_id: 1758
   right_id: 264
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -32975,11 +32969,11 @@ cards_911:
   db_content: '{"name":"_left"}'
 cards_912:
   id: 1782
-  name: All Eyes On Me+*self+John
-  key: all_eye_on_me+*self+john
+  name: Sara Following+*self+Sara
+  key: sara_following+*self+sara
   codename: 
   left_id: 1781
-  right_id: 1715
+  right_id: 1719
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -32993,8 +32987,8 @@ cards_912:
   db_content: ''
 cards_913:
   id: 1783
-  name: All Eyes On Me+*self+John+*follow
-  key: all_eye_on_me+*self+john+*follow
+  name: Sara Following+*self+Sara+*follow
+  key: sara_following+*self+sara+*follow
   codename: 
   left_id: 1782
   right_id: 1261
@@ -33011,29 +33005,11 @@ cards_913:
   db_content: "[[*always]]"
 cards_914:
   id: 1784
-  name: Sara Following+*self
-  key: sara_following+*self
+  name: All Eyes On Me+*self+Sara
+  key: all_eye_on_me+*self+sara
   codename: 
-  left_id: 1761
-  right_id: 264
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 259
-  db_content: '{"name":"_left"}'
-cards_915:
-  id: 1785
-  name: Sara Following+*self+Sara
-  key: sara_following+*self+sara
-  codename: 
-  left_id: 1784
-  right_id: 1722
+  left_id: 1778
+  right_id: 1719
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33045,12 +33021,12 @@ cards_915:
   trash: false
   type_id: 3
   db_content: ''
-cards_916:
-  id: 1786
-  name: Sara Following+*self+Sara+*follow
-  key: sara_following+*self+sara+*follow
+cards_915:
+  id: 1785
+  name: All Eyes On Me+*self+Sara+*follow
+  key: all_eye_on_me+*self+sara+*follow
   codename: 
-  left_id: 1785
+  left_id: 1784
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33063,13 +33039,31 @@ cards_916:
   trash: false
   type_id: 47
   db_content: "[[*always]]"
+cards_916:
+  id: 1786
+  name: Optic+*type
+  key: optic+*type
+  codename: 
+  left_id: 1757
+  right_id: 266
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 259
+  db_content: '{"type":"_left"}'
 cards_917:
   id: 1787
-  name: All Eyes On Me+*self+Sara
-  key: all_eye_on_me+*self+sara
+  name: Optic+*type+Sara
+  key: optic+*type+sara
   codename: 
-  left_id: 1781
-  right_id: 1722
+  left_id: 1786
+  right_id: 1719
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33083,8 +33077,8 @@ cards_917:
   db_content: ''
 cards_918:
   id: 1788
-  name: All Eyes On Me+*self+Sara+*follow
-  key: all_eye_on_me+*self+sara+*follow
+  name: Optic+*type+Sara+*follow
+  key: optic+*type+sara+*follow
   codename: 
   left_id: 1787
   right_id: 1261
@@ -33101,11 +33095,83 @@ cards_918:
   db_content: "[[*always]]"
 cards_919:
   id: 1789
-  name: Optic+*type
-  key: optic+*type
+  name: Google glass+*self+Sara
+  key: google_glass+*self+sara
   codename: 
-  left_id: 1760
-  right_id: 266
+  left_id: 1767
+  right_id: 1719
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_920:
+  id: 1790
+  name: Google glass+*self+Sara+*follow
+  key: google_glass+*self+sara+*follow
+  codename: 
+  left_id: 1789
+  right_id: 1261
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 47
+  db_content: "[[*always]]"
+cards_921:
+  id: 1791
+  name: All Eyes On Me+*self+Big Brother
+  key: all_eye_on_me+*self+big_brother
+  codename: 
+  left_id: 1778
+  right_id: 1726
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_922:
+  id: 1792
+  name: All Eyes On Me+*self+Big Brother+*follow
+  key: all_eye_on_me+*self+big_brother+*follow
+  codename: 
+  left_id: 1791
+  right_id: 1261
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 47
+  db_content: "[[*always]]"
+cards_923:
+  id: 1793
+  name: Look at me+*self
+  key: look_at_me+*self
+  codename: 
+  left_id: 1756
+  right_id: 264
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33116,86 +33182,14 @@ cards_919:
   references_expired: 
   trash: false
   type_id: 259
-  db_content: '{"type":"_left"}'
-cards_920:
-  id: 1790
-  name: Optic+*type+Sara
-  key: optic+*type+sara
-  codename: 
-  left_id: 1789
-  right_id: 1722
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_921:
-  id: 1791
-  name: Optic+*type+Sara+*follow
-  key: optic+*type+sara+*follow
-  codename: 
-  left_id: 1790
-  right_id: 1261
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[*always]]"
-cards_922:
-  id: 1792
-  name: Google glass+*self+Sara
-  key: google_glass+*self+sara
-  codename: 
-  left_id: 1770
-  right_id: 1722
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_923:
-  id: 1793
-  name: Google glass+*self+Sara+*follow
-  key: google_glass+*self+sara+*follow
-  codename: 
-  left_id: 1792
-  right_id: 1261
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[*always]]"
+  db_content: '{"name":"_left"}'
 cards_924:
   id: 1794
-  name: All Eyes On Me+*self+Big Brother
-  key: all_eye_on_me+*self+big_brother
+  name: Look at me+*self+Big Brother
+  key: look_at_me+*self+big_brother
   codename: 
-  left_id: 1781
-  right_id: 1729
+  left_id: 1793
+  right_id: 1726
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33209,8 +33203,8 @@ cards_924:
   db_content: ''
 cards_925:
   id: 1795
-  name: All Eyes On Me+*self+Big Brother+*follow
-  key: all_eye_on_me+*self+big_brother+*follow
+  name: Look at me+*self+Big Brother+*follow
+  key: look_at_me+*self+big_brother+*follow
   codename: 
   left_id: 1794
   right_id: 1261
@@ -33227,29 +33221,11 @@ cards_925:
   db_content: "[[*always]]"
 cards_926:
   id: 1796
-  name: Look at me+*self
-  key: look_at_me+*self
+  name: Optic+*type+Big Brother
+  key: optic+*type+big_brother
   codename: 
-  left_id: 1759
-  right_id: 264
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 259
-  db_content: '{"name":"_left"}'
-cards_927:
-  id: 1797
-  name: Look at me+*self+Big Brother
-  key: look_at_me+*self+big_brother
-  codename: 
-  left_id: 1796
-  right_id: 1729
+  left_id: 1786
+  right_id: 1726
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33261,12 +33237,12 @@ cards_927:
   trash: false
   type_id: 3
   db_content: ''
-cards_928:
-  id: 1798
-  name: Look at me+*self+Big Brother+*follow
-  key: look_at_me+*self+big_brother+*follow
+cards_927:
+  id: 1797
+  name: Optic+*type+Big Brother+*follow
+  key: optic+*type+big_brother+*follow
   codename: 
-  left_id: 1797
+  left_id: 1796
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33279,13 +33255,31 @@ cards_928:
   trash: false
   type_id: 47
   db_content: "[[*always]]"
+cards_928:
+  id: 1798
+  name: lens+*right
+  key: len+*right
+  codename: 
+  left_id: 1763
+  right_id: 260
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 259
+  db_content: '{"right":"_left"}'
 cards_929:
   id: 1799
-  name: Optic+*type+Big Brother
-  key: optic+*type+big_brother
+  name: lens+*right+Big Brother
+  key: len+*right+big_brother
   codename: 
-  left_id: 1789
-  right_id: 1729
+  left_id: 1798
+  right_id: 1726
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33299,8 +33293,8 @@ cards_929:
   db_content: ''
 cards_930:
   id: 1800
-  name: Optic+*type+Big Brother+*follow
-  key: optic+*type+big_brother+*follow
+  name: lens+*right+Big Brother+*follow
+  key: len+*right+big_brother+*follow
   codename: 
   left_id: 1799
   right_id: 1261
@@ -33317,65 +33311,11 @@ cards_930:
   db_content: "[[*always]]"
 cards_931:
   id: 1801
-  name: lens+*right
-  key: len+*right
-  codename: 
-  left_id: 1766
-  right_id: 260
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 259
-  db_content: '{"right":"_left"}'
-cards_932:
-  id: 1802
-  name: lens+*right+Big Brother
-  key: len+*right+big_brother
-  codename: 
-  left_id: 1801
-  right_id: 1729
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_933:
-  id: 1803
-  name: lens+*right+Big Brother+*follow
-  key: len+*right+big_brother+*follow
-  codename: 
-  left_id: 1802
-  right_id: 1261
-  current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 47
-  db_content: "[[*always]]"
-cards_934:
-  id: 1804
   name: Optic+tint
   key: optic+tint
   codename: 
-  left_id: 1760
-  right_id: 1774
+  left_id: 1757
+  right_id: 1771
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33387,12 +33327,12 @@ cards_934:
   trash: false
   type_id: 3
   db_content: ''
-cards_935:
-  id: 1805
+cards_932:
+  id: 1802
   name: Optic+tint+*type plus right
   key: optic+tint+*type_plu_right
   codename: 
-  left_id: 1804
+  left_id: 1801
   right_id: 262
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33405,13 +33345,13 @@ cards_935:
   trash: false
   type_id: 259
   db_content: '{"left":{"type":"_LL"}, "right":"_LR"}'
-cards_936:
-  id: 1806
+cards_933:
+  id: 1803
   name: Optic+tint+*type plus right+Big Brother
   key: optic+tint+*type_plu_right+big_brother
   codename: 
-  left_id: 1805
-  right_id: 1729
+  left_id: 1802
+  right_id: 1726
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33423,12 +33363,12 @@ cards_936:
   trash: false
   type_id: 3
   db_content: ''
-cards_937:
-  id: 1807
+cards_934:
+  id: 1804
   name: Optic+tint+*type plus right+Big Brother+*follow
   key: optic+tint+*type_plu_right+big_brother+*follow
   codename: 
-  left_id: 1806
+  left_id: 1803
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33441,13 +33381,13 @@ cards_937:
   trash: false
   type_id: 47
   db_content: "[[*always]]"
-cards_938:
-  id: 1808
+cards_935:
+  id: 1805
   name: "*all+Big Brother"
   key: "*all+big_brother"
   codename: 
   left_id: 274
-  right_id: 1729
+  right_id: 1726
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33459,12 +33399,12 @@ cards_938:
   trash: false
   type_id: 3
   db_content: ''
-cards_939:
-  id: 1809
+cards_936:
+  id: 1806
   name: "*all+Big Brother+*follow"
   key: "*all+big_brother+*follow"
   codename: 
-  left_id: 1808
+  left_id: 1805
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33479,13 +33419,13 @@ cards_939:
   db_content: |-
     [[*created]]
     [[*edited]]
-cards_940:
-  id: 1810
+cards_937:
+  id: 1807
   name: Optic+*type+Optic fan
   key: optic+*type+optic_fan
   codename: 
-  left_id: 1789
-  right_id: 1736
+  left_id: 1786
+  right_id: 1733
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33497,12 +33437,12 @@ cards_940:
   trash: false
   type_id: 3
   db_content: ''
-cards_941:
-  id: 1811
+cards_938:
+  id: 1808
   name: Optic+*type+Optic fan+*follow
   key: optic+*type+optic_fan+*follow
   codename: 
-  left_id: 1810
+  left_id: 1807
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33515,13 +33455,13 @@ cards_941:
   trash: false
   type_id: 47
   db_content: "[[*always]]"
-cards_942:
-  id: 1812
+cards_939:
+  id: 1809
   name: Sunglasses+*self+Sunglasses fan
   key: sunglass+*self+sunglass_fan
   codename: 
-  left_id: 1772
-  right_id: 1743
+  left_id: 1769
+  right_id: 1740
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
@@ -33533,12 +33473,12 @@ cards_942:
   trash: false
   type_id: 3
   db_content: ''
-cards_943:
-  id: 1813
+cards_940:
+  id: 1810
   name: Sunglasses+*self+Sunglasses fan+*follow
   key: sunglass+*self+sunglass_fan+*follow
   codename: 
-  left_id: 1812
+  left_id: 1809
   right_id: 1261
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
@@ -33551,16 +33491,72 @@ cards_943:
   trash: false
   type_id: 47
   db_content: "[[*always]]"
-cards_944:
-  id: 1814
+cards_941:
+  id: 1811
   name: "*all+Narcissist"
   key: "*all+narcissist"
   codename: 
   left_id: 274
-  right_id: 1750
+  right_id: 1747
   current_revision_id: 
   created_at: 2019-12-31 00:00:00.000000000 Z
   updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 3
+  db_content: ''
+cards_942:
+  id: 1812
+  name: "*all+Narcissist+*follow"
+  key: "*all+narcissist+*follow"
+  codename: 
+  left_id: 1811
+  right_id: 1261
+  current_revision_id: 
+  created_at: 2019-12-31 00:00:00.000000000 Z
+  updated_at: 2019-12-31 00:00:00.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 47
+  db_content: |-
+    [[*created]]
+    [[*edited]]
+cards_943:
+  id: 1813
+  name: Cardtype E+*type
+  key: cardtype_e+*type
+  codename: 
+  left_id: 1685
+  right_id: 266
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
+  creator_id: 1
+  updater_id: 1
+  read_rule_class: "*all plus"
+  read_rule_id: 500
+  references_expired: 
+  trash: false
+  type_id: 259
+  db_content: '{"type":"_left"}'
+cards_944:
+  id: 1814
+  name: Cardtype E+*type+*default
+  key: cardtype_e+*type+*default
+  codename: 
+  left_id: 1813
+  right_id: 318
+  current_revision_id: 
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -33571,34 +33567,33 @@ cards_944:
   db_content: ''
 cards_945:
   id: 1815
-  name: "*all+Narcissist+*follow"
-  key: "*all+narcissist+*follow"
+  name: Fruit
+  key: fruit
   codename: 
-  left_id: 1814
-  right_id: 1261
+  left_id: 
+  right_id: 
   current_revision_id: 
-  created_at: 2019-12-31 00:00:00.000000000 Z
-  updated_at: 2019-12-31 00:00:00.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 47
-  db_content: |-
-    [[*created]]
-    [[*edited]]
+  type_id: 5
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_946:
   id: 1816
-  name: Cardtype E+*type
-  key: cardtype_e+*type
+  name: Fruit+*type
+  key: fruit+*type
   codename: 
-  left_id: 1688
+  left_id: 1815
   right_id: 266
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -33609,69 +33604,14 @@ cards_946:
   db_content: '{"type":"_left"}'
 cards_947:
   id: 1817
-  name: Cardtype E+*type+*default
-  key: cardtype_e+*type+*default
-  codename: 
-  left_id: 1816
-  right_id: 318
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: ''
-cards_948:
-  id: 1818
-  name: Fruit
-  key: fruit
-  codename: 
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-cards_949:
-  id: 1819
-  name: Fruit+*type
-  key: fruit+*type
-  codename: 
-  left_id: 1818
-  right_id: 266
-  current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 259
-  db_content: '{"type":"_left"}'
-cards_950:
-  id: 1820
   name: Fruit+*type+*create
   key: fruit+*type+*create
   codename: 
-  left_id: 1819
+  left_id: 1816
   right_id: 478
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -33680,16 +33620,16 @@ cards_950:
   trash: false
   type_id: 47
   db_content: "[[Anyone]]"
-cards_951:
-  id: 1821
+cards_948:
+  id: 1818
   name: Fruit+*type+*read
   key: fruit+*type+*read
   codename: 
-  left_id: 1819
+  left_id: 1816
   right_id: 479
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all plus"
@@ -33698,16 +33638,16 @@ cards_951:
   trash: false
   type_id: 47
   db_content: "[[Administrator]]"
-cards_952:
-  id: 1822
+cards_949:
+  id: 1819
   name: "*write"
   key: "*write"
   codename: write
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -33716,16 +33656,16 @@ cards_952:
   trash: false
   type_id: 3
   db_content: ''
-cards_953:
-  id: 1823
+cards_950:
+  id: 1820
   name: OnneHeading
   key: onne_heading
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -33734,16 +33674,16 @@ cards_953:
   trash: false
   type_id: 3
   db_content: "<h1>This is one heading</h1>\r\n<p>and some text</p>"
-cards_954:
-  id: 1824
+cards_951:
+  id: 1821
   name: TwwoHeading
   key: twwo_heading
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -33753,16 +33693,16 @@ cards_954:
   type_id: 3
   db_content: "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n<h2>And a Subheading</h2>\r\n<p>and
     more text</p>"
-cards_955:
-  id: 1825
+cards_952:
+  id: 1822
   name: ThreeHeading
   key: three_heading
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
@@ -33772,16 +33712,16 @@ cards_955:
   type_id: 3
   db_content: "<h1>A Heading</h1>\r\n<p>and text</p>\r\n<h2>And Subhead</h2>\r\n<p>text</p>\r\n<h1>And
     another top Heading</h1>"
-cards_956:
-  id: 1826
+cards_953:
+  id: 1823
   name: First
   key: first
   codename: 
   left_id: 
   right_id: 
   current_revision_id: 
-  created_at: 2016-06-05 21:17:35.000000000 Z
-  updated_at: 2016-06-05 21:17:35.000000000 Z
+  created_at: 2016-08-02 17:26:32.000000000 Z
+  updated_at: 2016-08-02 17:26:32.000000000 Z
   creator_id: 1
   updater_id: 1
   read_rule_class: "*all"
