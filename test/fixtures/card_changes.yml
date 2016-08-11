@@ -2661,9 +2661,8 @@ card_changes_514:
   id: 772
   card_action_id: 2304
   field: 2
-  value: '{"found_by": "_self", "sort": "content"}
-
-'
+  value: |
+    {"found_by": "_self", "sort": "content"}
 card_changes_515:
   id: 773
   card_action_id: 2304
@@ -2703,9 +2702,8 @@ card_changes_522:
   id: 780
   card_action_id: 2306
   field: 2
-  value: '{"found_by": "_self", "dir": "desc"}
-
-'
+  value: |
+    {"found_by": "_self", "dir": "desc"}
 card_changes_523:
   id: 781
   card_action_id: 2306
@@ -7715,9 +7713,8 @@ card_changes_1478:
   id: 2339
   card_action_id: 5466
   field: 2
-  value: '{"found_by": "_left", "sort": "name"}
-
-'
+  value: |
+    {"found_by": "_left", "sort": "name"}
 card_changes_1479:
   id: 2342
   card_action_id: 5469
@@ -10055,7 +10052,8 @@ card_changes_1893:
   id: 2841
   card_action_id: 5952
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1894:
   id: 2842
   card_action_id: 5952
@@ -10095,7 +10093,8 @@ card_changes_1901:
   id: 2849
   card_action_id: 5954
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1902:
   id: 2850
   card_action_id: 5954
@@ -10115,7 +10114,8 @@ card_changes_1905:
   id: 2853
   card_action_id: 5955
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1906:
   id: 2854
   card_action_id: 5955
@@ -10155,7 +10155,8 @@ card_changes_1913:
   id: 2861
   card_action_id: 5957
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1914:
   id: 2862
   card_action_id: 5957
@@ -10195,7 +10196,8 @@ card_changes_1921:
   id: 2869
   card_action_id: 5959
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1922:
   id: 2870
   card_action_id: 5959
@@ -10235,7 +10237,8 @@ card_changes_1929:
   id: 2877
   card_action_id: 5961
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1930:
   id: 2878
   card_action_id: 5961
@@ -10255,7 +10258,8 @@ card_changes_1933:
   id: 2881
   card_action_id: 5962
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1934:
   id: 2882
   card_action_id: 5962
@@ -10295,7 +10299,8 @@ card_changes_1941:
   id: 2889
   card_action_id: 5964
   field: 2
-  value: "[[Anyone]]\n"
+  value: |
+    [[Anyone]]
 card_changes_1942:
   id: 2890
   card_action_id: 5964
@@ -45567,889 +45572,889 @@ card_changes_5564:
   value: f
 card_changes_5565:
   id: 7006
-  card_action_id: 8049
-  field: 3
-  value: t
+  card_action_id: 8047
+  field: 0
+  value: "*debug"
 card_changes_5566:
   id: 7007
-  card_action_id: 8048
-  field: 3
-  value: t
+  card_action_id: 8047
+  field: 1
+  value: '3'
 card_changes_5567:
   id: 7008
-  card_action_id: 8050
-  field: 3
-  value: t
+  card_action_id: 8047
+  field: 2
+  value: ''
 card_changes_5568:
   id: 7009
-  card_action_id: 8052
-  field: 3
-  value: t
-card_changes_5569:
-  id: 7010
-  card_action_id: 8053
-  field: 3
-  value: t
-card_changes_5570:
-  id: 7011
-  card_action_id: 8054
-  field: 3
-  value: t
-card_changes_5571:
-  id: 7012
-  card_action_id: 8055
-  field: 3
-  value: t
-card_changes_5572:
-  id: 7013
-  card_action_id: 8051
-  field: 3
-  value: t
-card_changes_5573:
-  id: 7014
-  card_action_id: 8056
-  field: 3
-  value: t
-card_changes_5574:
-  id: 7015
   card_action_id: 8047
   field: 3
-  value: t
+  value: f
+card_changes_5569:
+  id: 7010
+  card_action_id: 8049
+  field: 0
+  value: "*debug+*right"
+card_changes_5570:
+  id: 7011
+  card_action_id: 8049
+  field: 1
+  value: '259'
+card_changes_5571:
+  id: 7012
+  card_action_id: 8049
+  field: 2
+  value: '{"right":"_left"}'
+card_changes_5572:
+  id: 7013
+  card_action_id: 8049
+  field: 3
+  value: f
+card_changes_5573:
+  id: 7014
+  card_action_id: 8048
+  field: 0
+  value: "*debug+*right+*read"
+card_changes_5574:
+  id: 7015
+  card_action_id: 8048
+  field: 1
+  value: '47'
 card_changes_5575:
   id: 7016
-  card_action_id: 8059
-  field: 3
-  value: t
+  card_action_id: 8048
+  field: 2
+  value: "[[Administrator]]"
 card_changes_5576:
   id: 7017
-  card_action_id: 8058
+  card_action_id: 8048
   field: 3
-  value: t
+  value: f
 card_changes_5577:
   id: 7018
-  card_action_id: 8061
+  card_action_id: 8052
   field: 3
   value: t
 card_changes_5578:
   id: 7019
-  card_action_id: 8060
+  card_action_id: 8051
   field: 3
   value: t
 card_changes_5579:
   id: 7020
-  card_action_id: 8063
+  card_action_id: 8053
   field: 3
   value: t
 card_changes_5580:
   id: 7021
-  card_action_id: 8062
+  card_action_id: 8055
   field: 3
   value: t
 card_changes_5581:
   id: 7022
-  card_action_id: 8065
+  card_action_id: 8056
   field: 3
   value: t
 card_changes_5582:
   id: 7023
-  card_action_id: 8064
+  card_action_id: 8057
   field: 3
   value: t
 card_changes_5583:
   id: 7024
-  card_action_id: 8067
+  card_action_id: 8058
   field: 3
   value: t
 card_changes_5584:
   id: 7025
-  card_action_id: 8066
+  card_action_id: 8054
   field: 3
   value: t
 card_changes_5585:
   id: 7026
-  card_action_id: 8069
+  card_action_id: 8059
   field: 3
   value: t
 card_changes_5586:
   id: 7027
-  card_action_id: 8068
+  card_action_id: 8050
   field: 3
   value: t
 card_changes_5587:
   id: 7028
-  card_action_id: 8071
+  card_action_id: 8062
   field: 3
   value: t
 card_changes_5588:
   id: 7029
-  card_action_id: 8070
+  card_action_id: 8061
   field: 3
   value: t
 card_changes_5589:
   id: 7030
-  card_action_id: 8073
+  card_action_id: 8064
   field: 3
   value: t
 card_changes_5590:
   id: 7031
-  card_action_id: 8072
+  card_action_id: 8063
   field: 3
   value: t
 card_changes_5591:
   id: 7032
-  card_action_id: 8075
+  card_action_id: 8066
   field: 3
   value: t
 card_changes_5592:
   id: 7033
-  card_action_id: 8074
+  card_action_id: 8065
   field: 3
   value: t
 card_changes_5593:
   id: 7034
-  card_action_id: 8077
+  card_action_id: 8068
   field: 3
   value: t
 card_changes_5594:
   id: 7035
-  card_action_id: 8076
+  card_action_id: 8067
   field: 3
   value: t
 card_changes_5595:
   id: 7036
-  card_action_id: 8079
+  card_action_id: 8070
   field: 3
   value: t
 card_changes_5596:
   id: 7037
-  card_action_id: 8078
+  card_action_id: 8069
   field: 3
   value: t
 card_changes_5597:
   id: 7038
-  card_action_id: 8081
+  card_action_id: 8072
   field: 3
   value: t
 card_changes_5598:
   id: 7039
-  card_action_id: 8080
+  card_action_id: 8071
   field: 3
   value: t
 card_changes_5599:
   id: 7040
-  card_action_id: 8083
+  card_action_id: 8074
   field: 3
   value: t
 card_changes_5600:
   id: 7041
-  card_action_id: 8082
+  card_action_id: 8073
   field: 3
   value: t
 card_changes_5601:
   id: 7042
-  card_action_id: 8085
+  card_action_id: 8076
   field: 3
   value: t
 card_changes_5602:
   id: 7043
-  card_action_id: 8084
+  card_action_id: 8075
   field: 3
   value: t
 card_changes_5603:
   id: 7044
-  card_action_id: 8086
+  card_action_id: 8078
   field: 3
   value: t
 card_changes_5604:
   id: 7045
-  card_action_id: 8088
+  card_action_id: 8077
   field: 3
   value: t
 card_changes_5605:
   id: 7046
-  card_action_id: 8089
+  card_action_id: 8080
   field: 3
   value: t
 card_changes_5606:
   id: 7047
-  card_action_id: 8090
+  card_action_id: 8079
   field: 3
   value: t
 card_changes_5607:
   id: 7048
-  card_action_id: 8091
+  card_action_id: 8082
   field: 3
   value: t
 card_changes_5608:
   id: 7049
-  card_action_id: 8087
+  card_action_id: 8081
   field: 3
   value: t
 card_changes_5609:
   id: 7050
-  card_action_id: 8092
+  card_action_id: 8084
   field: 3
   value: t
 card_changes_5610:
   id: 7051
-  card_action_id: 8057
+  card_action_id: 8083
   field: 3
   value: t
 card_changes_5611:
   id: 7052
-  card_action_id: 8095
+  card_action_id: 8086
   field: 3
   value: t
 card_changes_5612:
   id: 7053
-  card_action_id: 8096
+  card_action_id: 8085
   field: 3
   value: t
 card_changes_5613:
   id: 7054
-  card_action_id: 8097
+  card_action_id: 8088
   field: 3
   value: t
 card_changes_5614:
   id: 7055
-  card_action_id: 8098
+  card_action_id: 8087
   field: 3
   value: t
 card_changes_5615:
   id: 7056
-  card_action_id: 8094
+  card_action_id: 8089
   field: 3
   value: t
 card_changes_5616:
   id: 7057
-  card_action_id: 8099
+  card_action_id: 8091
   field: 3
   value: t
 card_changes_5617:
   id: 7058
-  card_action_id: 8093
+  card_action_id: 8092
   field: 3
   value: t
 card_changes_5618:
   id: 7059
-  card_action_id: 8102
+  card_action_id: 8093
   field: 3
   value: t
 card_changes_5619:
   id: 7060
-  card_action_id: 8103
+  card_action_id: 8094
   field: 3
   value: t
 card_changes_5620:
   id: 7061
-  card_action_id: 8104
+  card_action_id: 8090
   field: 3
   value: t
 card_changes_5621:
   id: 7062
-  card_action_id: 8101
+  card_action_id: 8095
   field: 3
   value: t
 card_changes_5622:
   id: 7063
-  card_action_id: 8100
+  card_action_id: 8060
   field: 3
   value: t
 card_changes_5623:
   id: 7064
-  card_action_id: 8107
+  card_action_id: 8098
   field: 3
   value: t
 card_changes_5624:
   id: 7065
-  card_action_id: 8108
+  card_action_id: 8099
   field: 3
   value: t
 card_changes_5625:
   id: 7066
-  card_action_id: 8109
+  card_action_id: 8100
   field: 3
   value: t
 card_changes_5626:
   id: 7067
-  card_action_id: 8110
+  card_action_id: 8101
   field: 3
   value: t
 card_changes_5627:
   id: 7068
-  card_action_id: 8106
+  card_action_id: 8097
   field: 3
   value: t
 card_changes_5628:
   id: 7069
-  card_action_id: 8105
+  card_action_id: 8102
   field: 3
   value: t
 card_changes_5629:
   id: 7070
-  card_action_id: 8111
+  card_action_id: 8096
   field: 3
   value: t
 card_changes_5630:
   id: 7071
-  card_action_id: 8112
+  card_action_id: 8105
   field: 3
   value: t
 card_changes_5631:
   id: 7072
-  card_action_id: 8113
+  card_action_id: 8106
   field: 3
   value: t
 card_changes_5632:
   id: 7073
-  card_action_id: 8114
+  card_action_id: 8107
   field: 3
   value: t
 card_changes_5633:
   id: 7074
-  card_action_id: 8115
+  card_action_id: 8104
   field: 3
   value: t
 card_changes_5634:
   id: 7075
-  card_action_id: 8116
+  card_action_id: 8103
   field: 3
   value: t
 card_changes_5635:
   id: 7076
-  card_action_id: 8117
+  card_action_id: 8110
   field: 3
   value: t
 card_changes_5636:
   id: 7077
-  card_action_id: 8118
+  card_action_id: 8111
   field: 3
   value: t
 card_changes_5637:
   id: 7078
-  card_action_id: 8119
+  card_action_id: 8112
   field: 3
   value: t
 card_changes_5638:
   id: 7079
-  card_action_id: 8120
+  card_action_id: 8113
   field: 3
   value: t
 card_changes_5639:
   id: 7080
-  card_action_id: 8121
+  card_action_id: 8109
   field: 3
   value: t
 card_changes_5640:
   id: 7081
-  card_action_id: 8122
+  card_action_id: 8108
   field: 3
   value: t
 card_changes_5641:
   id: 7082
-  card_action_id: 8123
+  card_action_id: 8114
   field: 3
   value: t
 card_changes_5642:
   id: 7083
-  card_action_id: 8124
+  card_action_id: 8115
   field: 3
   value: t
 card_changes_5643:
   id: 7084
-  card_action_id: 8125
+  card_action_id: 8116
   field: 3
   value: t
 card_changes_5644:
   id: 7085
-  card_action_id: 8126
+  card_action_id: 8117
   field: 3
   value: t
 card_changes_5645:
   id: 7086
-  card_action_id: 8127
+  card_action_id: 8118
   field: 3
   value: t
 card_changes_5646:
   id: 7087
-  card_action_id: 8128
+  card_action_id: 8119
   field: 3
   value: t
 card_changes_5647:
   id: 7088
-  card_action_id: 8129
+  card_action_id: 8120
   field: 3
   value: t
 card_changes_5648:
   id: 7089
-  card_action_id: 8130
+  card_action_id: 8121
   field: 3
   value: t
 card_changes_5649:
   id: 7090
-  card_action_id: 8131
+  card_action_id: 8122
   field: 3
   value: t
 card_changes_5650:
   id: 7091
-  card_action_id: 8132
+  card_action_id: 8123
   field: 3
   value: t
 card_changes_5651:
   id: 7092
-  card_action_id: 8133
+  card_action_id: 8124
   field: 3
   value: t
 card_changes_5652:
   id: 7093
-  card_action_id: 8134
+  card_action_id: 8125
   field: 3
   value: t
 card_changes_5653:
   id: 7094
-  card_action_id: 8135
+  card_action_id: 8126
   field: 3
   value: t
 card_changes_5654:
   id: 7095
-  card_action_id: 8136
+  card_action_id: 8127
   field: 3
   value: t
 card_changes_5655:
   id: 7096
-  card_action_id: 8137
+  card_action_id: 8128
   field: 3
   value: t
 card_changes_5656:
   id: 7097
-  card_action_id: 8138
+  card_action_id: 8129
   field: 3
   value: t
 card_changes_5657:
   id: 7098
-  card_action_id: 8139
+  card_action_id: 8130
   field: 3
   value: t
 card_changes_5658:
   id: 7099
-  card_action_id: 8140
+  card_action_id: 8131
   field: 3
   value: t
 card_changes_5659:
   id: 7100
-  card_action_id: 8141
+  card_action_id: 8132
   field: 3
   value: t
 card_changes_5660:
   id: 7101
-  card_action_id: 8142
+  card_action_id: 8133
   field: 3
   value: t
 card_changes_5661:
   id: 7102
-  card_action_id: 8143
+  card_action_id: 8134
   field: 3
   value: t
 card_changes_5662:
   id: 7103
-  card_action_id: 8144
+  card_action_id: 8135
   field: 3
   value: t
 card_changes_5663:
   id: 7104
-  card_action_id: 8145
+  card_action_id: 8136
   field: 3
   value: t
 card_changes_5664:
   id: 7105
-  card_action_id: 8146
+  card_action_id: 8137
   field: 3
   value: t
 card_changes_5665:
   id: 7106
-  card_action_id: 8147
+  card_action_id: 8138
   field: 3
   value: t
 card_changes_5666:
   id: 7107
-  card_action_id: 8148
+  card_action_id: 8139
   field: 3
   value: t
 card_changes_5667:
   id: 7108
-  card_action_id: 8149
+  card_action_id: 8140
   field: 3
   value: t
 card_changes_5668:
   id: 7109
-  card_action_id: 8150
+  card_action_id: 8141
   field: 3
   value: t
 card_changes_5669:
   id: 7110
-  card_action_id: 8151
+  card_action_id: 8142
   field: 3
   value: t
 card_changes_5670:
   id: 7111
-  card_action_id: 8152
+  card_action_id: 8143
   field: 3
   value: t
 card_changes_5671:
   id: 7112
-  card_action_id: 8153
+  card_action_id: 8144
   field: 3
   value: t
 card_changes_5672:
   id: 7113
-  card_action_id: 8154
+  card_action_id: 8145
   field: 3
   value: t
 card_changes_5673:
   id: 7114
-  card_action_id: 8155
+  card_action_id: 8146
   field: 3
   value: t
 card_changes_5674:
   id: 7115
-  card_action_id: 8156
+  card_action_id: 8147
   field: 3
   value: t
 card_changes_5675:
   id: 7116
-  card_action_id: 8157
+  card_action_id: 8148
   field: 3
   value: t
 card_changes_5676:
   id: 7117
-  card_action_id: 8158
+  card_action_id: 8149
   field: 3
   value: t
 card_changes_5677:
   id: 7118
-  card_action_id: 8159
+  card_action_id: 8150
   field: 3
   value: t
 card_changes_5678:
   id: 7119
-  card_action_id: 8160
+  card_action_id: 8151
   field: 3
   value: t
 card_changes_5679:
   id: 7120
-  card_action_id: 8161
+  card_action_id: 8152
   field: 3
   value: t
 card_changes_5680:
   id: 7121
-  card_action_id: 8162
+  card_action_id: 8153
   field: 3
   value: t
 card_changes_5681:
   id: 7122
-  card_action_id: 8163
+  card_action_id: 8154
   field: 3
   value: t
 card_changes_5682:
   id: 7123
-  card_action_id: 8164
+  card_action_id: 8155
   field: 3
   value: t
 card_changes_5683:
   id: 7124
-  card_action_id: 8165
+  card_action_id: 8156
   field: 3
   value: t
 card_changes_5684:
   id: 7125
-  card_action_id: 8166
+  card_action_id: 8157
   field: 3
   value: t
 card_changes_5685:
   id: 7126
-  card_action_id: 8167
+  card_action_id: 8158
   field: 3
   value: t
 card_changes_5686:
   id: 7127
-  card_action_id: 8168
+  card_action_id: 8159
   field: 3
   value: t
 card_changes_5687:
   id: 7128
-  card_action_id: 8169
+  card_action_id: 8160
   field: 3
   value: t
 card_changes_5688:
   id: 7129
-  card_action_id: 8170
+  card_action_id: 8161
   field: 3
   value: t
 card_changes_5689:
   id: 7130
-  card_action_id: 8171
+  card_action_id: 8162
   field: 3
   value: t
 card_changes_5690:
   id: 7131
-  card_action_id: 8172
+  card_action_id: 8163
   field: 3
   value: t
 card_changes_5691:
   id: 7132
-  card_action_id: 8173
+  card_action_id: 8164
   field: 3
   value: t
 card_changes_5692:
   id: 7133
-  card_action_id: 8174
+  card_action_id: 8165
   field: 3
   value: t
 card_changes_5693:
   id: 7134
-  card_action_id: 8175
+  card_action_id: 8166
   field: 3
   value: t
 card_changes_5694:
   id: 7135
-  card_action_id: 8176
+  card_action_id: 8167
   field: 3
   value: t
 card_changes_5695:
   id: 7136
-  card_action_id: 8177
+  card_action_id: 8168
   field: 3
   value: t
 card_changes_5696:
   id: 7137
-  card_action_id: 8178
+  card_action_id: 8169
   field: 3
   value: t
 card_changes_5697:
   id: 7138
-  card_action_id: 8179
+  card_action_id: 8170
   field: 3
   value: t
 card_changes_5698:
   id: 7139
-  card_action_id: 8180
+  card_action_id: 8171
   field: 3
   value: t
 card_changes_5699:
   id: 7140
-  card_action_id: 8181
+  card_action_id: 8172
   field: 3
   value: t
 card_changes_5700:
   id: 7141
-  card_action_id: 8182
+  card_action_id: 8173
   field: 3
   value: t
 card_changes_5701:
   id: 7142
-  card_action_id: 8183
+  card_action_id: 8174
   field: 3
   value: t
 card_changes_5702:
   id: 7143
-  card_action_id: 8184
+  card_action_id: 8175
   field: 3
   value: t
 card_changes_5703:
   id: 7144
-  card_action_id: 8185
+  card_action_id: 8176
   field: 3
   value: t
 card_changes_5704:
   id: 7145
-  card_action_id: 8186
+  card_action_id: 8177
   field: 3
   value: t
 card_changes_5705:
   id: 7146
-  card_action_id: 8187
+  card_action_id: 8178
   field: 3
   value: t
 card_changes_5706:
   id: 7147
-  card_action_id: 8188
+  card_action_id: 8179
   field: 3
   value: t
 card_changes_5707:
   id: 7148
-  card_action_id: 8189
+  card_action_id: 8180
   field: 3
   value: t
 card_changes_5708:
   id: 7149
-  card_action_id: 8190
+  card_action_id: 8181
   field: 3
   value: t
 card_changes_5709:
   id: 7150
-  card_action_id: 8191
+  card_action_id: 8182
   field: 3
   value: t
 card_changes_5710:
   id: 7151
-  card_action_id: 8192
+  card_action_id: 8183
   field: 3
   value: t
 card_changes_5711:
   id: 7152
-  card_action_id: 8193
+  card_action_id: 8184
   field: 3
   value: t
 card_changes_5712:
   id: 7153
-  card_action_id: 8194
+  card_action_id: 8185
   field: 3
   value: t
 card_changes_5713:
   id: 7154
-  card_action_id: 8195
+  card_action_id: 8186
   field: 3
   value: t
 card_changes_5714:
   id: 7155
-  card_action_id: 8196
+  card_action_id: 8187
   field: 3
   value: t
 card_changes_5715:
   id: 7156
-  card_action_id: 8197
+  card_action_id: 8188
   field: 3
   value: t
 card_changes_5716:
   id: 7157
-  card_action_id: 8198
+  card_action_id: 8189
   field: 3
   value: t
 card_changes_5717:
   id: 7158
-  card_action_id: 8199
+  card_action_id: 8190
   field: 3
   value: t
 card_changes_5718:
   id: 7159
-  card_action_id: 8200
+  card_action_id: 8191
   field: 3
   value: t
 card_changes_5719:
   id: 7160
-  card_action_id: 8201
+  card_action_id: 8192
   field: 3
   value: t
 card_changes_5720:
   id: 7161
-  card_action_id: 8202
+  card_action_id: 8193
   field: 3
   value: t
 card_changes_5721:
   id: 7162
-  card_action_id: 8203
+  card_action_id: 8194
   field: 3
   value: t
 card_changes_5722:
   id: 7163
-  card_action_id: 8204
+  card_action_id: 8195
   field: 3
   value: t
 card_changes_5723:
   id: 7164
-  card_action_id: 8205
+  card_action_id: 8196
   field: 3
   value: t
 card_changes_5724:
   id: 7165
-  card_action_id: 8206
+  card_action_id: 8197
   field: 3
   value: t
 card_changes_5725:
   id: 7166
-  card_action_id: 8207
+  card_action_id: 8198
   field: 3
   value: t
 card_changes_5726:
   id: 7167
-  card_action_id: 8208
+  card_action_id: 8199
   field: 3
   value: t
 card_changes_5727:
   id: 7168
-  card_action_id: 8049
-  field: 0
-  value: Joe User+*account+*password
+  card_action_id: 8200
+  field: 3
+  value: t
 card_changes_5728:
   id: 7169
-  card_action_id: 8049
-  field: 1
-  value: '52'
+  card_action_id: 8201
+  field: 3
+  value: t
 card_changes_5729:
   id: 7170
-  card_action_id: 8049
-  field: 2
-  value: e0b0e3e0075e0f792835c22435bbb6f1911cc85d
+  card_action_id: 8202
+  field: 3
+  value: t
 card_changes_5730:
   id: 7171
-  card_action_id: 8049
+  card_action_id: 8203
   field: 3
-  value: f
+  value: t
 card_changes_5731:
   id: 7172
-  card_action_id: 8050
-  field: 0
-  value: Joe User+*account+*email
+  card_action_id: 8204
+  field: 3
+  value: t
 card_changes_5732:
   id: 7173
-  card_action_id: 8050
-  field: 1
-  value: '52'
+  card_action_id: 8205
+  field: 3
+  value: t
 card_changes_5733:
   id: 7174
-  card_action_id: 8050
-  field: 2
-  value: joe@user.com
+  card_action_id: 8206
+  field: 3
+  value: t
 card_changes_5734:
   id: 7175
-  card_action_id: 8050
+  card_action_id: 8207
   field: 3
-  value: f
+  value: t
 card_changes_5735:
   id: 7176
-  card_action_id: 8051
-  field: 0
-  value: Joe User+*account+*salt
+  card_action_id: 8208
+  field: 3
+  value: t
 card_changes_5736:
   id: 7177
-  card_action_id: 8051
-  field: 1
-  value: '3'
+  card_action_id: 8209
+  field: 3
+  value: t
 card_changes_5737:
   id: 7178
-  card_action_id: 8051
-  field: 2
-  value: 1d93ccbf45532cc5236dc6536961ca9d9c4b4fb8
+  card_action_id: 8210
+  field: 3
+  value: t
 card_changes_5738:
   id: 7179
-  card_action_id: 8051
+  card_action_id: 8211
   field: 3
-  value: f
+  value: t
 card_changes_5739:
   id: 7180
   card_action_id: 8052
   field: 0
-  value: Joe User+*account+*status
+  value: Joe User+*account+*password
 card_changes_5740:
   id: 7181
   card_action_id: 8052
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5741:
   id: 7182
   card_action_id: 8052
   field: 2
-  value: active
+  value: f4e600f42c8ffaa676445dd9f6b7237f5c7025f3
 card_changes_5742:
   id: 7183
   card_action_id: 8052
@@ -46459,17 +46464,17 @@ card_changes_5743:
   id: 7184
   card_action_id: 8053
   field: 0
-  value: Joe User+*account+*token
+  value: Joe User+*account+*email
 card_changes_5744:
   id: 7185
   card_action_id: 8053
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5745:
   id: 7186
   card_action_id: 8053
   field: 2
-  value: 91dc6c031e7fc4e98eafe33fc5f0f0ef84071b72
+  value: joe@user.com
 card_changes_5746:
   id: 7187
   card_action_id: 8053
@@ -46477,59 +46482,59 @@ card_changes_5746:
   value: f
 card_changes_5747:
   id: 7188
-  card_action_id: 8048
+  card_action_id: 8054
   field: 0
-  value: Joe User+*account
+  value: Joe User+*account+*salt
 card_changes_5748:
   id: 7189
-  card_action_id: 8048
+  card_action_id: 8054
   field: 1
   value: '3'
 card_changes_5749:
   id: 7190
-  card_action_id: 8048
+  card_action_id: 8054
   field: 2
-  value: ''
+  value: 6bc2dce4644006d9748ed3a541d293ae52dfda25
 card_changes_5750:
   id: 7191
-  card_action_id: 8048
+  card_action_id: 8054
   field: 3
   value: f
 card_changes_5751:
   id: 7192
-  card_action_id: 8047
+  card_action_id: 8055
   field: 0
-  value: Joe User
+  value: Joe User+*account+*status
 card_changes_5752:
   id: 7193
-  card_action_id: 8047
+  card_action_id: 8055
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5753:
   id: 7194
-  card_action_id: 8047
+  card_action_id: 8055
   field: 2
-  value: I'm number two
+  value: active
 card_changes_5754:
   id: 7195
-  card_action_id: 8047
+  card_action_id: 8055
   field: 3
   value: f
 card_changes_5755:
   id: 7196
   card_action_id: 8056
   field: 0
-  value: Joe Admin+*account+*password
+  value: Joe User+*account+*token
 card_changes_5756:
   id: 7197
   card_action_id: 8056
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5757:
   id: 7198
   card_action_id: 8056
   field: 2
-  value: e0b0e3e0075e0f792835c22435bbb6f1911cc85d
+  value: a3350c063a2c7b20046ec079285cdef74f9d6728
 card_changes_5758:
   id: 7199
   card_action_id: 8056
@@ -46537,59 +46542,59 @@ card_changes_5758:
   value: f
 card_changes_5759:
   id: 7200
-  card_action_id: 8057
+  card_action_id: 8051
   field: 0
-  value: Joe Admin+*account+*email
+  value: Joe User+*account
 card_changes_5760:
   id: 7201
-  card_action_id: 8057
+  card_action_id: 8051
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5761:
   id: 7202
-  card_action_id: 8057
+  card_action_id: 8051
   field: 2
-  value: joe@admin.com
+  value: ''
 card_changes_5762:
   id: 7203
-  card_action_id: 8057
+  card_action_id: 8051
   field: 3
   value: f
 card_changes_5763:
   id: 7204
-  card_action_id: 8058
+  card_action_id: 8050
   field: 0
-  value: Joe Admin+*account+*salt
+  value: Joe User
 card_changes_5764:
   id: 7205
-  card_action_id: 8058
+  card_action_id: 8050
   field: 1
-  value: '3'
+  value: '4'
 card_changes_5765:
   id: 7206
-  card_action_id: 8058
+  card_action_id: 8050
   field: 2
-  value: 1d93ccbf45532cc5236dc6536961ca9d9c4b4fb8
+  value: I'm number two
 card_changes_5766:
   id: 7207
-  card_action_id: 8058
+  card_action_id: 8050
   field: 3
   value: f
 card_changes_5767:
   id: 7208
   card_action_id: 8059
   field: 0
-  value: Joe Admin+*account+*status
+  value: Joe Admin+*account+*password
 card_changes_5768:
   id: 7209
   card_action_id: 8059
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5769:
   id: 7210
   card_action_id: 8059
   field: 2
-  value: active
+  value: f4e600f42c8ffaa676445dd9f6b7237f5c7025f3
 card_changes_5770:
   id: 7211
   card_action_id: 8059
@@ -46599,17 +46604,17 @@ card_changes_5771:
   id: 7212
   card_action_id: 8060
   field: 0
-  value: Joe Admin+*account+*token
+  value: Joe Admin+*account+*email
 card_changes_5772:
   id: 7213
   card_action_id: 8060
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5773:
   id: 7214
   card_action_id: 8060
   field: 2
-  value: a2556638ad5cff0f6b230f9d0d3d8c239bf49159
+  value: joe@admin.com
 card_changes_5774:
   id: 7215
   card_action_id: 8060
@@ -46617,59 +46622,59 @@ card_changes_5774:
   value: f
 card_changes_5775:
   id: 7216
-  card_action_id: 8055
+  card_action_id: 8061
   field: 0
-  value: Joe Admin+*account
+  value: Joe Admin+*account+*salt
 card_changes_5776:
   id: 7217
-  card_action_id: 8055
+  card_action_id: 8061
   field: 1
   value: '3'
 card_changes_5777:
   id: 7218
-  card_action_id: 8055
+  card_action_id: 8061
   field: 2
-  value: ''
+  value: 6bc2dce4644006d9748ed3a541d293ae52dfda25
 card_changes_5778:
   id: 7219
-  card_action_id: 8055
+  card_action_id: 8061
   field: 3
   value: f
 card_changes_5779:
   id: 7220
-  card_action_id: 8054
+  card_action_id: 8062
   field: 0
-  value: Joe Admin
+  value: Joe Admin+*account+*status
 card_changes_5780:
   id: 7221
-  card_action_id: 8054
+  card_action_id: 8062
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5781:
   id: 7222
-  card_action_id: 8054
+  card_action_id: 8062
   field: 2
-  value: I'm number one
+  value: active
 card_changes_5782:
   id: 7223
-  card_action_id: 8054
+  card_action_id: 8062
   field: 3
   value: f
 card_changes_5783:
   id: 7224
   card_action_id: 8063
   field: 0
-  value: Joe Camel+*account+*password
+  value: Joe Admin+*account+*token
 card_changes_5784:
   id: 7225
   card_action_id: 8063
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5785:
   id: 7226
   card_action_id: 8063
   field: 2
-  value: 618bda41b5c460031e89971efa56e2c5e7be443a
+  value: df02890d1f2e2d3b0a6aded42c82b1f8c16ae931
 card_changes_5786:
   id: 7227
   card_action_id: 8063
@@ -46677,59 +46682,59 @@ card_changes_5786:
   value: f
 card_changes_5787:
   id: 7228
-  card_action_id: 8064
+  card_action_id: 8058
   field: 0
-  value: Joe Camel+*account+*email
+  value: Joe Admin+*account
 card_changes_5788:
   id: 7229
-  card_action_id: 8064
+  card_action_id: 8058
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5789:
   id: 7230
-  card_action_id: 8064
+  card_action_id: 8058
   field: 2
-  value: joe@camel.com
+  value: ''
 card_changes_5790:
   id: 7231
-  card_action_id: 8064
+  card_action_id: 8058
   field: 3
   value: f
 card_changes_5791:
   id: 7232
-  card_action_id: 8065
+  card_action_id: 8057
   field: 0
-  value: Joe Camel+*account+*salt
+  value: Joe Admin
 card_changes_5792:
   id: 7233
-  card_action_id: 8065
+  card_action_id: 8057
   field: 1
-  value: '3'
+  value: '4'
 card_changes_5793:
   id: 7234
-  card_action_id: 8065
+  card_action_id: 8057
   field: 2
-  value: 67c6865a045d42f9630f593f352880e05b01e2c9
+  value: I'm number one
 card_changes_5794:
   id: 7235
-  card_action_id: 8065
+  card_action_id: 8057
   field: 3
   value: f
 card_changes_5795:
   id: 7236
   card_action_id: 8066
   field: 0
-  value: Joe Camel+*account+*status
+  value: Joe Camel+*account+*password
 card_changes_5796:
   id: 7237
   card_action_id: 8066
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5797:
   id: 7238
   card_action_id: 8066
   field: 2
-  value: active
+  value: f4e600f42c8ffaa676445dd9f6b7237f5c7025f3
 card_changes_5798:
   id: 7239
   card_action_id: 8066
@@ -46739,17 +46744,17 @@ card_changes_5799:
   id: 7240
   card_action_id: 8067
   field: 0
-  value: Joe Camel+*account+*token
+  value: Joe Camel+*account+*email
 card_changes_5800:
   id: 7241
   card_action_id: 8067
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5801:
   id: 7242
   card_action_id: 8067
   field: 2
-  value: 1f4bd56b6bcf8c07502397cdf5034442b6ccc9fe
+  value: joe@camel.com
 card_changes_5802:
   id: 7243
   card_action_id: 8067
@@ -46757,139 +46762,139 @@ card_changes_5802:
   value: f
 card_changes_5803:
   id: 7244
-  card_action_id: 8062
+  card_action_id: 8068
   field: 0
-  value: Joe Camel+*account
+  value: Joe Camel+*account+*salt
 card_changes_5804:
   id: 7245
-  card_action_id: 8062
+  card_action_id: 8068
   field: 1
   value: '3'
 card_changes_5805:
   id: 7246
-  card_action_id: 8062
+  card_action_id: 8068
   field: 2
-  value: ''
+  value: 6bc2dce4644006d9748ed3a541d293ae52dfda25
 card_changes_5806:
   id: 7247
-  card_action_id: 8062
+  card_action_id: 8068
   field: 3
   value: f
 card_changes_5807:
   id: 7248
-  card_action_id: 8061
+  card_action_id: 8069
   field: 0
-  value: Joe Camel
+  value: Joe Camel+*account+*status
 card_changes_5808:
   id: 7249
-  card_action_id: 8061
+  card_action_id: 8069
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5809:
   id: 7250
-  card_action_id: 8061
+  card_action_id: 8069
   field: 2
-  value: Mr. Buttz
+  value: active
 card_changes_5810:
   id: 7251
-  card_action_id: 8061
+  card_action_id: 8069
   field: 3
   value: f
 card_changes_5811:
   id: 7252
-  card_action_id: 8068
+  card_action_id: 8070
   field: 0
-  value: No Count
+  value: Joe Camel+*account+*token
 card_changes_5812:
   id: 7253
-  card_action_id: 8068
+  card_action_id: 8070
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5813:
   id: 7254
-  card_action_id: 8068
+  card_action_id: 8070
   field: 2
-  value: I got no account
+  value: f22fb686babe3ec3f717d0e66d078433f49b8da1
 card_changes_5814:
   id: 7255
-  card_action_id: 8068
+  card_action_id: 8070
   field: 3
   value: f
 card_changes_5815:
   id: 7256
-  card_action_id: 8071
+  card_action_id: 8065
   field: 0
-  value: Sample User+*account+*password
+  value: Joe Camel+*account
 card_changes_5816:
   id: 7257
-  card_action_id: 8071
+  card_action_id: 8065
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5817:
   id: 7258
-  card_action_id: 8071
+  card_action_id: 8065
   field: 2
-  value: 7215a2488d9b49cb5609e0785f2d12aebf6d0091
+  value: ''
 card_changes_5818:
   id: 7259
-  card_action_id: 8071
+  card_action_id: 8065
   field: 3
   value: f
 card_changes_5819:
   id: 7260
-  card_action_id: 8072
+  card_action_id: 8064
   field: 0
-  value: Sample User+*account+*email
+  value: Joe Camel
 card_changes_5820:
   id: 7261
-  card_action_id: 8072
+  card_action_id: 8064
   field: 1
-  value: '52'
+  value: '4'
 card_changes_5821:
   id: 7262
-  card_action_id: 8072
+  card_action_id: 8064
   field: 2
-  value: sample@user.com
+  value: Mr. Buttz
 card_changes_5822:
   id: 7263
-  card_action_id: 8072
+  card_action_id: 8064
   field: 3
   value: f
 card_changes_5823:
   id: 7264
-  card_action_id: 8073
+  card_action_id: 8071
   field: 0
-  value: Sample User+*account+*salt
+  value: No Count
 card_changes_5824:
   id: 7265
-  card_action_id: 8073
+  card_action_id: 8071
   field: 1
-  value: '3'
+  value: '4'
 card_changes_5825:
   id: 7266
-  card_action_id: 8073
+  card_action_id: 8071
   field: 2
-  value: 67c6865a045d42f9630f593f352880e05b01e2c9
+  value: I got no account
 card_changes_5826:
   id: 7267
-  card_action_id: 8073
+  card_action_id: 8071
   field: 3
   value: f
 card_changes_5827:
   id: 7268
   card_action_id: 8074
   field: 0
-  value: Sample User+*account+*status
+  value: Sample User+*account+*password
 card_changes_5828:
   id: 7269
   card_action_id: 8074
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5829:
   id: 7270
   card_action_id: 8074
   field: 2
-  value: active
+  value: 8bbf784b129c10cbc457619872d38947ea657ab6
 card_changes_5830:
   id: 7271
   card_action_id: 8074
@@ -46899,17 +46904,17 @@ card_changes_5831:
   id: 7272
   card_action_id: 8075
   field: 0
-  value: Sample User+*account+*token
+  value: Sample User+*account+*email
 card_changes_5832:
   id: 7273
   card_action_id: 8075
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5833:
   id: 7274
   card_action_id: 8075
   field: 2
-  value: 971de883910d150bee117211141ea72e73b30ab9
+  value: sample@user.com
 card_changes_5834:
   id: 7275
   card_action_id: 8075
@@ -46917,119 +46922,119 @@ card_changes_5834:
   value: f
 card_changes_5835:
   id: 7276
-  card_action_id: 8070
+  card_action_id: 8076
   field: 0
-  value: Sample User+*account
+  value: Sample User+*account+*salt
 card_changes_5836:
   id: 7277
-  card_action_id: 8070
+  card_action_id: 8076
   field: 1
   value: '3'
 card_changes_5837:
   id: 7278
-  card_action_id: 8070
+  card_action_id: 8076
   field: 2
-  value: ''
+  value: 1a4330e19fecd20e7d2494c0f721e92f625b532f
 card_changes_5838:
   id: 7279
-  card_action_id: 8070
+  card_action_id: 8076
   field: 3
   value: f
 card_changes_5839:
   id: 7280
-  card_action_id: 8069
+  card_action_id: 8077
   field: 0
-  value: Sample User
+  value: Sample User+*account+*status
 card_changes_5840:
   id: 7281
-  card_action_id: 8069
+  card_action_id: 8077
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5841:
   id: 7282
-  card_action_id: 8069
+  card_action_id: 8077
   field: 2
-  value: ''
+  value: active
 card_changes_5842:
   id: 7283
-  card_action_id: 8069
+  card_action_id: 8077
   field: 3
   value: f
 card_changes_5843:
   id: 7284
-  card_action_id: 8076
+  card_action_id: 8078
   field: 0
-  value: Joe Admin+*roles
+  value: Sample User+*account+*token
 card_changes_5844:
   id: 7285
-  card_action_id: 8076
+  card_action_id: 8078
   field: 1
-  value: '47'
+  value: '3'
 card_changes_5845:
   id: 7286
-  card_action_id: 8076
+  card_action_id: 8078
   field: 2
-  value: "[[Administrator]]"
+  value: 7a216adf489c49d1580b2f1b3d1891d431bc3ab4
 card_changes_5846:
   id: 7287
-  card_action_id: 8076
+  card_action_id: 8078
   field: 3
   value: f
 card_changes_5847:
   id: 7288
-  card_action_id: 8077
+  card_action_id: 8073
   field: 0
-  value: signup alert email+*to
+  value: Sample User+*account
 card_changes_5848:
   id: 7289
-  card_action_id: 8077
+  card_action_id: 8073
   field: 1
-  value: '47'
+  value: '3'
 card_changes_5849:
   id: 7290
-  card_action_id: 8077
+  card_action_id: 8073
   field: 2
-  value: "[[signups@wagn.org]]"
+  value: ''
 card_changes_5850:
   id: 7291
-  card_action_id: 8077
+  card_action_id: 8073
   field: 3
   value: f
 card_changes_5851:
   id: 7292
-  card_action_id: 8078
+  card_action_id: 8072
   field: 0
-  value: color
+  value: Sample User
 card_changes_5852:
   id: 7293
-  card_action_id: 8078
+  card_action_id: 8072
   field: 1
-  value: '3'
+  value: '4'
 card_changes_5853:
   id: 7294
-  card_action_id: 8078
+  card_action_id: 8072
   field: 2
   value: ''
 card_changes_5854:
   id: 7295
-  card_action_id: 8078
+  card_action_id: 8072
   field: 3
   value: f
 card_changes_5855:
   id: 7296
   card_action_id: 8079
   field: 0
-  value: Basic Card
+  value: Joe Admin+*roles
 card_changes_5856:
   id: 7297
   card_action_id: 8079
   field: 1
-  value: '3'
+  value: '47'
 card_changes_5857:
   id: 7298
   card_action_id: 8079
   field: 2
-  value: ''
+  value: "[[Administrator]]"
 card_changes_5858:
   id: 7299
   card_action_id: 8079
@@ -47039,17 +47044,17 @@ card_changes_5859:
   id: 7300
   card_action_id: 8080
   field: 0
-  value: Sample Signup
+  value: signup alert email+*to
 card_changes_5860:
   id: 7301
   card_action_id: 8080
   field: 1
-  value: '12'
+  value: '47'
 card_changes_5861:
   id: 7302
   card_action_id: 8080
   field: 2
-  value: ''
+  value: "[[signups@wagn.org]]"
 card_changes_5862:
   id: 7303
   card_action_id: 8080
@@ -47059,7 +47064,7 @@ card_changes_5863:
   id: 7304
   card_action_id: 8081
   field: 0
-  value: Sample Basic
+  value: color
 card_changes_5864:
   id: 7305
   card_action_id: 8081
@@ -47079,12 +47084,12 @@ card_changes_5867:
   id: 7308
   card_action_id: 8082
   field: 0
-  value: Sample CSS
+  value: Basic Card
 card_changes_5868:
   id: 7309
   card_action_id: 8082
   field: 1
-  value: '942'
+  value: '3'
 card_changes_5869:
   id: 7310
   card_action_id: 8082
@@ -47099,17 +47104,17 @@ card_changes_5871:
   id: 7312
   card_action_id: 8083
   field: 0
-  value: Sample CSS+*machine input
+  value: Sample Signup
 card_changes_5872:
   id: 7313
   card_action_id: 8083
   field: 1
-  value: '47'
+  value: '12'
 card_changes_5873:
   id: 7314
   card_action_id: 8083
   field: 2
-  value: "[[Sample CSS]]"
+  value: ''
 card_changes_5874:
   id: 7315
   card_action_id: 8083
@@ -47117,137 +47122,135 @@ card_changes_5874:
   value: f
 card_changes_5875:
   id: 7316
-  card_action_id: 8085
+  card_action_id: 8084
   field: 0
-  value: Sample Cardtype
+  value: Sample Basic
 card_changes_5876:
   id: 7317
-  card_action_id: 8085
+  card_action_id: 8084
   field: 1
-  value: '5'
+  value: '3'
 card_changes_5877:
   id: 7318
-  card_action_id: 8085
+  card_action_id: 8084
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_5878:
   id: 7319
-  card_action_id: 8085
+  card_action_id: 8084
   field: 3
   value: f
 card_changes_5879:
   id: 7320
-  card_action_id: 8086
+  card_action_id: 8085
   field: 0
-  value: Sample CoffeeScript
+  value: Sample CSS
 card_changes_5880:
   id: 7321
-  card_action_id: 8086
+  card_action_id: 8085
   field: 1
-  value: '1033'
+  value: '942'
 card_changes_5881:
   id: 7322
-  card_action_id: 8086
+  card_action_id: 8085
   field: 2
   value: ''
 card_changes_5882:
   id: 7323
-  card_action_id: 8086
+  card_action_id: 8085
   field: 3
   value: f
 card_changes_5883:
   id: 7324
-  card_action_id: 8087
+  card_action_id: 8086
   field: 0
-  value: Sample CoffeeScript+*machine input
+  value: Sample CSS+*machine input
 card_changes_5884:
   id: 7325
-  card_action_id: 8087
+  card_action_id: 8086
   field: 1
   value: '47'
 card_changes_5885:
   id: 7326
-  card_action_id: 8087
+  card_action_id: 8086
   field: 2
-  value: "[[Sample CoffeeScript]]"
+  value: "[[Sample CSS]]"
 card_changes_5886:
   id: 7327
-  card_action_id: 8087
+  card_action_id: 8086
   field: 3
   value: f
 card_changes_5887:
   id: 7328
-  card_action_id: 8089
+  card_action_id: 8088
   field: 0
-  value: Sample Date
+  value: Sample Cardtype
 card_changes_5888:
   id: 7329
-  card_action_id: 8089
+  card_action_id: 8088
   field: 1
-  value: '17'
+  value: '5'
 card_changes_5889:
   id: 7330
-  card_action_id: 8089
+  card_action_id: 8088
   field: 2
-  value: ''
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_5890:
   id: 7331
-  card_action_id: 8089
+  card_action_id: 8088
   field: 3
   value: f
 card_changes_5891:
   id: 7332
-  card_action_id: 8090
+  card_action_id: 8089
   field: 0
-  value: Sample Email template
+  value: Sample CoffeeScript
 card_changes_5892:
   id: 7333
-  card_action_id: 8090
+  card_action_id: 8089
   field: 1
-  value: '1215'
+  value: '1033'
 card_changes_5893:
   id: 7334
-  card_action_id: 8090
+  card_action_id: 8089
   field: 2
-  value: "<p>{{+*from | labeled | link}} {{+*to | labeled | link}} {{+*cc | labeled
-    | link}} {{+*bcc | labeled | link}} {{+*subject | titled}} {{+*html message |
-    titled}} {{+*text message | titled}} {{+*attach | titled}}</p>"
+  value: ''
 card_changes_5894:
   id: 7335
-  card_action_id: 8090
+  card_action_id: 8089
   field: 3
   value: f
 card_changes_5895:
   id: 7336
-  card_action_id: 8091
+  card_action_id: 8090
   field: 0
-  value: Sample HTML
+  value: Sample CoffeeScript+*machine input
 card_changes_5896:
   id: 7337
-  card_action_id: 8091
+  card_action_id: 8090
   field: 1
-  value: '50'
+  value: '47'
 card_changes_5897:
   id: 7338
-  card_action_id: 8091
+  card_action_id: 8090
   field: 2
-  value: ''
+  value: "[[Sample CoffeeScript]]"
 card_changes_5898:
   id: 7339
-  card_action_id: 8091
+  card_action_id: 8090
   field: 3
   value: f
 card_changes_5899:
   id: 7340
   card_action_id: 8092
   field: 0
-  value: Sample JavaScript
+  value: Sample Date
 card_changes_5900:
   id: 7341
   card_action_id: 8092
   field: 1
-  value: '1034'
+  value: '17'
 card_changes_5901:
   id: 7342
   card_action_id: 8092
@@ -47262,17 +47265,19 @@ card_changes_5903:
   id: 7344
   card_action_id: 8093
   field: 0
-  value: Sample JavaScript+*machine input
+  value: Sample Email template
 card_changes_5904:
   id: 7345
   card_action_id: 8093
   field: 1
-  value: '47'
+  value: '1215'
 card_changes_5905:
   id: 7346
   card_action_id: 8093
   field: 2
-  value: "[[Sample JavaScript]]"
+  value: "<p>{{+*from | labeled | link}} {{+*to | labeled | link}} {{+*cc | labeled
+    | link}} {{+*bcc | labeled | link}} {{+*subject | titled}} {{+*html message |
+    titled}} {{+*text message | titled}} {{+*attach | titled}}</p>"
 card_changes_5906:
   id: 7347
   card_action_id: 8093
@@ -47280,74 +47285,74 @@ card_changes_5906:
   value: f
 card_changes_5907:
   id: 7348
-  card_action_id: 8095
+  card_action_id: 8094
   field: 0
-  value: Sample Layout
+  value: Sample HTML
 card_changes_5908:
   id: 7349
-  card_action_id: 8095
+  card_action_id: 8094
   field: 1
-  value: '569'
+  value: '50'
 card_changes_5909:
   id: 7350
-  card_action_id: 8095
+  card_action_id: 8094
   field: 2
   value: ''
 card_changes_5910:
   id: 7351
-  card_action_id: 8095
+  card_action_id: 8094
   field: 3
   value: f
 card_changes_5911:
   id: 7352
-  card_action_id: 8096
+  card_action_id: 8095
   field: 0
-  value: Sample Phrase
+  value: Sample JavaScript
 card_changes_5912:
   id: 7353
-  card_action_id: 8096
+  card_action_id: 8095
   field: 1
-  value: '52'
+  value: '1034'
 card_changes_5913:
   id: 7354
-  card_action_id: 8096
+  card_action_id: 8095
   field: 2
   value: ''
 card_changes_5914:
   id: 7355
-  card_action_id: 8096
+  card_action_id: 8095
   field: 3
   value: f
 card_changes_5915:
   id: 7356
-  card_action_id: 8097
+  card_action_id: 8096
   field: 0
-  value: Sample PlainText
+  value: Sample JavaScript+*machine input
 card_changes_5916:
   id: 7357
-  card_action_id: 8097
+  card_action_id: 8096
   field: 1
-  value: '22'
+  value: '47'
 card_changes_5917:
   id: 7358
-  card_action_id: 8097
+  card_action_id: 8096
   field: 2
-  value: ''
+  value: "[[Sample JavaScript]]"
 card_changes_5918:
   id: 7359
-  card_action_id: 8097
+  card_action_id: 8096
   field: 3
   value: f
 card_changes_5919:
   id: 7360
   card_action_id: 8098
   field: 0
-  value: Sample Pointer
+  value: Sample Layout
 card_changes_5920:
   id: 7361
   card_action_id: 8098
   field: 1
-  value: '47'
+  value: '569'
 card_changes_5921:
   id: 7362
   card_action_id: 8098
@@ -47362,23 +47367,17 @@ card_changes_5923:
   id: 7364
   card_action_id: 8099
   field: 0
-  value: Sample Role
+  value: Sample Phrase
 card_changes_5924:
   id: 7365
   card_action_id: 8099
   field: 1
-  value: '7'
+  value: '52'
 card_changes_5925:
   id: 7366
   card_action_id: 8099
   field: 2
-  value: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
+  value: ''
 card_changes_5926:
   id: 7367
   card_action_id: 8099
@@ -47388,12 +47387,12 @@ card_changes_5927:
   id: 7368
   card_action_id: 8100
   field: 0
-  value: Sample SCSS
+  value: Sample PlainText
 card_changes_5928:
   id: 7369
   card_action_id: 8100
   field: 1
-  value: '943'
+  value: '22'
 card_changes_5929:
   id: 7370
   card_action_id: 8100
@@ -47408,7 +47407,7 @@ card_changes_5931:
   id: 7372
   card_action_id: 8101
   field: 0
-  value: Sample SCSS+*machine input
+  value: Sample Pointer
 card_changes_5932:
   id: 7373
   card_action_id: 8101
@@ -47418,7 +47417,7 @@ card_changes_5933:
   id: 7374
   card_action_id: 8101
   field: 2
-  value: "[[Sample SCSS]]"
+  value: ''
 card_changes_5934:
   id: 7375
   card_action_id: 8101
@@ -47426,74 +47425,80 @@ card_changes_5934:
   value: f
 card_changes_5935:
   id: 7376
-  card_action_id: 8103
+  card_action_id: 8102
   field: 0
-  value: Sample Search
+  value: Sample Role
 card_changes_5936:
   id: 7377
-  card_action_id: 8103
+  card_action_id: 8102
   field: 1
-  value: '30'
+  value: '7'
 card_changes_5937:
   id: 7378
-  card_action_id: 8103
+  card_action_id: 8102
   field: 2
-  value: ''
+  value: |-
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
 card_changes_5938:
   id: 7379
-  card_action_id: 8103
+  card_action_id: 8102
   field: 3
   value: f
 card_changes_5939:
   id: 7380
-  card_action_id: 8104
+  card_action_id: 8103
   field: 0
-  value: Sample Skin
+  value: Sample SCSS
 card_changes_5940:
   id: 7381
-  card_action_id: 8104
+  card_action_id: 8103
   field: 1
-  value: '944'
+  value: '943'
 card_changes_5941:
   id: 7382
-  card_action_id: 8104
+  card_action_id: 8103
   field: 2
   value: ''
 card_changes_5942:
   id: 7383
-  card_action_id: 8104
+  card_action_id: 8103
   field: 3
   value: f
 card_changes_5943:
   id: 7384
-  card_action_id: 8105
+  card_action_id: 8104
   field: 0
-  value: Sample Skin+*machine input
+  value: Sample SCSS+*machine input
 card_changes_5944:
   id: 7385
-  card_action_id: 8105
+  card_action_id: 8104
   field: 1
   value: '47'
 card_changes_5945:
   id: 7386
-  card_action_id: 8105
+  card_action_id: 8104
   field: 2
-  value: ''
+  value: "[[Sample SCSS]]"
 card_changes_5946:
   id: 7387
-  card_action_id: 8105
+  card_action_id: 8104
   field: 3
   value: f
 card_changes_5947:
   id: 7388
   card_action_id: 8106
   field: 0
-  value: Sample Toggle
+  value: Sample Search
 card_changes_5948:
   id: 7389
   card_action_id: 8106
   field: 1
-  value: '51'
+  value: '30'
 card_changes_5949:
   id: 7390
   card_action_id: 8106
@@ -47508,12 +47513,12 @@ card_changes_5951:
   id: 7392
   card_action_id: 8107
   field: 0
-  value: Sample URI
+  value: Sample Skin
 card_changes_5952:
   id: 7393
   card_action_id: 8107
   field: 1
-  value: '1259'
+  value: '944'
 card_changes_5953:
   id: 7394
   card_action_id: 8107
@@ -47526,79 +47531,79 @@ card_changes_5954:
   value: f
 card_changes_5955:
   id: 7396
-  card_action_id: 8110
+  card_action_id: 8108
   field: 0
-  value: u1+*account+*password
+  value: Sample Skin+*machine input
 card_changes_5956:
   id: 7397
-  card_action_id: 8110
+  card_action_id: 8108
   field: 1
-  value: '52'
+  value: '47'
 card_changes_5957:
   id: 7398
-  card_action_id: 8110
+  card_action_id: 8108
   field: 2
-  value: 342d910721fe4950e136d4a68a640bb414e5e34c
+  value: ''
 card_changes_5958:
   id: 7399
-  card_action_id: 8110
+  card_action_id: 8108
   field: 3
   value: f
 card_changes_5959:
   id: 7400
-  card_action_id: 8111
+  card_action_id: 8109
   field: 0
-  value: u1+*account+*email
+  value: Sample Toggle
 card_changes_5960:
   id: 7401
-  card_action_id: 8111
+  card_action_id: 8109
   field: 1
-  value: '52'
+  value: '51'
 card_changes_5961:
   id: 7402
-  card_action_id: 8111
+  card_action_id: 8109
   field: 2
-  value: u1@user.com
+  value: ''
 card_changes_5962:
   id: 7403
-  card_action_id: 8111
+  card_action_id: 8109
   field: 3
   value: f
 card_changes_5963:
   id: 7404
-  card_action_id: 8112
+  card_action_id: 8110
   field: 0
-  value: u1+*account+*salt
+  value: Sample URI
 card_changes_5964:
   id: 7405
-  card_action_id: 8112
+  card_action_id: 8110
   field: 1
-  value: '3'
+  value: '1259'
 card_changes_5965:
   id: 7406
-  card_action_id: 8112
+  card_action_id: 8110
   field: 2
-  value: 8e76a6e5bb6de8aab292d1361f9e8bef48f79d1f
+  value: ''
 card_changes_5966:
   id: 7407
-  card_action_id: 8112
+  card_action_id: 8110
   field: 3
   value: f
 card_changes_5967:
   id: 7408
   card_action_id: 8113
   field: 0
-  value: u1+*account+*status
+  value: u1+*account+*password
 card_changes_5968:
   id: 7409
   card_action_id: 8113
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5969:
   id: 7410
   card_action_id: 8113
   field: 2
-  value: pending
+  value: 9a85cc9ccc34d198e54f4ddb87c77dcb79f0618e
 card_changes_5970:
   id: 7411
   card_action_id: 8113
@@ -47608,17 +47613,17 @@ card_changes_5971:
   id: 7412
   card_action_id: 8114
   field: 0
-  value: u1+*account+*token
+  value: u1+*account+*email
 card_changes_5972:
   id: 7413
   card_action_id: 8114
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5973:
   id: 7414
   card_action_id: 8114
   field: 2
-  value: b21a4653b0ae5a9b30b068d2d6ab2a97b185166b
+  value: u1@user.com
 card_changes_5974:
   id: 7415
   card_action_id: 8114
@@ -47626,59 +47631,59 @@ card_changes_5974:
   value: f
 card_changes_5975:
   id: 7416
-  card_action_id: 8109
+  card_action_id: 8115
   field: 0
-  value: u1+*account
+  value: u1+*account+*salt
 card_changes_5976:
   id: 7417
-  card_action_id: 8109
+  card_action_id: 8115
   field: 1
   value: '3'
 card_changes_5977:
   id: 7418
-  card_action_id: 8109
+  card_action_id: 8115
   field: 2
-  value: ''
+  value: 99fb0c07240eed44fae7067b4378c49def7f4f27
 card_changes_5978:
   id: 7419
-  card_action_id: 8109
+  card_action_id: 8115
   field: 3
   value: f
 card_changes_5979:
   id: 7420
-  card_action_id: 8108
+  card_action_id: 8116
   field: 0
-  value: u1
+  value: u1+*account+*status
 card_changes_5980:
   id: 7421
-  card_action_id: 8108
+  card_action_id: 8116
   field: 1
-  value: '4'
+  value: '3'
 card_changes_5981:
   id: 7422
-  card_action_id: 8108
+  card_action_id: 8116
   field: 2
-  value: ''
+  value: pending
 card_changes_5982:
   id: 7423
-  card_action_id: 8108
+  card_action_id: 8116
   field: 3
   value: f
 card_changes_5983:
   id: 7424
   card_action_id: 8117
   field: 0
-  value: u2+*account+*password
+  value: u1+*account+*token
 card_changes_5984:
   id: 7425
   card_action_id: 8117
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5985:
   id: 7426
   card_action_id: 8117
   field: 2
-  value: 0fac027820561cfd9bb84d795880dbca081fd8a3
+  value: 558bcbc319635b1cef059e7b99387135136467ec
 card_changes_5986:
   id: 7427
   card_action_id: 8117
@@ -47686,59 +47691,59 @@ card_changes_5986:
   value: f
 card_changes_5987:
   id: 7428
-  card_action_id: 8118
+  card_action_id: 8112
   field: 0
-  value: u2+*account+*email
+  value: u1+*account
 card_changes_5988:
   id: 7429
-  card_action_id: 8118
+  card_action_id: 8112
   field: 1
-  value: '52'
+  value: '3'
 card_changes_5989:
   id: 7430
-  card_action_id: 8118
+  card_action_id: 8112
   field: 2
-  value: u2@user.com
+  value: ''
 card_changes_5990:
   id: 7431
-  card_action_id: 8118
+  card_action_id: 8112
   field: 3
   value: f
 card_changes_5991:
   id: 7432
-  card_action_id: 8119
+  card_action_id: 8111
   field: 0
-  value: u2+*account+*salt
+  value: u1
 card_changes_5992:
   id: 7433
-  card_action_id: 8119
+  card_action_id: 8111
   field: 1
-  value: '3'
+  value: '4'
 card_changes_5993:
   id: 7434
-  card_action_id: 8119
+  card_action_id: 8111
   field: 2
-  value: 8e76a6e5bb6de8aab292d1361f9e8bef48f79d1f
+  value: ''
 card_changes_5994:
   id: 7435
-  card_action_id: 8119
+  card_action_id: 8111
   field: 3
   value: f
 card_changes_5995:
   id: 7436
   card_action_id: 8120
   field: 0
-  value: u2+*account+*status
+  value: u2+*account+*password
 card_changes_5996:
   id: 7437
   card_action_id: 8120
   field: 1
-  value: '3'
+  value: '52'
 card_changes_5997:
   id: 7438
   card_action_id: 8120
   field: 2
-  value: pending
+  value: f6e13c40deb50824a3d7e10f0b669f9a14f422af
 card_changes_5998:
   id: 7439
   card_action_id: 8120
@@ -47748,17 +47753,17 @@ card_changes_5999:
   id: 7440
   card_action_id: 8121
   field: 0
-  value: u2+*account+*token
+  value: u2+*account+*email
 card_changes_6000:
   id: 7441
   card_action_id: 8121
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6001:
   id: 7442
   card_action_id: 8121
   field: 2
-  value: fc733cf28d7589e121411d4e00f77432d45fc196
+  value: u2@user.com
 card_changes_6002:
   id: 7443
   card_action_id: 8121
@@ -47766,59 +47771,59 @@ card_changes_6002:
   value: f
 card_changes_6003:
   id: 7444
-  card_action_id: 8116
+  card_action_id: 8122
   field: 0
-  value: u2+*account
+  value: u2+*account+*salt
 card_changes_6004:
   id: 7445
-  card_action_id: 8116
+  card_action_id: 8122
   field: 1
   value: '3'
 card_changes_6005:
   id: 7446
-  card_action_id: 8116
+  card_action_id: 8122
   field: 2
-  value: ''
+  value: 99fb0c07240eed44fae7067b4378c49def7f4f27
 card_changes_6006:
   id: 7447
-  card_action_id: 8116
+  card_action_id: 8122
   field: 3
   value: f
 card_changes_6007:
   id: 7448
-  card_action_id: 8115
+  card_action_id: 8123
   field: 0
-  value: u2
+  value: u2+*account+*status
 card_changes_6008:
   id: 7449
-  card_action_id: 8115
+  card_action_id: 8123
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6009:
   id: 7450
-  card_action_id: 8115
+  card_action_id: 8123
   field: 2
-  value: ''
+  value: pending
 card_changes_6010:
   id: 7451
-  card_action_id: 8115
+  card_action_id: 8123
   field: 3
   value: f
 card_changes_6011:
   id: 7452
   card_action_id: 8124
   field: 0
-  value: u3+*account+*password
+  value: u2+*account+*token
 card_changes_6012:
   id: 7453
   card_action_id: 8124
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6013:
   id: 7454
   card_action_id: 8124
   field: 2
-  value: 8cf185b87f505683ac1d69981f1050d5dca91db0
+  value: 5b8a9ded9f279fbf0eab7000da8c99f686a7ad48
 card_changes_6014:
   id: 7455
   card_action_id: 8124
@@ -47826,59 +47831,59 @@ card_changes_6014:
   value: f
 card_changes_6015:
   id: 7456
-  card_action_id: 8125
+  card_action_id: 8119
   field: 0
-  value: u3+*account+*email
+  value: u2+*account
 card_changes_6016:
   id: 7457
-  card_action_id: 8125
+  card_action_id: 8119
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6017:
   id: 7458
-  card_action_id: 8125
+  card_action_id: 8119
   field: 2
-  value: u3@user.com
+  value: ''
 card_changes_6018:
   id: 7459
-  card_action_id: 8125
+  card_action_id: 8119
   field: 3
   value: f
 card_changes_6019:
   id: 7460
-  card_action_id: 8126
+  card_action_id: 8118
   field: 0
-  value: u3+*account+*salt
+  value: u2
 card_changes_6020:
   id: 7461
-  card_action_id: 8126
+  card_action_id: 8118
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6021:
   id: 7462
-  card_action_id: 8126
+  card_action_id: 8118
   field: 2
-  value: 8e76a6e5bb6de8aab292d1361f9e8bef48f79d1f
+  value: ''
 card_changes_6022:
   id: 7463
-  card_action_id: 8126
+  card_action_id: 8118
   field: 3
   value: f
 card_changes_6023:
   id: 7464
   card_action_id: 8127
   field: 0
-  value: u3+*account+*status
+  value: u3+*account+*password
 card_changes_6024:
   id: 7465
   card_action_id: 8127
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6025:
   id: 7466
   card_action_id: 8127
   field: 2
-  value: pending
+  value: a8ae3aec93a09adce16bed5309cfba285968abc9
 card_changes_6026:
   id: 7467
   card_action_id: 8127
@@ -47888,17 +47893,17 @@ card_changes_6027:
   id: 7468
   card_action_id: 8128
   field: 0
-  value: u3+*account+*token
+  value: u3+*account+*email
 card_changes_6028:
   id: 7469
   card_action_id: 8128
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6029:
   id: 7470
   card_action_id: 8128
   field: 2
-  value: cb23d9352d8115a4385c298037b029d0e81a9cc5
+  value: u3@user.com
 card_changes_6030:
   id: 7471
   card_action_id: 8128
@@ -47906,127 +47911,109 @@ card_changes_6030:
   value: f
 card_changes_6031:
   id: 7472
-  card_action_id: 8123
+  card_action_id: 8129
   field: 0
-  value: u3+*account
+  value: u3+*account+*salt
 card_changes_6032:
   id: 7473
-  card_action_id: 8123
+  card_action_id: 8129
   field: 1
   value: '3'
 card_changes_6033:
   id: 7474
-  card_action_id: 8123
+  card_action_id: 8129
   field: 2
-  value: ''
+  value: 9ea9f3b072a972a5ffd0274c4ed8cf443781c26b
 card_changes_6034:
   id: 7475
-  card_action_id: 8123
+  card_action_id: 8129
   field: 3
   value: f
 card_changes_6035:
   id: 7476
-  card_action_id: 8122
+  card_action_id: 8130
   field: 0
-  value: u3
+  value: u3+*account+*status
 card_changes_6036:
   id: 7477
-  card_action_id: 8122
+  card_action_id: 8130
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6037:
   id: 7478
-  card_action_id: 8122
+  card_action_id: 8130
   field: 2
-  value: ''
+  value: pending
 card_changes_6038:
   id: 7479
-  card_action_id: 8122
+  card_action_id: 8130
   field: 3
   value: f
 card_changes_6039:
   id: 7480
-  card_action_id: 8129
+  card_action_id: 8131
   field: 0
-  value: r1
+  value: u3+*account+*token
 card_changes_6040:
   id: 7481
-  card_action_id: 8129
+  card_action_id: 8131
   field: 1
-  value: '7'
+  value: '3'
 card_changes_6041:
   id: 7482
-  card_action_id: 8129
+  card_action_id: 8131
   field: 2
-  value: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
+  value: 7b6a2053d542203f2ba05ab5392980de53120eac
 card_changes_6042:
   id: 7483
-  card_action_id: 8129
+  card_action_id: 8131
   field: 3
   value: f
 card_changes_6043:
   id: 7484
-  card_action_id: 8130
+  card_action_id: 8126
   field: 0
-  value: r2
+  value: u3+*account
 card_changes_6044:
   id: 7485
-  card_action_id: 8130
+  card_action_id: 8126
   field: 1
-  value: '7'
+  value: '3'
 card_changes_6045:
   id: 7486
-  card_action_id: 8130
+  card_action_id: 8126
   field: 2
-  value: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
+  value: ''
 card_changes_6046:
   id: 7487
-  card_action_id: 8130
+  card_action_id: 8126
   field: 3
   value: f
 card_changes_6047:
   id: 7488
-  card_action_id: 8131
+  card_action_id: 8125
   field: 0
-  value: r3
+  value: u3
 card_changes_6048:
   id: 7489
-  card_action_id: 8131
+  card_action_id: 8125
   field: 1
-  value: '7'
+  value: '4'
 card_changes_6049:
   id: 7490
-  card_action_id: 8131
+  card_action_id: 8125
   field: 2
-  value: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
+  value: ''
 card_changes_6050:
   id: 7491
-  card_action_id: 8131
+  card_action_id: 8125
   field: 3
   value: f
 card_changes_6051:
   id: 7492
   card_action_id: 8132
   field: 0
-  value: r4
+  value: r1
 card_changes_6052:
   id: 7493
   card_action_id: 8132
@@ -48052,20 +48039,23 @@ card_changes_6055:
   id: 7496
   card_action_id: 8133
   field: 0
-  value: u1+*roles
+  value: r2
 card_changes_6056:
   id: 7497
   card_action_id: 8133
   field: 1
-  value: '47'
+  value: '7'
 card_changes_6057:
   id: 7498
   card_action_id: 8133
   field: 2
   value: |-
-    [[r1]]
-    [[r2]]
-    [[r3]]
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
 card_changes_6058:
   id: 7499
   card_action_id: 8133
@@ -48075,20 +48065,23 @@ card_changes_6059:
   id: 7500
   card_action_id: 8134
   field: 0
-  value: u2+*roles
+  value: r3
 card_changes_6060:
   id: 7501
   card_action_id: 8134
   field: 1
-  value: '47'
+  value: '7'
 card_changes_6061:
   id: 7502
   card_action_id: 8134
   field: 2
   value: |-
-    [[r1]]
-    [[r2]]
-    [[r4]]
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
 card_changes_6062:
   id: 7503
   card_action_id: 8134
@@ -48098,20 +48091,23 @@ card_changes_6063:
   id: 7504
   card_action_id: 8135
   field: 0
-  value: u3+*roles
+  value: r4
 card_changes_6064:
   id: 7505
   card_action_id: 8135
   field: 1
-  value: '47'
+  value: '7'
 card_changes_6065:
   id: 7506
   card_action_id: 8135
   field: 2
   value: |-
-    [[r1]]
-    [[r4]]
-    [[Administrator]]
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
 card_changes_6066:
   id: 7507
   card_action_id: 8135
@@ -48121,17 +48117,20 @@ card_changes_6067:
   id: 7508
   card_action_id: 8136
   field: 0
-  value: c1
+  value: u1+*roles
 card_changes_6068:
   id: 7509
   card_action_id: 8136
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6069:
   id: 7510
   card_action_id: 8136
   field: 2
-  value: ''
+  value: |-
+    [[r1]]
+    [[r2]]
+    [[r3]]
 card_changes_6070:
   id: 7511
   card_action_id: 8136
@@ -48141,17 +48140,20 @@ card_changes_6071:
   id: 7512
   card_action_id: 8137
   field: 0
-  value: c2
+  value: u2+*roles
 card_changes_6072:
   id: 7513
   card_action_id: 8137
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6073:
   id: 7514
   card_action_id: 8137
   field: 2
-  value: ''
+  value: |-
+    [[r1]]
+    [[r2]]
+    [[r4]]
 card_changes_6074:
   id: 7515
   card_action_id: 8137
@@ -48161,17 +48163,20 @@ card_changes_6075:
   id: 7516
   card_action_id: 8138
   field: 0
-  value: c3
+  value: u3+*roles
 card_changes_6076:
   id: 7517
   card_action_id: 8138
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6077:
   id: 7518
   card_action_id: 8138
   field: 2
-  value: ''
+  value: |-
+    [[r1]]
+    [[r4]]
+    [[Administrator]]
 card_changes_6078:
   id: 7519
   card_action_id: 8138
@@ -48181,7 +48186,7 @@ card_changes_6079:
   id: 7520
   card_action_id: 8139
   field: 0
-  value: Z
+  value: c1
 card_changes_6080:
   id: 7521
   card_action_id: 8139
@@ -48191,7 +48196,7 @@ card_changes_6081:
   id: 7522
   card_action_id: 8139
   field: 2
-  value: I'm here to be referenced to
+  value: ''
 card_changes_6082:
   id: 7523
   card_action_id: 8139
@@ -48201,7 +48206,7 @@ card_changes_6083:
   id: 7524
   card_action_id: 8140
   field: 0
-  value: A
+  value: c2
 card_changes_6084:
   id: 7525
   card_action_id: 8140
@@ -48211,7 +48216,7 @@ card_changes_6085:
   id: 7526
   card_action_id: 8140
   field: 2
-  value: Alpha [[Z]]
+  value: ''
 card_changes_6086:
   id: 7527
   card_action_id: 8140
@@ -48221,7 +48226,7 @@ card_changes_6087:
   id: 7528
   card_action_id: 8141
   field: 0
-  value: B
+  value: c3
 card_changes_6088:
   id: 7529
   card_action_id: 8141
@@ -48231,7 +48236,7 @@ card_changes_6089:
   id: 7530
   card_action_id: 8141
   field: 2
-  value: Beta {{Z}}
+  value: ''
 card_changes_6090:
   id: 7531
   card_action_id: 8141
@@ -48241,7 +48246,7 @@ card_changes_6091:
   id: 7532
   card_action_id: 8142
   field: 0
-  value: T
+  value: Z
 card_changes_6092:
   id: 7533
   card_action_id: 8142
@@ -48251,7 +48256,7 @@ card_changes_6093:
   id: 7534
   card_action_id: 8142
   field: 2
-  value: Theta
+  value: I'm here to be referenced to
 card_changes_6094:
   id: 7535
   card_action_id: 8142
@@ -48261,7 +48266,7 @@ card_changes_6095:
   id: 7536
   card_action_id: 8143
   field: 0
-  value: X
+  value: A
 card_changes_6096:
   id: 7537
   card_action_id: 8143
@@ -48271,7 +48276,7 @@ card_changes_6097:
   id: 7538
   card_action_id: 8143
   field: 2
-  value: "[[A]] [[A+B]] [[T]]"
+  value: Alpha [[Z]]
 card_changes_6098:
   id: 7539
   card_action_id: 8143
@@ -48281,7 +48286,7 @@ card_changes_6099:
   id: 7540
   card_action_id: 8144
   field: 0
-  value: Y
+  value: B
 card_changes_6100:
   id: 7541
   card_action_id: 8144
@@ -48291,7 +48296,7 @@ card_changes_6101:
   id: 7542
   card_action_id: 8144
   field: 2
-  value: "{{B}} {{A+B}} {{A}} {{T}}"
+  value: Beta {{Z}}
 card_changes_6102:
   id: 7543
   card_action_id: 8144
@@ -48301,7 +48306,7 @@ card_changes_6103:
   id: 7544
   card_action_id: 8145
   field: 0
-  value: A+B
+  value: T
 card_changes_6104:
   id: 7545
   card_action_id: 8145
@@ -48311,7 +48316,7 @@ card_changes_6105:
   id: 7546
   card_action_id: 8145
   field: 2
-  value: AlphaBeta
+  value: Theta
 card_changes_6106:
   id: 7547
   card_action_id: 8145
@@ -48319,389 +48324,389 @@ card_changes_6106:
   value: f
 card_changes_6107:
   id: 7548
-  card_action_id: 8148
+  card_action_id: 8146
   field: 0
-  value: One
+  value: X
 card_changes_6108:
   id: 7549
-  card_action_id: 8148
+  card_action_id: 8146
   field: 1
   value: '3'
 card_changes_6109:
   id: 7550
-  card_action_id: 8148
+  card_action_id: 8146
   field: 2
-  value: ''
+  value: "[[A]] [[A+B]] [[T]]"
 card_changes_6110:
   id: 7551
-  card_action_id: 8148
+  card_action_id: 8146
   field: 3
   value: f
 card_changes_6111:
   id: 7552
-  card_action_id: 8149
+  card_action_id: 8147
   field: 0
-  value: Two
+  value: Y
 card_changes_6112:
   id: 7553
-  card_action_id: 8149
+  card_action_id: 8147
   field: 1
   value: '3'
 card_changes_6113:
   id: 7554
-  card_action_id: 8149
+  card_action_id: 8147
   field: 2
-  value: ''
+  value: "{{B}} {{A+B}} {{A}} {{T}}"
 card_changes_6114:
   id: 7555
-  card_action_id: 8149
+  card_action_id: 8147
   field: 3
   value: f
 card_changes_6115:
   id: 7556
-  card_action_id: 8147
+  card_action_id: 8148
   field: 0
-  value: One+Two
+  value: A+B
 card_changes_6116:
   id: 7557
-  card_action_id: 8147
+  card_action_id: 8148
   field: 1
   value: '3'
 card_changes_6117:
   id: 7558
-  card_action_id: 8147
+  card_action_id: 8148
   field: 2
-  value: ''
+  value: AlphaBeta
 card_changes_6118:
   id: 7559
-  card_action_id: 8147
+  card_action_id: 8148
   field: 3
   value: f
 card_changes_6119:
   id: 7560
-  card_action_id: 8150
+  card_action_id: 8151
   field: 0
-  value: Three
+  value: One
 card_changes_6120:
   id: 7561
-  card_action_id: 8150
+  card_action_id: 8151
   field: 1
   value: '3'
 card_changes_6121:
   id: 7562
-  card_action_id: 8150
+  card_action_id: 8151
   field: 2
   value: ''
 card_changes_6122:
   id: 7563
-  card_action_id: 8150
+  card_action_id: 8151
   field: 3
   value: f
 card_changes_6123:
   id: 7564
-  card_action_id: 8146
+  card_action_id: 8152
   field: 0
-  value: One+Two+Three
+  value: Two
 card_changes_6124:
   id: 7565
-  card_action_id: 8146
+  card_action_id: 8152
   field: 1
   value: '3'
 card_changes_6125:
   id: 7566
-  card_action_id: 8146
+  card_action_id: 8152
   field: 2
   value: ''
 card_changes_6126:
   id: 7567
-  card_action_id: 8146
+  card_action_id: 8152
   field: 3
   value: f
 card_changes_6127:
   id: 7568
-  card_action_id: 8153
+  card_action_id: 8150
   field: 0
-  value: Four
+  value: One+Two
 card_changes_6128:
   id: 7569
-  card_action_id: 8153
+  card_action_id: 8150
   field: 1
   value: '3'
 card_changes_6129:
   id: 7570
-  card_action_id: 8153
+  card_action_id: 8150
   field: 2
   value: ''
 card_changes_6130:
   id: 7571
-  card_action_id: 8153
+  card_action_id: 8150
   field: 3
   value: f
 card_changes_6131:
   id: 7572
-  card_action_id: 8152
+  card_action_id: 8153
   field: 0
-  value: Four+One
+  value: Three
 card_changes_6132:
   id: 7573
-  card_action_id: 8152
+  card_action_id: 8153
   field: 1
   value: '3'
 card_changes_6133:
   id: 7574
-  card_action_id: 8152
+  card_action_id: 8153
   field: 2
   value: ''
 card_changes_6134:
   id: 7575
-  card_action_id: 8152
+  card_action_id: 8153
   field: 3
   value: f
 card_changes_6135:
   id: 7576
-  card_action_id: 8154
+  card_action_id: 8149
   field: 0
-  value: Five
+  value: One+Two+Three
 card_changes_6136:
   id: 7577
-  card_action_id: 8154
+  card_action_id: 8149
   field: 1
   value: '3'
 card_changes_6137:
   id: 7578
-  card_action_id: 8154
+  card_action_id: 8149
   field: 2
   value: ''
 card_changes_6138:
   id: 7579
-  card_action_id: 8154
+  card_action_id: 8149
   field: 3
   value: f
 card_changes_6139:
   id: 7580
-  card_action_id: 8151
+  card_action_id: 8156
   field: 0
-  value: Four+One+Five
+  value: Four
 card_changes_6140:
   id: 7581
-  card_action_id: 8151
+  card_action_id: 8156
   field: 1
   value: '3'
 card_changes_6141:
   id: 7582
-  card_action_id: 8151
+  card_action_id: 8156
   field: 2
   value: ''
 card_changes_6142:
   id: 7583
-  card_action_id: 8151
+  card_action_id: 8156
   field: 3
   value: f
 card_changes_6143:
   id: 7584
-  card_action_id: 8156
+  card_action_id: 8155
   field: 0
-  value: C
+  value: Four+One
 card_changes_6144:
   id: 7585
-  card_action_id: 8156
+  card_action_id: 8155
   field: 1
   value: '3'
 card_changes_6145:
   id: 7586
-  card_action_id: 8156
+  card_action_id: 8155
   field: 2
   value: ''
 card_changes_6146:
   id: 7587
-  card_action_id: 8156
+  card_action_id: 8155
   field: 3
   value: f
 card_changes_6147:
   id: 7588
-  card_action_id: 8155
+  card_action_id: 8157
   field: 0
-  value: A+C
+  value: Five
 card_changes_6148:
   id: 7589
-  card_action_id: 8155
+  card_action_id: 8157
   field: 1
   value: '3'
 card_changes_6149:
   id: 7590
-  card_action_id: 8155
+  card_action_id: 8157
   field: 2
   value: ''
 card_changes_6150:
   id: 7591
-  card_action_id: 8155
+  card_action_id: 8157
   field: 3
   value: f
 card_changes_6151:
   id: 7592
-  card_action_id: 8158
+  card_action_id: 8154
   field: 0
-  value: D
+  value: Four+One+Five
 card_changes_6152:
   id: 7593
-  card_action_id: 8158
+  card_action_id: 8154
   field: 1
   value: '3'
 card_changes_6153:
   id: 7594
-  card_action_id: 8158
+  card_action_id: 8154
   field: 2
   value: ''
 card_changes_6154:
   id: 7595
-  card_action_id: 8158
+  card_action_id: 8154
   field: 3
   value: f
 card_changes_6155:
   id: 7596
-  card_action_id: 8157
+  card_action_id: 8159
   field: 0
-  value: A+D
+  value: C
 card_changes_6156:
   id: 7597
-  card_action_id: 8157
+  card_action_id: 8159
   field: 1
   value: '3'
 card_changes_6157:
   id: 7598
-  card_action_id: 8157
+  card_action_id: 8159
   field: 2
   value: ''
 card_changes_6158:
   id: 7599
-  card_action_id: 8157
+  card_action_id: 8159
   field: 3
   value: f
 card_changes_6159:
   id: 7600
-  card_action_id: 8160
+  card_action_id: 8158
   field: 0
-  value: E
+  value: A+C
 card_changes_6160:
   id: 7601
-  card_action_id: 8160
+  card_action_id: 8158
   field: 1
   value: '3'
 card_changes_6161:
   id: 7602
-  card_action_id: 8160
+  card_action_id: 8158
   field: 2
   value: ''
 card_changes_6162:
   id: 7603
-  card_action_id: 8160
+  card_action_id: 8158
   field: 3
   value: f
 card_changes_6163:
   id: 7604
-  card_action_id: 8159
+  card_action_id: 8161
   field: 0
-  value: A+E
+  value: D
 card_changes_6164:
   id: 7605
-  card_action_id: 8159
+  card_action_id: 8161
   field: 1
   value: '3'
 card_changes_6165:
   id: 7606
-  card_action_id: 8159
+  card_action_id: 8161
   field: 2
   value: ''
 card_changes_6166:
   id: 7607
-  card_action_id: 8159
+  card_action_id: 8161
   field: 3
   value: f
 card_changes_6167:
   id: 7608
-  card_action_id: 8161
+  card_action_id: 8160
   field: 0
-  value: C+A
+  value: A+D
 card_changes_6168:
   id: 7609
-  card_action_id: 8161
+  card_action_id: 8160
   field: 1
   value: '3'
 card_changes_6169:
   id: 7610
-  card_action_id: 8161
+  card_action_id: 8160
   field: 2
   value: ''
 card_changes_6170:
   id: 7611
-  card_action_id: 8161
+  card_action_id: 8160
   field: 3
   value: f
 card_changes_6171:
   id: 7612
-  card_action_id: 8162
+  card_action_id: 8163
   field: 0
-  value: D+A
+  value: E
 card_changes_6172:
   id: 7613
-  card_action_id: 8162
+  card_action_id: 8163
   field: 1
   value: '3'
 card_changes_6173:
   id: 7614
-  card_action_id: 8162
+  card_action_id: 8163
   field: 2
   value: ''
 card_changes_6174:
   id: 7615
-  card_action_id: 8162
+  card_action_id: 8163
   field: 3
   value: f
 card_changes_6175:
   id: 7616
-  card_action_id: 8164
+  card_action_id: 8162
   field: 0
-  value: F
+  value: A+E
 card_changes_6176:
   id: 7617
-  card_action_id: 8164
+  card_action_id: 8162
   field: 1
   value: '3'
 card_changes_6177:
   id: 7618
-  card_action_id: 8164
+  card_action_id: 8162
   field: 2
   value: ''
 card_changes_6178:
   id: 7619
-  card_action_id: 8164
+  card_action_id: 8162
   field: 3
   value: f
 card_changes_6179:
   id: 7620
-  card_action_id: 8163
+  card_action_id: 8164
   field: 0
-  value: F+A
+  value: C+A
 card_changes_6180:
   id: 7621
-  card_action_id: 8163
+  card_action_id: 8164
   field: 1
   value: '3'
 card_changes_6181:
   id: 7622
-  card_action_id: 8163
+  card_action_id: 8164
   field: 2
   value: ''
 card_changes_6182:
   id: 7623
-  card_action_id: 8163
+  card_action_id: 8164
   field: 3
   value: f
 card_changes_6183:
   id: 7624
   card_action_id: 8165
   field: 0
-  value: A+B+C
+  value: D+A
 card_changes_6184:
   id: 7625
   card_action_id: 8165
@@ -48719,62 +48724,59 @@ card_changes_6186:
   value: f
 card_changes_6187:
   id: 7628
-  card_action_id: 8166
+  card_action_id: 8167
   field: 0
-  value: Cardtype A
+  value: F
 card_changes_6188:
   id: 7629
-  card_action_id: 8166
+  card_action_id: 8167
   field: 1
-  value: '5'
+  value: '3'
 card_changes_6189:
   id: 7630
-  card_action_id: 8166
+  card_action_id: 8167
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_6190:
   id: 7631
-  card_action_id: 8166
+  card_action_id: 8167
   field: 3
   value: f
 card_changes_6191:
   id: 7632
-  card_action_id: 8167
+  card_action_id: 8166
   field: 0
-  value: Cardtype B
+  value: F+A
 card_changes_6192:
   id: 7633
-  card_action_id: 8167
+  card_action_id: 8166
   field: 1
-  value: '5'
+  value: '3'
 card_changes_6193:
   id: 7634
-  card_action_id: 8167
+  card_action_id: 8166
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_6194:
   id: 7635
-  card_action_id: 8167
+  card_action_id: 8166
   field: 3
   value: f
 card_changes_6195:
   id: 7636
   card_action_id: 8168
   field: 0
-  value: Cardtype C
+  value: A+B+C
 card_changes_6196:
   id: 7637
   card_action_id: 8168
   field: 1
-  value: '5'
+  value: '3'
 card_changes_6197:
   id: 7638
   card_action_id: 8168
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_6198:
   id: 7639
   card_action_id: 8168
@@ -48784,7 +48786,7 @@ card_changes_6199:
   id: 7640
   card_action_id: 8169
   field: 0
-  value: Cardtype D
+  value: Cardtype A
 card_changes_6200:
   id: 7641
   card_action_id: 8169
@@ -48805,7 +48807,7 @@ card_changes_6203:
   id: 7644
   card_action_id: 8170
   field: 0
-  value: Cardtype E
+  value: Cardtype B
 card_changes_6204:
   id: 7645
   card_action_id: 8170
@@ -48826,7 +48828,7 @@ card_changes_6207:
   id: 7648
   card_action_id: 8171
   field: 0
-  value: Cardtype F
+  value: Cardtype C
 card_changes_6208:
   id: 7649
   card_action_id: 8171
@@ -48847,17 +48849,18 @@ card_changes_6211:
   id: 7652
   card_action_id: 8172
   field: 0
-  value: basicname
+  value: Cardtype D
 card_changes_6212:
   id: 7653
   card_action_id: 8172
   field: 1
-  value: '3'
+  value: '5'
 card_changes_6213:
   id: 7654
   card_action_id: 8172
   field: 2
-  value: basiccontent
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6214:
   id: 7655
   card_action_id: 8172
@@ -48867,17 +48870,18 @@ card_changes_6215:
   id: 7656
   card_action_id: 8173
   field: 0
-  value: type-a-card
+  value: Cardtype E
 card_changes_6216:
   id: 7657
   card_action_id: 8173
   field: 1
-  value: '1705'
+  value: '5'
 card_changes_6217:
   id: 7658
   card_action_id: 8173
   field: 2
-  value: type_a_content
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6218:
   id: 7659
   card_action_id: 8173
@@ -48887,17 +48891,18 @@ card_changes_6219:
   id: 7660
   card_action_id: 8174
   field: 0
-  value: type-b-card
+  value: Cardtype F
 card_changes_6220:
   id: 7661
   card_action_id: 8174
   field: 1
-  value: '1706'
+  value: '5'
 card_changes_6221:
   id: 7662
   card_action_id: 8174
   field: 2
-  value: type_b_content
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6222:
   id: 7663
   card_action_id: 8174
@@ -48907,17 +48912,17 @@ card_changes_6223:
   id: 7664
   card_action_id: 8175
   field: 0
-  value: type-c-card
+  value: basicname
 card_changes_6224:
   id: 7665
   card_action_id: 8175
   field: 1
-  value: '1707'
+  value: '3'
 card_changes_6225:
   id: 7666
   card_action_id: 8175
   field: 2
-  value: type_c_content
+  value: basiccontent
 card_changes_6226:
   id: 7667
   card_action_id: 8175
@@ -48927,7 +48932,7 @@ card_changes_6227:
   id: 7668
   card_action_id: 8176
   field: 0
-  value: type-d-card
+  value: type-a-card
 card_changes_6228:
   id: 7669
   card_action_id: 8176
@@ -48937,7 +48942,7 @@ card_changes_6229:
   id: 7670
   card_action_id: 8176
   field: 2
-  value: type_d_content
+  value: type_a_content
 card_changes_6230:
   id: 7671
   card_action_id: 8176
@@ -48947,7 +48952,7 @@ card_changes_6231:
   id: 7672
   card_action_id: 8177
   field: 0
-  value: type-e-card
+  value: type-b-card
 card_changes_6232:
   id: 7673
   card_action_id: 8177
@@ -48957,7 +48962,7 @@ card_changes_6233:
   id: 7674
   card_action_id: 8177
   field: 2
-  value: type_e_content
+  value: type_b_content
 card_changes_6234:
   id: 7675
   card_action_id: 8177
@@ -48967,7 +48972,7 @@ card_changes_6235:
   id: 7676
   card_action_id: 8178
   field: 0
-  value: type-f-card
+  value: type-c-card
 card_changes_6236:
   id: 7677
   card_action_id: 8178
@@ -48977,7 +48982,7 @@ card_changes_6237:
   id: 7678
   card_action_id: 8178
   field: 2
-  value: type_f_content
+  value: type_c_content
 card_changes_6238:
   id: 7679
   card_action_id: 8178
@@ -48987,17 +48992,17 @@ card_changes_6239:
   id: 7680
   card_action_id: 8179
   field: 0
-  value: revtest
+  value: type-d-card
 card_changes_6240:
   id: 7681
   card_action_id: 8179
   field: 1
-  value: '3'
+  value: '1711'
 card_changes_6241:
   id: 7682
   card_action_id: 8179
   field: 2
-  value: first
+  value: type_d_content
 card_changes_6242:
   id: 7683
   card_action_id: 8179
@@ -49006,330 +49011,329 @@ card_changes_6242:
 card_changes_6243:
   id: 7684
   card_action_id: 8180
-  field: 2
-  value: second
+  field: 0
+  value: type-e-card
 card_changes_6244:
   id: 7685
-  card_action_id: 8181
-  field: 2
-  value: third
+  card_action_id: 8180
+  field: 1
+  value: '1712'
 card_changes_6245:
   id: 7686
-  card_action_id: 8182
-  field: 0
-  value: UserForm
+  card_action_id: 8180
+  field: 2
+  value: type_e_content
 card_changes_6246:
   id: 7687
-  card_action_id: 8182
-  field: 1
-  value: '5'
+  card_action_id: 8180
+  field: 3
+  value: f
 card_changes_6247:
   id: 7688
-  card_action_id: 8182
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  card_action_id: 8181
+  field: 0
+  value: type-f-card
 card_changes_6248:
   id: 7689
+  card_action_id: 8181
+  field: 1
+  value: '1713'
+card_changes_6249:
+  id: 7690
+  card_action_id: 8181
+  field: 2
+  value: type_f_content
+card_changes_6250:
+  id: 7691
+  card_action_id: 8181
+  field: 3
+  value: f
+card_changes_6251:
+  id: 7692
+  card_action_id: 8182
+  field: 0
+  value: revtest
+card_changes_6252:
+  id: 7693
+  card_action_id: 8182
+  field: 1
+  value: '3'
+card_changes_6253:
+  id: 7694
+  card_action_id: 8182
+  field: 2
+  value: first
+card_changes_6254:
+  id: 7695
   card_action_id: 8182
   field: 3
   value: f
-card_changes_6249:
-  id: 7690
-  card_action_id: 8184
-  field: 0
-  value: UserForm+*type
-card_changes_6250:
-  id: 7691
-  card_action_id: 8184
-  field: 1
-  value: '259'
-card_changes_6251:
-  id: 7692
-  card_action_id: 8184
-  field: 2
-  value: '{"type":"_left"}'
-card_changes_6252:
-  id: 7693
-  card_action_id: 8184
-  field: 3
-  value: f
-card_changes_6253:
-  id: 7694
-  card_action_id: 8183
-  field: 0
-  value: UserForm+*type+*structure
-card_changes_6254:
-  id: 7695
-  card_action_id: 8183
-  field: 1
-  value: '3'
 card_changes_6255:
   id: 7696
   card_action_id: 8183
   field: 2
-  value: "{{+name}} {{+age}} {{+description}}"
+  value: second
 card_changes_6256:
   id: 7697
-  card_action_id: 8183
-  field: 3
-  value: f
+  card_action_id: 8184
+  field: 2
+  value: third
 card_changes_6257:
   id: 7698
   card_action_id: 8185
-  field: 2
-  value: "[[*structure]]"
+  field: 0
+  value: UserForm
 card_changes_6258:
   id: 7699
-  card_action_id: 8186
-  field: 0
-  value: JoeLater
+  card_action_id: 8185
+  field: 1
+  value: '5'
 card_changes_6259:
   id: 7700
-  card_action_id: 8186
-  field: 1
-  value: '3'
+  card_action_id: 8185
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6260:
   id: 7701
-  card_action_id: 8186
-  field: 2
-  value: test
-card_changes_6261:
-  id: 7702
-  card_action_id: 8186
+  card_action_id: 8185
   field: 3
   value: f
+card_changes_6261:
+  id: 7702
+  card_action_id: 8187
+  field: 0
+  value: UserForm+*type
 card_changes_6262:
   id: 7703
   card_action_id: 8187
-  field: 0
-  value: JoeNow
+  field: 1
+  value: '259'
 card_changes_6263:
   id: 7704
   card_action_id: 8187
-  field: 1
-  value: '3'
+  field: 2
+  value: '{"type":"_left"}'
 card_changes_6264:
   id: 7705
   card_action_id: 8187
-  field: 2
-  value: test
-card_changes_6265:
-  id: 7706
-  card_action_id: 8187
   field: 3
   value: f
+card_changes_6265:
+  id: 7706
+  card_action_id: 8186
+  field: 0
+  value: UserForm+*type+*structure
 card_changes_6266:
   id: 7707
-  card_action_id: 8188
-  field: 0
-  value: AdminNow
-card_changes_6267:
-  id: 7708
-  card_action_id: 8188
+  card_action_id: 8186
   field: 1
   value: '3'
+card_changes_6267:
+  id: 7708
+  card_action_id: 8186
+  field: 2
+  value: "{{+name}} {{+age}} {{+description}}"
 card_changes_6268:
   id: 7709
-  card_action_id: 8188
-  field: 2
-  value: test
+  card_action_id: 8186
+  field: 3
+  value: f
 card_changes_6269:
   id: 7710
   card_action_id: 8188
-  field: 3
-  value: f
+  field: 2
+  value: "[[*structure]]"
 card_changes_6270:
   id: 7711
-  card_action_id: 8190
+  card_action_id: 8189
   field: 0
-  value: Cardtype B+*type
+  value: JoeLater
 card_changes_6271:
   id: 7712
-  card_action_id: 8190
+  card_action_id: 8189
   field: 1
-  value: '259'
+  value: '3'
 card_changes_6272:
   id: 7713
-  card_action_id: 8190
+  card_action_id: 8189
   field: 2
-  value: '{"type":"_left"}'
+  value: test
 card_changes_6273:
   id: 7714
-  card_action_id: 8190
+  card_action_id: 8189
   field: 3
   value: f
 card_changes_6274:
   id: 7715
-  card_action_id: 8189
+  card_action_id: 8190
   field: 0
-  value: Cardtype B+*type+*create
+  value: JoeNow
 card_changes_6275:
   id: 7716
-  card_action_id: 8189
+  card_action_id: 8190
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6276:
   id: 7717
-  card_action_id: 8189
+  card_action_id: 8190
   field: 2
-  value: "[[r1]]"
+  value: test
 card_changes_6277:
   id: 7718
-  card_action_id: 8189
+  card_action_id: 8190
   field: 3
   value: f
 card_changes_6278:
   id: 7719
   card_action_id: 8191
+  field: 0
+  value: AdminNow
+card_changes_6279:
+  id: 7720
+  card_action_id: 8191
+  field: 1
+  value: '3'
+card_changes_6280:
+  id: 7721
+  card_action_id: 8191
+  field: 2
+  value: test
+card_changes_6281:
+  id: 7722
+  card_action_id: 8191
+  field: 3
+  value: f
+card_changes_6282:
+  id: 7723
+  card_action_id: 8193
+  field: 0
+  value: Cardtype B+*type
+card_changes_6283:
+  id: 7724
+  card_action_id: 8193
+  field: 1
+  value: '259'
+card_changes_6284:
+  id: 7725
+  card_action_id: 8193
+  field: 2
+  value: '{"type":"_left"}'
+card_changes_6285:
+  id: 7726
+  card_action_id: 8193
+  field: 3
+  value: f
+card_changes_6286:
+  id: 7727
+  card_action_id: 8192
+  field: 0
+  value: Cardtype B+*type+*create
+card_changes_6287:
+  id: 7728
+  card_action_id: 8192
+  field: 1
+  value: '47'
+card_changes_6288:
+  id: 7729
+  card_action_id: 8192
+  field: 2
+  value: "[[r1]]"
+card_changes_6289:
+  id: 7730
+  card_action_id: 8192
+  field: 3
+  value: f
+card_changes_6290:
+  id: 7731
+  card_action_id: 8194
   field: 2
   value: |-
     [[*create]]
     [[*structure]]
-card_changes_6279:
-  id: 7720
-  card_action_id: 8192
-  field: 0
-  value: Book
-card_changes_6280:
-  id: 7721
-  card_action_id: 8192
-  field: 1
-  value: '5'
-card_changes_6281:
-  id: 7722
-  card_action_id: 8192
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_6282:
-  id: 7723
-  card_action_id: 8192
-  field: 3
-  value: f
-card_changes_6283:
-  id: 7724
-  card_action_id: 8194
-  field: 0
-  value: Book+*type
-card_changes_6284:
-  id: 7725
-  card_action_id: 8194
-  field: 1
-  value: '259'
-card_changes_6285:
-  id: 7726
-  card_action_id: 8194
-  field: 2
-  value: '{"type":"_left"}'
-card_changes_6286:
-  id: 7727
-  card_action_id: 8194
-  field: 3
-  value: f
-card_changes_6287:
-  id: 7728
-  card_action_id: 8193
-  field: 0
-  value: Book+*type+*structure
-card_changes_6288:
-  id: 7729
-  card_action_id: 8193
-  field: 1
-  value: '3'
-card_changes_6289:
-  id: 7730
-  card_action_id: 8193
-  field: 2
-  value: by {{+author}}, design by {{+illustrator}}
-card_changes_6290:
-  id: 7731
-  card_action_id: 8193
-  field: 3
-  value: f
 card_changes_6291:
   id: 7732
   card_action_id: 8195
+  field: 0
+  value: Book
+card_changes_6292:
+  id: 7733
+  card_action_id: 8195
+  field: 1
+  value: '5'
+card_changes_6293:
+  id: 7734
+  card_action_id: 8195
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+card_changes_6294:
+  id: 7735
+  card_action_id: 8195
+  field: 3
+  value: f
+card_changes_6295:
+  id: 7736
+  card_action_id: 8197
+  field: 0
+  value: Book+*type
+card_changes_6296:
+  id: 7737
+  card_action_id: 8197
+  field: 1
+  value: '259'
+card_changes_6297:
+  id: 7738
+  card_action_id: 8197
+  field: 2
+  value: '{"type":"_left"}'
+card_changes_6298:
+  id: 7739
+  card_action_id: 8197
+  field: 3
+  value: f
+card_changes_6299:
+  id: 7740
+  card_action_id: 8196
+  field: 0
+  value: Book+*type+*structure
+card_changes_6300:
+  id: 7741
+  card_action_id: 8196
+  field: 1
+  value: '3'
+card_changes_6301:
+  id: 7742
+  card_action_id: 8196
+  field: 2
+  value: by {{+author}}, design by {{+illustrator}}
+card_changes_6302:
+  id: 7743
+  card_action_id: 8196
+  field: 3
+  value: f
+card_changes_6303:
+  id: 7744
+  card_action_id: 8198
   field: 2
   value: |-
     [[*structure]]
     [[*create]]
-card_changes_6292:
-  id: 7733
-  card_action_id: 8196
-  field: 0
-  value: Iliad
-card_changes_6293:
-  id: 7734
-  card_action_id: 8196
-  field: 1
-  value: '1727'
-card_changes_6294:
-  id: 7735
-  card_action_id: 8196
-  field: 2
-  value: by {{+author}}, design by {{+illustrator}}
-card_changes_6295:
-  id: 7736
-  card_action_id: 8196
-  field: 3
-  value: f
-card_changes_6296:
-  id: 7737
-  card_action_id: 8197
-  field: 0
-  value: Author
-card_changes_6297:
-  id: 7738
-  card_action_id: 8197
-  field: 1
-  value: '5'
-card_changes_6298:
-  id: 7739
-  card_action_id: 8197
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_6299:
-  id: 7740
-  card_action_id: 8197
-  field: 3
-  value: f
-card_changes_6300:
-  id: 7741
-  card_action_id: 8198
-  field: 0
-  value: Darles Chickens
-card_changes_6301:
-  id: 7742
-  card_action_id: 8198
-  field: 1
-  value: '1731'
-card_changes_6302:
-  id: 7743
-  card_action_id: 8198
-  field: 2
-  value: ''
-card_changes_6303:
-  id: 7744
-  card_action_id: 8198
-  field: 3
-  value: f
 card_changes_6304:
   id: 7745
   card_action_id: 8199
   field: 0
-  value: Stam Broker
+  value: Iliad
 card_changes_6305:
   id: 7746
   card_action_id: 8199
   field: 1
-  value: '1731'
+  value: '1730'
 card_changes_6306:
   id: 7747
   card_action_id: 8199
   field: 2
-  value: ''
+  value: by {{+author}}, design by {{+illustrator}}
 card_changes_6307:
   id: 7748
   card_action_id: 8199
@@ -49339,17 +49343,18 @@ card_changes_6308:
   id: 7749
   card_action_id: 8200
   field: 0
-  value: Parry Hotter
+  value: Author
 card_changes_6309:
   id: 7750
   card_action_id: 8200
   field: 1
-  value: '1727'
+  value: '5'
 card_changes_6310:
   id: 7751
   card_action_id: 8200
   field: 2
-  value: by {{+author}}, design by {{+illustrator}}
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6311:
   id: 7752
   card_action_id: 8200
@@ -49359,17 +49364,17 @@ card_changes_6312:
   id: 7753
   card_action_id: 8201
   field: 0
-  value: 50 grades of shy
+  value: Darles Chickens
 card_changes_6313:
   id: 7754
   card_action_id: 8201
   field: 1
-  value: '1727'
+  value: '1734'
 card_changes_6314:
   id: 7755
   card_action_id: 8201
   field: 2
-  value: by {{+author}}, design by {{+illustrator}}
+  value: ''
 card_changes_6315:
   id: 7756
   card_action_id: 8201
@@ -49377,79 +49382,79 @@ card_changes_6315:
   value: f
 card_changes_6316:
   id: 7757
-  card_action_id: 8204
+  card_action_id: 8202
   field: 0
-  value: John+*account+*password
+  value: Stam Broker
 card_changes_6317:
   id: 7758
-  card_action_id: 8204
+  card_action_id: 8202
   field: 1
-  value: '52'
+  value: '1734'
 card_changes_6318:
   id: 7759
-  card_action_id: 8204
+  card_action_id: 8202
   field: 2
-  value: d7888fc9b39057af04c0e3ed1f0952eae8191955
+  value: ''
 card_changes_6319:
   id: 7760
-  card_action_id: 8204
+  card_action_id: 8202
   field: 3
   value: f
 card_changes_6320:
   id: 7761
-  card_action_id: 8205
+  card_action_id: 8203
   field: 0
-  value: John+*account+*email
+  value: Parry Hotter
 card_changes_6321:
   id: 7762
-  card_action_id: 8205
+  card_action_id: 8203
   field: 1
-  value: '52'
+  value: '1730'
 card_changes_6322:
   id: 7763
-  card_action_id: 8205
+  card_action_id: 8203
   field: 2
-  value: john@user.com
+  value: by {{+author}}, design by {{+illustrator}}
 card_changes_6323:
   id: 7764
-  card_action_id: 8205
+  card_action_id: 8203
   field: 3
   value: f
 card_changes_6324:
   id: 7765
-  card_action_id: 8206
+  card_action_id: 8204
   field: 0
-  value: John+*account+*salt
+  value: 50 grades of shy
 card_changes_6325:
   id: 7766
-  card_action_id: 8206
+  card_action_id: 8204
   field: 1
-  value: '3'
+  value: '1730'
 card_changes_6326:
   id: 7767
-  card_action_id: 8206
+  card_action_id: 8204
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: by {{+author}}, design by {{+illustrator}}
 card_changes_6327:
   id: 7768
-  card_action_id: 8206
+  card_action_id: 8204
   field: 3
   value: f
 card_changes_6328:
   id: 7769
   card_action_id: 8207
   field: 0
-  value: John+*account+*status
+  value: John+*account+*password
 card_changes_6329:
   id: 7770
   card_action_id: 8207
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6330:
   id: 7771
   card_action_id: 8207
   field: 2
-  value: pending
+  value: d7888fc9b39057af04c0e3ed1f0952eae8191955
 card_changes_6331:
   id: 7772
   card_action_id: 8207
@@ -49459,17 +49464,17 @@ card_changes_6332:
   id: 7773
   card_action_id: 8208
   field: 0
-  value: John+*account+*token
+  value: John+*account+*email
 card_changes_6333:
   id: 7774
   card_action_id: 8208
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6334:
   id: 7775
   card_action_id: 8208
   field: 2
-  value: 251465dbce79c243f2f633c6029e2cafb4f7bf07
+  value: john@user.com
 card_changes_6335:
   id: 7776
   card_action_id: 8208
@@ -49477,59 +49482,59 @@ card_changes_6335:
   value: f
 card_changes_6336:
   id: 7777
-  card_action_id: 8203
+  card_action_id: 8209
   field: 0
-  value: John+*account
+  value: John+*account+*salt
 card_changes_6337:
   id: 7778
-  card_action_id: 8203
+  card_action_id: 8209
   field: 1
   value: '3'
 card_changes_6338:
   id: 7779
-  card_action_id: 8203
+  card_action_id: 8209
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6339:
   id: 7780
-  card_action_id: 8203
+  card_action_id: 8209
   field: 3
   value: f
 card_changes_6340:
   id: 7781
-  card_action_id: 8202
+  card_action_id: 8210
   field: 0
-  value: John
+  value: John+*account+*status
 card_changes_6341:
   id: 7782
-  card_action_id: 8202
+  card_action_id: 8210
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6342:
   id: 7783
-  card_action_id: 8202
+  card_action_id: 8210
   field: 2
-  value: ''
+  value: pending
 card_changes_6343:
   id: 7784
-  card_action_id: 8202
+  card_action_id: 8210
   field: 3
   value: f
 card_changes_6344:
   id: 7785
   card_action_id: 8211
   field: 0
-  value: Sara+*account+*password
+  value: John+*account+*token
 card_changes_6345:
   id: 7786
   card_action_id: 8211
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6346:
   id: 7787
   card_action_id: 8211
   field: 2
-  value: 81cf267188a9018d2399bb53a06df85c99ef3d7a
+  value: d515ae2fd864f6147c95b06a3464c227abf5ac6e
 card_changes_6347:
   id: 7788
   card_action_id: 8211
@@ -49537,59 +49542,59 @@ card_changes_6347:
   value: f
 card_changes_6348:
   id: 7789
-  card_action_id: 8212
+  card_action_id: 8206
   field: 0
-  value: Sara+*account+*email
+  value: John+*account
 card_changes_6349:
   id: 7790
-  card_action_id: 8212
+  card_action_id: 8206
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6350:
   id: 7791
-  card_action_id: 8212
+  card_action_id: 8206
   field: 2
-  value: sara@user.com
+  value: ''
 card_changes_6351:
   id: 7792
-  card_action_id: 8212
+  card_action_id: 8206
   field: 3
   value: f
 card_changes_6352:
   id: 7793
-  card_action_id: 8213
+  card_action_id: 8205
   field: 0
-  value: Sara+*account+*salt
+  value: John
 card_changes_6353:
   id: 7794
-  card_action_id: 8213
+  card_action_id: 8205
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6354:
   id: 7795
-  card_action_id: 8213
+  card_action_id: 8205
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: ''
 card_changes_6355:
   id: 7796
-  card_action_id: 8213
+  card_action_id: 8205
   field: 3
   value: f
 card_changes_6356:
   id: 7797
   card_action_id: 8214
   field: 0
-  value: Sara+*account+*status
+  value: Sara+*account+*password
 card_changes_6357:
   id: 7798
   card_action_id: 8214
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6358:
   id: 7799
   card_action_id: 8214
   field: 2
-  value: pending
+  value: 81cf267188a9018d2399bb53a06df85c99ef3d7a
 card_changes_6359:
   id: 7800
   card_action_id: 8214
@@ -49599,17 +49604,17 @@ card_changes_6360:
   id: 7801
   card_action_id: 8215
   field: 0
-  value: Sara+*account+*token
+  value: Sara+*account+*email
 card_changes_6361:
   id: 7802
   card_action_id: 8215
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6362:
   id: 7803
   card_action_id: 8215
   field: 2
-  value: 4f6a212530f993c5d4afb1ef9a648d35a7f6a742
+  value: sara@user.com
 card_changes_6363:
   id: 7804
   card_action_id: 8215
@@ -49617,59 +49622,59 @@ card_changes_6363:
   value: f
 card_changes_6364:
   id: 7805
-  card_action_id: 8210
+  card_action_id: 8216
   field: 0
-  value: Sara+*account
+  value: Sara+*account+*salt
 card_changes_6365:
   id: 7806
-  card_action_id: 8210
+  card_action_id: 8216
   field: 1
   value: '3'
 card_changes_6366:
   id: 7807
-  card_action_id: 8210
+  card_action_id: 8216
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6367:
   id: 7808
-  card_action_id: 8210
+  card_action_id: 8216
   field: 3
   value: f
 card_changes_6368:
   id: 7809
-  card_action_id: 8209
+  card_action_id: 8217
   field: 0
-  value: Sara
+  value: Sara+*account+*status
 card_changes_6369:
   id: 7810
-  card_action_id: 8209
+  card_action_id: 8217
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6370:
   id: 7811
-  card_action_id: 8209
+  card_action_id: 8217
   field: 2
-  value: ''
+  value: pending
 card_changes_6371:
   id: 7812
-  card_action_id: 8209
+  card_action_id: 8217
   field: 3
   value: f
 card_changes_6372:
   id: 7813
   card_action_id: 8218
   field: 0
-  value: Big Brother+*account+*password
+  value: Sara+*account+*token
 card_changes_6373:
   id: 7814
   card_action_id: 8218
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6374:
   id: 7815
   card_action_id: 8218
   field: 2
-  value: 576607b86c8e39c12d62e9e791da1115972af2fd
+  value: d515ae2fd864f6147c95b06a3464c227abf5ac6e
 card_changes_6375:
   id: 7816
   card_action_id: 8218
@@ -49677,59 +49682,59 @@ card_changes_6375:
   value: f
 card_changes_6376:
   id: 7817
-  card_action_id: 8219
+  card_action_id: 8213
   field: 0
-  value: Big Brother+*account+*email
+  value: Sara+*account
 card_changes_6377:
   id: 7818
-  card_action_id: 8219
+  card_action_id: 8213
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6378:
   id: 7819
-  card_action_id: 8219
+  card_action_id: 8213
   field: 2
-  value: big-brother@user.com
+  value: ''
 card_changes_6379:
   id: 7820
-  card_action_id: 8219
+  card_action_id: 8213
   field: 3
   value: f
 card_changes_6380:
   id: 7821
-  card_action_id: 8220
+  card_action_id: 8212
   field: 0
-  value: Big Brother+*account+*salt
+  value: Sara
 card_changes_6381:
   id: 7822
-  card_action_id: 8220
+  card_action_id: 8212
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6382:
   id: 7823
-  card_action_id: 8220
+  card_action_id: 8212
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: ''
 card_changes_6383:
   id: 7824
-  card_action_id: 8220
+  card_action_id: 8212
   field: 3
   value: f
 card_changes_6384:
   id: 7825
   card_action_id: 8221
   field: 0
-  value: Big Brother+*account+*status
+  value: Big Brother+*account+*password
 card_changes_6385:
   id: 7826
   card_action_id: 8221
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6386:
   id: 7827
   card_action_id: 8221
   field: 2
-  value: pending
+  value: 576607b86c8e39c12d62e9e791da1115972af2fd
 card_changes_6387:
   id: 7828
   card_action_id: 8221
@@ -49739,17 +49744,17 @@ card_changes_6388:
   id: 7829
   card_action_id: 8222
   field: 0
-  value: Big Brother+*account+*token
+  value: Big Brother+*account+*email
 card_changes_6389:
   id: 7830
   card_action_id: 8222
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6390:
   id: 7831
   card_action_id: 8222
   field: 2
-  value: 2ce6ef5bb43be8edac664348d567914b3e953c02
+  value: big-brother@user.com
 card_changes_6391:
   id: 7832
   card_action_id: 8222
@@ -49757,59 +49762,59 @@ card_changes_6391:
   value: f
 card_changes_6392:
   id: 7833
-  card_action_id: 8217
+  card_action_id: 8223
   field: 0
-  value: Big Brother+*account
+  value: Big Brother+*account+*salt
 card_changes_6393:
   id: 7834
-  card_action_id: 8217
+  card_action_id: 8223
   field: 1
   value: '3'
 card_changes_6394:
   id: 7835
-  card_action_id: 8217
+  card_action_id: 8223
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6395:
   id: 7836
-  card_action_id: 8217
+  card_action_id: 8223
   field: 3
   value: f
 card_changes_6396:
   id: 7837
-  card_action_id: 8216
+  card_action_id: 8224
   field: 0
-  value: Big Brother
+  value: Big Brother+*account+*status
 card_changes_6397:
   id: 7838
-  card_action_id: 8216
+  card_action_id: 8224
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6398:
   id: 7839
-  card_action_id: 8216
+  card_action_id: 8224
   field: 2
-  value: ''
+  value: pending
 card_changes_6399:
   id: 7840
-  card_action_id: 8216
+  card_action_id: 8224
   field: 3
   value: f
 card_changes_6400:
   id: 7841
   card_action_id: 8225
   field: 0
-  value: Optic fan+*account+*password
+  value: Big Brother+*account+*token
 card_changes_6401:
   id: 7842
   card_action_id: 8225
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6402:
   id: 7843
   card_action_id: 8225
   field: 2
-  value: f749036a8ba957265353a2e742dbcd943613e2d4
+  value: d515ae2fd864f6147c95b06a3464c227abf5ac6e
 card_changes_6403:
   id: 7844
   card_action_id: 8225
@@ -49817,59 +49822,59 @@ card_changes_6403:
   value: f
 card_changes_6404:
   id: 7845
-  card_action_id: 8226
+  card_action_id: 8220
   field: 0
-  value: Optic fan+*account+*email
+  value: Big Brother+*account
 card_changes_6405:
   id: 7846
-  card_action_id: 8226
+  card_action_id: 8220
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6406:
   id: 7847
-  card_action_id: 8226
+  card_action_id: 8220
   field: 2
-  value: optic-fan@user.com
+  value: ''
 card_changes_6407:
   id: 7848
-  card_action_id: 8226
+  card_action_id: 8220
   field: 3
   value: f
 card_changes_6408:
   id: 7849
-  card_action_id: 8227
+  card_action_id: 8219
   field: 0
-  value: Optic fan+*account+*salt
+  value: Big Brother
 card_changes_6409:
   id: 7850
-  card_action_id: 8227
+  card_action_id: 8219
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6410:
   id: 7851
-  card_action_id: 8227
+  card_action_id: 8219
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: ''
 card_changes_6411:
   id: 7852
-  card_action_id: 8227
+  card_action_id: 8219
   field: 3
   value: f
 card_changes_6412:
   id: 7853
   card_action_id: 8228
   field: 0
-  value: Optic fan+*account+*status
+  value: Optic fan+*account+*password
 card_changes_6413:
   id: 7854
   card_action_id: 8228
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6414:
   id: 7855
   card_action_id: 8228
   field: 2
-  value: pending
+  value: f749036a8ba957265353a2e742dbcd943613e2d4
 card_changes_6415:
   id: 7856
   card_action_id: 8228
@@ -49879,17 +49884,17 @@ card_changes_6416:
   id: 7857
   card_action_id: 8229
   field: 0
-  value: Optic fan+*account+*token
+  value: Optic fan+*account+*email
 card_changes_6417:
   id: 7858
   card_action_id: 8229
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6418:
   id: 7859
   card_action_id: 8229
   field: 2
-  value: d515ae2fd864f6147c95b06a3464c227abf5ac6e
+  value: optic-fan@user.com
 card_changes_6419:
   id: 7860
   card_action_id: 8229
@@ -49897,59 +49902,59 @@ card_changes_6419:
   value: f
 card_changes_6420:
   id: 7861
-  card_action_id: 8224
+  card_action_id: 8230
   field: 0
-  value: Optic fan+*account
+  value: Optic fan+*account+*salt
 card_changes_6421:
   id: 7862
-  card_action_id: 8224
+  card_action_id: 8230
   field: 1
   value: '3'
 card_changes_6422:
   id: 7863
-  card_action_id: 8224
+  card_action_id: 8230
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6423:
   id: 7864
-  card_action_id: 8224
+  card_action_id: 8230
   field: 3
   value: f
 card_changes_6424:
   id: 7865
-  card_action_id: 8223
+  card_action_id: 8231
   field: 0
-  value: Optic fan
+  value: Optic fan+*account+*status
 card_changes_6425:
   id: 7866
-  card_action_id: 8223
+  card_action_id: 8231
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6426:
   id: 7867
-  card_action_id: 8223
+  card_action_id: 8231
   field: 2
-  value: ''
+  value: pending
 card_changes_6427:
   id: 7868
-  card_action_id: 8223
+  card_action_id: 8231
   field: 3
   value: f
 card_changes_6428:
   id: 7869
   card_action_id: 8232
   field: 0
-  value: Sunglasses fan+*account+*password
+  value: Optic fan+*account+*token
 card_changes_6429:
   id: 7870
   card_action_id: 8232
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6430:
   id: 7871
   card_action_id: 8232
   field: 2
-  value: 6487196f0fdcd9348d16f2a1a4bb0edba94926cd
+  value: 251465dbce79c243f2f633c6029e2cafb4f7bf07
 card_changes_6431:
   id: 7872
   card_action_id: 8232
@@ -49957,59 +49962,59 @@ card_changes_6431:
   value: f
 card_changes_6432:
   id: 7873
-  card_action_id: 8233
+  card_action_id: 8227
   field: 0
-  value: Sunglasses fan+*account+*email
+  value: Optic fan+*account
 card_changes_6433:
   id: 7874
-  card_action_id: 8233
+  card_action_id: 8227
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6434:
   id: 7875
-  card_action_id: 8233
+  card_action_id: 8227
   field: 2
-  value: sunglasses-fan@user.com
+  value: ''
 card_changes_6435:
   id: 7876
-  card_action_id: 8233
+  card_action_id: 8227
   field: 3
   value: f
 card_changes_6436:
   id: 7877
-  card_action_id: 8234
+  card_action_id: 8226
   field: 0
-  value: Sunglasses fan+*account+*salt
+  value: Optic fan
 card_changes_6437:
   id: 7878
-  card_action_id: 8234
+  card_action_id: 8226
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6438:
   id: 7879
-  card_action_id: 8234
+  card_action_id: 8226
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: ''
 card_changes_6439:
   id: 7880
-  card_action_id: 8234
+  card_action_id: 8226
   field: 3
   value: f
 card_changes_6440:
   id: 7881
   card_action_id: 8235
   field: 0
-  value: Sunglasses fan+*account+*status
+  value: Sunglasses fan+*account+*password
 card_changes_6441:
   id: 7882
   card_action_id: 8235
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6442:
   id: 7883
   card_action_id: 8235
   field: 2
-  value: pending
+  value: 6487196f0fdcd9348d16f2a1a4bb0edba94926cd
 card_changes_6443:
   id: 7884
   card_action_id: 8235
@@ -50019,17 +50024,17 @@ card_changes_6444:
   id: 7885
   card_action_id: 8236
   field: 0
-  value: Sunglasses fan+*account+*token
+  value: Sunglasses fan+*account+*email
 card_changes_6445:
   id: 7886
   card_action_id: 8236
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6446:
   id: 7887
   card_action_id: 8236
   field: 2
-  value: 4c943539523802c23773ef5c2c1ec9b8873adae8
+  value: sunglasses-fan@user.com
 card_changes_6447:
   id: 7888
   card_action_id: 8236
@@ -50037,59 +50042,59 @@ card_changes_6447:
   value: f
 card_changes_6448:
   id: 7889
-  card_action_id: 8231
+  card_action_id: 8237
   field: 0
-  value: Sunglasses fan+*account
+  value: Sunglasses fan+*account+*salt
 card_changes_6449:
   id: 7890
-  card_action_id: 8231
+  card_action_id: 8237
   field: 1
   value: '3'
 card_changes_6450:
   id: 7891
-  card_action_id: 8231
+  card_action_id: 8237
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6451:
   id: 7892
-  card_action_id: 8231
+  card_action_id: 8237
   field: 3
   value: f
 card_changes_6452:
   id: 7893
-  card_action_id: 8230
+  card_action_id: 8238
   field: 0
-  value: Sunglasses fan
+  value: Sunglasses fan+*account+*status
 card_changes_6453:
   id: 7894
-  card_action_id: 8230
+  card_action_id: 8238
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6454:
   id: 7895
-  card_action_id: 8230
+  card_action_id: 8238
   field: 2
-  value: ''
+  value: pending
 card_changes_6455:
   id: 7896
-  card_action_id: 8230
+  card_action_id: 8238
   field: 3
   value: f
 card_changes_6456:
   id: 7897
   card_action_id: 8239
   field: 0
-  value: Narcissist+*account+*password
+  value: Sunglasses fan+*account+*token
 card_changes_6457:
   id: 7898
   card_action_id: 8239
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6458:
   id: 7899
   card_action_id: 8239
   field: 2
-  value: a6fcb3a6c2695ffc438b9dceb1aab98a751490b5
+  value: 4c943539523802c23773ef5c2c1ec9b8873adae8
 card_changes_6459:
   id: 7900
   card_action_id: 8239
@@ -50097,59 +50102,59 @@ card_changes_6459:
   value: f
 card_changes_6460:
   id: 7901
-  card_action_id: 8240
+  card_action_id: 8234
   field: 0
-  value: Narcissist+*account+*email
+  value: Sunglasses fan+*account
 card_changes_6461:
   id: 7902
-  card_action_id: 8240
+  card_action_id: 8234
   field: 1
-  value: '52'
+  value: '3'
 card_changes_6462:
   id: 7903
-  card_action_id: 8240
+  card_action_id: 8234
   field: 2
-  value: narcissist@user.com
+  value: ''
 card_changes_6463:
   id: 7904
-  card_action_id: 8240
+  card_action_id: 8234
   field: 3
   value: f
 card_changes_6464:
   id: 7905
-  card_action_id: 8241
+  card_action_id: 8233
   field: 0
-  value: Narcissist+*account+*salt
+  value: Sunglasses fan
 card_changes_6465:
   id: 7906
-  card_action_id: 8241
+  card_action_id: 8233
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6466:
   id: 7907
-  card_action_id: 8241
+  card_action_id: 8233
   field: 2
-  value: e283b45d277354270ba19faf2991f0b93ab84d3e
+  value: ''
 card_changes_6467:
   id: 7908
-  card_action_id: 8241
+  card_action_id: 8233
   field: 3
   value: f
 card_changes_6468:
   id: 7909
   card_action_id: 8242
   field: 0
-  value: Narcissist+*account+*status
+  value: Narcissist+*account+*password
 card_changes_6469:
   id: 7910
   card_action_id: 8242
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6470:
   id: 7911
   card_action_id: 8242
   field: 2
-  value: pending
+  value: a6fcb3a6c2695ffc438b9dceb1aab98a751490b5
 card_changes_6471:
   id: 7912
   card_action_id: 8242
@@ -50159,17 +50164,17 @@ card_changes_6472:
   id: 7913
   card_action_id: 8243
   field: 0
-  value: Narcissist+*account+*token
+  value: Narcissist+*account+*email
 card_changes_6473:
   id: 7914
   card_action_id: 8243
   field: 1
-  value: '3'
+  value: '52'
 card_changes_6474:
   id: 7915
   card_action_id: 8243
   field: 2
-  value: 9761767e9fe67bf6cd0889af97932e411ee2cc3b
+  value: narcissist@user.com
 card_changes_6475:
   id: 7916
   card_action_id: 8243
@@ -50177,120 +50182,119 @@ card_changes_6475:
   value: f
 card_changes_6476:
   id: 7917
-  card_action_id: 8238
+  card_action_id: 8244
   field: 0
-  value: Narcissist+*account
+  value: Narcissist+*account+*salt
 card_changes_6477:
   id: 7918
-  card_action_id: 8238
+  card_action_id: 8244
   field: 1
   value: '3'
 card_changes_6478:
   id: 7919
-  card_action_id: 8238
+  card_action_id: 8244
   field: 2
-  value: ''
+  value: e283b45d277354270ba19faf2991f0b93ab84d3e
 card_changes_6479:
   id: 7920
-  card_action_id: 8238
+  card_action_id: 8244
   field: 3
   value: f
 card_changes_6480:
   id: 7921
-  card_action_id: 8237
+  card_action_id: 8245
   field: 0
-  value: Narcissist
+  value: Narcissist+*account+*status
 card_changes_6481:
   id: 7922
-  card_action_id: 8237
+  card_action_id: 8245
   field: 1
-  value: '4'
+  value: '3'
 card_changes_6482:
   id: 7923
-  card_action_id: 8237
+  card_action_id: 8245
   field: 2
-  value: ''
+  value: pending
 card_changes_6483:
   id: 7924
-  card_action_id: 8237
+  card_action_id: 8245
   field: 3
   value: f
 card_changes_6484:
   id: 7925
-  card_action_id: 8244
+  card_action_id: 8246
   field: 0
-  value: All Eyes On Me
+  value: Narcissist+*account+*token
 card_changes_6485:
   id: 7926
-  card_action_id: 8244
+  card_action_id: 8246
   field: 1
   value: '3'
 card_changes_6486:
   id: 7927
-  card_action_id: 8244
+  card_action_id: 8246
   field: 2
-  value: ''
+  value: 049110f01d2c14692699b9badc449225226ad288
 card_changes_6487:
   id: 7928
-  card_action_id: 8244
+  card_action_id: 8246
   field: 3
   value: f
 card_changes_6488:
   id: 7929
-  card_action_id: 8245
+  card_action_id: 8241
   field: 0
-  value: No One Sees Me
+  value: Narcissist+*account
 card_changes_6489:
   id: 7930
-  card_action_id: 8245
+  card_action_id: 8241
   field: 1
   value: '3'
 card_changes_6490:
   id: 7931
-  card_action_id: 8245
+  card_action_id: 8241
   field: 2
   value: ''
 card_changes_6491:
   id: 7932
-  card_action_id: 8245
+  card_action_id: 8241
   field: 3
   value: f
 card_changes_6492:
   id: 7933
-  card_action_id: 8246
+  card_action_id: 8240
   field: 0
-  value: Look At Me
+  value: Narcissist
 card_changes_6493:
   id: 7934
-  card_action_id: 8246
+  card_action_id: 8240
   field: 1
-  value: '3'
+  value: '4'
 card_changes_6494:
   id: 7935
-  card_action_id: 8246
+  card_action_id: 8240
   field: 2
   value: ''
 card_changes_6495:
   id: 7936
-  card_action_id: 8246
+  card_action_id: 8240
   field: 3
   value: f
 card_changes_6496:
   id: 7937
   card_action_id: 8247
   field: 0
-  value: Optic
+  value: All Eyes On Me
 card_changes_6497:
   id: 7938
   card_action_id: 8247
   field: 1
-  value: '5'
+  value: '3'
 card_changes_6498:
   id: 7939
   card_action_id: 8247
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_6499:
   id: 7940
   card_action_id: 8247
@@ -50300,7 +50304,7 @@ card_changes_6500:
   id: 7941
   card_action_id: 8248
   field: 0
-  value: Sara Following
+  value: No One Sees Me
 card_changes_6501:
   id: 7942
   card_action_id: 8248
@@ -50320,7 +50324,7 @@ card_changes_6504:
   id: 7945
   card_action_id: 8249
   field: 0
-  value: John Following
+  value: Look At Me
 card_changes_6505:
   id: 7946
   card_action_id: 8249
@@ -50330,7 +50334,7 @@ card_changes_6506:
   id: 7947
   card_action_id: 8249
   field: 2
-  value: "{{+her}}"
+  value: ''
 card_changes_6507:
   id: 7948
   card_action_id: 8249
@@ -50338,69 +50342,70 @@ card_changes_6507:
   value: f
 card_changes_6508:
   id: 7949
-  card_action_id: 8251
+  card_action_id: 8250
   field: 0
-  value: her
+  value: Optic
 card_changes_6509:
   id: 7950
-  card_action_id: 8251
+  card_action_id: 8250
   field: 1
-  value: '3'
+  value: '5'
 card_changes_6510:
   id: 7951
-  card_action_id: 8251
+  card_action_id: 8250
   field: 2
-  value: ''
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_6511:
   id: 7952
-  card_action_id: 8251
+  card_action_id: 8250
   field: 3
   value: f
 card_changes_6512:
   id: 7953
-  card_action_id: 8250
+  card_action_id: 8251
   field: 0
-  value: John Following+her
+  value: Sara Following
 card_changes_6513:
   id: 7954
-  card_action_id: 8250
+  card_action_id: 8251
   field: 1
   value: '3'
 card_changes_6514:
   id: 7955
-  card_action_id: 8250
+  card_action_id: 8251
   field: 2
   value: ''
 card_changes_6515:
   id: 7956
-  card_action_id: 8250
+  card_action_id: 8251
   field: 3
   value: f
 card_changes_6516:
   id: 7957
-  card_action_id: 8253
+  card_action_id: 8252
   field: 0
-  value: Magnifier
+  value: John Following
 card_changes_6517:
   id: 7958
-  card_action_id: 8253
+  card_action_id: 8252
   field: 1
   value: '3'
 card_changes_6518:
   id: 7959
-  card_action_id: 8253
+  card_action_id: 8252
   field: 2
-  value: ''
+  value: "{{+her}}"
 card_changes_6519:
   id: 7960
-  card_action_id: 8253
+  card_action_id: 8252
   field: 3
   value: f
 card_changes_6520:
   id: 7961
   card_action_id: 8254
   field: 0
-  value: lens
+  value: her
 card_changes_6521:
   id: 7962
   card_action_id: 8254
@@ -50418,444 +50423,444 @@ card_changes_6523:
   value: f
 card_changes_6524:
   id: 7965
-  card_action_id: 8252
+  card_action_id: 8253
   field: 0
-  value: Magnifier+lens
+  value: John Following+her
 card_changes_6525:
   id: 7966
-  card_action_id: 8252
+  card_action_id: 8253
   field: 1
   value: '3'
 card_changes_6526:
   id: 7967
-  card_action_id: 8252
+  card_action_id: 8253
   field: 2
   value: ''
 card_changes_6527:
   id: 7968
-  card_action_id: 8252
+  card_action_id: 8253
   field: 3
   value: f
 card_changes_6528:
   id: 7969
-  card_action_id: 8255
-  field: 2
-  value: zoom in
+  card_action_id: 8256
+  field: 0
+  value: Magnifier
 card_changes_6529:
   id: 7970
-  card_action_id: 8258
-  field: 0
-  value: Sunglasses
+  card_action_id: 8256
+  field: 1
+  value: '3'
 card_changes_6530:
   id: 7971
-  card_action_id: 8258
-  field: 1
-  value: '1781'
-card_changes_6531:
-  id: 7972
-  card_action_id: 8258
-  field: 2
-  value: "{{+tint}}{{+lens}}"
-card_changes_6532:
-  id: 7973
-  card_action_id: 8258
-  field: 3
-  value: f
-card_changes_6533:
-  id: 7974
-  card_action_id: 8259
-  field: 0
-  value: Google glass
-card_changes_6534:
-  id: 7975
-  card_action_id: 8259
-  field: 1
-  value: '1781'
-card_changes_6535:
-  id: 7976
-  card_action_id: 8259
-  field: 2
-  value: "{{+price}}"
-card_changes_6536:
-  id: 7977
-  card_action_id: 8259
-  field: 3
-  value: f
-card_changes_6537:
-  id: 7978
-  card_action_id: 8261
-  field: 0
-  value: Google glass+*self
-card_changes_6538:
-  id: 7979
-  card_action_id: 8261
-  field: 1
-  value: '259'
-card_changes_6539:
-  id: 7980
-  card_action_id: 8261
-  field: 2
-  value: '{"name":"_left"}'
-card_changes_6540:
-  id: 7981
-  card_action_id: 8261
-  field: 3
-  value: f
-card_changes_6541:
-  id: 7982
-  card_action_id: 8260
-  field: 0
-  value: Google glass+*self+*follow_fields
-card_changes_6542:
-  id: 7983
-  card_action_id: 8260
-  field: 1
-  value: '47'
-card_changes_6543:
-  id: 7984
-  card_action_id: 8260
+  card_action_id: 8256
   field: 2
   value: ''
+card_changes_6531:
+  id: 7972
+  card_action_id: 8256
+  field: 3
+  value: f
+card_changes_6532:
+  id: 7973
+  card_action_id: 8257
+  field: 0
+  value: lens
+card_changes_6533:
+  id: 7974
+  card_action_id: 8257
+  field: 1
+  value: '3'
+card_changes_6534:
+  id: 7975
+  card_action_id: 8257
+  field: 2
+  value: ''
+card_changes_6535:
+  id: 7976
+  card_action_id: 8257
+  field: 3
+  value: f
+card_changes_6536:
+  id: 7977
+  card_action_id: 8255
+  field: 0
+  value: Magnifier+lens
+card_changes_6537:
+  id: 7978
+  card_action_id: 8255
+  field: 1
+  value: '3'
+card_changes_6538:
+  id: 7979
+  card_action_id: 8255
+  field: 2
+  value: ''
+card_changes_6539:
+  id: 7980
+  card_action_id: 8255
+  field: 3
+  value: f
+card_changes_6540:
+  id: 7981
+  card_action_id: 8258
+  field: 2
+  value: zoom in
+card_changes_6541:
+  id: 7982
+  card_action_id: 8261
+  field: 0
+  value: Sunglasses
+card_changes_6542:
+  id: 7983
+  card_action_id: 8261
+  field: 1
+  value: '1784'
+card_changes_6543:
+  id: 7984
+  card_action_id: 8261
+  field: 2
+  value: "{{+tint}}{{+lens}}"
 card_changes_6544:
   id: 7985
-  card_action_id: 8260
+  card_action_id: 8261
   field: 3
   value: f
 card_changes_6545:
   id: 7986
   card_action_id: 8262
+  field: 0
+  value: Google glass
+card_changes_6546:
+  id: 7987
+  card_action_id: 8262
+  field: 1
+  value: '1784'
+card_changes_6547:
+  id: 7988
+  card_action_id: 8262
+  field: 2
+  value: "{{+price}}"
+card_changes_6548:
+  id: 7989
+  card_action_id: 8262
+  field: 3
+  value: f
+card_changes_6549:
+  id: 7990
+  card_action_id: 8264
+  field: 0
+  value: Google glass+*self
+card_changes_6550:
+  id: 7991
+  card_action_id: 8264
+  field: 1
+  value: '259'
+card_changes_6551:
+  id: 7992
+  card_action_id: 8264
+  field: 2
+  value: '{"name":"_left"}'
+card_changes_6552:
+  id: 7993
+  card_action_id: 8264
+  field: 3
+  value: f
+card_changes_6553:
+  id: 7994
+  card_action_id: 8263
+  field: 0
+  value: Google glass+*self+*follow_fields
+card_changes_6554:
+  id: 7995
+  card_action_id: 8263
+  field: 1
+  value: '47'
+card_changes_6555:
+  id: 7996
+  card_action_id: 8263
+  field: 2
+  value: ''
+card_changes_6556:
+  id: 7997
+  card_action_id: 8263
+  field: 3
+  value: f
+card_changes_6557:
+  id: 7998
+  card_action_id: 8265
   field: 2
   value: |-
     [[*follow_fields]]
     [[*structure]]
     [[*create]]
-card_changes_6546:
-  id: 7987
-  card_action_id: 8264
+card_changes_6558:
+  id: 7999
+  card_action_id: 8267
   field: 0
   value: Sunglasses+*self
-card_changes_6547:
-  id: 7988
-  card_action_id: 8264
+card_changes_6559:
+  id: 8000
+  card_action_id: 8267
   field: 1
   value: '259'
-card_changes_6548:
-  id: 7989
-  card_action_id: 8264
+card_changes_6560:
+  id: 8001
+  card_action_id: 8267
   field: 2
   value: '{"name":"_left"}'
-card_changes_6549:
-  id: 7990
-  card_action_id: 8264
+card_changes_6561:
+  id: 8002
+  card_action_id: 8267
   field: 3
   value: f
-card_changes_6550:
-  id: 7991
-  card_action_id: 8263
+card_changes_6562:
+  id: 8003
+  card_action_id: 8266
   field: 0
   value: Sunglasses+*self+*follow_fields
-card_changes_6551:
-  id: 7992
-  card_action_id: 8263
+card_changes_6563:
+  id: 8004
+  card_action_id: 8266
   field: 1
   value: '47'
-card_changes_6552:
-  id: 7993
-  card_action_id: 8263
+card_changes_6564:
+  id: 8005
+  card_action_id: 8266
   field: 2
   value: |-
     [[*includes]]
     [[_self+price]]
     [[_self+producer]]
-card_changes_6553:
-  id: 7994
-  card_action_id: 8263
-  field: 3
-  value: f
-card_changes_6554:
-  id: 7995
-  card_action_id: 8267
-  field: 0
-  value: tint
-card_changes_6555:
-  id: 7996
-  card_action_id: 8267
-  field: 1
-  value: '3'
-card_changes_6556:
-  id: 7997
-  card_action_id: 8267
-  field: 2
-  value: ''
-card_changes_6557:
-  id: 7998
-  card_action_id: 8267
-  field: 3
-  value: f
-card_changes_6558:
-  id: 7999
-  card_action_id: 8266
-  field: 0
-  value: Sunglasses+tint
-card_changes_6559:
-  id: 8000
-  card_action_id: 8266
-  field: 1
-  value: '3'
-card_changes_6560:
-  id: 8001
-  card_action_id: 8266
-  field: 2
-  value: ''
-card_changes_6561:
-  id: 8002
-  card_action_id: 8266
-  field: 3
-  value: f
-card_changes_6562:
-  id: 8003
-  card_action_id: 8269
-  field: 0
-  value: price
-card_changes_6563:
-  id: 8004
-  card_action_id: 8269
-  field: 1
-  value: '3'
-card_changes_6564:
-  id: 8005
-  card_action_id: 8269
-  field: 2
-  value: ''
 card_changes_6565:
   id: 8006
-  card_action_id: 8269
+  card_action_id: 8266
   field: 3
   value: f
 card_changes_6566:
   id: 8007
-  card_action_id: 8268
+  card_action_id: 8270
   field: 0
-  value: Sunglasses+price
+  value: tint
 card_changes_6567:
   id: 8008
-  card_action_id: 8268
+  card_action_id: 8270
   field: 1
   value: '3'
 card_changes_6568:
   id: 8009
-  card_action_id: 8268
+  card_action_id: 8270
   field: 2
   value: ''
 card_changes_6569:
   id: 8010
-  card_action_id: 8268
+  card_action_id: 8270
   field: 3
   value: f
 card_changes_6570:
   id: 8011
-  card_action_id: 8272
+  card_action_id: 8269
   field: 0
-  value: John Following+*self
+  value: Sunglasses+tint
 card_changes_6571:
   id: 8012
-  card_action_id: 8272
+  card_action_id: 8269
   field: 1
-  value: '259'
+  value: '3'
 card_changes_6572:
   id: 8013
-  card_action_id: 8272
+  card_action_id: 8269
   field: 2
-  value: '{"name":"_left"}'
+  value: ''
 card_changes_6573:
   id: 8014
-  card_action_id: 8272
+  card_action_id: 8269
   field: 3
   value: f
 card_changes_6574:
   id: 8015
-  card_action_id: 8271
+  card_action_id: 8272
   field: 0
-  value: John Following+*self+John
+  value: price
 card_changes_6575:
   id: 8016
-  card_action_id: 8271
+  card_action_id: 8272
   field: 1
   value: '3'
 card_changes_6576:
   id: 8017
-  card_action_id: 8271
+  card_action_id: 8272
   field: 2
   value: ''
 card_changes_6577:
   id: 8018
-  card_action_id: 8271
+  card_action_id: 8272
   field: 3
   value: f
 card_changes_6578:
   id: 8019
-  card_action_id: 8270
+  card_action_id: 8271
   field: 0
-  value: John Following+*self+John+*follow
+  value: Sunglasses+price
 card_changes_6579:
   id: 8020
-  card_action_id: 8270
+  card_action_id: 8271
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6580:
   id: 8021
-  card_action_id: 8270
+  card_action_id: 8271
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6581:
   id: 8022
-  card_action_id: 8270
+  card_action_id: 8271
   field: 3
   value: f
 card_changes_6582:
   id: 8023
+  card_action_id: 8275
+  field: 0
+  value: John Following+*self
+card_changes_6583:
+  id: 8024
+  card_action_id: 8275
+  field: 1
+  value: '259'
+card_changes_6584:
+  id: 8025
+  card_action_id: 8275
+  field: 2
+  value: '{"name":"_left"}'
+card_changes_6585:
+  id: 8026
+  card_action_id: 8275
+  field: 3
+  value: f
+card_changes_6586:
+  id: 8027
+  card_action_id: 8274
+  field: 0
+  value: John Following+*self+John
+card_changes_6587:
+  id: 8028
+  card_action_id: 8274
+  field: 1
+  value: '3'
+card_changes_6588:
+  id: 8029
+  card_action_id: 8274
+  field: 2
+  value: ''
+card_changes_6589:
+  id: 8030
+  card_action_id: 8274
+  field: 3
+  value: f
+card_changes_6590:
+  id: 8031
   card_action_id: 8273
+  field: 0
+  value: John Following+*self+John+*follow
+card_changes_6591:
+  id: 8032
+  card_action_id: 8273
+  field: 1
+  value: '47'
+card_changes_6592:
+  id: 8033
+  card_action_id: 8273
+  field: 2
+  value: "[[*always]]"
+card_changes_6593:
+  id: 8034
+  card_action_id: 8273
+  field: 3
+  value: f
+card_changes_6594:
+  id: 8035
+  card_action_id: 8276
   field: 2
   value: |-
     [[*follow]]
     [[*follow_fields]]
     [[*structure]]
     [[*create]]
-card_changes_6583:
-  id: 8024
-  card_action_id: 8276
-  field: 0
-  value: All Eyes On Me+*self
-card_changes_6584:
-  id: 8025
-  card_action_id: 8276
-  field: 1
-  value: '259'
-card_changes_6585:
-  id: 8026
-  card_action_id: 8276
-  field: 2
-  value: '{"name":"_left"}'
-card_changes_6586:
-  id: 8027
-  card_action_id: 8276
-  field: 3
-  value: f
-card_changes_6587:
-  id: 8028
-  card_action_id: 8275
-  field: 0
-  value: All Eyes On Me+*self+John
-card_changes_6588:
-  id: 8029
-  card_action_id: 8275
-  field: 1
-  value: '3'
-card_changes_6589:
-  id: 8030
-  card_action_id: 8275
-  field: 2
-  value: ''
-card_changes_6590:
-  id: 8031
-  card_action_id: 8275
-  field: 3
-  value: f
-card_changes_6591:
-  id: 8032
-  card_action_id: 8274
-  field: 0
-  value: All Eyes On Me+*self+John+*follow
-card_changes_6592:
-  id: 8033
-  card_action_id: 8274
-  field: 1
-  value: '47'
-card_changes_6593:
-  id: 8034
-  card_action_id: 8274
-  field: 2
-  value: "[[*always]]"
-card_changes_6594:
-  id: 8035
-  card_action_id: 8274
-  field: 3
-  value: f
 card_changes_6595:
   id: 8036
-  card_action_id: 8280
+  card_action_id: 8279
   field: 0
-  value: Sara Following+*self
+  value: All Eyes On Me+*self
 card_changes_6596:
   id: 8037
-  card_action_id: 8280
+  card_action_id: 8279
   field: 1
   value: '259'
 card_changes_6597:
   id: 8038
-  card_action_id: 8280
+  card_action_id: 8279
   field: 2
   value: '{"name":"_left"}'
 card_changes_6598:
   id: 8039
-  card_action_id: 8280
+  card_action_id: 8279
   field: 3
   value: f
 card_changes_6599:
   id: 8040
-  card_action_id: 8279
+  card_action_id: 8278
   field: 0
-  value: Sara Following+*self+Sara
+  value: All Eyes On Me+*self+John
 card_changes_6600:
   id: 8041
-  card_action_id: 8279
+  card_action_id: 8278
   field: 1
   value: '3'
 card_changes_6601:
   id: 8042
-  card_action_id: 8279
+  card_action_id: 8278
   field: 2
   value: ''
 card_changes_6602:
   id: 8043
-  card_action_id: 8279
+  card_action_id: 8278
   field: 3
   value: f
 card_changes_6603:
   id: 8044
-  card_action_id: 8278
+  card_action_id: 8277
   field: 0
-  value: Sara Following+*self+Sara+*follow
+  value: All Eyes On Me+*self+John+*follow
 card_changes_6604:
   id: 8045
-  card_action_id: 8278
+  card_action_id: 8277
   field: 1
   value: '47'
 card_changes_6605:
   id: 8046
-  card_action_id: 8278
+  card_action_id: 8277
   field: 2
   value: "[[*always]]"
 card_changes_6606:
   id: 8047
-  card_action_id: 8278
+  card_action_id: 8277
   field: 3
   value: f
 card_changes_6607:
   id: 8048
   card_action_id: 8283
   field: 0
-  value: All Eyes On Me+*self+Sara
+  value: Sara Following+*self
 card_changes_6608:
   id: 8049
   card_action_id: 8283
   field: 1
-  value: '3'
+  value: '259'
 card_changes_6609:
   id: 8050
   card_action_id: 8283
   field: 2
-  value: ''
+  value: '{"name":"_left"}'
 card_changes_6610:
   id: 8051
   card_action_id: 8283
@@ -50865,17 +50870,17 @@ card_changes_6611:
   id: 8052
   card_action_id: 8282
   field: 0
-  value: All Eyes On Me+*self+Sara+*follow
+  value: Sara Following+*self+Sara
 card_changes_6612:
   id: 8053
   card_action_id: 8282
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6613:
   id: 8054
   card_action_id: 8282
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6614:
   id: 8055
   card_action_id: 8282
@@ -50883,29 +50888,29 @@ card_changes_6614:
   value: f
 card_changes_6615:
   id: 8056
-  card_action_id: 8287
+  card_action_id: 8281
   field: 0
-  value: Optic+*type
+  value: Sara Following+*self+Sara+*follow
 card_changes_6616:
   id: 8057
-  card_action_id: 8287
+  card_action_id: 8281
   field: 1
-  value: '259'
+  value: '47'
 card_changes_6617:
   id: 8058
-  card_action_id: 8287
+  card_action_id: 8281
   field: 2
-  value: '{"type":"_left"}'
+  value: "[[*always]]"
 card_changes_6618:
   id: 8059
-  card_action_id: 8287
+  card_action_id: 8281
   field: 3
   value: f
 card_changes_6619:
   id: 8060
   card_action_id: 8286
   field: 0
-  value: Optic+*type+Sara
+  value: All Eyes On Me+*self+Sara
 card_changes_6620:
   id: 8061
   card_action_id: 8286
@@ -50925,7 +50930,7 @@ card_changes_6623:
   id: 8064
   card_action_id: 8285
   field: 0
-  value: Optic+*type+Sara+*follow
+  value: All Eyes On Me+*self+Sara+*follow
 card_changes_6624:
   id: 8065
   card_action_id: 8285
@@ -50945,17 +50950,17 @@ card_changes_6627:
   id: 8068
   card_action_id: 8290
   field: 0
-  value: Google glass+*self+Sara
+  value: Optic+*type
 card_changes_6628:
   id: 8069
   card_action_id: 8290
   field: 1
-  value: '3'
+  value: '259'
 card_changes_6629:
   id: 8070
   card_action_id: 8290
   field: 2
-  value: ''
+  value: '{"type":"_left"}'
 card_changes_6630:
   id: 8071
   card_action_id: 8290
@@ -50965,17 +50970,17 @@ card_changes_6631:
   id: 8072
   card_action_id: 8289
   field: 0
-  value: Google glass+*self+Sara+*follow
+  value: Optic+*type+Sara
 card_changes_6632:
   id: 8073
   card_action_id: 8289
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6633:
   id: 8074
   card_action_id: 8289
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6634:
   id: 8075
   card_action_id: 8289
@@ -50983,69 +50988,69 @@ card_changes_6634:
   value: f
 card_changes_6635:
   id: 8076
-  card_action_id: 8293
+  card_action_id: 8288
   field: 0
-  value: All Eyes On Me+*self+Big Brother
+  value: Optic+*type+Sara+*follow
 card_changes_6636:
   id: 8077
-  card_action_id: 8293
+  card_action_id: 8288
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6637:
   id: 8078
-  card_action_id: 8293
+  card_action_id: 8288
   field: 2
-  value: ''
+  value: "[[*always]]"
 card_changes_6638:
   id: 8079
-  card_action_id: 8293
+  card_action_id: 8288
   field: 3
   value: f
 card_changes_6639:
   id: 8080
-  card_action_id: 8292
+  card_action_id: 8293
   field: 0
-  value: All Eyes On Me+*self+Big Brother+*follow
+  value: Google glass+*self+Sara
 card_changes_6640:
   id: 8081
-  card_action_id: 8292
+  card_action_id: 8293
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6641:
   id: 8082
-  card_action_id: 8292
+  card_action_id: 8293
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6642:
   id: 8083
-  card_action_id: 8292
+  card_action_id: 8293
   field: 3
   value: f
 card_changes_6643:
   id: 8084
-  card_action_id: 8297
+  card_action_id: 8292
   field: 0
-  value: Look at me+*self
+  value: Google glass+*self+Sara+*follow
 card_changes_6644:
   id: 8085
-  card_action_id: 8297
+  card_action_id: 8292
   field: 1
-  value: '259'
+  value: '47'
 card_changes_6645:
   id: 8086
-  card_action_id: 8297
+  card_action_id: 8292
   field: 2
-  value: '{"name":"_left"}'
+  value: "[[*always]]"
 card_changes_6646:
   id: 8087
-  card_action_id: 8297
+  card_action_id: 8292
   field: 3
   value: f
 card_changes_6647:
   id: 8088
   card_action_id: 8296
   field: 0
-  value: Look at me+*self+Big Brother
+  value: All Eyes On Me+*self+Big Brother
 card_changes_6648:
   id: 8089
   card_action_id: 8296
@@ -51065,7 +51070,7 @@ card_changes_6651:
   id: 8092
   card_action_id: 8295
   field: 0
-  value: Look at me+*self+Big Brother+*follow
+  value: All Eyes On Me+*self+Big Brother+*follow
 card_changes_6652:
   id: 8093
   card_action_id: 8295
@@ -51085,17 +51090,17 @@ card_changes_6655:
   id: 8096
   card_action_id: 8300
   field: 0
-  value: Optic+*type+Big Brother
+  value: Look at me+*self
 card_changes_6656:
   id: 8097
   card_action_id: 8300
   field: 1
-  value: '3'
+  value: '259'
 card_changes_6657:
   id: 8098
   card_action_id: 8300
   field: 2
-  value: ''
+  value: '{"name":"_left"}'
 card_changes_6658:
   id: 8099
   card_action_id: 8300
@@ -51105,17 +51110,17 @@ card_changes_6659:
   id: 8100
   card_action_id: 8299
   field: 0
-  value: Optic+*type+Big Brother+*follow
+  value: Look at me+*self+Big Brother
 card_changes_6660:
   id: 8101
   card_action_id: 8299
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6661:
   id: 8102
   card_action_id: 8299
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6662:
   id: 8103
   card_action_id: 8299
@@ -51123,29 +51128,29 @@ card_changes_6662:
   value: f
 card_changes_6663:
   id: 8104
-  card_action_id: 8304
+  card_action_id: 8298
   field: 0
-  value: lens+*right
+  value: Look at me+*self+Big Brother+*follow
 card_changes_6664:
   id: 8105
-  card_action_id: 8304
+  card_action_id: 8298
   field: 1
-  value: '259'
+  value: '47'
 card_changes_6665:
   id: 8106
-  card_action_id: 8304
+  card_action_id: 8298
   field: 2
-  value: '{"right":"_left"}'
+  value: "[[*always]]"
 card_changes_6666:
   id: 8107
-  card_action_id: 8304
+  card_action_id: 8298
   field: 3
   value: f
 card_changes_6667:
   id: 8108
   card_action_id: 8303
   field: 0
-  value: lens+*right+Big Brother
+  value: Optic+*type+Big Brother
 card_changes_6668:
   id: 8109
   card_action_id: 8303
@@ -51165,7 +51170,7 @@ card_changes_6671:
   id: 8112
   card_action_id: 8302
   field: 0
-  value: lens+*right+Big Brother+*follow
+  value: Optic+*type+Big Brother+*follow
 card_changes_6672:
   id: 8113
   card_action_id: 8302
@@ -51183,301 +51188,361 @@ card_changes_6674:
   value: f
 card_changes_6675:
   id: 8116
-  card_action_id: 8309
+  card_action_id: 8307
   field: 0
-  value: Optic+tint
+  value: lens+*right
 card_changes_6676:
   id: 8117
-  card_action_id: 8309
+  card_action_id: 8307
   field: 1
-  value: '3'
+  value: '259'
 card_changes_6677:
   id: 8118
-  card_action_id: 8309
+  card_action_id: 8307
   field: 2
-  value: ''
+  value: '{"right":"_left"}'
 card_changes_6678:
   id: 8119
-  card_action_id: 8309
+  card_action_id: 8307
   field: 3
   value: f
 card_changes_6679:
   id: 8120
-  card_action_id: 8308
+  card_action_id: 8306
   field: 0
-  value: Optic+tint+*type plus right
+  value: lens+*right+Big Brother
 card_changes_6680:
   id: 8121
-  card_action_id: 8308
+  card_action_id: 8306
   field: 1
-  value: '259'
+  value: '3'
 card_changes_6681:
   id: 8122
-  card_action_id: 8308
+  card_action_id: 8306
   field: 2
-  value: '{"left":{"type":"_LL"}, "right":"_LR"}'
+  value: ''
 card_changes_6682:
   id: 8123
-  card_action_id: 8308
+  card_action_id: 8306
   field: 3
   value: f
 card_changes_6683:
   id: 8124
-  card_action_id: 8307
+  card_action_id: 8305
   field: 0
-  value: Optic+tint+*type plus right+Big Brother
+  value: lens+*right+Big Brother+*follow
 card_changes_6684:
   id: 8125
-  card_action_id: 8307
+  card_action_id: 8305
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6685:
   id: 8126
-  card_action_id: 8307
+  card_action_id: 8305
   field: 2
-  value: ''
+  value: "[[*always]]"
 card_changes_6686:
   id: 8127
-  card_action_id: 8307
+  card_action_id: 8305
   field: 3
   value: f
 card_changes_6687:
   id: 8128
-  card_action_id: 8306
+  card_action_id: 8312
   field: 0
-  value: Optic+tint+*type plus right+Big Brother+*follow
+  value: Optic+tint
 card_changes_6688:
   id: 8129
-  card_action_id: 8306
+  card_action_id: 8312
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6689:
   id: 8130
-  card_action_id: 8306
+  card_action_id: 8312
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6690:
   id: 8131
-  card_action_id: 8306
+  card_action_id: 8312
   field: 3
   value: f
 card_changes_6691:
   id: 8132
-  card_action_id: 8312
+  card_action_id: 8311
   field: 0
-  value: "*all+Big Brother"
+  value: Optic+tint+*type plus right
 card_changes_6692:
   id: 8133
-  card_action_id: 8312
+  card_action_id: 8311
   field: 1
-  value: '3'
+  value: '259'
 card_changes_6693:
   id: 8134
-  card_action_id: 8312
+  card_action_id: 8311
   field: 2
-  value: ''
+  value: '{"left":{"type":"_LL"}, "right":"_LR"}'
 card_changes_6694:
   id: 8135
-  card_action_id: 8312
+  card_action_id: 8311
   field: 3
   value: f
 card_changes_6695:
   id: 8136
-  card_action_id: 8311
+  card_action_id: 8310
   field: 0
-  value: "*all+Big Brother+*follow"
+  value: Optic+tint+*type plus right+Big Brother
 card_changes_6696:
   id: 8137
-  card_action_id: 8311
+  card_action_id: 8310
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6697:
   id: 8138
-  card_action_id: 8311
+  card_action_id: 8310
   field: 2
-  value: "[[*created]]"
+  value: ''
 card_changes_6698:
   id: 8139
-  card_action_id: 8311
+  card_action_id: 8310
   field: 3
   value: f
 card_changes_6699:
   id: 8140
+  card_action_id: 8309
+  field: 0
+  value: Optic+tint+*type plus right+Big Brother+*follow
+card_changes_6700:
+  id: 8141
+  card_action_id: 8309
+  field: 1
+  value: '47'
+card_changes_6701:
+  id: 8142
+  card_action_id: 8309
+  field: 2
+  value: "[[*always]]"
+card_changes_6702:
+  id: 8143
+  card_action_id: 8309
+  field: 3
+  value: f
+card_changes_6703:
+  id: 8144
+  card_action_id: 8315
+  field: 0
+  value: "*all+Big Brother"
+card_changes_6704:
+  id: 8145
+  card_action_id: 8315
+  field: 1
+  value: '3'
+card_changes_6705:
+  id: 8146
+  card_action_id: 8315
+  field: 2
+  value: ''
+card_changes_6706:
+  id: 8147
+  card_action_id: 8315
+  field: 3
+  value: f
+card_changes_6707:
+  id: 8148
   card_action_id: 8314
+  field: 0
+  value: "*all+Big Brother+*follow"
+card_changes_6708:
+  id: 8149
+  card_action_id: 8314
+  field: 1
+  value: '47'
+card_changes_6709:
+  id: 8150
+  card_action_id: 8314
+  field: 2
+  value: "[[*created]]"
+card_changes_6710:
+  id: 8151
+  card_action_id: 8314
+  field: 3
+  value: f
+card_changes_6711:
+  id: 8152
+  card_action_id: 8317
   field: 2
   value: |-
     [[*created]]
     [[*edited]]
-card_changes_6700:
-  id: 8141
-  card_action_id: 8317
-  field: 0
-  value: Optic+*type+Optic fan
-card_changes_6701:
-  id: 8142
-  card_action_id: 8317
-  field: 1
-  value: '3'
-card_changes_6702:
-  id: 8143
-  card_action_id: 8317
-  field: 2
-  value: ''
-card_changes_6703:
-  id: 8144
-  card_action_id: 8317
-  field: 3
-  value: f
-card_changes_6704:
-  id: 8145
-  card_action_id: 8316
-  field: 0
-  value: Optic+*type+Optic fan+*follow
-card_changes_6705:
-  id: 8146
-  card_action_id: 8316
-  field: 1
-  value: '47'
-card_changes_6706:
-  id: 8147
-  card_action_id: 8316
-  field: 2
-  value: "[[*always]]"
-card_changes_6707:
-  id: 8148
-  card_action_id: 8316
-  field: 3
-  value: f
-card_changes_6708:
-  id: 8149
-  card_action_id: 8320
-  field: 0
-  value: Sunglasses+*self+Sunglasses fan
-card_changes_6709:
-  id: 8150
-  card_action_id: 8320
-  field: 1
-  value: '3'
-card_changes_6710:
-  id: 8151
-  card_action_id: 8320
-  field: 2
-  value: ''
-card_changes_6711:
-  id: 8152
-  card_action_id: 8320
-  field: 3
-  value: f
 card_changes_6712:
   id: 8153
-  card_action_id: 8319
+  card_action_id: 8320
   field: 0
-  value: Sunglasses+*self+Sunglasses fan+*follow
+  value: Optic+*type+Optic fan
 card_changes_6713:
   id: 8154
-  card_action_id: 8319
+  card_action_id: 8320
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6714:
   id: 8155
-  card_action_id: 8319
+  card_action_id: 8320
   field: 2
-  value: "[[*always]]"
+  value: ''
 card_changes_6715:
   id: 8156
-  card_action_id: 8319
+  card_action_id: 8320
   field: 3
   value: f
 card_changes_6716:
   id: 8157
-  card_action_id: 8323
+  card_action_id: 8319
   field: 0
-  value: "*all+Narcissist"
+  value: Optic+*type+Optic fan+*follow
 card_changes_6717:
   id: 8158
-  card_action_id: 8323
+  card_action_id: 8319
   field: 1
-  value: '3'
+  value: '47'
 card_changes_6718:
   id: 8159
-  card_action_id: 8323
+  card_action_id: 8319
   field: 2
-  value: ''
+  value: "[[*always]]"
 card_changes_6719:
   id: 8160
-  card_action_id: 8323
+  card_action_id: 8319
   field: 3
   value: f
 card_changes_6720:
   id: 8161
-  card_action_id: 8322
+  card_action_id: 8323
   field: 0
-  value: "*all+Narcissist+*follow"
+  value: Sunglasses+*self+Sunglasses fan
 card_changes_6721:
   id: 8162
-  card_action_id: 8322
+  card_action_id: 8323
   field: 1
-  value: '47'
+  value: '3'
 card_changes_6722:
   id: 8163
-  card_action_id: 8322
+  card_action_id: 8323
   field: 2
-  value: "[[*created]]"
+  value: ''
 card_changes_6723:
   id: 8164
-  card_action_id: 8322
+  card_action_id: 8323
   field: 3
   value: f
 card_changes_6724:
   id: 8165
+  card_action_id: 8322
+  field: 0
+  value: Sunglasses+*self+Sunglasses fan+*follow
+card_changes_6725:
+  id: 8166
+  card_action_id: 8322
+  field: 1
+  value: '47'
+card_changes_6726:
+  id: 8167
+  card_action_id: 8322
+  field: 2
+  value: "[[*always]]"
+card_changes_6727:
+  id: 8168
+  card_action_id: 8322
+  field: 3
+  value: f
+card_changes_6728:
+  id: 8169
+  card_action_id: 8326
+  field: 0
+  value: "*all+Narcissist"
+card_changes_6729:
+  id: 8170
+  card_action_id: 8326
+  field: 1
+  value: '3'
+card_changes_6730:
+  id: 8171
+  card_action_id: 8326
+  field: 2
+  value: ''
+card_changes_6731:
+  id: 8172
+  card_action_id: 8326
+  field: 3
+  value: f
+card_changes_6732:
+  id: 8173
   card_action_id: 8325
+  field: 0
+  value: "*all+Narcissist+*follow"
+card_changes_6733:
+  id: 8174
+  card_action_id: 8325
+  field: 1
+  value: '47'
+card_changes_6734:
+  id: 8175
+  card_action_id: 8325
+  field: 2
+  value: "[[*created]]"
+card_changes_6735:
+  id: 8176
+  card_action_id: 8325
+  field: 3
+  value: f
+card_changes_6736:
+  id: 8177
+  card_action_id: 8328
   field: 2
   value: |-
     [[*created]]
     [[*edited]]
-card_changes_6725:
-  id: 8166
-  card_action_id: 8328
+card_changes_6737:
+  id: 8178
+  card_action_id: 8331
   field: 0
   value: Cardtype E+*type
-card_changes_6726:
-  id: 8167
-  card_action_id: 8328
+card_changes_6738:
+  id: 8179
+  card_action_id: 8331
   field: 1
   value: '259'
-card_changes_6727:
-  id: 8168
-  card_action_id: 8328
+card_changes_6739:
+  id: 8180
+  card_action_id: 8331
   field: 2
   value: '{"type":"_left"}'
-card_changes_6728:
-  id: 8169
-  card_action_id: 8328
+card_changes_6740:
+  id: 8181
+  card_action_id: 8331
   field: 3
   value: f
-card_changes_6729:
-  id: 8170
-  card_action_id: 8327
+card_changes_6741:
+  id: 8182
+  card_action_id: 8330
   field: 0
   value: Cardtype E+*type+*default
-card_changes_6730:
-  id: 8171
-  card_action_id: 8327
+card_changes_6742:
+  id: 8183
+  card_action_id: 8330
   field: 1
   value: '3'
-card_changes_6731:
-  id: 8172
-  card_action_id: 8327
+card_changes_6743:
+  id: 8184
+  card_action_id: 8330
   field: 2
   value: ''
-card_changes_6732:
-  id: 8173
-  card_action_id: 8327
+card_changes_6744:
+  id: 8185
+  card_action_id: 8330
   field: 3
   value: f
-card_changes_6733:
-  id: 8174
-  card_action_id: 8329
+card_changes_6745:
+  id: 8186
+  card_action_id: 8332
   field: 2
   value: |-
     [[*default]]
@@ -51485,70 +51550,70 @@ card_changes_6733:
     [[*follow_fields]]
     [[*structure]]
     [[*create]]
-card_changes_6734:
-  id: 8175
-  card_action_id: 8330
-  field: 0
-  value: Fruit
-card_changes_6735:
-  id: 8176
-  card_action_id: 8330
-  field: 1
-  value: '5'
-card_changes_6736:
-  id: 8177
-  card_action_id: 8330
-  field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
-card_changes_6737:
-  id: 8178
-  card_action_id: 8330
-  field: 3
-  value: f
-card_changes_6738:
-  id: 8179
-  card_action_id: 8332
-  field: 0
-  value: Fruit+*type
-card_changes_6739:
-  id: 8180
-  card_action_id: 8332
-  field: 1
-  value: '259'
-card_changes_6740:
-  id: 8181
-  card_action_id: 8332
-  field: 2
-  value: '{"type":"_left"}'
-card_changes_6741:
-  id: 8182
-  card_action_id: 8332
-  field: 3
-  value: f
-card_changes_6742:
-  id: 8183
-  card_action_id: 8331
-  field: 0
-  value: Fruit+*type+*create
-card_changes_6743:
-  id: 8184
-  card_action_id: 8331
-  field: 1
-  value: '47'
-card_changes_6744:
-  id: 8185
-  card_action_id: 8331
-  field: 2
-  value: "[[Anyone]]"
-card_changes_6745:
-  id: 8186
-  card_action_id: 8331
-  field: 3
-  value: f
 card_changes_6746:
   id: 8187
   card_action_id: 8333
+  field: 0
+  value: Fruit
+card_changes_6747:
+  id: 8188
+  card_action_id: 8333
+  field: 1
+  value: '5'
+card_changes_6748:
+  id: 8189
+  card_action_id: 8333
+  field: 2
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+card_changes_6749:
+  id: 8190
+  card_action_id: 8333
+  field: 3
+  value: f
+card_changes_6750:
+  id: 8191
+  card_action_id: 8335
+  field: 0
+  value: Fruit+*type
+card_changes_6751:
+  id: 8192
+  card_action_id: 8335
+  field: 1
+  value: '259'
+card_changes_6752:
+  id: 8193
+  card_action_id: 8335
+  field: 2
+  value: '{"type":"_left"}'
+card_changes_6753:
+  id: 8194
+  card_action_id: 8335
+  field: 3
+  value: f
+card_changes_6754:
+  id: 8195
+  card_action_id: 8334
+  field: 0
+  value: Fruit+*type+*create
+card_changes_6755:
+  id: 8196
+  card_action_id: 8334
+  field: 1
+  value: '47'
+card_changes_6756:
+  id: 8197
+  card_action_id: 8334
+  field: 2
+  value: "[[Anyone]]"
+card_changes_6757:
+  id: 8198
+  card_action_id: 8334
+  field: 3
+  value: f
+card_changes_6758:
+  id: 8199
+  card_action_id: 8336
   field: 2
   value: |-
     [[*create]]
@@ -51556,29 +51621,29 @@ card_changes_6746:
     [[*follow]]
     [[*follow_fields]]
     [[*structure]]
-card_changes_6747:
-  id: 8188
-  card_action_id: 8334
+card_changes_6759:
+  id: 8200
+  card_action_id: 8337
   field: 0
   value: Fruit+*type+*read
-card_changes_6748:
-  id: 8189
-  card_action_id: 8334
+card_changes_6760:
+  id: 8201
+  card_action_id: 8337
   field: 1
   value: '47'
-card_changes_6749:
-  id: 8190
-  card_action_id: 8334
+card_changes_6761:
+  id: 8202
+  card_action_id: 8337
   field: 2
   value: "[[Administrator]]"
-card_changes_6750:
-  id: 8191
-  card_action_id: 8334
+card_changes_6762:
+  id: 8203
+  card_action_id: 8337
   field: 3
   value: f
-card_changes_6751:
-  id: 8192
-  card_action_id: 8335
+card_changes_6763:
+  id: 8204
+  card_action_id: 8338
   field: 2
   value: |-
     [[*read]]
@@ -51587,72 +51652,11 @@ card_changes_6751:
     [[*follow]]
     [[*follow_fields]]
     [[*structure]]
-card_changes_6752:
-  id: 8193
-  card_action_id: 8336
-  field: 0
-  value: "*write"
-card_changes_6753:
-  id: 8194
-  card_action_id: 8336
-  field: 1
-  value: '3'
-card_changes_6754:
-  id: 8195
-  card_action_id: 8336
-  field: 2
-  value: ''
-card_changes_6755:
-  id: 8196
-  card_action_id: 8336
-  field: 3
-  value: f
-card_changes_6756:
-  id: 8197
-  card_action_id: 8337
-  field: 0
-  value: OnneHeading
-card_changes_6757:
-  id: 8198
-  card_action_id: 8337
-  field: 1
-  value: '3'
-card_changes_6758:
-  id: 8199
-  card_action_id: 8337
-  field: 2
-  value: "<h1>This is one heading</h1>\r\n<p>and some text</p>"
-card_changes_6759:
-  id: 8200
-  card_action_id: 8337
-  field: 3
-  value: f
-card_changes_6760:
-  id: 8201
-  card_action_id: 8338
-  field: 0
-  value: TwwoHeading
-card_changes_6761:
-  id: 8202
-  card_action_id: 8338
-  field: 1
-  value: '3'
-card_changes_6762:
-  id: 8203
-  card_action_id: 8338
-  field: 2
-  value: "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n<h2>And a Subheading</h2>\r\n<p>and
-    more text</p>"
-card_changes_6763:
-  id: 8204
-  card_action_id: 8338
-  field: 3
-  value: f
 card_changes_6764:
   id: 8205
   card_action_id: 8339
   field: 0
-  value: ThreeHeading
+  value: "*write"
 card_changes_6765:
   id: 8206
   card_action_id: 8339
@@ -51662,8 +51666,7 @@ card_changes_6766:
   id: 8207
   card_action_id: 8339
   field: 2
-  value: "<h1>A Heading</h1>\r\n<p>and text</p>\r\n<h2>And Subhead</h2>\r\n<p>text</p>\r\n<h1>And
-    another top Heading</h1>"
+  value: ''
 card_changes_6767:
   id: 8208
   card_action_id: 8339
@@ -51673,7 +51676,7 @@ card_changes_6768:
   id: 8209
   card_action_id: 8340
   field: 0
-  value: First
+  value: OnneHeading
 card_changes_6769:
   id: 8210
   card_action_id: 8340
@@ -51683,7 +51686,7 @@ card_changes_6770:
   id: 8211
   card_action_id: 8340
   field: 2
-  value: egg
+  value: "<h1>This is one heading</h1>\r\n<p>and some text</p>"
 card_changes_6771:
   id: 8212
   card_action_id: 8340
@@ -51692,10 +51695,72 @@ card_changes_6771:
 card_changes_6772:
   id: 8213
   card_action_id: 8341
-  field: 2
-  value: chicken
+  field: 0
+  value: TwwoHeading
 card_changes_6773:
   id: 8214
+  card_action_id: 8341
+  field: 1
+  value: '3'
+card_changes_6774:
+  id: 8215
+  card_action_id: 8341
+  field: 2
+  value: "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n<h2>And a Subheading</h2>\r\n<p>and
+    more text</p>"
+card_changes_6775:
+  id: 8216
+  card_action_id: 8341
+  field: 3
+  value: f
+card_changes_6776:
+  id: 8217
   card_action_id: 8342
+  field: 0
+  value: ThreeHeading
+card_changes_6777:
+  id: 8218
+  card_action_id: 8342
+  field: 1
+  value: '3'
+card_changes_6778:
+  id: 8219
+  card_action_id: 8342
+  field: 2
+  value: "<h1>A Heading</h1>\r\n<p>and text</p>\r\n<h2>And Subhead</h2>\r\n<p>text</p>\r\n<h1>And
+    another top Heading</h1>"
+card_changes_6779:
+  id: 8220
+  card_action_id: 8342
+  field: 3
+  value: f
+card_changes_6780:
+  id: 8221
+  card_action_id: 8343
+  field: 0
+  value: First
+card_changes_6781:
+  id: 8222
+  card_action_id: 8343
+  field: 1
+  value: '3'
+card_changes_6782:
+  id: 8223
+  card_action_id: 8343
+  field: 2
+  value: egg
+card_changes_6783:
+  id: 8224
+  card_action_id: 8343
+  field: 3
+  value: f
+card_changes_6784:
+  id: 8225
+  card_action_id: 8344
+  field: 2
+  value: chicken
+card_changes_6785:
+  id: 8226
+  card_action_id: 8345
   field: 2
   value: chick
