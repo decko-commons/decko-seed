@@ -47455,3 +47455,68 @@ card_changes_5938:
   card_action_id: 8246
   field: 2
   value: ":all_style_machine_output/machines.css"
+card_changes_5939:
+  id: 7379
+  card_action_id: 8247
+  field: 0
+  value: 'script: html5shiv printshiv+*machine input'
+card_changes_5940:
+  id: 7380
+  card_action_id: 8247
+  field: 1
+  value: '47'
+card_changes_5941:
+  id: 7381
+  card_action_id: 8247
+  field: 2
+  value: "[[script: html5shiv printshiv]]"
+card_changes_5942:
+  id: 7382
+  card_action_id: 8247
+  field: 3
+  value: f
+card_changes_5943:
+  id: 7383
+  card_action_id: 8248
+  field: 0
+  value: 'script: html5shiv printshiv+script: html5shiv printshiv'
+card_changes_5944:
+  id: 7384
+  card_action_id: 8248
+  field: 1
+  value: '3'
+card_changes_5945:
+  id: 7385
+  card_action_id: 8248
+  field: 2
+  value: ''
+card_changes_5946:
+  id: 7386
+  card_action_id: 8248
+  field: 3
+  value: f
+card_changes_5947:
+  id: 7387
+  card_action_id: 8249
+  field: 0
+  value: 'script: html5shiv printshiv+*machine output'
+card_changes_5948:
+  id: 7388
+  card_action_id: 8249
+  field: 1
+  value: '18'
+card_changes_5949:
+  id: 7389
+  card_action_id: 8249
+  field: 2
+  value: "~1564/8249.js"
+card_changes_5950:
+  id: 7390
+  card_action_id: 8249
+  field: 3
+  value: f
+card_changes_5951:
+  id: 7391
+  card_action_id: 8250
+  field: 2
+  value: ":script_html5shiv_printshiv_machine_output/machines.js"
