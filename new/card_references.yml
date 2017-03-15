@@ -4147,7 +4147,7 @@ card_references_593:
   id: 3400
   referer_id: 1411
   referee_key: yeti_skin+bootswatch_theme
-  referee_id: 1671
+  referee_id: 1690
   ref_type: L
   present: 
 card_references_594:
@@ -5224,216 +5224,391 @@ card_references_746:
 card_references_747:
   id: 3651
   referer_id: 1612
-  referee_key: script_jquery
-  referee_id: 1057
-  ref_type: L
+  referee_key: twitter_template+description
+  referee_id: 
+  ref_type: I
   present: 
 card_references_748:
   id: 3652
   referer_id: 1612
-  referee_key: script_slot
-  referee_id: 1059
-  ref_type: L
+  referee_key: description
+  referee_id: 146
+  ref_type: P
   present: 
 card_references_749:
   id: 3653
   referer_id: 1612
-  referee_key: script_card_menu
-  referee_id: 1060
-  ref_type: L
+  referee_key: twitter_template+*type+by_name
+  referee_id: 
+  ref_type: I
   present: 
 card_references_750:
   id: 3654
   referer_id: 1612
-  referee_key: script_jquery_helper
-  referee_id: 1061
-  ref_type: L
+  referee_key: twitter_template+*type
+  referee_id: 1629
+  ref_type: P
   present: 
 card_references_751:
   id: 3655
   referer_id: 1612
-  referee_key: script_editor
-  referee_id: 1569
-  ref_type: L
+  referee_key: "*type"
+  referee_id: 266
+  ref_type: P
   present: 
 card_references_752:
   id: 3656
   referer_id: 1612
-  referee_key: script_pointer_config
-  referee_id: 1592
-  ref_type: L
+  referee_key: by_name
+  referee_id: 184
+  ref_type: P
   present: 
 card_references_753:
   id: 3657
-  referer_id: 1612
-  referee_key: script_ace_config
-  referee_id: 1597
-  ref_type: L
+  referer_id: 1614
+  referee_key: "*consumer_key"
+  referee_id: 1613
+  ref_type: Q
   present: 
 card_references_754:
   id: 3658
-  referer_id: 1612
-  referee_key: script_prosemirror_config
-  referee_id: 1604
+  referer_id: 1616
+  referee_key: administrator
+  referee_id: 10
   ref_type: L
   present: 
 card_references_755:
   id: 3659
-  referer_id: 1612
-  referee_key: script_mod
-  referee_id: 1568
-  ref_type: L
+  referer_id: 1618
+  referee_key: "*consumer_secret"
+  referee_id: 1617
+  ref_type: Q
   present: 
 card_references_756:
   id: 3660
-  referer_id: 1612
-  referee_key: script_ace
-  referee_id: 1257
+  referer_id: 1620
+  referee_key: administrator
+  referee_id: 10
   ref_type: L
   present: 
 card_references_757:
   id: 3661
-  referer_id: 1612
-  referee_key: script_prosemirror
-  referee_id: 1602
-  ref_type: L
+  referer_id: 1622
+  referee_key: "*access_token"
+  referee_id: 1621
+  ref_type: Q
   present: 
 card_references_758:
   id: 3662
-  referer_id: 1612
-  referee_key: script_bootstrap
-  referee_id: 1303
+  referer_id: 1624
+  referee_key: administrator
+  referee_id: 10
   ref_type: L
   present: 
 card_references_759:
   id: 3663
-  referer_id: 1628
-  referee_key: e_t
-  referee_id: 
-  ref_type: L
+  referer_id: 1626
+  referee_key: "*access_secret"
+  referee_id: 1625
+  ref_type: Q
   present: 
 card_references_760:
   id: 3664
-  referer_id: 1632
-  referee_key: "+n+"
-  referee_id: 
+  referer_id: 1628
+  referee_key: administrator
+  referee_id: 10
   ref_type: L
   present: 
 card_references_761:
   id: 3665
-  referer_id: 1632
-  referee_key: "+n"
-  referee_id: 
-  ref_type: P
+  referer_id: 1629
+  referee_key: twitter_template
+  referee_id: 1612
+  ref_type: Q
   present: 
 card_references_762:
   id: 3666
-  referer_id: 1632
-  referee_key: ''
+  referer_id: 1630
+  referee_key: twitter_template+*type+*structure+*message
   referee_id: 
-  ref_type: P
+  ref_type: I
   present: 
 card_references_763:
   id: 3667
-  referer_id: 1632
-  referee_key: n
-  referee_id: 
+  referer_id: 1630
+  referee_key: "*message"
+  referee_id: 1581
   ref_type: P
   present: 
 card_references_764:
   id: 3668
-  referer_id: 1648
-  referee_key: b_s
+  referer_id: 1630
+  referee_key: twitter_template+*type+*structure+*consumer_key
   referee_id: 
-  ref_type: L
+  ref_type: I
   present: 
 card_references_765:
   id: 3669
-  referer_id: 1654
-  referee_key: yeti_skin
-  referee_id: 1411
-  ref_type: L
+  referer_id: 1630
+  referee_key: "*consumer_key"
+  referee_id: 1613
+  ref_type: P
   present: 
 card_references_766:
   id: 3670
-  referer_id: 1654
-  referee_key: themeless_bootstrap_skin
-  referee_id: 1347
-  ref_type: L
+  referer_id: 1630
+  referee_key: twitter_template+*type+*structure+*consumer_secret
+  referee_id: 
+  ref_type: I
   present: 
 card_references_767:
   id: 3671
-  referer_id: 1654
-  referee_key: style_jquery_ui_smoothness
-  referee_id: 960
-  ref_type: L
+  referer_id: 1630
+  referee_key: "*consumer_secret"
+  referee_id: 1617
+  ref_type: P
   present: 
 card_references_768:
   id: 3672
-  referer_id: 1654
-  referee_key: style_card
-  referee_id: 961
-  ref_type: L
+  referer_id: 1630
+  referee_key: twitter_template+*type+*structure+*access_token
+  referee_id: 
+  ref_type: I
   present: 
 card_references_769:
   id: 3673
-  referer_id: 1654
-  referee_key: style_right_sidebar
-  referee_id: 963
-  ref_type: L
+  referer_id: 1630
+  referee_key: "*access_token"
+  referee_id: 1621
+  ref_type: P
   present: 
 card_references_770:
   id: 3674
-  referer_id: 1654
-  referee_key: style_bootstrap_card
-  referee_id: 1299
-  ref_type: L
+  referer_id: 1630
+  referee_key: twitter_template+*type+*structure+*access_secret
+  referee_id: 
+  ref_type: I
   present: 
 card_references_771:
   id: 3675
-  referer_id: 1654
-  referee_key: yeti_skin+bootswatch_theme
-  referee_id: 1671
-  ref_type: L
+  referer_id: 1630
+  referee_key: "*access_secret"
+  referee_id: 1625
+  ref_type: P
   present: 
 card_references_772:
   id: 3676
-  referer_id: 1654
-  referee_key: bootswatch_theme
-  referee_id: 1434
-  ref_type: P
+  referer_id: 1631
+  referee_key: script_jquery
+  referee_id: 1057
+  ref_type: L
   present: 
 card_references_773:
   id: 3677
-  referer_id: 1671
-  referee_key: yeti_skin+variable
-  referee_id: 1502
-  ref_type: I
+  referer_id: 1631
+  referee_key: script_slot
+  referee_id: 1059
+  ref_type: L
   present: 
 card_references_774:
   id: 3678
-  referer_id: 1671
-  referee_key: bootswatch_shared
-  referee_id: 1432
-  ref_type: I
+  referer_id: 1631
+  referee_key: script_card_menu
+  referee_id: 1060
+  ref_type: L
   present: 
 card_references_775:
   id: 3679
-  referer_id: 1671
-  referee_key: yeti_skin+style
-  referee_id: 1504
-  ref_type: I
+  referer_id: 1631
+  referee_key: script_jquery_helper
+  referee_id: 1061
+  ref_type: L
   present: 
 card_references_776:
   id: 3680
-  referer_id: 1672
-  referee_key: yeti_skin+bootswatch_theme
-  referee_id: 1671
+  referer_id: 1631
+  referee_key: script_editor
+  referee_id: 1569
   ref_type: L
   present: 
 card_references_777:
   id: 3681
-  referer_id: 1678
+  referer_id: 1631
+  referee_key: script_pointer_config
+  referee_id: 1592
+  ref_type: L
+  present: 
+card_references_778:
+  id: 3682
+  referer_id: 1631
+  referee_key: script_ace_config
+  referee_id: 1597
+  ref_type: L
+  present: 
+card_references_779:
+  id: 3683
+  referer_id: 1631
+  referee_key: script_prosemirror_config
+  referee_id: 1604
+  ref_type: L
+  present: 
+card_references_780:
+  id: 3684
+  referer_id: 1631
+  referee_key: script_mod
+  referee_id: 1568
+  ref_type: L
+  present: 
+card_references_781:
+  id: 3685
+  referer_id: 1631
+  referee_key: script_ace
+  referee_id: 1257
+  ref_type: L
+  present: 
+card_references_782:
+  id: 3686
+  referer_id: 1631
+  referee_key: script_prosemirror
+  referee_id: 1602
+  ref_type: L
+  present: 
+card_references_783:
+  id: 3687
+  referer_id: 1631
+  referee_key: script_bootstrap
+  referee_id: 1303
+  ref_type: L
+  present: 
+card_references_784:
+  id: 3688
+  referer_id: 1647
+  referee_key: e_t
+  referee_id: 
+  ref_type: L
+  present: 
+card_references_785:
+  id: 3689
+  referer_id: 1651
+  referee_key: "+n+"
+  referee_id: 
+  ref_type: L
+  present: 
+card_references_786:
+  id: 3690
+  referer_id: 1651
+  referee_key: "+n"
+  referee_id: 
+  ref_type: P
+  present: 
+card_references_787:
+  id: 3691
+  referer_id: 1651
+  referee_key: ''
+  referee_id: 
+  ref_type: P
+  present: 
+card_references_788:
+  id: 3692
+  referer_id: 1651
+  referee_key: n
+  referee_id: 
+  ref_type: P
+  present: 
+card_references_789:
+  id: 3693
+  referer_id: 1667
+  referee_key: b_s
+  referee_id: 
+  ref_type: L
+  present: 
+card_references_790:
+  id: 3694
+  referer_id: 1673
+  referee_key: yeti_skin
+  referee_id: 1411
+  ref_type: L
+  present: 
+card_references_791:
+  id: 3695
+  referer_id: 1673
+  referee_key: themeless_bootstrap_skin
+  referee_id: 1347
+  ref_type: L
+  present: 
+card_references_792:
+  id: 3696
+  referer_id: 1673
+  referee_key: style_jquery_ui_smoothness
+  referee_id: 960
+  ref_type: L
+  present: 
+card_references_793:
+  id: 3697
+  referer_id: 1673
+  referee_key: style_card
+  referee_id: 961
+  ref_type: L
+  present: 
+card_references_794:
+  id: 3698
+  referer_id: 1673
+  referee_key: style_right_sidebar
+  referee_id: 963
+  ref_type: L
+  present: 
+card_references_795:
+  id: 3699
+  referer_id: 1673
+  referee_key: style_bootstrap_card
+  referee_id: 1299
+  ref_type: L
+  present: 
+card_references_796:
+  id: 3700
+  referer_id: 1673
+  referee_key: yeti_skin+bootswatch_theme
+  referee_id: 1690
+  ref_type: L
+  present: 
+card_references_797:
+  id: 3701
+  referer_id: 1673
+  referee_key: bootswatch_theme
+  referee_id: 1434
+  ref_type: P
+  present: 
+card_references_798:
+  id: 3702
+  referer_id: 1690
+  referee_key: yeti_skin+variable
+  referee_id: 1502
+  ref_type: I
+  present: 
+card_references_799:
+  id: 3703
+  referer_id: 1690
+  referee_key: bootswatch_shared
+  referee_id: 1432
+  ref_type: I
+  present: 
+card_references_800:
+  id: 3704
+  referer_id: 1690
+  referee_key: yeti_skin+style
+  referee_id: 1504
+  ref_type: I
+  present: 
+card_references_801:
+  id: 3705
+  referer_id: 1691
+  referee_key: yeti_skin+bootswatch_theme
+  referee_id: 1690
+  ref_type: L
+  present: 
+card_references_802:
+  id: 3706
+  referer_id: 1697
   referee_key: script_html5shiv_printshiv
   referee_id: 1062
   ref_type: L
