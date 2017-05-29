@@ -29352,17 +29352,17 @@ card_changes_2577:
   value: f
 card_changes_2578:
   id: 6535
-  card_action_id: 7971
+  card_action_id: 7974
   field: 0
   value: "*recent settings"
 card_changes_2579:
   id: 6536
-  card_action_id: 7971
+  card_action_id: 7974
   field: 1
   value: '47'
 card_changes_2580:
   id: 6538
-  card_action_id: 7971
+  card_action_id: 7974
   field: 3
   value: f
 card_changes_2581:
@@ -30866,12 +30866,12 @@ card_changes_2872:
   id: 6867
   card_action_id: 7944
   field: 0
-  value: 'script: pointer config'
+  value: "*activity toolbar button"
 card_changes_2873:
   id: 6868
   card_action_id: 7944
   field: 1
-  value: '1033'
+  value: '3'
 card_changes_2874:
   id: 6869
   card_action_id: 7944
@@ -30886,15 +30886,81 @@ card_changes_2876:
   id: 6871
   card_action_id: 7945
   field: 0
-  value: "*Ace"
+  value: "*rules toolbar button"
 card_changes_2877:
   id: 6872
   card_action_id: 7945
   field: 1
-  value: '22'
+  value: '3'
 card_changes_2878:
   id: 6873
   card_action_id: 7945
+  field: 2
+  value: ''
+card_changes_2879:
+  id: 6874
+  card_action_id: 7945
+  field: 3
+  value: f
+card_changes_2880:
+  id: 6875
+  card_action_id: 7946
+  field: 0
+  value: Anyone With Role
+card_changes_2881:
+  id: 6876
+  card_action_id: 7946
+  field: 1
+  value: '7'
+card_changes_2882:
+  id: 6877
+  card_action_id: 7946
+  field: 2
+  value: |-
+    <p>{{+description}}</p>
+    <p>&nbsp;</p>
+    <h1>Accounts with the {{_self|name}} role<br></h1>
+    <blockquote>
+    <p>{{+*members}}</p>
+    </blockquote>
+card_changes_2883:
+  id: 6878
+  card_action_id: 7946
+  field: 3
+  value: f
+card_changes_2884:
+  id: 6879
+  card_action_id: 7947
+  field: 0
+  value: 'script: pointer config'
+card_changes_2885:
+  id: 6880
+  card_action_id: 7947
+  field: 1
+  value: '1033'
+card_changes_2886:
+  id: 6881
+  card_action_id: 7947
+  field: 2
+  value: ''
+card_changes_2887:
+  id: 6882
+  card_action_id: 7947
+  field: 3
+  value: f
+card_changes_2888:
+  id: 6883
+  card_action_id: 7948
+  field: 0
+  value: "*Ace"
+card_changes_2889:
+  id: 6884
+  card_action_id: 7948
+  field: 1
+  value: '22'
+card_changes_2890:
+  id: 6885
+  card_action_id: 7948
   field: 2
   value: |
     {
@@ -30907,90 +30973,26 @@ card_changes_2878:
         "maxLines": 30
       }
     }
-card_changes_2879:
-  id: 6874
-  card_action_id: 7945
-  field: 3
-  value: f
-card_changes_2880:
-  id: 6875
-  card_action_id: 7947
-  field: 0
-  value: "*Ace+*self"
-card_changes_2881:
-  id: 6876
-  card_action_id: 7947
-  field: 1
-  value: '259'
-card_changes_2882:
-  id: 6877
-  card_action_id: 7947
-  field: 2
-  value: '{"name":"_left"}'
-card_changes_2883:
-  id: 6878
-  card_action_id: 7947
-  field: 3
-  value: f
-card_changes_2884:
-  id: 6879
-  card_action_id: 7946
-  field: 0
-  value: "*Ace+*self+*help"
-card_changes_2885:
-  id: 6880
-  card_action_id: 7946
-  field: 1
-  value: '3'
-card_changes_2886:
-  id: 6881
-  card_action_id: 7946
-  field: 2
-  value: Configure [[https://ace.c9.io|ace]], Wagn's default code editor. [[http://wagn.org/ace|more]]
-card_changes_2887:
-  id: 6882
-  card_action_id: 7946
-  field: 3
-  value: f
-card_changes_2888:
-  id: 6883
-  card_action_id: 7949
-  field: 0
-  value: 'script: ace config'
-card_changes_2889:
-  id: 6884
-  card_action_id: 7949
-  field: 1
-  value: '1033'
-card_changes_2890:
-  id: 6885
-  card_action_id: 7949
-  field: 2
-  value: ''
 card_changes_2891:
   id: 6886
-  card_action_id: 7949
+  card_action_id: 7948
   field: 3
   value: f
 card_changes_2892:
   id: 6887
   card_action_id: 7950
   field: 0
-  value: "*ProseMirror"
+  value: "*Ace+*self"
 card_changes_2893:
   id: 6888
   card_action_id: 7950
   field: 1
-  value: '22'
+  value: '259'
 card_changes_2894:
   id: 6889
   card_action_id: 7950
   field: 2
-  value: |
-    {
-      "menuBar": true,
-      "tooltipMenu": false
-    }
+  value: '{"name":"_left"}'
 card_changes_2895:
   id: 6890
   card_action_id: 7950
@@ -30998,80 +31000,83 @@ card_changes_2895:
   value: f
 card_changes_2896:
   id: 6891
-  card_action_id: 7952
+  card_action_id: 7949
   field: 0
-  value: "*ProseMirror+*self"
+  value: "*Ace+*self+*help"
 card_changes_2897:
   id: 6892
-  card_action_id: 7952
+  card_action_id: 7949
   field: 1
-  value: '259'
+  value: '3'
 card_changes_2898:
   id: 6893
-  card_action_id: 7952
+  card_action_id: 7949
   field: 2
-  value: '{"name":"_left"}'
+  value: Configure [[https://ace.c9.io|ace]], Wagn's default code editor. [[http://wagn.org/ace|more]]
 card_changes_2899:
   id: 6894
-  card_action_id: 7952
+  card_action_id: 7949
   field: 3
   value: f
 card_changes_2900:
   id: 6895
-  card_action_id: 7951
+  card_action_id: 7952
   field: 0
-  value: "*ProseMirror+*self+*help"
+  value: 'script: ace config'
 card_changes_2901:
   id: 6896
-  card_action_id: 7951
+  card_action_id: 7952
   field: 1
-  value: '3'
+  value: '1033'
 card_changes_2902:
   id: 6897
-  card_action_id: 7951
+  card_action_id: 7952
   field: 2
-  value: Configure [[http://prosemirror.net|ProseMirror]], Wagn's default [[http://en.wikipedia.org/wiki/Wysiwyg|wysiwyg]]
-    editor. [[http://wagn.org/ProseMirror|more]]
+  value: ''
 card_changes_2903:
   id: 6898
-  card_action_id: 7951
+  card_action_id: 7952
   field: 3
   value: f
 card_changes_2904:
   id: 6899
-  card_action_id: 7954
+  card_action_id: 7953
   field: 0
-  value: 'script: prosemirror'
+  value: "*ProseMirror"
 card_changes_2905:
   id: 6900
-  card_action_id: 7954
+  card_action_id: 7953
   field: 1
-  value: '1034'
+  value: '22'
 card_changes_2906:
   id: 6901
-  card_action_id: 7954
+  card_action_id: 7953
   field: 2
-  value: ''
+  value: |
+    {
+      "menuBar": true,
+      "tooltipMenu": false
+    }
 card_changes_2907:
   id: 6902
-  card_action_id: 7954
+  card_action_id: 7953
   field: 3
   value: f
 card_changes_2908:
   id: 6903
   card_action_id: 7955
   field: 0
-  value: 'script: prosemirror config'
+  value: "*ProseMirror+*self"
 card_changes_2909:
   id: 6904
   card_action_id: 7955
   field: 1
-  value: '1033'
+  value: '259'
 card_changes_2910:
   id: 6905
   card_action_id: 7955
   field: 2
-  value: ''
+  value: '{"name":"_left"}'
 card_changes_2911:
   id: 6906
   card_action_id: 7955
@@ -31079,160 +31084,160 @@ card_changes_2911:
   value: f
 card_changes_2912:
   id: 6907
-  card_action_id: 7956
+  card_action_id: 7954
   field: 0
-  value: "*solid cache"
+  value: "*ProseMirror+*self+*help"
 card_changes_2913:
   id: 6908
-  card_action_id: 7956
+  card_action_id: 7954
   field: 1
   value: '3'
 card_changes_2914:
   id: 6909
-  card_action_id: 7956
+  card_action_id: 7954
   field: 2
-  value: ''
+  value: Configure [[http://prosemirror.net|ProseMirror]], Wagn's default [[http://en.wikipedia.org/wiki/Wysiwyg|wysiwyg]]
+    editor. [[http://wagn.org/ProseMirror|more]]
 card_changes_2915:
   id: 6910
-  card_action_id: 7956
+  card_action_id: 7954
   field: 3
   value: f
 card_changes_2916:
   id: 6911
-  card_action_id: 7958
+  card_action_id: 7957
   field: 0
-  value: "*solid cache+*right"
+  value: 'script: prosemirror'
 card_changes_2917:
   id: 6912
-  card_action_id: 7958
+  card_action_id: 7957
   field: 1
-  value: '259'
+  value: '1034'
 card_changes_2918:
   id: 6913
-  card_action_id: 7958
+  card_action_id: 7957
   field: 2
-  value: '{"right":"_left"}'
+  value: ''
 card_changes_2919:
   id: 6914
-  card_action_id: 7958
+  card_action_id: 7957
   field: 3
   value: f
 card_changes_2920:
   id: 6915
-  card_action_id: 7957
+  card_action_id: 7958
   field: 0
-  value: "*solid cache+*right+*read"
+  value: 'script: prosemirror config'
 card_changes_2921:
   id: 6916
-  card_action_id: 7957
+  card_action_id: 7958
   field: 1
-  value: '47'
+  value: '1033'
 card_changes_2922:
   id: 6917
-  card_action_id: 7957
+  card_action_id: 7958
   field: 2
-  value: _left
+  value: ''
 card_changes_2923:
   id: 6918
-  card_action_id: 7957
+  card_action_id: 7958
   field: 3
   value: f
 card_changes_2924:
-  id: 6920
-  card_action_id: 7960
+  id: 6919
+  card_action_id: 7959
   field: 0
-  value: "*debug"
+  value: "*solid cache"
 card_changes_2925:
-  id: 6921
-  card_action_id: 7960
+  id: 6920
+  card_action_id: 7959
   field: 1
   value: '3'
 card_changes_2926:
-  id: 6922
-  card_action_id: 7960
+  id: 6921
+  card_action_id: 7959
   field: 2
   value: ''
 card_changes_2927:
-  id: 6923
-  card_action_id: 7960
+  id: 6922
+  card_action_id: 7959
   field: 3
   value: f
 card_changes_2928:
-  id: 6924
-  card_action_id: 7962
+  id: 6923
+  card_action_id: 7961
   field: 0
-  value: "*debug+*right"
+  value: "*solid cache+*right"
 card_changes_2929:
-  id: 6925
-  card_action_id: 7962
+  id: 6924
+  card_action_id: 7961
   field: 1
   value: '259'
 card_changes_2930:
-  id: 6926
-  card_action_id: 7962
+  id: 6925
+  card_action_id: 7961
   field: 2
   value: '{"right":"_left"}'
 card_changes_2931:
-  id: 6927
-  card_action_id: 7962
+  id: 6926
+  card_action_id: 7961
   field: 3
   value: f
 card_changes_2932:
-  id: 6928
-  card_action_id: 7961
+  id: 6927
+  card_action_id: 7960
   field: 0
-  value: "*debug+*right+*read"
+  value: "*solid cache+*right+*read"
 card_changes_2933:
-  id: 6929
-  card_action_id: 7961
+  id: 6928
+  card_action_id: 7960
   field: 1
   value: '47'
 card_changes_2934:
-  id: 6930
-  card_action_id: 7961
+  id: 6929
+  card_action_id: 7960
   field: 2
-  value: "[[Administrator]]"
+  value: _left
 card_changes_2935:
-  id: 6931
-  card_action_id: 7961
+  id: 6930
+  card_action_id: 7960
   field: 3
   value: f
 card_changes_2936:
   id: 6932
-  card_action_id: 7964
+  card_action_id: 7963
   field: 0
-  value: Twitter template
+  value: "*debug"
 card_changes_2937:
   id: 6933
-  card_action_id: 7964
+  card_action_id: 7963
   field: 1
-  value: '5'
+  value: '3'
 card_changes_2938:
   id: 6934
-  card_action_id: 7964
+  card_action_id: 7963
   field: 2
-  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  value: ''
 card_changes_2939:
   id: 6935
-  card_action_id: 7964
+  card_action_id: 7963
   field: 3
   value: f
 card_changes_2940:
   id: 6936
   card_action_id: 7965
   field: 0
-  value: "*consumer key"
+  value: "*debug+*right"
 card_changes_2941:
   id: 6937
   card_action_id: 7965
   field: 1
-  value: '3'
+  value: '259'
 card_changes_2942:
   id: 6938
   card_action_id: 7965
   field: 2
-  value: ''
+  value: '{"right":"_left"}'
 card_changes_2943:
   id: 6939
   card_action_id: 7965
@@ -31240,39 +31245,40 @@ card_changes_2943:
   value: f
 card_changes_2944:
   id: 6940
-  card_action_id: 7966
+  card_action_id: 7964
   field: 0
-  value: "*consumer secret"
+  value: "*debug+*right+*read"
 card_changes_2945:
   id: 6941
-  card_action_id: 7966
+  card_action_id: 7964
   field: 1
-  value: '3'
+  value: '47'
 card_changes_2946:
   id: 6942
-  card_action_id: 7966
+  card_action_id: 7964
   field: 2
-  value: ''
+  value: "[[Administrator]]"
 card_changes_2947:
   id: 6943
-  card_action_id: 7966
+  card_action_id: 7964
   field: 3
   value: f
 card_changes_2948:
   id: 6944
   card_action_id: 7967
   field: 0
-  value: "*access token"
+  value: Twitter template
 card_changes_2949:
   id: 6945
   card_action_id: 7967
   field: 1
-  value: '3'
+  value: '5'
 card_changes_2950:
   id: 6946
   card_action_id: 7967
   field: 2
-  value: ''
+  value: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 card_changes_2951:
   id: 6947
   card_action_id: 7967
@@ -31282,7 +31288,7 @@ card_changes_2952:
   id: 6948
   card_action_id: 7968
   field: 0
-  value: "*access secret"
+  value: "*consumer key"
 card_changes_2953:
   id: 6949
   card_action_id: 7968
@@ -31300,37 +31306,97 @@ card_changes_2955:
   value: f
 card_changes_2956:
   id: 6952
-  card_action_id: 7970
+  card_action_id: 7969
   field: 0
-  value: Twitter template+*type
+  value: "*consumer secret"
 card_changes_2957:
   id: 6953
-  card_action_id: 7970
+  card_action_id: 7969
   field: 1
-  value: '259'
+  value: '3'
 card_changes_2958:
   id: 6954
-  card_action_id: 7970
+  card_action_id: 7969
   field: 2
-  value: '{"type":"_left"}'
+  value: ''
 card_changes_2959:
   id: 6955
-  card_action_id: 7970
+  card_action_id: 7969
   field: 3
   value: f
 card_changes_2960:
   id: 6956
-  card_action_id: 7969
+  card_action_id: 7970
   field: 0
-  value: Twitter template+*type+*structure
+  value: "*access token"
 card_changes_2961:
   id: 6957
-  card_action_id: 7969
+  card_action_id: 7970
   field: 1
   value: '3'
 card_changes_2962:
   id: 6958
-  card_action_id: 7969
+  card_action_id: 7970
+  field: 2
+  value: ''
+card_changes_2963:
+  id: 6959
+  card_action_id: 7970
+  field: 3
+  value: f
+card_changes_2964:
+  id: 6960
+  card_action_id: 7971
+  field: 0
+  value: "*access secret"
+card_changes_2965:
+  id: 6961
+  card_action_id: 7971
+  field: 1
+  value: '3'
+card_changes_2966:
+  id: 6962
+  card_action_id: 7971
+  field: 2
+  value: ''
+card_changes_2967:
+  id: 6963
+  card_action_id: 7971
+  field: 3
+  value: f
+card_changes_2968:
+  id: 6964
+  card_action_id: 7973
+  field: 0
+  value: Twitter template+*type
+card_changes_2969:
+  id: 6965
+  card_action_id: 7973
+  field: 1
+  value: '259'
+card_changes_2970:
+  id: 6966
+  card_action_id: 7973
+  field: 2
+  value: '{"type":"_left"}'
+card_changes_2971:
+  id: 6967
+  card_action_id: 7973
+  field: 3
+  value: f
+card_changes_2972:
+  id: 6968
+  card_action_id: 7972
+  field: 0
+  value: Twitter template+*type+*structure
+card_changes_2973:
+  id: 6969
+  card_action_id: 7972
+  field: 1
+  value: '3'
+card_changes_2974:
+  id: 6970
+  card_action_id: 7972
   field: 2
   value: |-
     {{+*message}}
@@ -31338,14 +31404,14 @@ card_changes_2962:
     {{+*consumer secret}}
     {{+*access token}}
     {{+*access secret}}
-card_changes_2963:
-  id: 6959
-  card_action_id: 7969
+card_changes_2975:
+  id: 6971
+  card_action_id: 7972
   field: 3
   value: f
-card_changes_2964:
-  id: 6960
-  card_action_id: 7971
+card_changes_2976:
+  id: 6972
+  card_action_id: 7974
   field: 2
   value: |-
     [[*structure]]
@@ -31358,629 +31424,629 @@ card_changes_2964:
     [[*delete]]
     [[*create]]
     [[*update]]
-card_changes_2965:
-  id: 7033
-  card_action_id: 8044
-  field: 2
-  value: ":credit_image/standard.png"
-card_changes_2966:
-  id: 7034
-  card_action_id: 8045
-  field: 2
-  value: ":favicon/standard.png"
-card_changes_2967:
-  id: 7035
-  card_action_id: 8046
-  field: 2
-  value: ":logo/standard.png"
-card_changes_2968:
-  id: 7036
-  card_action_id: 8048
-  field: 0
-  value: 'script: jquery+*all'
-card_changes_2969:
-  id: 7037
-  card_action_id: 8048
-  field: 1
-  value: '3'
-card_changes_2970:
-  id: 7038
-  card_action_id: 8048
-  field: 2
-  value: ''
-card_changes_2971:
-  id: 7039
-  card_action_id: 8048
-  field: 3
-  value: f
-card_changes_2972:
-  id: 7040
-  card_action_id: 8047
-  field: 0
-  value: 'script: jquery+*all+*script'
-card_changes_2973:
-  id: 7041
-  card_action_id: 8047
-  field: 1
-  value: '47'
-card_changes_2974:
-  id: 7042
-  card_action_id: 8047
-  field: 2
-  value: ''
-card_changes_2975:
-  id: 7043
-  card_action_id: 8047
-  field: 3
-  value: f
-card_changes_2976:
-  id: 7044
-  card_action_id: 8050
-  field: 0
-  value: 'script: slot+*all'
 card_changes_2977:
   id: 7045
-  card_action_id: 8050
-  field: 1
-  value: '3'
+  card_action_id: 8047
+  field: 2
+  value: ":credit_image/standard.png"
 card_changes_2978:
   id: 7046
-  card_action_id: 8050
+  card_action_id: 8048
   field: 2
-  value: ''
+  value: ":favicon/standard.png"
 card_changes_2979:
   id: 7047
-  card_action_id: 8050
-  field: 3
-  value: f
+  card_action_id: 8049
+  field: 2
+  value: ":logo/standard.png"
 card_changes_2980:
   id: 7048
-  card_action_id: 8049
+  card_action_id: 8051
   field: 0
-  value: 'script: slot+*all+*script'
+  value: 'script: jquery+*all'
 card_changes_2981:
   id: 7049
-  card_action_id: 8049
+  card_action_id: 8051
   field: 1
-  value: '47'
+  value: '3'
 card_changes_2982:
   id: 7050
-  card_action_id: 8049
+  card_action_id: 8051
   field: 2
   value: ''
 card_changes_2983:
   id: 7051
-  card_action_id: 8049
+  card_action_id: 8051
   field: 3
   value: f
 card_changes_2984:
   id: 7052
-  card_action_id: 8052
+  card_action_id: 8050
   field: 0
-  value: 'script: card menu+*all'
+  value: 'script: jquery+*all+*script'
 card_changes_2985:
   id: 7053
-  card_action_id: 8052
+  card_action_id: 8050
   field: 1
-  value: '3'
+  value: '47'
 card_changes_2986:
   id: 7054
-  card_action_id: 8052
+  card_action_id: 8050
   field: 2
   value: ''
 card_changes_2987:
   id: 7055
-  card_action_id: 8052
+  card_action_id: 8050
   field: 3
   value: f
 card_changes_2988:
   id: 7056
-  card_action_id: 8051
+  card_action_id: 8053
   field: 0
-  value: 'script: card menu+*all+*script'
+  value: 'script: slot+*all'
 card_changes_2989:
   id: 7057
-  card_action_id: 8051
+  card_action_id: 8053
   field: 1
-  value: '47'
+  value: '3'
 card_changes_2990:
   id: 7058
-  card_action_id: 8051
+  card_action_id: 8053
   field: 2
   value: ''
 card_changes_2991:
   id: 7059
-  card_action_id: 8051
+  card_action_id: 8053
   field: 3
   value: f
 card_changes_2992:
   id: 7060
-  card_action_id: 8054
+  card_action_id: 8052
   field: 0
-  value: 'script: jquery helper+*all'
+  value: 'script: slot+*all+*script'
 card_changes_2993:
   id: 7061
-  card_action_id: 8054
+  card_action_id: 8052
   field: 1
-  value: '3'
+  value: '47'
 card_changes_2994:
   id: 7062
-  card_action_id: 8054
+  card_action_id: 8052
   field: 2
   value: ''
 card_changes_2995:
   id: 7063
-  card_action_id: 8054
+  card_action_id: 8052
   field: 3
   value: f
 card_changes_2996:
   id: 7064
-  card_action_id: 8053
+  card_action_id: 8055
   field: 0
-  value: 'script: jquery helper+*all+*script'
+  value: 'script: card menu+*all'
 card_changes_2997:
   id: 7065
-  card_action_id: 8053
+  card_action_id: 8055
   field: 1
-  value: '47'
+  value: '3'
 card_changes_2998:
   id: 7066
-  card_action_id: 8053
+  card_action_id: 8055
   field: 2
   value: ''
 card_changes_2999:
   id: 7067
-  card_action_id: 8053
+  card_action_id: 8055
   field: 3
   value: f
 card_changes_3000:
   id: 7068
-  card_action_id: 8056
+  card_action_id: 8054
   field: 0
-  value: 'script: pointer config+*all'
+  value: 'script: card menu+*all+*script'
 card_changes_3001:
   id: 7069
-  card_action_id: 8056
+  card_action_id: 8054
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3002:
   id: 7070
-  card_action_id: 8056
+  card_action_id: 8054
   field: 2
   value: ''
 card_changes_3003:
   id: 7071
-  card_action_id: 8056
+  card_action_id: 8054
   field: 3
   value: f
 card_changes_3004:
   id: 7072
-  card_action_id: 8055
+  card_action_id: 8057
   field: 0
-  value: 'script: pointer config+*all+*script'
+  value: 'script: jquery helper+*all'
 card_changes_3005:
   id: 7073
-  card_action_id: 8055
+  card_action_id: 8057
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3006:
   id: 7074
-  card_action_id: 8055
+  card_action_id: 8057
   field: 2
   value: ''
 card_changes_3007:
   id: 7075
-  card_action_id: 8055
+  card_action_id: 8057
   field: 3
   value: f
 card_changes_3008:
   id: 7076
-  card_action_id: 8058
+  card_action_id: 8056
   field: 0
-  value: 'script: ace config+*all'
+  value: 'script: jquery helper+*all+*script'
 card_changes_3009:
   id: 7077
-  card_action_id: 8058
+  card_action_id: 8056
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3010:
   id: 7078
-  card_action_id: 8058
+  card_action_id: 8056
   field: 2
   value: ''
 card_changes_3011:
   id: 7079
-  card_action_id: 8058
+  card_action_id: 8056
   field: 3
   value: f
 card_changes_3012:
   id: 7080
-  card_action_id: 8057
+  card_action_id: 8059
   field: 0
-  value: 'script: ace config+*all+*script'
+  value: 'script: pointer config+*all'
 card_changes_3013:
   id: 7081
-  card_action_id: 8057
+  card_action_id: 8059
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3014:
   id: 7082
-  card_action_id: 8057
+  card_action_id: 8059
   field: 2
   value: ''
 card_changes_3015:
   id: 7083
-  card_action_id: 8057
+  card_action_id: 8059
   field: 3
   value: f
 card_changes_3016:
   id: 7084
-  card_action_id: 8060
+  card_action_id: 8058
   field: 0
-  value: 'script: prosemirror config+*all'
+  value: 'script: pointer config+*all+*script'
 card_changes_3017:
   id: 7085
-  card_action_id: 8060
+  card_action_id: 8058
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3018:
   id: 7086
-  card_action_id: 8060
+  card_action_id: 8058
   field: 2
   value: ''
 card_changes_3019:
   id: 7087
-  card_action_id: 8060
+  card_action_id: 8058
   field: 3
   value: f
 card_changes_3020:
   id: 7088
-  card_action_id: 8059
+  card_action_id: 8061
   field: 0
-  value: 'script: prosemirror config+*all+*script'
+  value: 'script: ace config+*all'
 card_changes_3021:
   id: 7089
-  card_action_id: 8059
+  card_action_id: 8061
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3022:
   id: 7090
-  card_action_id: 8059
+  card_action_id: 8061
   field: 2
   value: ''
 card_changes_3023:
   id: 7091
-  card_action_id: 8059
+  card_action_id: 8061
   field: 3
   value: f
 card_changes_3024:
   id: 7092
-  card_action_id: 8062
+  card_action_id: 8060
   field: 0
-  value: 'script: ace+*all'
+  value: 'script: ace config+*all+*script'
 card_changes_3025:
   id: 7093
-  card_action_id: 8062
+  card_action_id: 8060
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3026:
   id: 7094
-  card_action_id: 8062
+  card_action_id: 8060
   field: 2
   value: ''
 card_changes_3027:
   id: 7095
-  card_action_id: 8062
+  card_action_id: 8060
   field: 3
   value: f
 card_changes_3028:
   id: 7096
-  card_action_id: 8061
+  card_action_id: 8063
   field: 0
-  value: 'script: ace+*all+*script'
+  value: 'script: prosemirror config+*all'
 card_changes_3029:
   id: 7097
-  card_action_id: 8061
+  card_action_id: 8063
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3030:
   id: 7098
-  card_action_id: 8061
+  card_action_id: 8063
   field: 2
   value: ''
 card_changes_3031:
   id: 7099
-  card_action_id: 8061
+  card_action_id: 8063
   field: 3
   value: f
 card_changes_3032:
   id: 7100
-  card_action_id: 8064
+  card_action_id: 8062
   field: 0
-  value: 'script: prosemirror+*all'
+  value: 'script: prosemirror config+*all+*script'
 card_changes_3033:
   id: 7101
-  card_action_id: 8064
+  card_action_id: 8062
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3034:
   id: 7102
-  card_action_id: 8064
+  card_action_id: 8062
   field: 2
   value: ''
 card_changes_3035:
   id: 7103
-  card_action_id: 8064
+  card_action_id: 8062
   field: 3
   value: f
 card_changes_3036:
   id: 7104
-  card_action_id: 8063
+  card_action_id: 8065
   field: 0
-  value: 'script: prosemirror+*all+*script'
+  value: 'script: ace+*all'
 card_changes_3037:
   id: 7105
-  card_action_id: 8063
+  card_action_id: 8065
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3038:
   id: 7106
-  card_action_id: 8063
+  card_action_id: 8065
   field: 2
   value: ''
 card_changes_3039:
   id: 7107
-  card_action_id: 8063
+  card_action_id: 8065
   field: 3
   value: f
 card_changes_3040:
   id: 7108
-  card_action_id: 8066
+  card_action_id: 8064
   field: 0
-  value: 'script: bootstrap+*all'
+  value: 'script: ace+*all+*script'
 card_changes_3041:
   id: 7109
-  card_action_id: 8066
+  card_action_id: 8064
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3042:
   id: 7110
-  card_action_id: 8066
+  card_action_id: 8064
   field: 2
   value: ''
 card_changes_3043:
   id: 7111
-  card_action_id: 8066
+  card_action_id: 8064
   field: 3
   value: f
 card_changes_3044:
   id: 7112
-  card_action_id: 8065
+  card_action_id: 8067
   field: 0
-  value: 'script: bootstrap+*all+*script'
+  value: 'script: prosemirror+*all'
 card_changes_3045:
   id: 7113
-  card_action_id: 8065
+  card_action_id: 8067
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3046:
   id: 7114
-  card_action_id: 8065
+  card_action_id: 8067
   field: 2
   value: ''
 card_changes_3047:
   id: 7115
-  card_action_id: 8065
+  card_action_id: 8067
   field: 3
   value: f
 card_changes_3048:
   id: 7116
-  card_action_id: 8067
+  card_action_id: 8066
   field: 0
-  value: "*all+*script+*machine output"
+  value: 'script: prosemirror+*all+*script'
 card_changes_3049:
   id: 7117
-  card_action_id: 8067
+  card_action_id: 8066
   field: 1
-  value: '18'
+  value: '47'
 card_changes_3050:
   id: 7118
-  card_action_id: 8067
+  card_action_id: 8066
   field: 2
-  value: "~1564/8067.js"
+  value: ''
 card_changes_3051:
   id: 7119
-  card_action_id: 8067
+  card_action_id: 8066
   field: 3
   value: f
 card_changes_3052:
   id: 7120
-  card_action_id: 8068
-  field: 2
-  value: ":all_script_machine_output/machines.js"
+  card_action_id: 8069
+  field: 0
+  value: 'script: bootstrap+*all'
 card_changes_3053:
   id: 7121
-  card_action_id: 8070
-  field: 0
-  value: 'style: jquery-ui-smoothness+*all'
+  card_action_id: 8069
+  field: 1
+  value: '3'
 card_changes_3054:
   id: 7122
-  card_action_id: 8070
-  field: 1
-  value: '3'
+  card_action_id: 8069
+  field: 2
+  value: ''
 card_changes_3055:
   id: 7123
-  card_action_id: 8070
-  field: 2
-  value: ''
+  card_action_id: 8069
+  field: 3
+  value: f
 card_changes_3056:
   id: 7124
+  card_action_id: 8068
+  field: 0
+  value: 'script: bootstrap+*all+*script'
+card_changes_3057:
+  id: 7125
+  card_action_id: 8068
+  field: 1
+  value: '47'
+card_changes_3058:
+  id: 7126
+  card_action_id: 8068
+  field: 2
+  value: ''
+card_changes_3059:
+  id: 7127
+  card_action_id: 8068
+  field: 3
+  value: f
+card_changes_3060:
+  id: 7128
+  card_action_id: 8070
+  field: 0
+  value: "*all+*script+*machine output"
+card_changes_3061:
+  id: 7129
+  card_action_id: 8070
+  field: 1
+  value: '18'
+card_changes_3062:
+  id: 7130
+  card_action_id: 8070
+  field: 2
+  value: "~1564/8070.js"
+card_changes_3063:
+  id: 7131
   card_action_id: 8070
   field: 3
   value: f
-card_changes_3057:
-  id: 7125
-  card_action_id: 8069
-  field: 0
-  value: 'style: jquery-ui-smoothness+*all+*style'
-card_changes_3058:
-  id: 7126
-  card_action_id: 8069
-  field: 1
-  value: '47'
-card_changes_3059:
-  id: 7127
-  card_action_id: 8069
-  field: 2
-  value: ''
-card_changes_3060:
-  id: 7128
-  card_action_id: 8069
-  field: 3
-  value: f
-card_changes_3061:
-  id: 7129
-  card_action_id: 8072
-  field: 0
-  value: 'style: cards+*all'
-card_changes_3062:
-  id: 7130
-  card_action_id: 8072
-  field: 1
-  value: '3'
-card_changes_3063:
-  id: 7131
-  card_action_id: 8072
-  field: 2
-  value: ''
 card_changes_3064:
   id: 7132
-  card_action_id: 8072
-  field: 3
-  value: f
+  card_action_id: 8071
+  field: 2
+  value: ":all_script_machine_output/machines.js"
 card_changes_3065:
   id: 7133
-  card_action_id: 8071
+  card_action_id: 8073
   field: 0
-  value: 'style: cards+*all+*style'
+  value: 'style: jquery-ui-smoothness+*all'
 card_changes_3066:
   id: 7134
-  card_action_id: 8071
+  card_action_id: 8073
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3067:
   id: 7135
-  card_action_id: 8071
+  card_action_id: 8073
   field: 2
   value: ''
 card_changes_3068:
   id: 7136
-  card_action_id: 8071
+  card_action_id: 8073
   field: 3
   value: f
 card_changes_3069:
   id: 7137
-  card_action_id: 8074
+  card_action_id: 8072
   field: 0
-  value: 'style: right sidebar+*all'
+  value: 'style: jquery-ui-smoothness+*all+*style'
 card_changes_3070:
   id: 7138
-  card_action_id: 8074
+  card_action_id: 8072
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3071:
   id: 7139
-  card_action_id: 8074
+  card_action_id: 8072
   field: 2
   value: ''
 card_changes_3072:
   id: 7140
-  card_action_id: 8074
+  card_action_id: 8072
   field: 3
   value: f
 card_changes_3073:
   id: 7141
-  card_action_id: 8073
+  card_action_id: 8075
   field: 0
-  value: 'style: right sidebar+*all+*style'
+  value: 'style: cards+*all'
 card_changes_3074:
   id: 7142
-  card_action_id: 8073
+  card_action_id: 8075
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3075:
   id: 7143
-  card_action_id: 8073
+  card_action_id: 8075
   field: 2
   value: ''
 card_changes_3076:
   id: 7144
-  card_action_id: 8073
+  card_action_id: 8075
   field: 3
   value: f
 card_changes_3077:
   id: 7145
-  card_action_id: 8076
+  card_action_id: 8074
   field: 0
-  value: 'style: bootstrap cards+*all'
+  value: 'style: cards+*all+*style'
 card_changes_3078:
   id: 7146
-  card_action_id: 8076
+  card_action_id: 8074
   field: 1
-  value: '3'
+  value: '47'
 card_changes_3079:
   id: 7147
-  card_action_id: 8076
+  card_action_id: 8074
   field: 2
   value: ''
 card_changes_3080:
   id: 7148
-  card_action_id: 8076
+  card_action_id: 8074
   field: 3
   value: f
 card_changes_3081:
   id: 7149
-  card_action_id: 8075
+  card_action_id: 8077
   field: 0
-  value: 'style: bootstrap cards+*all+*style'
+  value: 'style: right sidebar+*all'
 card_changes_3082:
   id: 7150
-  card_action_id: 8075
+  card_action_id: 8077
   field: 1
-  value: '47'
+  value: '3'
 card_changes_3083:
   id: 7151
-  card_action_id: 8075
+  card_action_id: 8077
   field: 2
   value: ''
 card_changes_3084:
   id: 7152
-  card_action_id: 8075
+  card_action_id: 8077
   field: 3
   value: f
 card_changes_3085:
   id: 7153
-  card_action_id: 8077
+  card_action_id: 8076
   field: 0
-  value: yeti skin+bootswatch theme
+  value: 'style: right sidebar+*all+*style'
 card_changes_3086:
   id: 7154
-  card_action_id: 8077
+  card_action_id: 8076
   field: 1
-  value: '943'
+  value: '47'
 card_changes_3087:
   id: 7155
-  card_action_id: 8077
+  card_action_id: 8076
   field: 2
-  value: "{{_left+variables}}{{bootswatch shared}}{{_left+style}}"
+  value: ''
 card_changes_3088:
   id: 7156
-  card_action_id: 8077
+  card_action_id: 8076
   field: 3
   value: f
 card_changes_3089:
   id: 7157
   card_action_id: 8079
+  field: 0
+  value: 'style: bootstrap cards+*all'
+card_changes_3090:
+  id: 7158
+  card_action_id: 8079
+  field: 1
+  value: '3'
+card_changes_3091:
+  id: 7159
+  card_action_id: 8079
+  field: 2
+  value: ''
+card_changes_3092:
+  id: 7160
+  card_action_id: 8079
+  field: 3
+  value: f
+card_changes_3093:
+  id: 7161
+  card_action_id: 8078
+  field: 0
+  value: 'style: bootstrap cards+*all+*style'
+card_changes_3094:
+  id: 7162
+  card_action_id: 8078
+  field: 1
+  value: '47'
+card_changes_3095:
+  id: 7163
+  card_action_id: 8078
+  field: 2
+  value: ''
+card_changes_3096:
+  id: 7164
+  card_action_id: 8078
+  field: 3
+  value: f
+card_changes_3097:
+  id: 7165
+  card_action_id: 8080
+  field: 0
+  value: yeti skin+bootswatch theme
+card_changes_3098:
+  id: 7166
+  card_action_id: 8080
+  field: 1
+  value: '943'
+card_changes_3099:
+  id: 7167
+  card_action_id: 8080
+  field: 2
+  value: "{{_left+variables}}{{bootswatch shared}}{{_left+style}}"
+card_changes_3100:
+  id: 7168
+  card_action_id: 8080
+  field: 3
+  value: f
+card_changes_3101:
+  id: 7169
+  card_action_id: 8082
   field: 2
   value: |-
     [[*style]]
@@ -31994,113 +32060,113 @@ card_changes_3089:
     [[*delete]]
     [[*create]]
     [[*update]]
-card_changes_3090:
-  id: 7158
-  card_action_id: 8081
-  field: 0
-  value: yeti skin+bootswatch theme+*all
-card_changes_3091:
-  id: 7159
-  card_action_id: 8081
-  field: 1
-  value: '3'
-card_changes_3092:
-  id: 7160
-  card_action_id: 8081
-  field: 2
-  value: ''
-card_changes_3093:
-  id: 7161
-  card_action_id: 8081
-  field: 3
-  value: f
-card_changes_3094:
-  id: 7162
-  card_action_id: 8080
-  field: 0
-  value: yeti skin+bootswatch theme+*all+*style
-card_changes_3095:
-  id: 7163
-  card_action_id: 8080
-  field: 1
-  value: '47'
-card_changes_3096:
-  id: 7164
-  card_action_id: 8080
-  field: 2
-  value: ''
-card_changes_3097:
-  id: 7165
-  card_action_id: 8080
-  field: 3
-  value: f
-card_changes_3098:
-  id: 7166
-  card_action_id: 8082
-  field: 0
-  value: "*all+*style+*machine output"
-card_changes_3099:
-  id: 7167
-  card_action_id: 8082
-  field: 1
-  value: '18'
-card_changes_3100:
-  id: 7168
-  card_action_id: 8082
-  field: 2
-  value: "~1564/8082.css"
-card_changes_3101:
-  id: 7169
-  card_action_id: 8082
-  field: 3
-  value: f
 card_changes_3102:
   id: 7170
-  card_action_id: 8083
-  field: 2
-  value: ":all_style_machine_output/machines.css"
+  card_action_id: 8084
+  field: 0
+  value: yeti skin+bootswatch theme+*all
 card_changes_3103:
   id: 7171
   card_action_id: 8084
-  field: 0
-  value: 'script: html5shiv printshiv+script: html5shiv printshiv'
+  field: 1
+  value: '3'
 card_changes_3104:
   id: 7172
   card_action_id: 8084
-  field: 1
-  value: '3'
+  field: 2
+  value: ''
 card_changes_3105:
   id: 7173
   card_action_id: 8084
-  field: 2
-  value: ''
-card_changes_3106:
-  id: 7174
-  card_action_id: 8084
   field: 3
   value: f
+card_changes_3106:
+  id: 7174
+  card_action_id: 8083
+  field: 0
+  value: yeti skin+bootswatch theme+*all+*style
 card_changes_3107:
   id: 7175
-  card_action_id: 8085
-  field: 0
-  value: 'script: html5shiv printshiv+*machine output'
+  card_action_id: 8083
+  field: 1
+  value: '47'
 card_changes_3108:
   id: 7176
-  card_action_id: 8085
-  field: 1
-  value: '18'
+  card_action_id: 8083
+  field: 2
+  value: ''
 card_changes_3109:
   id: 7177
-  card_action_id: 8085
-  field: 2
-  value: "~1564/8085.js"
+  card_action_id: 8083
+  field: 3
+  value: f
 card_changes_3110:
   id: 7178
   card_action_id: 8085
-  field: 3
-  value: f
+  field: 0
+  value: "*all+*style+*machine output"
 card_changes_3111:
   id: 7179
+  card_action_id: 8085
+  field: 1
+  value: '18'
+card_changes_3112:
+  id: 7180
+  card_action_id: 8085
+  field: 2
+  value: "~1564/8085.css"
+card_changes_3113:
+  id: 7181
+  card_action_id: 8085
+  field: 3
+  value: f
+card_changes_3114:
+  id: 7182
   card_action_id: 8086
+  field: 2
+  value: ":all_style_machine_output/machines.css"
+card_changes_3115:
+  id: 7183
+  card_action_id: 8087
+  field: 0
+  value: 'script: html5shiv printshiv+script: html5shiv printshiv'
+card_changes_3116:
+  id: 7184
+  card_action_id: 8087
+  field: 1
+  value: '3'
+card_changes_3117:
+  id: 7185
+  card_action_id: 8087
+  field: 2
+  value: ''
+card_changes_3118:
+  id: 7186
+  card_action_id: 8087
+  field: 3
+  value: f
+card_changes_3119:
+  id: 7187
+  card_action_id: 8088
+  field: 0
+  value: 'script: html5shiv printshiv+*machine output'
+card_changes_3120:
+  id: 7188
+  card_action_id: 8088
+  field: 1
+  value: '18'
+card_changes_3121:
+  id: 7189
+  card_action_id: 8088
+  field: 2
+  value: "~1564/8088.js"
+card_changes_3122:
+  id: 7190
+  card_action_id: 8088
+  field: 3
+  value: f
+card_changes_3123:
+  id: 7191
+  card_action_id: 8089
   field: 2
   value: ":script_html5shiv_printshiv_machine_output/machines.js"

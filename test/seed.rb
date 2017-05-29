@@ -42,8 +42,8 @@ class SharedData
     Card.create! name: "signup alert email+*to", content: "signups@wagn.org"
 
     # generic, shared attribute card
-    color = Card.create! name: "color"
-    basic = Card.create! name: "Basic Card"
+    Card.create! name: "color"
+    Card.create! name: "Basic Card"
 
     # CREATE A CARD OF EACH TYPE
     Card.create! type_id: Card::SignupID, name: "Sample Signup" # , email: "invitation@request.com"
