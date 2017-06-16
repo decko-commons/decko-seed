@@ -744,7 +744,24 @@ cards_034:
   references_expired: 
   trash: false
   type_id: 22
-  db_content: "{\r\n\"width\":\"100%\",\r\n\"auto_resize\":true,\r\n\"relative_urls\":false,\r\n\"theme\":\"advanced\",\r\n\"theme_advanced_buttons1\":\"formatselect,bold,italic,separator,blockquote,bullist,numlist,hr,separator,code\",\r\n\"theme_advanced_buttons2\":\"\",\r\n\"theme_advanced_buttons3\":\"\",\r\n\"theme_advanced_path\":false,\r\n\"theme_advanced_toolbar_location\":\"top\",\r\n\"theme_advanced_toolbar_align\":\"left\",\r\n\"theme_advanced_resizing\":true,\r\n\"theme_advanced_resize_horizontal\":false,\r\n\"theme_advanced_statusbar_location\":\"bottom\",\r\n\"theme_advanced_blockformats\":\"p,h1,h2\",\r\n\"extended_valid_elements\":\"a[name|href|target|title|onclick],img[class|src|border=0|alt|title|hspace|vspace|width|height|align|onmouseover|onmouseout|name],hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]\"\r\n}"
+  db_content: |
+    {
+      "width":"100%",
+      "auto_resize":true,
+      "relative_urls":false,
+      "theme":"advanced",
+      "theme_advanced_buttons1":"formatselect,bold,italic,separator,blockquote,bullist,numlist,hr,separator,code,removeformat",
+      "theme_advanced_buttons2":"",
+      "theme_advanced_buttons3":"",
+      "theme_advanced_path":false,
+      "theme_advanced_toolbar_location":"top",
+      "theme_advanced_toolbar_align":"left",
+      "theme_advanced_resizing":true,
+      "theme_advanced_resize_horizontal":false,
+      "theme_advanced_statusbar_location":"bottom",
+      "theme_advanced_blockformats":"p,h1,h2,pre",
+      "extended_valid_elements":"a[name|href|target|title|onclick],img[class|src|border=0|alt|title|hspace|vspace|width|height|align|onmouseover|onmouseout|name],hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]"
+    }
 cards_035:
   id: 55
   name: "*title"
@@ -4524,7 +4541,7 @@ cards_240:
   id: 461
   name: "*input+*right+*options"
   key: "*input+*right+*option"
-  codename: 
+  codename: input_options
   left_id: 268
   right_id: 86
   current_revision_id: 5592
@@ -5823,7 +5840,7 @@ cards_311:
   db_content: '{"name":"_left"}'
 cards_312:
   id: 547
-  name: "*tinyMCE+*self+*help"
+  name: "*TinyMCE+*self+*help"
   key: "*tiny_mce+*self+*help"
   codename: 
   left_id: 546
@@ -5838,8 +5855,8 @@ cards_312:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Configure [[http://tinymce.com|TinyMCE]], Wagn's default [[http://en.wikipedia.org/wiki/Wysiwyg|wysiwyg]]
-    editor. <em>[[http://wagn.org/TinyMCE|more]]</em></p>\r\n<p> </p>"
+  db_content: Configure [[http://tinymce.com|TinyMCE]], Wagn's default [[http://en.wikipedia.org/wiki/Wysiwyg|wysiwyg]]
+    editor. [[http://wagn.org/TinyMCE|more]]
 cards_313:
   id: 548
   name: "*head+*self"
@@ -30070,9 +30087,11 @@ cards_750:
     [[script: pointer config]]
     [[script: ace config]]
     [[script: prosemirror config]]
+    [[script: tinymce config]]
     [[script: mods]]
     [[script: ace]]
     [[script: prosemirror]]
+    [[script: tinymce]]
     [[script: bootstrap]]
 cards_751:
   id: 1625
@@ -32248,23 +32267,24 @@ cards_800:
     .card-menu .dropdown-menu{right:-2px;top:18px;min-width:110px}.menu-slot .card-menu
     .dropdown-menu:before{content:\"\";width:0;height:0;border-left:5px solid transparent;border-right:5px
     solid transparent;border-bottom:5px solid white;position:absolute;top:-5px;right:2px}.menu-slot
-    .horizontal-card-menu{z-index:100}.menu-slot .horizontal-card-menu li{height:30px}.menu-slot
+    .horizontal-card-menu{z-index:1}.menu-slot .horizontal-card-menu li{height:30px}.menu-slot
     .horizontal-card-menu .btn{padding:6px 12px}.card-header-title{margin-right:3px}.dropdown-menu{z-index:1005}.navbar.toolbar{margin-bottom:0}.navbar
     .btn.btn-toolbar-control{padding:5px;border:none}.navbar-divide{margin-left:30px;border-left:1px
     solid}.card-subheader{height:30px;text-align:left;font-size:13px;padding:6px 15px
-    3px 15px}.card-subheader>.card-title.panel-title{font-size:13px}.closed-view{position:relative}.closed-view>.card-frame{white-space:nowrap;padding-right:30px;overflow:hidden;text-overflow:ellipsis;position:static}.closed-view
-    .card-menu.btn-group{display:none}.closed-view .card-header{display:inline-block}.closed-content{display:inline;white-space:nowrap}.closed-content
-    table,.closed-content thead,.closed-content tbody,.closed-content tr,.closed-content
-    th,.closed-content td,.closed-content p,.closed-content h1,.closed-content h2,.closed-content
-    h3,.closed-content h4,.closed-content h5,.closed-content h6,.closed-content ul,.closed-content
-    li,.closed-content pre,.closed-content ol,.closed-content div,.closed-content
+    3px 15px}.card-subheader>.card-title.panel-title{font-size:13px}.closed-view{position:relative}.closed-view>.card-frame{white-space:nowrap
+    !important;padding-right:30px;overflow:hidden;text-overflow:ellipsis;position:static}.closed-view
+    .card-menu.btn-group{display:none}.closed-view .card-header{display:inline-block}.closed-content{display:inline;white-space:nowrap
+    !important}.closed-content table,.closed-content thead,.closed-content tbody,.closed-content
+    tr,.closed-content th,.closed-content td,.closed-content p,.closed-content h1,.closed-content
+    h2,.closed-content h3,.closed-content h4,.closed-content h5,.closed-content h6,.closed-content
+    ul,.closed-content li,.closed-content pre,.closed-content ol,.closed-content div,.closed-content
     span,.closed-content a,.closed-content blockquote,.closed-content img,.closed-content
-    label,.closed-content i{display:inline;white-space:nowrap;float:none}.closed-content
-    br,.closed-content hr,.closed-content input,.closed-content textarea,.closed-content
-    object,.closed-content :after,.closed-content :before{display:none}.labeled-view:hover
-    .card-menu{display:inline-block}.change-view{clear:both}.change-view .last-update{float:right;text-align:right}.change-view
-    .last-update a{white-space:nowrap}.fileupload-buttonbar .btn,.fileupload-buttonbar
-    .toggle{margin-bottom:5px}.fileinput-button{position:relative;overflow:hidden;display:inline-block}.fileinput-button
+    label,.closed-content i{display:inline !important;white-space:nowrap !important;float:none
+    !important}.closed-content br,.closed-content hr,.closed-content input,.closed-content
+    textarea,.closed-content object,.closed-content :after,.closed-content :before{display:none
+    !important}.labeled-view:hover .card-menu{display:inline-block}.change-view{clear:both}.change-view
+    .last-update{float:right;text-align:right}.change-view .last-update a{white-space:nowrap}.fileupload-buttonbar
+    .btn,.fileupload-buttonbar .toggle{margin-bottom:5px}.fileinput-button{position:relative;overflow:hidden;display:inline-block}.fileinput-button
     input{position:absolute;top:0;right:0;margin:0;opacity:0;-ms-filter:'alpha(opacity=0)';font-size:200px;direction:ltr;cursor:pointer}.template_editor-view>div{float:left}.template-editor-close{float:right}.template_link-view{display:inline}.navbox-item-label{float:left;position:relative}.card-editor{white-space:normal;padding-bottom:15px}pre,.TYPE-plain_text.card-content,.SELF-Xhead.card-content{white-space:pre-wrap;white-space:-moz-pre-wrap;white-space:-pre-wrap;white-space:-o-pre-wrap;word-wrap:break-word}.missing-view
     a{display:inline}.SELF-Xstat>.card-content table{width:100%}.SELF-Xstat>.card-content
     tr:nth-child(even){background:#eee}.card-frame{text-align:left;font-weight:normal;font-style:normal}.ALL.related-view>.card-frame>.card-body{padding:0}.navbox-item-label{font-size:10px;width:50px;padding:3px
@@ -32274,8 +32294,8 @@ cards_800:
     p,.closed-content h1,.closed-content h2,.closed-content h3,.closed-content h4,.closed-content
     h5,.closed-content h6,.closed-content ul,.closed-content li,.closed-content pre,.closed-content
     ol,.closed-content div,.closed-content span,.closed-content a,.closed-content
-    blockquote,.closed-content img{font-size:1em;margin:0 6px 0 0;padding:0;border:0}.closed-content
-    a{margin:0}.closed-content img{max-height:1em;width:auto}.labeled-view{padding:5px
+    blockquote,.closed-content img{font-size:1em !important;margin:0 6px 0 0;padding:0
+    !important;border:0 !important}.closed-content a{margin:0}.closed-content img{max-height:1em;width:auto}.labeled-view{padding:5px
     0}.labeled-view label h1,.labeled-view .pointer-list,.labeled-view .pointer-item,.labeled-view
     .search-result-list,.labeled-view .search-result-item{font-size:1em}.labeled-view>.card-content{padding-left:10px}.labeled-view
     label,a.missing-labeled{display:inline-block;min-width:30%;text-align:right}textarea,.content-editor>input[type=text],.content-editor>input[type=password],.name-editor
