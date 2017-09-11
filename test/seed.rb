@@ -2,11 +2,16 @@
 require "timecop"
 
 class SharedData
+  require_relative "../../../lib/card/model/save_helper"
+  extend Card::Model::SaveHelper
+
   USERS = [
     "Joe User", "Joe Admin", "Joe Camel", "Sample User", "No count",
     "u1", "u2", "u3",
     "Big Brother", "Optic fan", "Sunglasses fan", "Narcissist"
   ].freeze
+
+  CARDTYPE_COUNT = 32
 
   def self.account_args hash
     { "+*account" => { "+*password" => "joe_pass" }.merge(hash) }
@@ -18,20 +23,19 @@ class SharedData
     Card::Auth.as_bot
 
     Card::Auth.instant_account_activation do
-      Card.create! name: "Joe User",  type_code: "user",
+      create_user "Joe User",
                    content: "I'm number two",
                    subcards: account_args("+*email" => "joe@user.com")
-      Card.create! name: "Joe Admin", type_code: "user",
+      create_user "Joe Admin",
                    content: "I'm number one",
                    subcards: account_args("+*email" => "joe@admin.com")
-      Card.create! name: "Joe Camel", type_code: "user",
+      create_user "Joe Camel",
                    content: "Mr. Buttz",
                    subcards: account_args("+*email" => "joe@camel.com")
 
       # data for testing users and account requests
-      Card.create! type_code: "user", name: "No Count",
-                   content: "I got no account"
-      Card.create! name: "Sample User", type_code: "user",
+      create_user "No Count",  content: "I got no account"
+      create_user "Sample User",
                    subcards: account_args(
                      "+*email" => "sample@user.com", "+*password" => "sample_pass"
                    )
@@ -39,102 +43,102 @@ class SharedData
 
     Card["Joe Admin"].fetch(trait: :roles, new: { type_code: "pointer" })
                      .items = [Card::AdministratorID]
-    Card.create! name: "signup alert email+*to", content: "signups@wagn.org"
+    create "signup alert email+*to", "signups@wagn.org"
 
     # generic, shared attribute card
-    Card.create! name: "color"
-    Card.create! name: "Basic Card"
+    create "color"
+    create "Basic Card"
 
     # CREATE A CARD OF EACH TYPE
-    Card.create! type_id: Card::SignupID, name: "Sample Signup" # , email: "invitation@request.com"
+    create_signup "Sample Signup" # , email: "invitation@request.com"
     # above still necessary?  try commenting out above and 'Sign up' below
     Card::Auth.current_id = Card::WagnBotID # need to reset after creating sign up, which changes current_id for extend phase
 
     no_samples = %( user sign_up set number list listed_by file image )
     Card::Auth.createable_types.each do |type|
       next if no_samples.include? type.to_name.key
-      Card.create! type: type, name: "Sample #{type}"
+      create type: type, name: "Sample #{type}"
     end
 
     # data for role_test.rb
 
-    Card.create! name: "u1", type_code: "user", subcards: account_args("+*email" => "u1@user.com", "+*password" => "u1_pass")
-    Card.create! name: "u2", type_code: "user", subcards: account_args("+*email" => "u2@user.com", "+*password" => "u2_pass")
-    Card.create! name: "u3", type_code: "user", subcards: account_args("+*email" => "u3@user.com", "+*password" => "u3_pass")
+    create_user "u1", subcards: account_args("+*email" => "u1@user.com", "+*password" => "u1_pass")
+    create_user "u2", subcards: account_args("+*email" => "u2@user.com", "+*password" => "u2_pass")
+    create_user "u3", subcards: account_args("+*email" => "u3@user.com", "+*password" => "u3_pass")
 
-    r1 = Card.create!(type_code: "role", name: "r1")
-    r2 = Card.create!(type_code: "role", name: "r2")
-    r3 = Card.create!(type_code: "role", name: "r3")
-    r4 = Card.create!(type_code: "role", name: "r4")
+    r1 = create_role "r1"
+    r2 = create_role "r2"
+    r3 = create_role "r3"
+    r4 = create_role "r4"
 
     Card["u1"].fetch(trait: :roles, new: {}).items = [r1, r2, r3]
     Card["u2"].fetch(trait: :roles, new: {}).items = [r1, r2, r4]
     Card["u3"].fetch(trait: :roles, new: {}).items = [r1, r4, Card::AdministratorID]
 
-    c1 = Card.create! name: "c1"
-    c2 = Card.create! name: "c2"
-    c3 = Card.create! name: "c3"
+    %w[c1 c2 c3].each do |name|
+      create name
+    end
 
     # cards for rename_test
     # FIXME: could probably refactor these..
-    z = Card.create! name: "Z", content: "I'm here to be referenced to"
-    a = Card.create! name: "A", content: "Alpha [[Z]]"
-    b = Card.create! name: "B", content: "Beta {{Z}}"
-    t = Card.create! name: "T", content: "Theta"
-    x = Card.create! name: "X", content: "[[A]] [[A+B]] [[T]]"
-    y = Card.create! name: "Y", content: "{{B}} {{A+B}} {{A}} {{T}}"
-    ab = Card.create! name: "A+B", content: "AlphaBeta"
+    [
+      ["Z", "I'm here to be referenced to"],
+      ["A", "Alpha [[Z]]"],
+      ["B", "Beta {{Z}}"],
+      ["T", "Theta"],
+      ["X", "[[A]] [[A+B]] [[T]]"],
+      ["Y", "{{B}} {{A+B}} {{A}} {{T}}"],
+      ["A+B", "AlphaBeta"],
+      ["A+B+Y+Z", "more letters"],
+      ["Link to unknown", "[[Mister X]]"],
+    ].each do |name, content|
+      create name, content
+    end
 
-    Card.create! name: "One+Two+Three"
-    Card.create! name: "Four+One+Five"
+    create "One+Two+Three"
+    create "Four+One+Five"
+    create "basicname", "basiccontent"
 
     # for wql & permissions
-    %w(A+C A+D A+E C+A D+A F+A A+B+C).each { |name| Card.create!(name: name)  }
-    Card.create! type_code: "cardtype", name: "Cardtype A", codename: "cardtype_a"
-    Card.create! type_code: "cardtype", name: "Cardtype B", codename: "cardtype_b"
-    Card.create! type_code: "cardtype", name: "Cardtype C", codename: "cardtype_c"
-    Card.create! type_code: "cardtype", name: "Cardtype D", codename: "cardtype_d"
-    Card.create! type_code: "cardtype", name: "Cardtype E", codename: "cardtype_e"
-    Card.create! type_code: "cardtype", name: "Cardtype F", codename: "cardtype_f"
-
+    %w[A+C A+D A+E C+A D+A F+A A+B+C].each { |name| create  name }
+    ("A".."F").each do |ch|
+      create "Cardtype #{ch}", type_code: "cardtype",
+                               codename: "cardtype_#{ch.downcase}"
+    end
     Card::Codename.reset_cache
-
-    Card.create! name: "basicname", content: "basiccontent"
-    Card.create! type_code: "cardtype_a", name: "type-a-card", content: "type_a_content"
-    Card.create! type_code: "cardtype_b", name: "type-b-card", content: "type_b_content"
-    Card.create! type_code: "cardtype_c", name: "type-c-card", content: "type_c_content"
-    Card.create! type_code: "cardtype_d", name: "type-d-card", content: "type_d_content"
-    Card.create! type_code: "cardtype_e", name: "type-e-card", content: "type_e_content"
-    Card.create! type_code: "cardtype_f", name: "type-f-card", content: "type_f_content"
+    ("a".."f").each do |ch|
+      create "type-#{ch}-card", type_code: "cardtype_#{ch}",
+                                content: "type_#{ch}_content"
+    end
 
     # warn "current user #{User.session_user.inspect}.  always ok?  #{Card::Auth.always_ok?}"
-    c = Card.create! name: "revtest", content: "first"
+    c = create "revtest", "first"
     c.update_attributes! content: "second"
     c.update_attributes! content: "third"
     # Card.create! type_code: 'cardtype', name: '*priority'
 
     # for template stuff
     Card.create! type_id: Card::CardtypeID, name: "UserForm"
-    Card.create! name: "UserForm+*type+*structure", content: "{{+name}} {{+age}} {{+description}}"
+    create "UserForm+*type+*structure", "{{+name}} {{+age}} {{+description}}"
 
     Card::Auth.current_id = Card["joe_user"].id
-    Card.create!(name: "JoeLater", content: "test")
-    Card.create!(name: "JoeNow", content: "test")
+    create "JoeLater", "test"
+    create "JoeNow", "test"
 
     Card::Auth.current_id = Card::WagnBotID
-    Card.create!(name: "AdminNow", content: "test")
+    create(name: "AdminNow", content: "test")
 
-    Card.create name: "Cardtype B+*type+*create", type: "Pointer", content: "[[r1]]"
+    create_pointer  "Cardtype B+*type+*create", "[[r1]]"
 
-    Card.create! type: "Cardtype", name: "Book"
-    Card.create! name: "Book+*type+*structure", content: "by {{+author}}, design by {{+illustrator}}"
-    Card.create! name: "Iliad", type: "Book"
+    create_cardtype "Book"
+    create "Book+*type+*structure", "by {{+author}}, design by {{+illustrator}}"
+    create_book "Iliad"
 
-    Card.create! type: "Cardtype", name: "Author"
-    Card.create! type: "Author", name: "Darles Chickens"
-    Card.create! type: "Author", name: "Stam Broker"
-    Card.create! name: "Parry Hotter", type: "Book"
-    Card.create! name: "50 grades of shy", type: "Book"
+    create_cardtype "Author"
+    create_author "Darles Chickens"
+    create_author "Stam Broker"
+    create_book "Parry Hotter"
+    create_book "50 grades of shy"
 
     ### -------- Notification data ------------
     Timecop.freeze(Cardio.future_stamp - 1.day) do
@@ -151,30 +155,34 @@ class SharedData
       }
 
       followers.each do |name, _follow|
-        user = Card.create! name: name, type_code: "user", subcards: account_args("+*email" => "#{name.parameterize}@user.com", "+*password" => "#{name.parameterize}_pass")
+        create name, type_code: "user",
+                     subcards: account_args(
+                       "+*email" => "#{name.parameterize}@user.com",
+                       "+*password" => "#{name.parameterize}_pass"
+                     )
       end
 
-      Card.create! name: "All Eyes On Me"
-      Card.create! name: "No One Sees Me"
-      Card.create! name: "Look At Me"
-      Card.create! name: "Optic", type: "Cardtype"
-      Card.create! name: "Sara Following"
-      Card.create! name: "John Following", content: "{{+her}}"
-      Card.create! name: "John Following+her"
-      magnifier = Card.create! name: "Magnifier+lens"
+      create "All Eyes On Me"
+      create "No One Sees Me"
+      create "Look At Me"
+      create_cardtype "Optic"
+      create "Sara Following"
+      create "John Following", "{{+her}}"
+      create "John Following+her"
+      magnifier = create "Magnifier+lens"
 
       Card::Auth.current_id = Card["Narcissist"].id
       magnifier.update_attributes! content: "zoom in"
-      Card.create! name: "Sunglasses", type: "Optic", content: "{{+tint}}{{+lens}}"
+      create_optic "Sunglasses", "{{+tint}}{{+lens}}"
 
       Card::Auth.current_id = Card["Optic fan"].id
-      Card.create! name: "Google glass", type: "Optic", content: "{{+price}}"
+      create_optic "Google glass", "{{+price}}"
 
       Card::Auth.current_id = Card::WagnBotID
-      Card.create! name: "Google glass+*self+*follow_fields", content: ""
-      Card.create! name: "Sunglasses+*self+*follow_fields", content: "[[#{Card[:includes].name}]]\n[[_self+price]]\n[[_self+producer]]"
-      Card.create! name: "Sunglasses+tint"
-      Card.create! name: "Sunglasses+price"
+      create "Google glass+*self+*follow_fields", ""
+      create "Sunglasses+*self+*follow_fields", "[[#{Card[:includes].name}]]\n[[_self+price]]\n[[_self+producer]]"
+      create "Sunglasses+tint"
+      create "Sunglasses+price"
 
       followers.each do |name, follow|
         user = Card[name]
@@ -185,7 +193,7 @@ class SharedData
     end
 
     ## --------- create templated permissions -------------
-    ctt = Card.create! name: "Cardtype E+*type+*default"
+    ctt = create "Cardtype E+*type+*default"
 
     ## --------- Fruit: creatable by anon but not readable ---
     f = Card.create! type: "Cardtype", name: "Fruit"
@@ -197,14 +205,26 @@ class SharedData
 
     # -------- For toc testing: ------------
 
-    Card.create! name: "OnneHeading", content: "<h1>This is one heading</h1>\r\n<p>and some text</p>"
-    Card.create! name: "TwwoHeading", content: "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n<h2>And a Subheading</h2>\r\n<p>and more text</p>"
-    Card.create! name: "ThreeHeading", content: "<h1>A Heading</h1>\r\n<p>and text</p>\r\n<h2>And Subhead</h2>\r\n<p>text</p>\r\n<h1>And another top Heading</h1>"
+    create "OnneHeading", "<h1>This is one heading</h1>\r\n<p>and some text</p>"
+    create "TwwoHeading", "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n<h2>And a Subheading</h2>\r\n<p>and more text</p>"
+    create "ThreeHeading", "<h1>A Heading</h1>\r\n<p>and text</p>\r\n<h2>And Subhead</h2>\r\n<p>text</p>\r\n<h1>And another top Heading</h1>"
 
     # -------- For history testing: -----------
-    first = Card.create! name: "First", content: "egg"
+    first = create "First", "egg"
     first.update_attributes! content: "chicken"
     first.update_attributes! content: "chick"
+
+    # -------- For rename testing: -----------
+    [
+        ["Blue", ""],
+        ["blue includer 1", "{{Blue}}"],
+        ["blue includer 2", "{{blue|closed;other:stuff}}"],
+        ["blue linker 1", "[[Blue]]"],
+        ["blue linker 2", "[[blue]]"]
+      ].each do |name, content|
+        create name, content
+    end
+    create_cardtype "self aware", "[[/new/{{_self|name}}|new]]"
 
     # Card['*all+*style' ].ensure_machine_output
     # Card['*all+*script'].ensure_machine_output
