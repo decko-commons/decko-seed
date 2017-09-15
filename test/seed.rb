@@ -133,6 +133,7 @@ class SharedData
       create(name: "AdminNow", content: "test")
 
       create_pointer "Cardtype B+*type+*create", "[[r1]]"
+      create_pointer "Cardtype B+*type+*update", "[[r2]]"
 
       create_cardtype "Book"
       create "Book+*type+*structure", "by {{+author}}, design by {{+illustrator}}"
