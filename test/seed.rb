@@ -34,25 +34,12 @@ class SharedData
       Card::Env.reset
       Card::Auth.as_bot
 
-      Card::Auth.instant_account_activation do
-        create_user "Joe User", content: "I'm number two", email: "joe@user.com"
-        create_user "Joe Admin", content: "I'm number one", email: "joe@admin.com"
-        create_user "Joe Camel", content: "Mr. Buttz", email: "joe@camel.com"
-
-        # data for testing users and account requests
-        create_user "No Count", content: "I got no account"
-        create_user "Sample User", email: "sample@user.com", password: "sample_pass"
-      end
-
-      # noinspection RubyResolve
-      Card["Joe Admin"].fetch(trait: :roles, new: { type_code: "pointer" })
-        .items = [Card::AdministratorID]
-      create "signup alert email+*to", "signups@wagn.org"
+      user_and_role_cards
 
       # generic, shared attribute card
       create "color"
-      create "Basic Card"
 
+      create "signup alert email+*to", "signups@wagn.org"
       # CREATE A CARD OF EACH TYPE
       create_signup "Sample Signup" # , email: "invitation@request.com"
       # above still necessary?  try commenting out above and 'Sign up' below
@@ -63,21 +50,6 @@ class SharedData
         next if no_samples.include? type.to_name.key
         create type: type, name: "Sample #{type}"
       end
-
-      # data for role_test.rb
-
-      create_user "u1", email: "u1@user.com", password: "u1_pass"
-      create_user "u2", email: "u2@user.com", password: "u2_pass"
-      create_user "u3", email: "u3@user.com", password: "u3_pass"
-
-      r1 = create_role "r1"
-      r2 = create_role "r2"
-      r3 = create_role "r3"
-      r4 = create_role "r4"
-
-      Card["u1"].fetch(trait: :roles, new: {}).items = [r1, r2, r3]
-      Card["u2"].fetch(trait: :roles, new: {}).items = [r1, r2, r4]
-      Card["u3"].fetch(trait: :roles, new: {}).items = [r1, r4, Card::AdministratorID]
 
       %w[c1 c2 c3].each do |name|
         create name
@@ -103,23 +75,7 @@ class SharedData
       create "Four+One+Five"
       create "basicname", "basiccontent"
 
-      # for wql & permissions
-      %w[A+C A+D A+E C+A D+A F+A A+B+C].each {|name| create name}
-      ("A".."F").each do |ch|
-        create "Cardtype #{ch}", type_code: "cardtype",
-               codename: "cardtype_#{ch.downcase}"
-      end
-      Card::Codename.reset_cache
-      ("a".."f").each do |ch|
-        create "type-#{ch}-card", type_code: "cardtype_#{ch}",
-               content: "type_#{ch}_content"
-      end
-
-      # warn "current user #{User.session_user.inspect}.  always ok?  #{Card::Auth.always_ok?}"
-      c = create "revtest", "first"
-      c.update_attributes! content: "second"
-      c.update_attributes! content: "third"
-      # Card.create! type_code: 'cardtype', name: '*priority'
+      cardtype_cards
 
       # for template stuff
       Card.create! type_id: Card::CardtypeID, name: "UserForm"
@@ -130,10 +86,6 @@ class SharedData
       create "JoeNow", "test"
 
       Card::Auth.current_id = Card::WagnBotID
-      create(name: "AdminNow", content: "test")
-
-      create_pointer "Cardtype B+*type+*create", "[[r1]]"
-      create_pointer "Cardtype B+*type+*update", "[[r2]]"
 
       create_cardtype "Book"
       create "Book+*type+*structure", "by {{+author}}, design by {{+illustrator}}"
@@ -145,13 +97,7 @@ class SharedData
       create_book "Parry Hotter"
       create_book "50 grades of shy"
 
-      ### -------- Notification data ------------
-
-
-      ## --------- create templated permissions -------------
-      create "Cardtype E+*type+*default"
-
-      ## --------- Fruit: creatable by anon but not readable ---
+      ## --------- Fruit: creatable by anyone but not readable ---
       Card.create! type: "Cardtype", name: "Fruit"
       Card.create! name: "Fruit+*type+*create", type: "Pointer", content: "[[Anyone]]"
       Card.create! name: "Fruit+*type+*read", type: "Pointer", content: "[[Administrator]]"
@@ -163,10 +109,10 @@ class SharedData
 
       create "OnneHeading", "<h1>This is one heading</h1>\r\n<p>and some text</p>"
       create "TwwoHeading", "<h1>One Heading</h1>\r\n<p>and some text</p>\r\n"\
-                          "<h2>And a Subheading</h2>\r\n<p>and more text</p>"
+                            "<h2>And a Subheading</h2>\r\n<p>and more text</p>"
       create "ThreeHeading", "<h1>A Heading</h1>\r\n<p>and text</p>\r\n"\
-                           "<h2>And Subhead</h2>\r\n<p>text</p>\r\n"\
-                           "<h1>And another top Heading</h1>"
+                             "<h2>And Subhead</h2>\r\n<p>text</p>\r\n"\
+                             "<h1>And another top Heading</h1>"
 
       # -------- For history testing: -----------
       first = create "First", "egg"
@@ -191,6 +137,58 @@ class SharedData
       # Card['*all+*script'].ensure_machine_output
       # (ie9 = Card[:script_html5shiv_printshiv]) && ie9.ensure_machine_output
     end
+
+    def user_and_role_cards
+      Card::Auth.instant_account_activation do
+        create_user "Joe User", content: "I'm number two", email: "joe@user.com"
+        create_user "Joe Admin", content: "I'm number one", email: "joe@admin.com"
+        create_user "Joe Camel", content: "Mr. Buttz", email: "joe@camel.com"
+
+        # data for testing users and account requests
+        create_user "No Count", content: "I got no account"
+        create_user "Sample User", email: "sample@user.com", password: "sample_pass"
+      end
+
+      # noinspection RubyResolve
+      Card["Joe Admin"].fetch(trait: :roles, new: { type_code: "pointer" })
+        .items = [Card::AdministratorID]
+
+      create_user "u1", email: "u1@user.com", password: "u1_pass"
+      create_user "u2", email: "u2@user.com", password: "u2_pass"
+      create_user "u3", email: "u3@user.com", password: "u3_pass"
+
+      r1 = create_role "r1"
+      r2 = create_role "r2"
+      r3 = create_role "r3"
+      r4 = create_role "r4"
+
+      Card["u1"].fetch(trait: :roles, new: {}).items = [r1, r2, r3]
+      Card["u2"].fetch(trait: :roles, new: {}).items = [r1, r2, r4]
+      Card["u3"].fetch(trait: :roles, new: {}).items = [r1, r4, Card::AdministratorID]
+    end
+
+
+    def cardtype_cards
+      # for wql & permissions
+      %w[A+C A+D A+E C+A D+A F+A A+B+C].each {|name| create name}
+      ("A".."F").each do |ch|
+        create "Cardtype #{ch}", type_code: "cardtype",
+               codename: "cardtype_#{ch.downcase}"
+      end
+      Card::Codename.reset_cache
+
+      ("a".."f").each do |ch|
+        create "type-#{ch}-card", type_code: "cardtype_#{ch}",
+               content: "type_#{ch}_content"
+      end
+
+      create_pointer "Cardtype B+*type+*create", "[[r3]]"
+      create_pointer "Cardtype B+*type+*update", "[[r1]]"
+
+      ## --------- create templated permissions -------------
+      create "Cardtype E+*type+*default"
+    end
+
 
     def notification_cards
       Timecop.freeze(Cardio.future_stamp - 1.day) do
