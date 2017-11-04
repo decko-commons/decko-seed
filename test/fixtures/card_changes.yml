@@ -1,1 +1,170 @@
---- {}
+---
+card_changes_001:
+  id: 106
+  card_action_id: 8589
+  field: 0
+  value: First
+card_changes_002:
+  id: 107
+  card_action_id: 8589
+  field: 1
+  value: '3'
+card_changes_003:
+  id: 108
+  card_action_id: 8589
+  field: 2
+  value: egg
+card_changes_004:
+  id: 109
+  card_action_id: 8589
+  field: 3
+  value: f
+card_changes_005:
+  id: 110
+  card_action_id: 8590
+  field: 2
+  value: chicken
+card_changes_006:
+  id: 111
+  card_action_id: 8591
+  field: 2
+  value: chick
+card_changes_007:
+  id: 112
+  card_action_id: 8648
+  field: 0
+  value: Magnifier+lens
+card_changes_008:
+  id: 113
+  card_action_id: 8648
+  field: 1
+  value: '3'
+card_changes_009:
+  id: 114
+  card_action_id: 8648
+  field: 2
+  value: ''
+card_changes_010:
+  id: 115
+  card_action_id: 8648
+  field: 3
+  value: f
+card_changes_011:
+  id: 116
+  card_action_id: 8651
+  field: 2
+  value: zoom in
+card_changes_012:
+  id: 117
+  card_action_id: 8694
+  field: 0
+  value: "*all+Big Brother+*follow"
+card_changes_013:
+  id: 118
+  card_action_id: 8694
+  field: 1
+  value: '47'
+card_changes_014:
+  id: 119
+  card_action_id: 8694
+  field: 2
+  value: "[[*created]]"
+card_changes_015:
+  id: 120
+  card_action_id: 8694
+  field: 3
+  value: f
+card_changes_016:
+  id: 121
+  card_action_id: 8696
+  field: 2
+  value: |-
+    [[*created]]
+    [[*edited]]
+card_changes_017:
+  id: 122
+  card_action_id: 8701
+  field: 0
+  value: "*all+Narcissist+*follow"
+card_changes_018:
+  id: 123
+  card_action_id: 8701
+  field: 1
+  value: '47'
+card_changes_019:
+  id: 124
+  card_action_id: 8701
+  field: 2
+  value: "[[*created]]"
+card_changes_020:
+  id: 125
+  card_action_id: 8701
+  field: 3
+  value: f
+card_changes_021:
+  id: 126
+  card_action_id: 8703
+  field: 2
+  value: |-
+    [[*created]]
+    [[*edited]]
+card_changes_022:
+  id: 127
+  card_action_id: 8704
+  field: 0
+  value: Created card
+card_changes_023:
+  id: 128
+  card_action_id: 8704
+  field: 1
+  value: '3'
+card_changes_024:
+  id: 129
+  card_action_id: 8704
+  field: 2
+  value: new content
+card_changes_025:
+  id: 130
+  card_action_id: 8704
+  field: 3
+  value: f
+card_changes_026:
+  id: 131
+  card_action_id: 8705
+  field: 0
+  value: Updated card
+card_changes_027:
+  id: 132
+  card_action_id: 8705
+  field: 1
+  value: '47'
+card_changes_028:
+  id: 133
+  card_action_id: 8705
+  field: 2
+  value: "[[changed content]]"
+card_changes_029:
+  id: 134
+  card_action_id: 8707
+  field: 0
+  value: Deleted card
+card_changes_030:
+  id: 135
+  card_action_id: 8707
+  field: 1
+  value: '3'
+card_changes_031:
+  id: 136
+  card_action_id: 8707
+  field: 2
+  value: old content
+card_changes_032:
+  id: 137
+  card_action_id: 8707
+  field: 3
+  value: f
+card_changes_033:
+  id: 138
+  card_action_id: 8708
+  field: 3
+  value: t
