@@ -30,7 +30,7 @@ class SharedData
 
     # noinspection RubyResolve
     def add_test_data
-      Card::Cache.reset_global
+      Card::Cache.reset_all
       Card::Env.reset
       Card::Auth.as_bot
 
