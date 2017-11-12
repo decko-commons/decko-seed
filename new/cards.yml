@@ -6680,7 +6680,7 @@ cards_357:
 cards_358:
   id: 795
   name: Decker Menu
-  key: Decker_menu
+  key: decker_menu
   codename: 
   left_id: 
   right_id: 
@@ -6703,7 +6703,7 @@ cards_358:
 cards_359:
   id: 796
   name: Decker Menu+*self
-  key: Decker_menu+*self
+  key: decker_menu+*self
   codename: 
   left_id: 795
   right_id: 264
@@ -6721,7 +6721,7 @@ cards_359:
 cards_360:
   id: 797
   name: Decker Menu+*self+*read
-  key: Decker_menu+*self+*read
+  key: decker_menu+*self+*read
   codename: 
   left_id: 796
   right_id: 479
