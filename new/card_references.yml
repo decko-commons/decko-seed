@@ -5526,7 +5526,7 @@ card_references_790:
   id: 4414
   referer_id: 1900
   referee_key: style_bootstrap_function
-  referee_id: 1847
+  referee_id: 
   ref_type: I
   present: 
 card_references_791:
@@ -5554,7 +5554,7 @@ card_references_794:
   id: 4418
   referer_id: 1900
   referee_key: style_bootstrap_core
-  referee_id: 1851
+  referee_id: 
   ref_type: I
   present: 
 card_references_795:
@@ -5572,114 +5572,177 @@ card_references_796:
   ref_type: P
   present: 
 card_references_797:
-  id: 4424
-  referer_id: 1899
-  referee_key: themeless_bootstrap_skin
-  referee_id: 1347
-  ref_type: L
-  present: 
-card_references_798:
-  id: 4425
-  referer_id: 1899
-  referee_key: customizable_bootstrap_skin+bootswatch_theme
-  referee_id: 1900
-  ref_type: L
-  present: 
-card_references_799:
-  id: 4434
-  referer_id: 1908
-  referee_key: style_bootstrap_function
-  referee_id: 1847
-  ref_type: I
-  present: 
-card_references_800:
-  id: 4435
-  referer_id: 1908
-  referee_key: style_bootstrap_variable
-  referee_id: 1849
-  ref_type: I
-  present: 
-card_references_801:
-  id: 4436
-  referer_id: 1908
-  referee_key: style_bootstrap_core
-  referee_id: 1851
-  ref_type: I
-  present: 
-card_references_802:
-  id: 4653
+  id: 4691
   referer_id: 1511
   referee_key: "*style"
   referee_id: 953
   ref_type: L
   present: 
-card_references_803:
-  id: 4654
+card_references_798:
+  id: 4692
   referer_id: 1511
   referee_key: "*help"
   referee_id: 82
   ref_type: L
   present: 
-card_references_804:
-  id: 4655
+card_references_799:
+  id: 4693
   referer_id: 1511
   referee_key: "*script"
   referee_id: 1043
   ref_type: L
   present: 
-card_references_805:
-  id: 4656
+card_references_800:
+  id: 4694
   referer_id: 1511
   referee_key: "*structure"
   referee_id: 317
   ref_type: L
   present: 
-card_references_806:
-  id: 4657
+card_references_801:
+  id: 4695
   referer_id: 1511
   referee_key: "*read"
   referee_id: 479
   ref_type: L
   present: 
-card_references_807:
-  id: 4658
+card_references_802:
+  id: 4696
   referer_id: 1511
   referee_key: "*option"
   referee_id: 86
   ref_type: L
   present: 
-card_references_808:
-  id: 4659
+card_references_803:
+  id: 4697
   referer_id: 1511
   referee_key: "*input"
   referee_id: 241
   ref_type: L
   present: 
-card_references_809:
-  id: 4660
+card_references_804:
+  id: 4698
   referer_id: 1511
   referee_key: "*default"
   referee_id: 318
   ref_type: L
   present: 
-card_references_810:
-  id: 4661
+card_references_805:
+  id: 4699
   referer_id: 1511
   referee_key: "*delete"
   referee_id: 481
   ref_type: L
   present: 
-card_references_811:
-  id: 4662
+card_references_806:
+  id: 4700
   referer_id: 1511
   referee_key: "*create"
   referee_id: 478
   ref_type: L
   present: 
-card_references_812:
-  id: 4663
+card_references_807:
+  id: 4701
   referer_id: 1511
   referee_key: "*update"
   referee_id: 480
+  ref_type: L
+  present: 
+card_references_808:
+  id: 4715
+  referer_id: 1908
+  referee_key: bootstrap_function
+  referee_id: 1951
+  ref_type: I
+  present: 
+card_references_809:
+  id: 4716
+  referer_id: 1908
+  referee_key: bootstrap_variable
+  referee_id: 1954
+  ref_type: I
+  present: 
+card_references_810:
+  id: 4717
+  referer_id: 1908
+  referee_key: bootstrap_core
+  referee_id: 1957
+  ref_type: I
+  present: 
+card_references_811:
+  id: 4730
+  referer_id: 1970
+  referee_key: bootstrap_function
+  referee_id: 1951
+  ref_type: I
+  present: 
+card_references_812:
+  id: 4731
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+color
+  referee_id: 1972
+  ref_type: I
+  present: 
+card_references_813:
+  id: 4732
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+component
+  referee_id: 1975
+  ref_type: I
+  present: 
+card_references_814:
+  id: 4733
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+spacing
+  referee_id: 1978
+  ref_type: I
+  present: 
+card_references_815:
+  id: 4734
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+card
+  referee_id: 1981
+  ref_type: I
+  present: 
+card_references_816:
+  id: 4735
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+font
+  referee_id: 1984
+  ref_type: I
+  present: 
+card_references_817:
+  id: 4736
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+more
+  referee_id: 1987
+  ref_type: I
+  present: 
+card_references_818:
+  id: 4737
+  referer_id: 1970
+  referee_key: bootstrap_core
+  referee_id: 1957
+  ref_type: I
+  present: 
+card_references_819:
+  id: 4738
+  referer_id: 1970
+  referee_key: customizable_bootstrap_skin+custom_theme+style
+  referee_id: 1989
+  ref_type: I
+  present: 
+card_references_820:
+  id: 4740
+  referer_id: 1899
+  referee_key: themeless_bootstrap_skin
+  referee_id: 1347
+  ref_type: L
+  present: 
+card_references_821:
+  id: 4741
+  referer_id: 1899
+  referee_key: customizable_bootstrap_skin+custom_theme
+  referee_id: 1970
   ref_type: L
   present: 

@@ -37,7 +37,7 @@ class SharedData
       user_and_role_cards
 
       # generic, shared attribute card
-      create "color"
+      ensure_card "color"
 
       create "signup alert email+*to", "signups@wagn.org"
       # CREATE A CARD OF EACH TYPE
