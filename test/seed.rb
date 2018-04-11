@@ -13,7 +13,7 @@ class SharedData
     "Big Brother", "Optic fan", "Sunglasses fan", "Narcissist"
   ].freeze
 
-  CARDTYPE_COUNT = 32
+  CARDTYPE_COUNT = 33
 
 
   class << self
