@@ -45,7 +45,8 @@ class SharedData
       # above still necessary?  try commenting out above and 'Sign up' below
       Card::Auth.current_id = Card::WagnBotID # need to reset after creating sign up, which changes current_id for extend phase
 
-      no_samples = %( user sign_up set number list listed_by file image customized_skin)
+      no_samples = %w[user sign_up set number list listed_by file image
+                      customized_bootswatch_skin]
       Card::Auth.createable_types.each do |type|
         next if no_samples.include? type.to_name.key
         create type: type, name: "Sample #{type}"
