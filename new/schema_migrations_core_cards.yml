@@ -154,12 +154,14 @@ schema_migrations_core_cards_076:
 schema_migrations_core_cards_077:
   version: '20180423143146'
 schema_migrations_core_cards_078:
-  version: '20180423160231'
+  version: '20180423160222'
 schema_migrations_core_cards_079:
-  version: '20180423170283'
+  version: '20180423160231'
 schema_migrations_core_cards_080:
-  version: '20180425174432'
+  version: '20180423170283'
 schema_migrations_core_cards_081:
-  version: '20180425174433'
+  version: '20180425174432'
 schema_migrations_core_cards_082:
+  version: '20180425174433'
+schema_migrations_core_cards_083:
   version: '20180504085513'
