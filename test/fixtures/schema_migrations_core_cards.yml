@@ -152,10 +152,22 @@ schema_migrations_core_cards_075:
 schema_migrations_core_cards_076:
   version: '20180404144130'
 schema_migrations_core_cards_077:
-  version: '20180423143146'
+  version: '20180423120222'
 schema_migrations_core_cards_078:
-  version: '20180423160231'
+  version: '20180423143146'
 schema_migrations_core_cards_079:
-  version: '20180423170283'
+  version: '20180423143147'
 schema_migrations_core_cards_080:
+  version: '20180423160231'
+schema_migrations_core_cards_081:
+  version: '20180423170283'
+schema_migrations_core_cards_082:
   version: '20180425174432'
+schema_migrations_core_cards_083:
+  version: '20180425174433'
+schema_migrations_core_cards_084:
+  version: '20180508210903'
+schema_migrations_core_cards_085:
+  version: '20180509090433'
+schema_migrations_core_cards_086:
+  version: '20180509141814'
