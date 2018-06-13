@@ -10120,7 +10120,7 @@ cards_526:
   type_id: 50
   db_content: |
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
-      <a class="navbar-brand" href="">
+      <a class="navbar-brand" href="{{*home|home_path}}">
         {{*logo|core;size:small}}
         {{*title|core}}
       </a>
@@ -10172,7 +10172,7 @@ cards_528:
   trash: false
   type_id: 50
   db_content: |-
-    <li class="nav-item"><a class="nav-link internal-link" href="">Home</a></li>
+    <li class="nav-item"><a class="nav-link internal-link" href="{{*home|home_path}}">Home</a></li>
     <li class="nav-item"><a class="nav-link internal-link" href=":recent">Recent</a></li>
 cards_529:
   id: 1291
