@@ -743,7 +743,7 @@ cards_034:
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 6727
+  type_id: 22
   db_content: |
     {
       "theme": "modern",
@@ -8453,6 +8453,8 @@ cards_449:
     [[script: libraries]]
     [[script: editors]]
     [[script: mods]]
+    [[script: select2]]
+    [[script: load select2]]
 cards_450:
   id: 1199
   name: "*on create"
@@ -10118,7 +10120,7 @@ cards_526:
   type_id: 50
   db_content: |
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
-      <a class="navbar-brand" href="">
+      <a class="navbar-brand" href="{{*home|home_path}}">
         {{*logo|core;size:small}}
         {{*title|core}}
       </a>
@@ -10170,7 +10172,7 @@ cards_528:
   trash: false
   type_id: 50
   db_content: |-
-    <li class="nav-item"><a class="nav-link internal-link" href="">Home</a></li>
+    <li class="nav-item"><a class="nav-link internal-link" href="{{*home|home_path}}">Home</a></li>
     <li class="nav-item"><a class="nav-link internal-link" href=":recent">Recent</a></li>
 cards_529:
   id: 1291
@@ -13115,7 +13117,7 @@ cards_687:
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 6727
+  type_id: 22
   db_content: |
     {
       "default": {
