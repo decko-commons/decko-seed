@@ -56,6 +56,10 @@ class SharedData
         create name
       end
 
+      create_layout "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
+      create_pointer "stacks", ["horizontal", "vertical"]
+      create_pointer "stacks+*self+*layout", "lay out"
+
       # cards for rename_test
       # FIXME: could probably refactor these..
       [
@@ -246,7 +250,8 @@ class SharedData
 
       # capitalized names so that they don't interfere with checks for the verbs
       create "Created card", content: "new content"
-      update "Created card", name: "Updated card", content: "changed content", type: :pointer
+      update "Created card", name: "Updated card"
+      update "Updated card", content: "changed content", type: :pointer
       create "Created card", content: "new content"
       card = create "Deleted card", content: "old content"
       card.delete
