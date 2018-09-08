@@ -56,6 +56,10 @@ class SharedData
         create name
       end
 
+      create_layout "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
+      create_pointer "stacks", ["horizontal", "vertical"]
+      create_pointer "stacks+*self+*layout", "lay out"
+
       # cards for rename_test
       # FIXME: could probably refactor these..
       [
