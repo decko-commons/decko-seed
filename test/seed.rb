@@ -57,6 +57,7 @@ class SharedData
       end
 
       create_layout "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
+      binding.pry
       create_pointer "stacks", ["horizontal", "vertical"]
       create_pointer "stacks+*self+*layout", "lay out"
 
