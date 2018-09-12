@@ -4676,7 +4676,7 @@ cards_247:
   read_rule_id: 549
   references_expired: 
   trash: false
-  type_id: 3
+  type_id: 278
   db_content: ''
 cards_248:
   id: 471
@@ -10097,10 +10097,13 @@ cards_525:
   references_expired: 
   trash: false
   type_id: 569
-  db_content: "<!DOCTYPE HTML>\r\n<html>\r\n  <head>{{*head|core}}</head>\r\n  <body
-    class=\"right-sidebar\">\r\n    <header>{{*header|core}}</header>\r\n    <article>{{_main|open}}</article>\r\n
-    \   <aside>{{*sidebar|core}}</aside>\r\n    <footer>{{*footer|core}}</footer>\r\n
-    \ </body>\r\n</html>"
+  db_content: |-
+    <body class="right-sidebar">
+        <header>{{*header|core}}</header>
+        <article>{{_main|open}}</article>
+        <aside>{{*sidebar|core}}</aside>
+        <footer>{{*footer|core}}</footer>
+      </body>
 cards_526:
   id: 1287
   name: "*header"
@@ -11552,6 +11555,8 @@ cards_602:
     [[*structure]]
     [[*default]]
     [[*update]]
+    [[*layout]]
+    [[*head]]
     [[*help]]
     [[*script]]
     [[*options]]
@@ -13072,19 +13077,13 @@ cards_685:
   references_expired: 
   trash: false
   type_id: 569
-  db_content: |
-    <!DOCTYPE HTML>
-    <html>
-      <head>
-        {{*head|core}}
-      </head>
-      <body class="left-sidebar thin-sidebar fluid">
+  db_content: |-
+    <body class="left-sidebar thin-sidebar fluid">
         <header>{{*header|core}}</header>
         <article>{{_main|open}}</article>
         <aside>{{*sidebar|content}}</aside>
         <footer>{{*footer|core}}</footer>
       </body>
-    </html>
 cards_686:
   id: 1597
   name: 'script: pointer config'
@@ -15241,12 +15240,12 @@ cards_802:
     | link}} {{+*bcc | labeled | link}} {{+*subject | titled}} {{+*html message |
     titled}} {{+*text message | titled}} {{+*attach | titled}}</p>"
 cards_803:
-  id: 6789
-  name: classic bootstrap skin+*colors
-  key: classic_bootstrap_skin+*color
+  id: 6920
+  name: "*all+*head"
+  key: "*all+*head"
   codename: 
-  left_id: 1277
-  right_id: 3128
+  left_id: 274
+  right_id: 470
   current_revision_id: 
   created_at: 2018-09-12 21:29:14.000000000 Z
   updated_at: 2018-09-12 21:29:14.000000000 Z
@@ -15256,15 +15255,15 @@ cards_803:
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 943
-  db_content: ''
+  type_id: 50
+  db_content: "{{*head|core}}"
 cards_804:
-  id: 6791
-  name: classic bootstrap skin+*variables
-  key: classic_bootstrap_skin+*variable
+  id: 6921
+  name: "*head+*right"
+  key: "*head+*right"
   codename: 
-  left_id: 1277
-  right_id: 3124
+  left_id: 470
+  right_id: 260
   current_revision_id: 
   created_at: 2018-09-12 21:29:14.000000000 Z
   updated_at: 2018-09-12 21:29:14.000000000 Z
@@ -15369,11 +15368,11 @@ cards_804:
     $theme-color-interval:      8% !default;
 
     // The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
-    $yiq-contrasted-threshold: 150 !default;
+    $yiq-contrasted-threshold:  150 !default;
 
     // Customize the light and dark text colors for use in our YIQ color contrast function.
-    $yiq-text-dark: $gray-900 !default;
-    $yiq-text-light: $white !default;
+    $yiq-text-dark:             $gray-900 !default;
+    $yiq-text-light:            $white !default;
 
     // Options
     //
@@ -15413,7 +15412,8 @@ cards_804:
       25: 25%,
       50: 50%,
       75: 75%,
-      100: 100%
+      100: 100%,
+      auto: auto
     ), $sizes);
     // stylelint-enable
 
@@ -15491,6 +15491,10 @@ cards_804:
     $border-radius:               .25rem !default;
     $border-radius-lg:            .3rem !default;
     $border-radius-sm:            .2rem !default;
+
+    $box-shadow-sm:               0 .125rem .25rem rgba($black, .075) !default;
+    $box-shadow:                  0 .5rem 1rem rgba($black, .15) !default;
+    $box-shadow-lg:               0 1rem 3rem rgba($black, .175) !default;
 
     $component-active-color:      $white !default;
     $component-active-bg:         theme-color("primary") !default;
@@ -15598,6 +15602,9 @@ cards_804:
     $table-dark-border-color:     lighten($gray-900, 7.5%) !default;
     $table-dark-color:            $body-bg !default;
 
+    $table-striped-order:         odd !default;
+
+    $table-caption-color:         $text-muted !default;
 
     // Buttons + Forms
     //
@@ -15661,6 +15668,8 @@ cards_804:
 
     // Forms
 
+    $label-margin-bottom:                   .5rem !default;
+
     $input-padding-y:                       $input-btn-padding-y !default;
     $input-padding-x:                       $input-btn-padding-x !default;
     $input-line-height:                     $input-btn-line-height !default;
@@ -15692,6 +15701,7 @@ cards_804:
     $input-focus-box-shadow:                $input-btn-focus-box-shadow !default;
 
     $input-placeholder-color:               $gray-600 !default;
+    $input-plaintext-color:                 $body-color !default;
 
     $input-height-border:                   $input-border-width * 2 !default;
 
@@ -15730,7 +15740,7 @@ cards_804:
     $custom-control-indicator-box-shadow:   inset 0 .25rem .25rem rgba($black, .1) !default;
 
     $custom-control-indicator-disabled-bg:          $gray-200 !default;
-    $custom-control-label-disabled-color:     $gray-600 !default;
+    $custom-control-label-disabled-color:           $gray-600 !default;
 
     $custom-control-indicator-checked-color:        $component-active-color !default;
     $custom-control-indicator-checked-bg:           $component-active-bg !default;
@@ -15746,22 +15756,22 @@ cards_804:
     $custom-checkbox-indicator-border-radius:       $border-radius !default;
     $custom-checkbox-indicator-icon-checked:        str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='#{$custom-control-indicator-checked-color}' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E"), "#", "%23") !default;
 
-    $custom-checkbox-indicator-indeterminate-bg:    $component-active-bg !default;
-    $custom-checkbox-indicator-indeterminate-color: $custom-control-indicator-checked-color !default;
-    $custom-checkbox-indicator-icon-indeterminate:  str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='#{$custom-checkbox-indicator-indeterminate-color}' d='M0 2h4'/%3E%3C/svg%3E"), "#", "%23") !default;
-    $custom-checkbox-indicator-indeterminate-box-shadow: none !default;
+    $custom-checkbox-indicator-indeterminate-bg:          $component-active-bg !default;
+    $custom-checkbox-indicator-indeterminate-color:       $custom-control-indicator-checked-color !default;
+    $custom-checkbox-indicator-icon-indeterminate:        str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='#{$custom-checkbox-indicator-indeterminate-color}' d='M0 2h4'/%3E%3C/svg%3E"), "#", "%23") !default;
+    $custom-checkbox-indicator-indeterminate-box-shadow:  none !default;
 
     $custom-radio-indicator-border-radius:          50% !default;
     $custom-radio-indicator-icon-checked:           str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='#{$custom-control-indicator-checked-color}'/%3E%3C/svg%3E"), "#", "%23") !default;
 
     $custom-select-padding-y:           .375rem !default;
-    $custom-select-padding-x:          .75rem !default;
+    $custom-select-padding-x:           .75rem !default;
     $custom-select-height:              $input-height !default;
     $custom-select-indicator-padding:   1rem !default; // Extra padding to account for the presence of the background-image based indicator
     $custom-select-line-height:         $input-btn-line-height !default;
     $custom-select-color:               $input-color !default;
     $custom-select-disabled-color:      $gray-600 !default;
-    $custom-select-bg:                  $white !default;
+    $custom-select-bg:                  $input-bg !default;
     $custom-select-disabled-bg:         $gray-200 !default;
     $custom-select-bg-size:             8px 10px !default; // In pixels because image dimensions
     $custom-select-indicator-color:     $gray-800 !default;
@@ -15779,7 +15789,24 @@ cards_804:
     $custom-select-font-size-lg:        125% !default;
     $custom-select-height-lg:           $input-height-lg !default;
 
+    $custom-range-track-width:          100% !default;
+    $custom-range-track-height:         .5rem !default;
+    $custom-range-track-cursor:         pointer !default;
+    $custom-range-track-bg:             $gray-300 !default;
+    $custom-range-track-border-radius:  1rem !default;
+    $custom-range-track-box-shadow:     inset 0 .25rem .25rem rgba($black, .1) !default;
+
+    $custom-range-thumb-width:            1rem !default;
+    $custom-range-thumb-height:           $custom-range-thumb-width !default;
+    $custom-range-thumb-bg:               $component-active-bg !default;
+    $custom-range-thumb-border:           0 !default;
+    $custom-range-thumb-border-radius:    1rem !default;
+    $custom-range-thumb-box-shadow:       0 .1rem .25rem rgba($black, .1) !default;
+    $custom-range-thumb-focus-box-shadow: 0 0 0 1px $body-bg, $input-btn-focus-box-shadow !default;
+    $custom-range-thumb-active-bg:        lighten($component-active-bg, 35%) !default;
+
     $custom-file-height:                $input-height !default;
+    $custom-file-height-inner:          $input-height-inner !default;
     $custom-file-focus-border-color:    $input-focus-border-color !default;
     $custom-file-focus-box-shadow:      $input-btn-focus-box-shadow !default;
 
@@ -15866,6 +15893,9 @@ cards_804:
     $nav-pills-link-active-color:       $component-active-color !default;
     $nav-pills-link-active-bg:          $component-active-bg !default;
 
+    $nav-divider-color:                 $gray-200 !default;
+    $nav-divider-margin-y:              ($spacer / 2) !default;
+
     // Navbar
 
     $navbar-padding-y:                  ($spacer / 2) !default;
@@ -15914,6 +15944,7 @@ cards_804:
     $pagination-border-color:           $gray-300 !default;
 
     $pagination-focus-box-shadow:       $input-btn-focus-box-shadow !default;
+    $pagination-focus-outline:          0 !default;
 
     $pagination-hover-color:            $link-hover-color !default;
     $pagination-hover-bg:               $gray-200 !default;
@@ -15957,19 +15988,19 @@ cards_804:
 
     // Tooltips
 
-    $tooltip-font-size:           $font-size-sm !default;
-    $tooltip-max-width:           200px !default;
-    $tooltip-color:               $white !default;
-    $tooltip-bg:                  $black !default;
-    $tooltip-border-radius:        $border-radius !default;
-    $tooltip-opacity:             .9 !default;
-    $tooltip-padding-y:           .25rem !default;
-    $tooltip-padding-x:           .5rem !default;
-    $tooltip-margin:              0 !default;
+    $tooltip-font-size:                 $font-size-sm !default;
+    $tooltip-max-width:                 200px !default;
+    $tooltip-color:                     $white !default;
+    $tooltip-bg:                        $black !default;
+    $tooltip-border-radius:             $border-radius !default;
+    $tooltip-opacity:                   .9 !default;
+    $tooltip-padding-y:                 .25rem !default;
+    $tooltip-padding-x:                 .5rem !default;
+    $tooltip-margin:                    0 !default;
 
-    $tooltip-arrow-width:         .8rem !default;
-    $tooltip-arrow-height:        .4rem !default;
-    $tooltip-arrow-color:         $tooltip-bg !default;
+    $tooltip-arrow-width:               .8rem !default;
+    $tooltip-arrow-height:              .4rem !default;
+    $tooltip-arrow-color:               $tooltip-bg !default;
 
 
     // Popovers
@@ -16015,26 +16046,27 @@ cards_804:
     // Modals
 
     // Padding applied to the modal body
-    $modal-inner-padding:         1rem !default;
+    $modal-inner-padding:               1rem !default;
 
-    $modal-dialog-margin:         .5rem !default;
-    $modal-dialog-margin-y-sm-up: 1.75rem !default;
+    $modal-dialog-margin:               .5rem !default;
+    $modal-dialog-margin-y-sm-up:       1.75rem !default;
 
     $modal-title-line-height:           $line-height-base !default;
 
-    $modal-content-bg:               $white !default;
-    $modal-content-border-color:     rgba($black, .2) !default;
-    $modal-content-border-width:     $border-width !default;
-    $modal-content-box-shadow-xs:    0 .25rem .5rem rgba($black, .5) !default;
-    $modal-content-box-shadow-sm-up: 0 .5rem 1rem rgba($black, .5) !default;
+    $modal-content-bg:                  $white !default;
+    $modal-content-border-color:        rgba($black, .2) !default;
+    $modal-content-border-width:        $border-width !default;
+    $modal-content-border-radius:       $border-radius-lg !default;
+    $modal-content-box-shadow-xs:       0 .25rem .5rem rgba($black, .5) !default;
+    $modal-content-box-shadow-sm-up:    0 .5rem 1rem rgba($black, .5) !default;
 
-    $modal-backdrop-bg:           $black !default;
-    $modal-backdrop-opacity:      .5 !default;
-    $modal-header-border-color:   $gray-200 !default;
-    $modal-footer-border-color:   $modal-header-border-color !default;
-    $modal-header-border-width:   $modal-content-border-width !default;
-    $modal-footer-border-width:   $modal-header-border-width !default;
-    $modal-header-padding:        1rem !default;
+    $modal-backdrop-bg:                 $black !default;
+    $modal-backdrop-opacity:            .5 !default;
+    $modal-header-border-color:         $gray-200 !default;
+    $modal-footer-border-color:         $modal-header-border-color !default;
+    $modal-header-border-width:         $modal-content-border-width !default;
+    $modal-footer-border-width:         $modal-header-border-width !default;
+    $modal-header-padding:              1rem !default;
 
     $modal-lg:                          800px !default;
     $modal-md:                          500px !default;
@@ -16123,7 +16155,9 @@ cards_804:
     $breadcrumb-bg:                     $gray-200 !default;
     $breadcrumb-divider-color:          $gray-600 !default;
     $breadcrumb-active-color:           $gray-600 !default;
-    $breadcrumb-divider:                "/" !default;
+    $breadcrumb-divider:                quote("/") !default;
+
+    $breadcrumb-border-radius:          $border-radius !default;
 
 
     // Carousel
@@ -16145,7 +16179,7 @@ cards_804:
     $carousel-control-prev-icon-bg:     str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#{$carousel-control-color}' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E"), "#", "%23") !default;
     $carousel-control-next-icon-bg:     str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#{$carousel-control-color}' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E"), "#", "%23") !default;
 
-    $carousel-transition:               transform .6s ease !default;
+    $carousel-transition:               transform .6s ease !default; // Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity .5s ease-out`)
 
 
     // Close
@@ -16173,8 +16207,8 @@ cards_804:
     // Printing
     $print-page-size:                   a3 !default;
     $print-body-min-width:              map-get($grid-breakpoints, "lg") !default;
-cards_805:
-  id: 6793
+cards_801:
+  id: 6913
   name: classic bootstrap skin+*stylesheets
   key: classic_bootstrap_skin+*stylesheet
   codename: 
@@ -19777,7 +19811,7 @@ cards_1001:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 251465dbce79c243f2f633c6029e2cafb4f7bf07
+  db_content: d515ae2fd864f6147c95b06a3464c227abf5ac6e
 cards_1002:
   id: 8216
   name: Sunglasses fan
@@ -19903,7 +19937,7 @@ cards_1008:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: 2e600cd5bc8e0e3429a124d687b343681628c55d
+  db_content: d515ae2fd864f6147c95b06a3464c227abf5ac6e
 cards_1009:
   id: 8223
   name: Narcissist
