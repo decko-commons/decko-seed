@@ -246,7 +246,8 @@ class SharedData
 
       # capitalized names so that they don't interfere with checks for the verbs
       create "Created card", content: "new content"
-      update "Created card", name: "Updated card", content: "changed content", type: :pointer
+      update "Created card", name: "Updated card", content: "changed content",
+                             type: :pointer, skip: :validate_renaming
       create "Created card", content: "new content"
       card = create "Deleted card", content: "old content"
       card.delete
