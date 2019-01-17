@@ -121,8 +121,10 @@ class SharedData
 
       # -------- For history testing: -----------
       first = create "First", "egg"
-      first.update_attributes! content: "chicken"
-      first.update_attributes! content: "chick"
+      require 'pry'
+      binding.pry
+      first.update! content: "chicken"
+      first.update! content: "chick"
 
       # -------- For rename testing: -----------
       [
@@ -228,7 +230,7 @@ class SharedData
         magnifier = create "Magnifier+lens"
 
         Card::Auth.current_id = Card["Narcissist"].id
-        magnifier.update_attributes! content: "zoom in"
+        magnifier.update! content: "zoom in"
         create_optic "Sunglasses", "{{+tint}}{{+lens}}"
 
         Card::Auth.current_id = Card["Optic fan"].id
