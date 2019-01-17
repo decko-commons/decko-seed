@@ -121,8 +121,6 @@ class SharedData
 
       # -------- For history testing: -----------
       first = create "First", "egg"
-      require 'pry'
-      binding.pry
       first.update! content: "chicken"
       first.update! content: "chick"
 
