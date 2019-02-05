@@ -186,8 +186,14 @@ schema_migrations_core_cards_092:
 schema_migrations_core_cards_093:
   version: '20180905061534'
 schema_migrations_core_cards_094:
-  version: '20181108181219'
+  version: '20180905061536'
 schema_migrations_core_cards_095:
-  version: '20181120200937'
+  version: '20181108181219'
 schema_migrations_core_cards_096:
+  version: '20181120200937'
+schema_migrations_core_cards_097:
   version: '20181129140917'
+schema_migrations_core_cards_098:
+  version: '20190125125150'
+schema_migrations_core_cards_099:
+  version: '20190204195038'
