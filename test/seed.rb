@@ -59,9 +59,9 @@ class SharedData
       create_layout "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
       create_pointer "stacks", ["horizontal", "vertical"]
       create_pointer "stacks+*self+*layout", "lay out"
-      create_pointer "letters"
-      create "letters+*self+*input", "filtered list"
-      create "letters+*self+*options", %w[A B T X Y Z]
+      create_pointer "joes"
+      create "joes+*self+*input", "filtered list"
+      create "joes+*self+*options", ["Joe Admin", "Joe User", "Joe Camel"]
 
       # cards for rename_test
       # FIXME: could probably refactor these..
