@@ -59,6 +59,10 @@ class SharedData
       create_layout "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
       create_pointer "stacks", ["horizontal", "vertical"]
       create_pointer "stacks+*self+*layout", "lay out"
+
+      create_pointer "friends+*right+*default"
+      create_search_type "friends+*right+*options", '{"type":"User"}'
+
       create_pointer "joes"
       create "joes+*self+*input", "filtered list"
       create "joes+*self+*options", ["Joe Admin", "Joe User", "Joe Camel"]
