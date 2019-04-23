@@ -1286,7 +1286,7 @@ cards_062:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type": "User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_063:
   id: 103
   name: "*favicon"
@@ -5668,7 +5668,7 @@ cards_302:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type":"User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_303:
   id: 536
   name: "*read+*right+*default"
@@ -5704,7 +5704,7 @@ cards_304:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type":"User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_305:
   id: 538
   name: "*update+*right+*default"
@@ -5740,7 +5740,7 @@ cards_306:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type":"User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_307:
   id: 540
   name: "*delete+*right+*default"
@@ -5776,7 +5776,7 @@ cards_308:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type":"User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_309:
   id: 542
   name: "*comment+*right+*default"
@@ -5812,7 +5812,7 @@ cards_310:
   references_expired: 
   trash: false
   type_id: 30
-  db_content: '{"extension_type":"User"}'
+  db_content: '{"right_plus": ":account"}'
 cards_311:
   id: 546
   name: "*tinyMCE+*self"
