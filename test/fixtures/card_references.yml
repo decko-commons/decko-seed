@@ -4932,7 +4932,7 @@ card_references_705:
   referer_id: 1619
   referee_key: twitter_template+description
   referee_id: 
-  ref_type: I
+  ref_type: P
   present: 
 card_references_706:
   id: 19326
@@ -5219,7 +5219,7 @@ card_references_746:
   referer_id: 1507
   referee_key: session+*type
   referee_id: 
-  ref_type: P
+  ref_type: I
   present: 
 card_references_747:
   id: 19367
@@ -5696,6 +5696,13 @@ card_references_814:
   referee_key: "*header"
   referee_id: 1287
   ref_type: I
+  present: 
+card_references_814:
+  id: 21406
+  referer_id: 12648
+  referee_key: cardtype+*type
+  referee_id: 320
+  ref_type: P
   present: 
 card_references_815:
   id: 20098
