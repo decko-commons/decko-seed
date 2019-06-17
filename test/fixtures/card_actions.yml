@@ -6343,6 +6343,22 @@ card_actions_793:
   action_type: 0
   draft: false
   comment: 
+card_actions_792:
+  id: 20604
+  card_id: 322
+  card_act_id: 36409
+  super_action_id: 
+  action_type: 0
+  draft: false
+  comment: 
+card_actions_793:
+  id: 20606
+  card_id: 12646
+  card_act_id: 36409
+  super_action_id: 20605
+  action_type: 0
+  draft: false
+  comment: 
 card_actions_794:
   id: 20640
   card_id: 88
@@ -7740,7 +7756,7 @@ card_actions_968:
   card_id: 33902
   card_act_id: 31740
   super_action_id: 
-  action_type: 0
+  action_type: 1
   draft: false
   comment: 
 card_actions_969:
@@ -7748,7 +7764,7 @@ card_actions_969:
   card_id: 33903
   card_act_id: 31741
   super_action_id: 
-  action_type: 0
+  action_type: 1
   draft: false
   comment: 
 card_actions_970:
@@ -8428,7 +8444,7 @@ card_actions_1054:
   card_id: 34004
   card_act_id: 31782
   super_action_id: 
-  action_type: 0
+  action_type: 1
   draft: false
   comment: 
 card_actions_1055:
@@ -8484,7 +8500,7 @@ card_actions_1061:
   card_id: 34010
   card_act_id: 31786
   super_action_id: 
-  action_type: 0
+  action_type: 1
   draft: false
   comment: 
 card_actions_1062:

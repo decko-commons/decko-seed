@@ -13,7 +13,7 @@ class SharedData
     "Big Brother", "Optic fan", "Sunglasses fan", "Narcissist"
   ].freeze
 
-  CARDTYPE_COUNT = 35
+  CARDTYPE_COUNT = 41
 
   class << self
 
@@ -166,7 +166,10 @@ class SharedData
 
       # noinspection RubyResolve
       Card["Joe Admin"].fetch(trait: :roles, new: { type_code: "pointer" })
-        .items = [Card::AdministratorID]
+        .items = [Card::AdministratorID, Card::SharkID, Card::HelpDeskID]
+
+      Card["Joe User"].fetch(trait: :roles, new: { type_code: "pointer" })
+              .items = [Card::SharkID]
 
       create_user "u1", email: "u1@user.com", password: "u1_pass"
       create_user "u2", email: "u2@user.com", password: "u2_pass"
