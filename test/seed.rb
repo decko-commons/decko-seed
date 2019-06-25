@@ -182,7 +182,7 @@ class SharedData
       r3 = create_role "r3"
       r4 = create_role "r4"
 
-      Card["u1"].fetch(trait: :roles, new: {}).items = [r1, r2, r3]
+      Card["u1"].fetch(trait: :roles, new: { type_code: "pointer" }).items = [r1, r2, r3]
       Card["u2"].fetch(trait: :roles, new: {}).items = [r1, r2, r4]
       Card["u3"].fetch(trait: :roles, new: {}).items = [r1, r4, Card::AdministratorID]
     end

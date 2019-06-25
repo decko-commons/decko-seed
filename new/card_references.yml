@@ -5928,3 +5928,52 @@ card_references_847:
   referee_id: 6739
   ref_type: I
   present: 
+card_references_848:
+  id: 26574
+  referer_id: 1290
+  referee_key: "*getting_started+link"
+  referee_id: 12769
+  ref_type: L
+  present: 
+card_references_849:
+  id: 26575
+  referer_id: 1290
+  referee_key: "*getting_started"
+  referee_id: 12740
+  ref_type: P
+  present: 
+card_references_850:
+  id: 26576
+  referer_id: 1290
+  referee_key: link
+  referee_id: 12768
+  ref_type: P
+  present: 
+card_references_851:
+  id: 26577
+  referer_id: 1290
+  referee_key: "*recent"
+  referee_id: 465
+  ref_type: L
+  present: 
+card_references_852:
+  id: 26578
+  referer_id: 12769
+  referee_key: "*all+*style"
+  referee_id: 969
+  ref_type: L
+  present: 
+card_references_853:
+  id: 26579
+  referer_id: 12769
+  referee_key: administrator
+  referee_id: 10
+  ref_type: L
+  present: 
+card_references_854:
+  id: 26580
+  referer_id: 12769
+  referee_key: "*dropdown_divider"
+  referee_id: 12767
+  ref_type: L
+  present: 
