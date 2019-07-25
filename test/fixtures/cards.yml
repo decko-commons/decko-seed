@@ -18414,7 +18414,7 @@ cards_914:
   read_rule_id: 500
   references_expired: 
   trash: false
-  type_id: 1034
+  type_id: 6727
   db_content: ''
 cards_915:
   id: 49860
@@ -18428,7 +18428,7 @@ cards_915:
   updated_at: 2019-07-25 16:45:22.000000000 Z
   creator_id: 1
   updater_id: 1
-  read_rule_class: "*all plus"
+  read_rule_class: "*all"
   read_rule_id: 500
   references_expired: 
   trash: false
