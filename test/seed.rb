@@ -251,7 +251,7 @@ class SharedData
 
         Card::Auth.current_id = Card::WagnBotID
         create "Google glass+*self+*follow_fields", ""
-        create "Sunglasses+*self+*follow_fields", "[[#{Card[:includes].name}]]\n[[_self+price]]\n[[_self+producer]]"
+        create "Sunglasses+*self+*follow_fields", "[[#{Card[:nests].name}]]\n[[_self+price]]\n[[_self+producer]]"
         create "Sunglasses+tint"
         create "Sunglasses+price"
 
