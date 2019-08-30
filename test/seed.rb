@@ -8,7 +8,7 @@ class SharedData
   extend Card::Model::SaveHelper
 
   USERS = [
-    "Joe User", "Joe Admin", "Joe Camel", "Sample User", "No count",
+    "Joe Admin", "Joe User" "Joe Camel", "Sample User", "No count",
     "u1", "u2", "u3",
     "Big Brother", "Optic fan", "Sunglasses fan", "Narcissist"
   ].freeze
@@ -19,7 +19,12 @@ class SharedData
 
     def create_user name, args
       args[:subcards] = account_args args if args[:email]
-      super name, args
+
+      if name == "Joe Admin"
+        super name, args
+      else
+        Card::Auth.with("joe_admin") { super name, args }
+      end
     end
 
     def account_args hash
@@ -157,8 +162,8 @@ class SharedData
 
     def user_and_role_cards
       Card::Auth.instant_account_activation do
-        create_user "Joe User", content: "I'm number two", email: "joe@user.com"
         create_user "Joe Admin", content: "I'm number one", email: "joe@admin.com"
+        create_user "Joe User", content: "I'm number two", email: "joe@user.com"
         create_user "Joe Camel", content: "Mr. Buttz", email: "joe@camel.com"
 
         # data for testing users and account requests
