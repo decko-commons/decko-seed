@@ -67,11 +67,11 @@ class SharedData
       create_pointer "vertical"
 
       create_pointer "friends+*right+*default"
-      create_search_type "friends+*right+*options", '{"type":"User"}'
+      create_search_type "friends+*right+*content options", '{"type":"User"}'
 
       create_pointer "joes"
-      create "joes+*self+*input", "filtered list"
-      create "joes+*self+*options", ["Joe Admin", "Joe User", "Joe Camel"]
+      create "joes+*self+*input type", "filtered list"
+      create "joes+*self+*content options", ["Joe Admin", "Joe User", "Joe Camel"]
 
       # cards for rename_test
       # FIXME: could probably refactor these..
