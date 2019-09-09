@@ -45,9 +45,6 @@ class SharedData
 
       create "signup alert email+*to", "signups@wagn.org"
       # CREATE A CARD OF EACH TYPE
-      create_signup "Sample Signup" # , email: "invitation@request.com"
-      # above still necessary?  try commenting out above and 'Sign up' below
-      Card::Auth.current_id = Card::WagnBotID # need to reset after creating sign up, which changes current_id for extend phase
 
       no_samples = %w[user sign_up set number mirror_list mirrored_list file image
                       customized_bootswatch_skin]
@@ -67,11 +64,11 @@ class SharedData
       create_pointer "vertical"
 
       create_pointer "friends+*right+*default"
-      create_search_type "friends+*right+*options", '{"type":"User"}'
+      create_search_type "friends+*right+*content options", '{"type":"User"}'
 
       create_pointer "joes"
-      create "joes+*self+*input", "filtered list"
-      create "joes+*self+*options", ["Joe Admin", "Joe User", "Joe Camel"]
+      create "joes+*self+*input type", "filtered list"
+      create "joes+*self+*content options", ["Joe Admin", "Joe User", "Joe Camel"]
 
       # cards for rename_test
       # FIXME: could probably refactor these..

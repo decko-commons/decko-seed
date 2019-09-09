@@ -4349,7 +4349,7 @@ card_references_621:
 card_references_622:
   id: 26772
   referer_id: 12812
-  referee_key: "*input"
+  referee_key: "*input_type"
   referee_id: 241
   ref_type: Q
   present: 
@@ -4363,7 +4363,7 @@ card_references_623:
 card_references_624:
   id: 26791
   referer_id: 12815
-  referee_key: "*input"
+  referee_key: "*input_type"
   referee_id: 241
   ref_type: Q
   present: 
@@ -7772,14 +7772,14 @@ card_references_1110:
 card_references_1111:
   id: 47522
   referer_id: 1511
-  referee_key: "*option"
+  referee_key: "*content_option"
   referee_id: 86
   ref_type: L
   present: 
 card_references_1112:
   id: 47523
   referer_id: 1511
-  referee_key: "*input"
+  referee_key: "*input_type"
   referee_id: 241
   ref_type: L
   present: 
@@ -7793,22 +7793,22 @@ card_references_1113:
 card_references_1114:
   id: 47525
   referer_id: 1511
-  referee_key: "*guide"
-  referee_id: 12837
+  referee_key: "*content_option_view"
+  referee_id: 252
   ref_type: L
   present: 
 card_references_1115:
   id: 47526
   referer_id: 1511
-  referee_key: "*help"
-  referee_id: 82
+  referee_key: "*guide"
+  referee_id: 12837
   ref_type: L
   present: 
 card_references_1116:
   id: 47527
   referer_id: 1511
-  referee_key: "*option_label"
-  referee_id: 252
+  referee_key: "*help"
+  referee_id: 82
   ref_type: L
   present: 
 card_references_1117:
