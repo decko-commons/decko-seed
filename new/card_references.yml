@@ -4349,7 +4349,7 @@ card_references_621:
 card_references_622:
   id: 26772
   referer_id: 12812
-  referee_key: "*input"
+  referee_key: "*input_type"
   referee_id: 241
   ref_type: Q
   present: 
@@ -4363,7 +4363,7 @@ card_references_623:
 card_references_624:
   id: 26791
   referer_id: 12815
-  referee_key: "*input"
+  referee_key: "*input_type"
   referee_id: 241
   ref_type: Q
   present: 
@@ -5929,149 +5929,149 @@ card_references_847:
   ref_type: L
   present: 
 card_references_848:
-  id: 43146
-  referer_id: 1511
-  referee_key: "*create"
-  referee_id: 478
-  ref_type: L
-  present: 
-card_references_849:
-  id: 43147
-  referer_id: 1511
-  referee_key: "*structure"
-  referee_id: 317
-  ref_type: L
-  present: 
-card_references_850:
-  id: 43148
-  referer_id: 1511
-  referee_key: "*guide"
-  referee_id: 12837
-  ref_type: L
-  present: 
-card_references_851:
-  id: 43149
-  referer_id: 1511
-  referee_key: "*help"
-  referee_id: 82
-  ref_type: L
-  present: 
-card_references_852:
-  id: 43150
-  referer_id: 1511
-  referee_key: "*option_label"
-  referee_id: 252
-  ref_type: L
-  present: 
-card_references_853:
-  id: 43151
-  referer_id: 1511
-  referee_key: "*option"
-  referee_id: 86
-  ref_type: L
-  present: 
-card_references_854:
-  id: 43152
-  referer_id: 1511
-  referee_key: "*update"
-  referee_id: 480
-  ref_type: L
-  present: 
-card_references_855:
-  id: 43153
-  referer_id: 1511
-  referee_key: "*layout"
-  referee_id: 255
-  ref_type: L
-  present: 
-card_references_856:
-  id: 43154
-  referer_id: 1511
-  referee_key: "*delete"
-  referee_id: 481
-  ref_type: L
-  present: 
-card_references_857:
-  id: 43155
-  referer_id: 1511
-  referee_key: "*read"
-  referee_id: 479
-  ref_type: L
-  present: 
-card_references_858:
-  id: 43156
-  referer_id: 1511
-  referee_key: "*script"
-  referee_id: 1043
-  ref_type: L
-  present: 
-card_references_859:
-  id: 43157
-  referer_id: 1511
-  referee_key: "*default"
-  referee_id: 318
-  ref_type: L
-  present: 
-card_references_860:
-  id: 43158
-  referer_id: 1511
-  referee_key: "*head"
-  referee_id: 470
-  ref_type: L
-  present: 
-card_references_861:
-  id: 43159
-  referer_id: 1511
-  referee_key: "*style"
-  referee_id: 953
-  ref_type: L
-  present: 
-card_references_862:
-  id: 43160
-  referer_id: 1511
-  referee_key: "*input"
-  referee_id: 241
-  ref_type: L
-  present: 
-card_references_863:
   id: 43161
   referer_id: 19555
   referee_key: sign_up
   referee_id: 12
   ref_type: Q
   present: 
-card_references_864:
+card_references_849:
   id: 43162
   referer_id: 19555
   referee_key: "*account"
   referee_id: 100
   ref_type: Q
   present: 
-card_references_865:
+card_references_850:
   id: 43163
   referer_id: 19556
   referee_key: sign_up+*account+*type_plu_right
   referee_id: 19555
   ref_type: L
   present: 
-card_references_866:
+card_references_851:
   id: 43164
   referer_id: 19561
   referee_key: user
   referee_id: 4
   ref_type: Q
   present: 
-card_references_867:
+card_references_852:
   id: 43165
   referer_id: 19561
   referee_key: "*account"
   referee_id: 100
   ref_type: Q
   present: 
-card_references_868:
+card_references_853:
   id: 43166
   referer_id: 19562
   referee_key: user+*account+*type_plu_right
   referee_id: 19561
+  ref_type: L
+  present: 
+card_references_854:
+  id: 43341
+  referer_id: 1511
+  referee_key: "*content_option_view"
+  referee_id: 252
+  ref_type: L
+  present: 
+card_references_855:
+  id: 43342
+  referer_id: 1511
+  referee_key: "*create"
+  referee_id: 478
+  ref_type: L
+  present: 
+card_references_856:
+  id: 43343
+  referer_id: 1511
+  referee_key: "*structure"
+  referee_id: 317
+  ref_type: L
+  present: 
+card_references_857:
+  id: 43344
+  referer_id: 1511
+  referee_key: "*guide"
+  referee_id: 12837
+  ref_type: L
+  present: 
+card_references_858:
+  id: 43345
+  referer_id: 1511
+  referee_key: "*help"
+  referee_id: 82
+  ref_type: L
+  present: 
+card_references_859:
+  id: 43346
+  referer_id: 1511
+  referee_key: "*content_option"
+  referee_id: 86
+  ref_type: L
+  present: 
+card_references_860:
+  id: 43347
+  referer_id: 1511
+  referee_key: "*update"
+  referee_id: 480
+  ref_type: L
+  present: 
+card_references_861:
+  id: 43348
+  referer_id: 1511
+  referee_key: "*layout"
+  referee_id: 255
+  ref_type: L
+  present: 
+card_references_862:
+  id: 43349
+  referer_id: 1511
+  referee_key: "*delete"
+  referee_id: 481
+  ref_type: L
+  present: 
+card_references_863:
+  id: 43350
+  referer_id: 1511
+  referee_key: "*read"
+  referee_id: 479
+  ref_type: L
+  present: 
+card_references_864:
+  id: 43351
+  referer_id: 1511
+  referee_key: "*script"
+  referee_id: 1043
+  ref_type: L
+  present: 
+card_references_865:
+  id: 43352
+  referer_id: 1511
+  referee_key: "*default"
+  referee_id: 318
+  ref_type: L
+  present: 
+card_references_866:
+  id: 43353
+  referer_id: 1511
+  referee_key: "*head"
+  referee_id: 470
+  ref_type: L
+  present: 
+card_references_867:
+  id: 43354
+  referer_id: 1511
+  referee_key: "*style"
+  referee_id: 953
+  ref_type: L
+  present: 
+card_references_868:
+  id: 43355
+  referer_id: 1511
+  referee_key: "*input_type"
+  referee_id: 241
   ref_type: L
   present: 

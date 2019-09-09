@@ -6304,9 +6304,9 @@ cards_329:
   db_content: ''
 cards_330:
   id: 989
-  name: "*token"
-  key: "*token"
-  codename: token
+  name: "*api key"
+  key: "*api_key"
+  codename: api_key
   left_id: 
   right_id: 
   current_revision_id: 6846
@@ -6430,8 +6430,8 @@ cards_336:
   db_content: "[[Help Desk]]"
 cards_337:
   id: 996
-  name: "*token+*right"
-  key: "*token+*right"
+  name: "*api key+*right"
+  key: "*api_key+*right"
   codename: 
   left_id: 989
   right_id: 260
@@ -6448,8 +6448,8 @@ cards_337:
   db_content: '{"right":"_left"}'
 cards_338:
   id: 997
-  name: "*token+*right+*read"
-  key: "*token+*right+*read"
+  name: "*api key+*right+*read"
+  key: "*api_key+*right+*read"
   codename: 
   left_id: 996
   right_id: 479
@@ -15061,8 +15061,8 @@ cards_739:
   db_content: "[[Help Desk]]"
 cards_740:
   id: 12644
-  name: "*token+*right+*update"
-  key: "*token+*right+*update"
+  name: "*api key+*right+*update"
+  key: "*api_key+*right+*update"
   codename: 
   left_id: 996
   right_id: 480
@@ -15079,8 +15079,8 @@ cards_740:
   db_content: "[[Help Desk]]"
 cards_741:
   id: 12645
-  name: "*token+*right+*delete"
-  key: "*token+*right+*delete"
+  name: "*api key+*right+*delete"
+  key: "*api_key+*right+*delete"
   codename: 
   left_id: 996
   right_id: 481
