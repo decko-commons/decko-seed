@@ -62,16 +62,16 @@ class SharedData
 
       create_layout_type "lay out", "Greatest {{_main|title: Callahan!; view: labeled}}"
       create_pointer "stacks", ["horizontal", "vertical"]
-      create_pointer "stacks+*self+*layout", "lay out"
+      create_pointer ["stacks", :self, :layout], "lay out"
       create "horizontal"
       create_pointer "vertical"
 
-      create_pointer "friends+*right+*default"
-      create_search_type "friends+*right+*options", '{"type":"User"}'
+      create_pointer ["friends", :right, :default]
+      create_search_type ["friends", :right, :content_options], '{"type":"User"}'
 
       create_pointer "joes"
-      create "joes+*self+*input", "filtered list"
-      create "joes+*self+*options", ["Joe Admin", "Joe User", "Joe Camel"]
+      create ["joes", :self, :input_type], "filtered list"
+      create ["joes", :self, :content_options], ["Joe Admin", "Joe User", "Joe Camel"]
 
       # cards for rename_test
       # FIXME: could probably refactor these..
@@ -97,7 +97,7 @@ class SharedData
 
       # for template stuff
       Card.create! type_id: Card::CardtypeID, name: "UserForm"
-      create "UserForm+*type+*structure", "{{+name}} {{+age}} {{+description}}"
+      create ["UserForm", :type, :structure], "{{+name}} {{+age}} {{+description}}"
 
       Card::Auth.current_id = Card["joe_user"].id
       create "JoeLater", "test"
@@ -106,7 +106,7 @@ class SharedData
       Card::Auth.current_id = Card::WagnBotID
 
       create_cardtype "Book"
-      create "Book+*type+*structure", "by {{+author}}, design by {{+illustrator}}"
+      create ["Book", :type, :structure], "by {{+author}}, design by {{+illustrator}}"
       create_book "Iliad"
 
       create_cardtype "Author"
