@@ -280,14 +280,16 @@ schema_migrations_core_cards_139:
 schema_migrations_core_cards_140:
   version: '20190829093961'
 schema_migrations_core_cards_141:
-  version: '20190829205148'
+  version: '20190829151731'
 schema_migrations_core_cards_142:
-  version: '20190830131820'
+  version: '20190829205148'
 schema_migrations_core_cards_143:
-  version: '20190902161223'
+  version: '20190830131820'
 schema_migrations_core_cards_144:
-  version: '20190902193208'
+  version: '20190902161223'
 schema_migrations_core_cards_145:
+  version: '20190902193208'
+schema_migrations_core_cards_146:
   version: '20190904174403'
 schema_migrations_core_cards_146:
   version: '20190909104250'
