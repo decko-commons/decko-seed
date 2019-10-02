@@ -3505,21 +3505,7 @@ card_references_501:
   referee_key: "*member"
   referee_id: 98
   ref_type: P
-  present: 
-card_references_502:
-  id: 17852
-  referer_id: 12653
-  referee_key: eagle+*member
-  referee_id: 
-  ref_type: L
-  present: 
-card_references_503:
-  id: 17853
-  referer_id: 12653
-  referee_key: eagle
-  referee_id: 12619
-  ref_type: P
-  present: 
+  present:
 card_references_504:
   id: 17854
   referer_id: 12653
@@ -3799,21 +3785,7 @@ card_references_543:
   referee_key: dashboard
   referee_id: 12646
   ref_type: P
-  present: 
-card_references_544:
-  id: 26294
-  referer_id: 12619
-  referee_key: eagle+description
-  referee_id: 12653
-  ref_type: I
-  present: 
-card_references_545:
-  id: 26295
-  referer_id: 12619
-  referee_key: eagle+dashboard
-  referee_id: 12652
-  ref_type: I
-  present: 
+  present:
 card_references_546:
   id: 26296
   referer_id: 12620

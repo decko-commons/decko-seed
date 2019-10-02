@@ -14711,30 +14711,6 @@ cards_721:
   trash: false
   type_id: 47
   db_content: "[[Anyone]]"
-cards_722:
-  id: 12619
-  name: Eagle
-  key: eagle
-  codename: eagle
-  left_id: 
-  right_id: 
-  current_revision_id: 
-  created_at: 2019-09-27 11:30:02.000000000 Z
-  updated_at: 2019-09-27 11:30:02.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 7
-  db_content: |-
-    <p>{{+description}}</p>
-    <p>&nbsp;</p>
-    <h1>Accounts with the {{_self|name}} role<br></h1>
-    <blockquote>
-    <p>{{+*members}}</p>
-    </blockquote>
 cards_723:
   id: 12620
   name: Shark
@@ -15249,43 +15225,6 @@ cards_747:
   type_id: 3
   db_content: "<p>[[_left+*members|Help Desk users]] can manage accounts and edit
     help text</p>"
-cards_748:
-  id: 12652
-  name: Eagle+dashboard
-  key: eagle+dashboard
-  codename: 
-  left_id: 12619
-  right_id: 12646
-  current_revision_id: 
-  created_at: 2019-09-27 11:30:02.000000000 Z
-  updated_at: 2019-09-27 11:30:02.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: "<h3>Your contributions</h3>\r\n<p>{{_user+*created|bar; title: created
-    cards}} {{_user+*edited|bar; title: edited cards}}</p>"
-cards_749:
-  id: 12653
-  name: Eagle+description
-  key: eagle+description
-  codename: 
-  left_id: 12619
-  right_id: 146
-  current_revision_id: 
-  created_at: 2019-09-27 11:30:02.000000000 Z
-  updated_at: 2019-09-27 11:30:02.000000000 Z
-  creator_id: 1
-  updater_id: 1
-  read_rule_class: "*all plus"
-  read_rule_id: 500
-  references_expired: 
-  trash: false
-  type_id: 3
-  db_content: "<p>[[Eagle+*members|Eagle users]] can add and edit content.</p>"
 cards_750:
   id: 12654
   name: "*account settings+*right"
@@ -15907,7 +15846,7 @@ cards_774:
     the City card \"Moscow\" would nest a field card\nnamed \"Moscow+Country\" with
     the content \"Russia\". and the card \"Berlin+Country\" could contain \"Germany.\n\nNests
     are easy to create and manage using the nest editor, which can be opened using
-    the curly bracket\nicon (\\\\{{}}). This tool will help you create and configure
+    the curly bracket\nicon (\\{{}}). This tool will help you create and configure
     nested fields, both through nest syntax \noptions (which only apply to the fields
     when presented within the structure) and through rules \n(which apply in any context)."
 cards_775:
