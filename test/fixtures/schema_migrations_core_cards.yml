@@ -287,6 +287,8 @@ schema_migrations_core_cards_143:
   version: '20190826132738'
 schema_migrations_core_cards_144:
   version: '20190829093961'
+schema_migrations_core_cards_145:
+  version: '20190829151731'
 schema_migrations_core_cards_146:
   version: '20190829205148'
 schema_migrations_core_cards_147:
@@ -301,3 +303,7 @@ schema_migrations_core_cards_151:
   version: '20190909104250'
 schema_migrations_core_cards_152:
   version: '20190918200115'
+schema_migrations_core_cards_153:
+  version: '20190927112151'
+schema_migrations_core_cards_154:
+  version: '20191008201046'
