@@ -6054,3 +6054,45 @@ card_references_865:
   referee_id: 1287
   ref_type: Q
   is_present: 
+card_references_866:
+  id: 43540
+  referer_id: 19680
+  referee_key: nest_list+description
+  referee_id: 
+  ref_type: I
+  is_present: 
+card_references_867:
+  id: 43541
+  referer_id: 19680
+  referee_key: description
+  referee_id: 146
+  ref_type: P
+  is_present: 
+card_references_868:
+  id: 43542
+  referer_id: 19680
+  referee_key: nest_list+*type+by_name
+  referee_id: 
+  ref_type: I
+  is_present: 
+card_references_869:
+  id: 43543
+  referer_id: 19680
+  referee_key: nest_list+*type
+  referee_id: 
+  ref_type: P
+  is_present: 
+card_references_870:
+  id: 43544
+  referer_id: 19680
+  referee_key: "*type"
+  referee_id: 266
+  ref_type: P
+  is_present: 
+card_references_871:
+  id: 43545
+  referer_id: 19680
+  referee_key: by_name
+  referee_id: 184
+  ref_type: P
+  is_present: 
