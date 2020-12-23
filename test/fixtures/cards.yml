@@ -5360,7 +5360,8 @@ cards_284:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: <p>Cards formed by "mating" <em>{{_left|name}} </em>with another card.
+  db_content: >
+    <p>Cards formed by "mating" <em>{{_left|name}} </em>with another card.
     eg: "{{_left|name}}<strong>+</strong>mate".</p>
 cards_285:
   id: 777
