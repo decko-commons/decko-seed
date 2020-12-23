@@ -943,9 +943,9 @@ cards_044:
   type_id: 3
   db_content: |-
     <div>[[/ | {{*logo|content_panel}}]]</div>
-    <div> </div>
+    <div> </div>
     <div>{{Menu|open}}</div>
-    <div> </div>
+    <div> </div>
     <div>
     <div>{{Shark Menu|open}}</div>
     </div>
@@ -1209,7 +1209,7 @@ cards_058:
   trash: false
   type_id: 3
   db_content: |-
-    <div>When someone signs up, they create a [[Sign up]] card...</div>
+    <div>When someone signs up, they create a [[Sign up]] card...</div>
     <blockquote>
     <div>{{Sign up|closed;title: Sign ups}}</div>
     </blockquote>
@@ -1222,7 +1222,7 @@ cards_058:
     <ul>
     <li>When [[Anyone]] can [[*create|create]] a [[Sign up]] card, links to sign up will appear.</li>
     <li>When [[Anyone]] can [[*create|create]] a [[User]] card, each [[Sign up]] can be auto-approved with a verification email.</li>
-    <li>If permission to [[*create|create]] a [[User]] is restricted, someone with that permission must approve each [[Sign up]] by hand.</li>
+    <li>If permission to [[*create|create]] a [[User]] is restricted, someone with that permission must approve each [[Sign up]] by hand.</li>
     </ul>
     </div>
     <h5>Related links</h5>
@@ -1739,7 +1739,7 @@ cards_086:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>[[Sign up]] cards represent not-yet-approved accounts. When approved,
+  db_content: "<p>[[Sign up]] cards represent not-yet-approved accounts. When approved,
     they become [[User]] cards. [[http://decko.org/account|more]]</p>"
 cards_087:
   id: 217
@@ -3953,7 +3953,7 @@ cards_207:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<h2>{{_self|name}} Cards</h2>\r\n<blockquote>\r\n<p>{{+*type+by
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<h2>{{_self|name}} Cards</h2>\r\n<blockquote>\r\n<p>{{+*type+by
     name|content}}</p>\r\n</blockquote>"
 cards_208:
   id: 455
@@ -5361,7 +5361,7 @@ cards_284:
   trash: false
   type_id: 3
   db_content: <p>Cards formed by "mating" <em>{{_left|name}} </em>with another card.
-    eg: "{{_left|name}}<strong>+</strong>mate".</p>
+    eg: "{{_left|name}}<strong>+</strong>mate".</p>
 cards_285:
   id: 777
   name: 
@@ -5470,7 +5470,7 @@ cards_290:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Cards that <em>{{_left|name}}</em> links to.</p>"
+  db_content: "<p>Cards that <em>{{_left|name}}</em> links to.</p>"
 cards_291:
   id: 783
   name: 
@@ -5524,7 +5524,7 @@ cards_293:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Cards created by <em>{{_left|name}}</em>.</p>"
+  db_content: "<p>Cards created by <em>{{_left|name}}</em>.</p>"
 cards_294:
   id: 786
   name: 
@@ -8164,7 +8164,7 @@ cards_426:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>A [[skin]] determines a page's look and feel.  [[http://decko.org/Skins|more]]</p>"
+  db_content: "<p>A [[skin]] determines a page's look and feel.  [[http://decko.org/Skins|more]]</p>"
 cards_427:
   id: 1248
   name: 
@@ -8236,7 +8236,7 @@ cards_430:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Design custom emails to be triggered by card actions.  [[http://decko.org/actions|more]]</p>"
+  db_content: "<p>Design custom emails to be triggered by card actions.  [[http://decko.org/actions|more]]</p>"
 cards_431:
   id: 1252
   name: 
@@ -10135,8 +10135,8 @@ cards_522:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_523:
   id: 1508
   name: 
@@ -10720,8 +10720,8 @@ cards_553:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_554:
   id: 1553
   name: Mirror List
@@ -10739,8 +10739,8 @@ cards_554:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_555:
   id: 1554
   name: "*cached count"
@@ -11119,8 +11119,8 @@ cards_575:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_576:
   id: 1581
   name: "*message"
@@ -11671,8 +11671,8 @@ cards_604:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_605:
   id: 1620
   name: "*consumer key"
@@ -13041,8 +13041,8 @@ cards_679:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_680:
   id: 3278
   name: Bootswatch skin
@@ -13060,8 +13060,8 @@ cards_680:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_681:
   id: 6626
   name: 'style: mods'
@@ -13133,8 +13133,8 @@ cards_684:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
-    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
+  db_content: "<p>{{+description|content}}</p>\r\n<p> </p>\r\n<p>[[/new/{{_self|linkname}}|add
+    {{_self|name}} card]]</p>\r\n<p> </p>\r\n<p><span>{{+*type+by name|content}}</span></p>"
 cards_685:
   id: 6733
   name: 'script: datepicker'
@@ -15167,12 +15167,12 @@ cards_744:
   trash: false
   type_id: 3
   db_content: |
-    <h3>Cardtypes </h3>
-    <p> [[/new/cardtype|Add new Type]]</p>
+    <h3>Cardtypes </h3>
+    <p> [[/new/cardtype|Add new Type]]</p>
     <p>{{Cardtype+*type+by name|bar; title: all cardtypes}}</p>
     <h3>Rules</h3>
-    <div>Cards are configured by creating <em>rules</em>.  </div>
-    <div> </div>
+    <div>Cards are configured by creating <em>rules</em>.  </div>
+    <div> </div>
     <h5>Webpage rules</h5>
     <div>
     <blockquote>{{*all|rules_table; filter:webpage}}</blockquote>
@@ -15180,7 +15180,7 @@ cards_744:
     <blockquote>{{*all|rules_table; filter:permission}}</blockquote>
     </div>
     <div><em>[[http://decko.org/rules | More about rules.]]</em></div>
-    <div> </div>
+    <div> </div>
     <div>
     <h3>Views</h3>
     <p>You can try out different views below</p>
@@ -15227,9 +15227,9 @@ cards_746:
     <p>{{*accounts|content}}</p>
     <h3>Help Texts</h3>
     <p>{{*help|bar}}{{*add help|bar}}</p>
-    <h3>Emails </h3>
+    <h3>Emails </h3>
     <p>Here are the current [[Email Templates|Email templates]] for your site.</p>
-    <p>{{Email Templates+*type+by update|content}} </p>
+    <p>{{Email Templates+*type+by update|content}} </p>
 cards_747:
   id: 12651
   name: 
@@ -15565,7 +15565,7 @@ cards_758:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
+  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
     'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica
     Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     font-size: 0.9375rem;\">{{_|configure_link}}</span></p>\r\n<p>{{+*type+by name|content}}</p>"
@@ -15784,7 +15784,7 @@ cards_770:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
+  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
     'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica
     Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     font-size: 0.9375rem;\">{{_|configure_link}}</span></p>\r\n<p>{{+*type+by name|content}}</p>"
@@ -15805,7 +15805,7 @@ cards_771:
   references_expired: 
   trash: false
   type_id: 5
-  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
+  db_content: "<p>{{+description|content}}</p>\r\n<p>{{_|add_link}}  <span style=\"font-family:
     'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica
     Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     font-size: 0.9375rem;\">{{_|configure_link}}</span></p>\r\n<p>{{+*type+by name|content}}</p>"
@@ -15901,9 +15901,9 @@ cards_775:
   type_id: 12757
   db_content: "[[*structure]] rules govern the type and content of cards in a given
     set. The content of\nevery card in the set is a copy of the structure rule's content.\n\nYou
-    can create powerful card structures using [[http://decko.org/contextual_names|contextual
+    can create powerful card structures using [[http://decko.org/contextual_names|contextual
     names]].\nSuppose a structure rule for City cards nests a card named \"+Country\".
-    This establishes a pattern in\nwhich every City has a Country field.  For example,
+    This establishes a pattern in\nwhich every City has a Country field.  For example,
     the City card \"Moscow\" would nest a field card\nnamed \"Moscow+Country\" with
     the content \"Russia\". and the card \"Berlin+Country\" could contain \"Germany.\n\nNests
     are easy to create and manage using the nest editor, which can be opened using
