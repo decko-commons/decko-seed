@@ -6272,153 +6272,97 @@ card_references_896:
   ref_type: L
   is_present: 
 card_references_897:
-  id: 204829
-  referer_id: 91657
-  referee_key: mod_script+*script+jquery
-  referee_id: 91656
-  ref_type: L
-  is_present: 
-card_references_898:
-  id: 204831
-  referer_id: 91660
-  referee_key: mod_script+*script+decko
-  referee_id: 91659
-  ref_type: L
-  is_present: 
-card_references_899:
   id: 204832
   referer_id: 91654
   referee_key: mod_script+*script+jquery
   referee_id: 91656
   ref_type: L
   is_present: 
-card_references_900:
+card_references_898:
   id: 204833
   referer_id: 91654
   referee_key: mod_script+*script+decko
   referee_id: 91659
   ref_type: L
   is_present: 
-card_references_901:
-  id: 204836
-  referer_id: 91665
-  referee_key: mod_ace_editor+*script+local
-  referee_id: 91664
-  ref_type: L
-  is_present: 
-card_references_902:
+card_references_899:
   id: 204837
   referer_id: 91662
   referee_key: mod_ace_editor+*script+local
   referee_id: 91664
   ref_type: L
   is_present: 
-card_references_903:
-  id: 204841
-  referer_id: 91678
-  referee_key: mod_bootstrap+*script+bootstrap
-  referee_id: 91677
-  ref_type: L
-  is_present: 
-card_references_904:
-  id: 204843
-  referer_id: 91680
-  referee_key: mod_bootstrap+*script+pointer
-  referee_id: 91679
-  ref_type: L
-  is_present: 
-card_references_905:
+card_references_900:
   id: 204844
   referer_id: 91675
   referee_key: mod_bootstrap+*script+bootstrap
   referee_id: 91677
   ref_type: L
   is_present: 
-card_references_906:
+card_references_901:
   id: 204845
   referer_id: 91675
   referee_key: mod_bootstrap+*script+pointer
   referee_id: 91679
   ref_type: L
   is_present: 
-card_references_907:
-  id: 204850
-  referer_id: 91687
-  referee_key: mod_date+*script+datepicker
-  referee_id: 91686
-  ref_type: L
-  is_present: 
-card_references_908:
+card_references_902:
   id: 204851
   referer_id: 91684
   referee_key: mod_date+*script+datepicker
   referee_id: 91686
   ref_type: L
   is_present: 
-card_references_909:
-  id: 204857
-  referer_id: 91709
-  referee_key: mod_prosemirror_editor+*script+local
-  referee_id: 91708
-  ref_type: L
-  is_present: 
-card_references_910:
+card_references_903:
   id: 204858
   referer_id: 91707
   referee_key: mod_prosemirror_editor+*script+local
   referee_id: 91708
   ref_type: L
   is_present: 
-card_references_911:
-  id: 204865
-  referer_id: 91719
-  referee_key: mod_tinymce_editor+*script+local
-  referee_id: 91718
-  ref_type: L
-  is_present: 
-card_references_912:
+card_references_904:
   id: 204866
   referer_id: 91717
   referee_key: mod_tinymce_editor+*script+local
   referee_id: 91718
   ref_type: L
   is_present: 
-card_references_913:
+card_references_905:
   id: 204867
   referer_id: 1063
   referee_key: mod_script+*script
   referee_id: 91654
   ref_type: L
   is_present: 
-card_references_914:
+card_references_906:
   id: 204868
   referer_id: 1063
   referee_key: mod_ace_editor+*script
   referee_id: 91662
   ref_type: L
   is_present: 
-card_references_915:
+card_references_907:
   id: 204869
   referer_id: 1063
   referee_key: mod_bootstrap+*script
   referee_id: 91675
   ref_type: L
   is_present: 
-card_references_916:
+card_references_908:
   id: 204870
   referer_id: 1063
   referee_key: mod_date+*script
   referee_id: 91684
   ref_type: L
   is_present: 
-card_references_917:
+card_references_909:
   id: 204871
   referer_id: 1063
   referee_key: mod_prosemirror_editor+*script
   referee_id: 91707
   ref_type: L
   is_present: 
-card_references_918:
+card_references_910:
   id: 204872
   referer_id: 1063
   referee_key: mod_tinymce_editor+*script
