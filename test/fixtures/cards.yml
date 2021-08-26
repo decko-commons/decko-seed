@@ -1486,8 +1486,8 @@ cards_072:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Searches return a list of cards using [[http://decko.org/wagn/WQL|WQL,
-    the Wagn Query Language]]. See the [[http://decko.org/wagn/WQL syntax|syntax documentation]].</p>"
+  db_content: "<p>Searches return a list of cards using [[http://decko.org/WQL|WQL,
+    the Wagn Query Language]]. See the [[http://decko.org/WQL syntax|syntax documentation]].</p>"
 cards_073:
   id: 184
   name: by name
@@ -1595,7 +1595,7 @@ cards_078:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>These cards allow unrestricted HTML. [[http://decko.org/wagn/HTML|more]]</p>"
+  db_content: "<p>These cards allow unrestricted HTML. [[http://decko.org/HTML|more]]</p>"
 cards_079:
   id: 205
   name: 
@@ -1667,7 +1667,7 @@ cards_082:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<p>Toggles simply indicate yes or no. [[http://decko.org/wagn/Toggle|more]].</p>"
+  db_content: "<p>Toggles simply indicate yes or no. [[http://decko.org/Toggle|more]].</p>"
 cards_083:
   id: 213
   name: 
@@ -2397,7 +2397,7 @@ cards_122:
   references_expired: 
   trash: false
   type_id: 3
-  db_content: "<div>Sets define a group of cards to which settings can apply. [[http://www.decko.org/wagn/Setting|Learn
+  db_content: "<div>Sets define a group of cards to which settings can apply. [[http://www.decko.org/Setting|Learn
     more about settings.]]</div>"
 cards_123:
   id: 298
@@ -2419,7 +2419,7 @@ cards_123:
   db_content: |-
     <div>Settings affect how cards look and behave. Settings are available under each card's Options tab.</div>
     <p>&nbsp;</p>
-    <div><em>[[http://www.decko.org/wagn/Setting|Learn more about settings.]]</em></div>
+    <div><em>[[http://www.decko.org/Setting|Learn more about settings.]]</em></div>
 cards_124:
   id: 300
   name: 
