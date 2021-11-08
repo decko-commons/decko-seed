@@ -15868,12 +15868,12 @@ cards_772:
   trash: false
   type_id: 12809
   db_content: |-
-    /new/Cardtype | Add type
-    *all+*style | Configure skin
-    Administrator| Basic configuration
-    /*main menu?view=edit | Change this menu
-    *dropdown divider
-    https://decko.org/Features | Learn more
+    [[/new/Cardtype | Add type]]
+    [[*all+*style | Configure skin]]
+    [[Administrator| Basic configuration]]
+    [[/*main menu?view=edit | Change this menu]]
+    [[*dropdown divider]]
+    [[https://decko.org/Features | Learn more]]
 cards_773:
   id: 19667
   name:
