@@ -6349,226 +6349,240 @@ card_references_907:
   ref_type: L
   is_present:
 card_references_908:
-  id: 205652
-  referer_id: 93185
-  referee_key: mod_list+*style+group_local
+  id: 205605
+  referer_id: 93246
+  referee_key: mod_list+*script+group_local
   referee_id:
   ref_type: L
   is_present:
 card_references_909:
-  id: 205653
-  referer_id: 93185
+  id: 205606
+  referer_id: 93246
   referee_key: group_local
   referee_id:
   ref_type: P
   is_present:
 card_references_910:
-  id: 205659
-  referer_id: 93189
-  referee_key: mod_search+*script+group_local
-  referee_id:
-  ref_type: L
-  is_present:
-card_references_911:
-  id: 205660
-  referer_id: 93189
-  referee_key: group_local
-  referee_id:
-  ref_type: P
-  is_present:
-card_references_912:
-  id: 205671
+  id: 205617
   referer_id: 1511
   referee_key: "*script"
   referee_id: 1043
   ref_type: L
   is_present:
-card_references_913:
-  id: 205672
+card_references_911:
+  id: 205618
   referer_id: 1511
   referee_key: "*style"
   referee_id: 953
   ref_type: L
   is_present:
-card_references_914:
-  id: 205673
+card_references_912:
+  id: 205619
   referer_id: 1511
   referee_key: "*default"
   referee_id: 318
   ref_type: L
   is_present:
-card_references_915:
-  id: 205674
+card_references_913:
+  id: 205620
   referer_id: 1511
   referee_key: "*content_option_view"
   referee_id: 252
   ref_type: L
   is_present:
-card_references_916:
-  id: 205675
+card_references_914:
+  id: 205621
   referer_id: 1511
   referee_key: "*create"
   referee_id: 478
   ref_type: L
   is_present:
-card_references_917:
-  id: 205676
+card_references_915:
+  id: 205622
   referer_id: 1511
   referee_key: "*structure"
   referee_id: 317
   ref_type: L
   is_present:
-card_references_918:
-  id: 205677
+card_references_916:
+  id: 205623
   referer_id: 1511
   referee_key: "*guide"
   referee_id: 12837
   ref_type: L
   is_present:
-card_references_919:
-  id: 205678
+card_references_917:
+  id: 205624
   referer_id: 1511
   referee_key: "*help"
   referee_id: 82
   ref_type: L
   is_present:
-card_references_920:
-  id: 205679
+card_references_918:
+  id: 205625
   referer_id: 1511
   referee_key: "*content_option"
   referee_id: 86
   ref_type: L
   is_present:
-card_references_921:
-  id: 205680
+card_references_919:
+  id: 205626
   referer_id: 1511
   referee_key: "*update"
   referee_id: 480
   ref_type: L
   is_present:
-card_references_922:
-  id: 205681
+card_references_920:
+  id: 205627
   referer_id: 1511
   referee_key: "*layout"
   referee_id: 255
   ref_type: L
   is_present:
-card_references_923:
-  id: 205682
+card_references_921:
+  id: 205628
   referer_id: 1511
   referee_key: "*delete"
   referee_id: 481
   ref_type: L
   is_present:
-card_references_924:
-  id: 205683
+card_references_922:
+  id: 205629
   referer_id: 1511
   referee_key: "*read"
   referee_id: 479
   ref_type: L
   is_present:
-card_references_925:
-  id: 205684
+card_references_923:
+  id: 205630
   referer_id: 1511
   referee_key: "*head"
   referee_id: 470
   ref_type: L
   is_present:
-card_references_926:
-  id: 205685
+card_references_924:
+  id: 205631
   referer_id: 1511
   referee_key: "*input_type"
   referee_id: 241
   ref_type: L
   is_present:
+card_references_925:
+  id: 205632
+  referer_id: 93248
+  referee_key: mod_list+*style+group_local
+  referee_id:
+  ref_type: L
+  is_present:
+card_references_926:
+  id: 205633
+  referer_id: 93248
+  referee_key: group_local
+  referee_id:
+  ref_type: P
+  is_present:
 card_references_927:
-  id: 205686
-  referer_id: 93191
-  referee_key: mod_tinymce_editor+*style+group_local
+  id: 205639
+  referer_id: 93252
+  referee_key: mod_search+*script+group_local
   referee_id:
   ref_type: L
   is_present:
 card_references_928:
-  id: 205687
-  referer_id: 93191
+  id: 205640
+  referer_id: 93252
   referee_key: group_local
   referee_id:
   ref_type: P
   is_present:
 card_references_929:
-  id: 216728
+  id: 205652
+  referer_id: 93254
+  referee_key: mod_tinymce_editor+*style+group_local
+  referee_id:
+  ref_type: L
+  is_present:
+card_references_930:
+  id: 205653
+  referer_id: 93254
+  referee_key: group_local
+  referee_id:
+  ref_type: P
+  is_present:
+card_references_931:
+  id: 205665
   referer_id: 1063
   referee_key: mod_script+*script
   referee_id: 91654
   ref_type: L
   is_present:
-card_references_930:
-  id: 216729
+card_references_932:
+  id: 205666
   referer_id: 1063
   referee_key: mod_ace_editor+*script
   referee_id: 91662
   ref_type: L
   is_present:
-card_references_931:
-  id: 216730
+card_references_933:
+  id: 205667
   referer_id: 1063
   referee_key: mod_bootstrap+*script
   referee_id: 91675
   ref_type: L
   is_present:
-card_references_932:
-  id: 216731
+card_references_934:
+  id: 205668
   referer_id: 1063
   referee_key: mod_date+*script
   referee_id: 91684
   ref_type: L
   is_present:
-card_references_933:
-  id: 216732
+card_references_935:
+  id: 205669
   referer_id: 1063
   referee_key: mod_tinymce_editor+*script
   referee_id: 91717
   ref_type: L
   is_present:
-card_references_934:
-  id: 216733
+card_references_936:
+  id: 205670
   referer_id: 6626
   referee_key: mod_list+*style
-  referee_id: 93185
+  referee_id: 93248
   ref_type: L
   is_present:
-card_references_935:
-  id: 216734
+card_references_937:
+  id: 205671
   referer_id: 6626
   referee_key: mod_style+*style
   referee_id: 92008
   ref_type: L
   is_present:
-card_references_936:
-  id: 216735
+card_references_938:
+  id: 205672
   referer_id: 6626
   referee_key: mod_bar_and_box+*style
   referee_id: 93161
   ref_type: L
   is_present:
-card_references_937:
-  id: 216736
+card_references_939:
+  id: 205673
   referer_id: 6626
   referee_key: mod_bootstrap+*style
   referee_id: 93163
   ref_type: L
   is_present:
-card_references_938:
-  id: 216737
+card_references_940:
+  id: 205674
   referer_id: 6626
   referee_key: mod_date+*style
   referee_id: 93165
   ref_type: L
   is_present:
-card_references_939:
-  id: 216738
+card_references_941:
+  id: 205675
   referer_id: 6626
   referee_key: mod_tinymce_editor+*style
-  referee_id: 93191
+  referee_id: 93254
   ref_type: L
   is_present:
