@@ -1,16 +1,16 @@
 ---
 card_changes_001:
-  id: 9434
+  id: 9750
   card_action_id: 5469
   field: 0
   value: Set
 card_changes_002:
-  id: 9435
+  id: 9751
   card_action_id: 5469
   field: 1
   value: '3'
 card_changes_003:
-  id: 9436
+  id: 9752
   card_action_id: 5469
   field: 2
   value: |-
@@ -21,77 +21,77 @@ card_changes_003:
     <p>{{+*type+by name}}</p>
     </blockquote>
 card_changes_004:
-  id: 9437
+  id: 9753
   card_action_id: 5469
   field: 3
   value: f
 card_changes_005:
-  id: 9438
+  id: 9754
   card_action_id: 5469
   field: 4
   value:
 card_changes_006:
-  id: 9439
+  id: 9755
   card_action_id: 5469
   field: 5
   value:
 card_changes_007:
-  id: 9440
-  card_action_id: 162465
+  id: 9756
+  card_action_id: 163413
   field: 1
   value: '5'
 card_changes_008:
-  id: 9441
-  card_action_id: 162466
+  id: 9757
+  card_action_id: 163414
   field: 0
   value: First
 card_changes_009:
-  id: 9442
-  card_action_id: 162466
+  id: 9758
+  card_action_id: 163414
   field: 1
   value: '3'
 card_changes_010:
-  id: 9443
-  card_action_id: 162466
+  id: 9759
+  card_action_id: 163414
   field: 2
   value: egg
 card_changes_011:
-  id: 9444
-  card_action_id: 162466
+  id: 9760
+  card_action_id: 163414
   field: 3
   value: f
 card_changes_012:
-  id: 9445
-  card_action_id: 162466
+  id: 9761
+  card_action_id: 163414
   field: 4
   value:
 card_changes_013:
-  id: 9446
-  card_action_id: 162466
+  id: 9762
+  card_action_id: 163414
   field: 5
   value:
 card_changes_014:
-  id: 9447
-  card_action_id: 162467
+  id: 9763
+  card_action_id: 163415
   field: 2
   value: chicken
 card_changes_015:
-  id: 9448
-  card_action_id: 162468
+  id: 9764
+  card_action_id: 163416
   field: 2
   value: chick
 card_changes_016:
-  id: 9449
+  id: 9765
   card_action_id: 21726
   field: 0
   value: "*ace"
 card_changes_017:
-  id: 9450
+  id: 9766
   card_action_id: 21726
   field: 1
   value: '6727'
 card_changes_018:
-  id: 9451
+  id: 9767
   card_action_id: 21726
   field: 2
   value: |
@@ -106,28 +106,28 @@ card_changes_018:
       }
     }
 card_changes_019:
-  id: 9452
+  id: 9768
   card_action_id: 21726
   field: 3
   value: f
 card_changes_020:
-  id: 9453
+  id: 9769
   card_action_id: 21726
   field: 4
   value:
 card_changes_021:
-  id: 9454
+  id: 9770
   card_action_id: 21726
   field: 5
   value:
 card_changes_022:
-  id: 9455
-  card_action_id: 162473
+  id: 9771
+  card_action_id: 163421
   field: 0
   value: "*Ace"
 card_changes_023:
-  id: 9456
-  card_action_id: 162473
+  id: 9772
+  card_action_id: 163421
   field: 2
   value: |
     {
@@ -141,17 +141,17 @@ card_changes_023:
       }
     }
 card_changes_024:
-  id: 9457
+  id: 9773
   card_action_id: 54349
   field: 0
   value: "*getting started"
 card_changes_025:
-  id: 9458
+  id: 9774
   card_action_id: 54349
   field: 1
   value: '50'
 card_changes_026:
-  id: 9459
+  id: 9775
   card_action_id: 54349
   field: 2
   value: |
@@ -187,23 +187,23 @@ card_changes_026:
       </p>
     </div>
 card_changes_027:
-  id: 9460
+  id: 9776
   card_action_id: 54349
   field: 3
   value: f
 card_changes_028:
-  id: 9461
+  id: 9777
   card_action_id: 54349
   field: 4
   value:
 card_changes_029:
-  id: 9462
+  id: 9778
   card_action_id: 54349
   field: 5
   value:
 card_changes_030:
-  id: 9463
-  card_action_id: 162479
+  id: 9779
+  card_action_id: 163427
   field: 2
   value: "<div class=\"container text-center\">\r\n  <!-- card 1 -->\r\n  <div class=\"d-flex
     justify-content-center align-items-center p-3 my-3 rounded box-shadow\">\r\n    {{+shark|core}}\r\n
@@ -218,17 +218,17 @@ card_changes_030:
     \ </div>\r\n  <p class=\"lead mt-5\">\r\n    <a href=\"Administrator\" class=\"\">and
     more...</a>\r\n  </p>\r\n</div>\r\n"
 card_changes_031:
-  id: 9464
+  id: 9780
   card_action_id: 19840
   field: 0
   value: "*header"
 card_changes_032:
-  id: 9465
+  id: 9781
   card_action_id: 19840
   field: 1
   value: '50'
 card_changes_033:
-  id: 9466
+  id: 9782
   card_action_id: 19840
   field: 2
   value: |
@@ -252,23 +252,23 @@ card_changes_033:
       </div>
     </nav>
 card_changes_034:
-  id: 9467
+  id: 9783
   card_action_id: 19840
   field: 3
   value: f
 card_changes_035:
-  id: 9468
+  id: 9784
   card_action_id: 19840
   field: 4
   value:
 card_changes_036:
-  id: 9469
+  id: 9785
   card_action_id: 19840
   field: 5
   value:
 card_changes_037:
-  id: 9470
-  card_action_id: 162480
+  id: 9786
+  card_action_id: 163428
   field: 2
   value: "<nav class=\"navbar navbar-expand-lg navbar-dark bg-dark mb-3\">\r\n  <div
     class=\"container-fluid\">\r\n  <a class=\"navbar-brand nav-logo p-0\" href=\"{{*home|home_path}}\">\r\n
@@ -281,226 +281,72 @@ card_changes_037:
     \   </ul>\r\n    {{*navbox|navbar}}\r\n    {{*account links|navbar_links}}\r\n
     \ </div>\r\n  </div>\r\n</nav>\r\n"
 card_changes_038:
-  id: 9471
-  card_action_id: 162515
+  id: 9787
+  card_action_id: 163463
   field: 0
   value:
 card_changes_039:
-  id: 9472
-  card_action_id: 162515
+  id: 9788
+  card_action_id: 163463
   field: 1
   value: '3'
 card_changes_040:
-  id: 9473
-  card_action_id: 162515
+  id: 9789
+  card_action_id: 163463
   field: 2
   value: ''
 card_changes_041:
-  id: 9474
-  card_action_id: 162515
+  id: 9790
+  card_action_id: 163463
   field: 3
   value: f
 card_changes_042:
-  id: 9475
-  card_action_id: 162515
+  id: 9791
+  card_action_id: 163463
   field: 4
-  value: '103027'
+  value: '103916'
 card_changes_043:
-  id: 9476
-  card_action_id: 162515
+  id: 9792
+  card_action_id: 163463
   field: 5
-  value: '103028'
+  value: '103917'
 card_changes_044:
-  id: 9477
-  card_action_id: 162518
+  id: 9793
+  card_action_id: 163466
   field: 2
   value: zoom in
 card_changes_045:
-  id: 9478
+  id: 9794
   card_action_id: 7936
   field: 0
   value:
 card_changes_046:
-  id: 9479
+  id: 9795
   card_action_id: 7936
   field: 1
   value: '47'
 card_changes_047:
-  id: 9480
+  id: 9796
   card_action_id: 7936
   field: 2
   value: Administrator
 card_changes_048:
-  id: 9481
+  id: 9797
   card_action_id: 7936
   field: 3
   value: f
 card_changes_049:
-  id: 9482
+  id: 9798
   card_action_id: 7936
   field: 4
   value: '1617'
 card_changes_050:
-  id: 9483
+  id: 9799
   card_action_id: 7936
   field: 5
   value: '479'
 card_changes_051:
-  id: 9484
-  card_action_id: 162533
+  id: 9800
+  card_action_id: 163524
   field: 1
   value: '12809'
-card_changes_052:
-  id: 9485
-  card_action_id: 162568
-  field: 0
-  value:
-card_changes_053:
-  id: 9486
-  card_action_id: 162568
-  field: 1
-  value: '47'
-card_changes_054:
-  id: 9487
-  card_action_id: 162568
-  field: 2
-  value: "*created"
-card_changes_055:
-  id: 9488
-  card_action_id: 162568
-  field: 3
-  value: f
-card_changes_056:
-  id: 9489
-  card_action_id: 162568
-  field: 4
-  value: '103075'
-card_changes_057:
-  id: 9490
-  card_action_id: 162568
-  field: 5
-  value: '1261'
-card_changes_058:
-  id: 9491
-  card_action_id: 162570
-  field: 2
-  value: |-
-    *created
-    *edited
-card_changes_059:
-  id: 9492
-  card_action_id: 162575
-  field: 0
-  value:
-card_changes_060:
-  id: 9493
-  card_action_id: 162575
-  field: 1
-  value: '47'
-card_changes_061:
-  id: 9494
-  card_action_id: 162575
-  field: 2
-  value: "*created"
-card_changes_062:
-  id: 9495
-  card_action_id: 162575
-  field: 3
-  value: f
-card_changes_063:
-  id: 9496
-  card_action_id: 162575
-  field: 4
-  value: '103081'
-card_changes_064:
-  id: 9497
-  card_action_id: 162575
-  field: 5
-  value: '1261'
-card_changes_065:
-  id: 9498
-  card_action_id: 162577
-  field: 2
-  value: |-
-    *created
-    *edited
-card_changes_066:
-  id: 9499
-  card_action_id: 162578
-  field: 0
-  value: Created card
-card_changes_067:
-  id: 9500
-  card_action_id: 162578
-  field: 1
-  value: '3'
-card_changes_068:
-  id: 9501
-  card_action_id: 162578
-  field: 2
-  value: new content
-card_changes_069:
-  id: 9502
-  card_action_id: 162578
-  field: 3
-  value: f
-card_changes_070:
-  id: 9503
-  card_action_id: 162578
-  field: 4
-  value:
-card_changes_071:
-  id: 9504
-  card_action_id: 162578
-  field: 5
-  value:
-card_changes_072:
-  id: 9505
-  card_action_id: 162579
-  field: 0
-  value: Updated card
-card_changes_073:
-  id: 9506
-  card_action_id: 162579
-  field: 1
-  value: '12809'
-card_changes_074:
-  id: 9507
-  card_action_id: 162579
-  field: 2
-  value: changed content
-card_changes_075:
-  id: 9508
-  card_action_id: 162581
-  field: 0
-  value: Deleted card
-card_changes_076:
-  id: 9509
-  card_action_id: 162581
-  field: 1
-  value: '3'
-card_changes_077:
-  id: 9510
-  card_action_id: 162581
-  field: 2
-  value: old content
-card_changes_078:
-  id: 9511
-  card_action_id: 162581
-  field: 3
-  value: f
-card_changes_079:
-  id: 9512
-  card_action_id: 162581
-  field: 4
-  value:
-card_changes_080:
-  id: 9513
-  card_action_id: 162581
-  field: 5
-  value:
-card_changes_081:
-  id: 9514
-  card_action_id: 162582
-  field: 3
-  value: t
